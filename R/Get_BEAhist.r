@@ -1,4 +1,3 @@
-# Authors: Andrea Julca, Alice Ramey, Leanna Moron
 library(parallel)
 library(rvest)
 library(httr)
@@ -97,7 +96,6 @@ reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
 	try(
 	if(foldLoc != paste0('C:/Users/',userID,'/Documents/reVis/xls/NIPANA')){
 			
-		
 		#Store a local copy - helpful for debugging. CAN SUPPRESS IF YOU'VE ALREADY DLed EVERYTHING!
 		download.file(thisUrl, fileLoc, mode = 'wb');
 
@@ -110,17 +108,11 @@ reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
 				)
 			);
 
-
-		#Match Alice's names
 		release <- toupper(vint);
 		vintage <- rCyc;
-		
-		#Create empty frame for each
-
 		tmpwb<-loadWorkbook(file=fileLoc);
 		sheet<-getSheets(tmpwb);
 		sht<-c(2:length(sheet));
-
 
 #Parallelizing this causes system failure
 #		cl2 <- makePSOCKcluster(2)
@@ -140,52 +132,7 @@ reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
 			)
 			return('')
 		})
-		
-#		stopCluster(cl2)	
-			
-#			tbl<-subset(tmpTbl,select=c(1,3, ncol(tmpTbl))); #column 1=table, 3=pubcode, and last column=value, if you need the last two quarters you'll need to change this
-#			tid<-substr(colnames(tbl)[1],1,13); #create a variable with table id
-#			per<-substr(tbl[2,1],1,3); #create a variable to id annual or qtr
-#			Period<-c("P"); #create a variable to hold the A or Q
-#			tbl<-cbind(tbl,Period); #join the Period var to tbl
-#			if (per=="Qua") tbl$Period<-substr(release,1,7); #set the Period var based on info form the title
-#			if (per=="Ann") tbl$Period<-substr(release,1,4); #set the Period var based on info form the title
-#			names(tbl)[2]<-"PublishCd";  #name the pub code column
-#			names(tbl)[3]<-"Value";  #name the value column
-#			tbl<- tbl[17:nrow(tbl),];  #drop all the blank rows at the top of each sheet
-#			tbl$TableId<-rep(tid,nrow(tbl));  #fill the table id variable
-#			tbl$ReleasePeriod<-rep(release,nrow(tbl)); #uses the values you specified earlier 
-#			tbl$Vintage<-rep(vintage,nrow(tbl)); #uses the values you specified earlier
-#			tbl<-tbl[-1]; #remove the original table id column
-#			
-#			tbldf<-as.data.frame(tbl);
-#			vintres<-rbind(vintres,tbldf); #appends each table to the last so you have one big data set. If you do multiple sheets in one instance of R they will all be in this one dataframe
-#		}
-#		
-#		csvUnd <- ifelse(nchar(gsub('und', '', tolower(fileLoc), fixed=T)) < nchar(fileLoc), 'U', '')
-#
-#		csvPath <- paste0(
-#			'C:/Users/',
-#			userID,
-#			'/Documents/reVis/xls/NIPA/csv/', 
-#			csvUnd, 
-#			substr(
-#				fileLoc, 
-#				nchar(fileLoc)-19, 
-#				nchar(fileLoc)-4, 
-#				release, 
-#				vintage, 
-#				'.csv'
-#			)
-#		)
-#
-#		#this drops any NA values
-#		vintres<-na.omit(vintres);
-#		write.csv(vintres, file=csvPath)
 	})
-
-
-
 })
 
 stopCluster(cl)
