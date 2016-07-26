@@ -1,0 +1,194 @@
+# Authors: Andrea Julca, Alice Ramey, Leanna Moron
+library(parallel)
+library(rvest)
+library(httr)
+library(data.table)
+library(xlsx)
+library(rattle)
+
+userID <- Sys.info()[[7]]
+myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
+
+dir.create(myPath)
+dir.create(paste0(myPath, 'xls/'))
+dir.create(paste0(myPath, 'xls/NIPA/'))
+dir.create(paste0(myPath, 'csv/'))
+
+
+archive <- 'http://www.bea.gov/histdata/histChildLevels.cfm?HMI=7'
+
+links <- read_html(archive) %>% html_nodes('a') 
+
+dataLinks <- paste0(
+	'http://www.bea.gov/histdata/', 
+	links[
+		grepl(
+			'fileStructDisplay.cfm?HMI=7&amp;DY=', 
+			links, 
+			fixed=T
+		)
+	] %>% 
+		html_attr('href')
+)
+
+cl <- makePSOCKcluster(3*detectCores())
+clusterEvalQ(cl, library(rvest))
+clusterEvalQ(cl, library(data.table))
+clusterExport(cl, 'dataLinks')
+
+dlLinks <- parLapply(cl, dataLinks, function(thisLink){
+	#test
+	#thisLink <- dataLinks[1]
+	thisPage <- read_html(thisLink) 
+	theseLinks <- data.table(paste0('http://www.bea.gov',  thisPage %>% html_nodes('td') %>% html_nodes('a') %>% html_attr('href')))
+	return(theseLinks)
+})
+
+stopCluster(cl)
+#Links take form:
+#http://www.bea.gov/histdata/Releases/GDP_and_PI/2016/Q1/Second_May-27-2016/UND/Section0ALL_xls.xls
+
+DTLs <- rbindlist(dlLinks)
+#For some reason, doesn't recognize V1
+#We may want to consider it, but don't actually need this
+#undLinks <-  DTLs[,1][grepl('und', DTLs[,1], fixed=T)]
+
+cl <- makePSOCKcluster(detectCores())
+clusterExport(cl, c('DTLs', 'userID'))
+clusterEvalQ(cl, library(data.table))
+clusterEvalQ(cl, library(xlsx))
+clusterEvalQ(cl, library(parallel))
+clusterEvalQ(cl, library(rattle))
+
+
+reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
+	#test
+	#thisUrl <- DTLs[, V1][1]
+	foldLoc <- paste0(
+		'C:/Users/',userID,'/Documents/reVis/xls/NIPA',
+			strsplit(
+				strsplit(
+					tolower(thisUrl), 
+					'gdp_and_pi', 
+					fixed=T)[[1]][2], 
+				'section'
+				)[[1]][1]
+			)
+	
+	fileLoc <- paste0(
+		'C:/Users/',userID,'/Documents/reVis/xls/NIPA',
+#			strsplit(
+#				'section',
+				strsplit(
+					tolower(thisUrl), 
+					'gdp_and_pi', 
+					fixed=T)[[1]][2] 
+#				)[1]
+			)
+
+		yrFold <- substr(foldLoc, 1, 46)
+		qtFold <- substr(foldLoc, 1, 49)
+		
+	vintres<-data.frame()
+		dir.create(yrFold)
+		dir.create(qtFold)
+		dir.create(foldLoc)
+
+	try(
+	if(foldLoc != paste0('C:/Users/',userID,'/Documents/reVis/xls/NIPANA')){
+			
+		
+		#Store a local copy - helpful for debugging. CAN SUPPRESS IF YOU'VE ALREADY DLed EVERYTHING!
+		download.file(thisUrl, fileLoc, mode = 'wb');
+
+		vint <- gsub('/', '', substr(qtFold, 41, 58), fixed=T);
+		rCyc <- ifelse(
+			nchar(gsub('advance', '', tolower(foldLoc), fixed=T)) < nchar(foldLoc),
+			'1', ifelse(
+				nchar(gsub('second', '', tolower(foldLoc), fixed=T)) < nchar(foldLoc),
+					'2', '3'
+				)
+			);
+
+
+		#Match Alice's names
+		release <- toupper(vint);
+		vintage <- rCyc;
+		
+		#Create empty frame for each
+
+		tmpwb<-loadWorkbook(file=fileLoc);
+		sheet<-getSheets(tmpwb);
+		sht<-c(2:length(sheet));
+
+
+#Parallelizing this causes system failure
+#		cl2 <- makePSOCKcluster(2)
+#		clusterExport(cl2, c('fileLoc', 'sht'))
+#		clusterEvalQ(cl2, library(xlsx))
+#		fillerList <- parLapply(cl2, sht, function(thisSht){
+		fillerList <- lapply(sht, function(thisSht){
+				#rename this so that it's not the same as tbl		
+			write.csv(
+				read.xlsx(fileLoc,thisSht), 
+				file = gsub(
+					'.xls', 
+					paste0('sht',thisSht,'.csv'), 
+					tolower(fileLoc), 
+					fixed=T
+				)
+			)
+			return('')
+		})
+		
+#		stopCluster(cl2)	
+			
+#			tbl<-subset(tmpTbl,select=c(1,3, ncol(tmpTbl))); #column 1=table, 3=pubcode, and last column=value, if you need the last two quarters you'll need to change this
+#			tid<-substr(colnames(tbl)[1],1,13); #create a variable with table id
+#			per<-substr(tbl[2,1],1,3); #create a variable to id annual or qtr
+#			Period<-c("P"); #create a variable to hold the A or Q
+#			tbl<-cbind(tbl,Period); #join the Period var to tbl
+#			if (per=="Qua") tbl$Period<-substr(release,1,7); #set the Period var based on info form the title
+#			if (per=="Ann") tbl$Period<-substr(release,1,4); #set the Period var based on info form the title
+#			names(tbl)[2]<-"PublishCd";  #name the pub code column
+#			names(tbl)[3]<-"Value";  #name the value column
+#			tbl<- tbl[17:nrow(tbl),];  #drop all the blank rows at the top of each sheet
+#			tbl$TableId<-rep(tid,nrow(tbl));  #fill the table id variable
+#			tbl$ReleasePeriod<-rep(release,nrow(tbl)); #uses the values you specified earlier 
+#			tbl$Vintage<-rep(vintage,nrow(tbl)); #uses the values you specified earlier
+#			tbl<-tbl[-1]; #remove the original table id column
+#			
+#			tbldf<-as.data.frame(tbl);
+#			vintres<-rbind(vintres,tbldf); #appends each table to the last so you have one big data set. If you do multiple sheets in one instance of R they will all be in this one dataframe
+#		}
+#		
+#		csvUnd <- ifelse(nchar(gsub('und', '', tolower(fileLoc), fixed=T)) < nchar(fileLoc), 'U', '')
+#
+#		csvPath <- paste0(
+#			'C:/Users/',
+#			userID,
+#			'/Documents/reVis/xls/NIPA/csv/', 
+#			csvUnd, 
+#			substr(
+#				fileLoc, 
+#				nchar(fileLoc)-19, 
+#				nchar(fileLoc)-4, 
+#				release, 
+#				vintage, 
+#				'.csv'
+#			)
+#		)
+#
+#		#this drops any NA values
+#		vintres<-na.omit(vintres);
+#		write.csv(vintres, file=csvPath)
+	})
+
+
+
+})
+
+stopCluster(cl)
+
+
+
