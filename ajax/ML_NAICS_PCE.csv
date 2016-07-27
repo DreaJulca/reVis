@@ -1,0 +1,687 @@
+ProdLine,NAICS,PCEcode,SeasSource,NAICS_Desc,PCEcode_Desc
+0741,452910,TAT,Census,Warehouse Clubs & Superstores,Tires
+0741,452990,TAT,Census,All Other General Merchandise Stores,Tires
+0741,454100,TAT,Census,Electronic Shopping & Mail-Order Houses,Tires
+0743,441110,TAT,BEA,New Car Dealers,Tires
+0743,441120,TAT,BEA,Used Car Dealers,Tires
+0743,454100,TAT,Census,Electronic Shopping & Mail-Order Houses,Tires
+0745,441310,TAT,BEA,Automotive Parts & Accessories Stores,Tires
+0745,441320,TAT,BEA,Tire Dealers,Tires
+0745,454100,TAT,Census,Electronic Shopping & Mail-Order Houses,Tires
+0749,441310,PAA,BEA,Automotive Parts & Accessories Stores,Accessories and parts
+0749,441320,PAA,BEA,Tire Dealers,Accessories and parts
+0749,452910,PAA,Census,Warehouse Clubs & Superstores,Accessories and parts
+0749,454100,PAA,Census,Electronic Shopping & Mail-Order Houses,Accessories and parts
+0755,441110,PAA,BEA,New Car Dealers,Accessories and parts
+0755,441310,PAA,BEA,Automotive Parts & Accessories Stores,Accessories and parts
+0755,441320,PAA,BEA,Tire Dealers,Accessories and parts
+0755,454100,PAA,Census,Electronic Shopping & Mail-Order Houses,Accessories and parts
+0756,441310,PAA,BEA,Automotive Parts & Accessories Stores,Accessories and parts
+0756,441320,PAA,BEA,Tire Dealers,Accessories and parts
+0756,454100,PAA,Census,Electronic Shopping & Mail-Order Houses,Accessories and parts
+0340,442100,FNR,BEA,Furniture Stores,Furniture
+0340,442299,FNR,BEA,All Other Home Furnishings Stores,Furniture
+0340,452110,FNR,Census,Department Stores (exc Discount) (2002),Furniture
+0340,452910,FNR,Census,Warehouse Clubs & Superstores,Furniture
+0340,452990,FNR,Census,All Other General Merchandise Stores,Furniture
+0340,453210,FNR,Census,Office Supplies & Stationery Stores,Furniture
+0340,454100,FNR,Census,Electronic Shopping & Mail-Order Houses,Furniture
+0877,448140,CLF,BEA,Family Clothing Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0877,451211,CLF,BEA,Book Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0877,452110,CLF,Census,Department Stores (exc Discount) (2002),"Clocks, lamps, lighting fixtures, and other household decorative items"
+0877,453220,CLF,Census,Gift& Novelty & Souvenir Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0877,454100,CLF,Census,Electronic Shopping & Mail-Order Houses,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0877,454390,CLF,BEA,Other Direct Selling Establishments,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,442299,CLF,BEA,All Other Home Furnishings Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,444110,CLF,Census,Home Centers,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,445110,CLF,BEA,Grocery (except Convenience) Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,446110,CLF,Census,Pharmacies & Drug Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,451120,CLF,BEA,Hobby & Toy & Game Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,452110,CLF,Census,Department Stores (exc Discount) (2002),"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,452910,CLF,Census,Warehouse Clubs & Superstores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,452990,CLF,Census,All Other General Merchandise Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0878,453220,CLF,Census,Gift& Novelty & Souvenir Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0879,442299,CLF,BEA,All Other Home Furnishings Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0879,444220,CLF,Census,Nursery & Garden Centers,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0879,451120,CLF,BEA,Hobby & Toy & Game Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0879,451130,CLF,BEA,Sewing & Needlework & Piece Goods Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0879,453100,CLF,Census,Florists,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0879,453220,CLF,Census,Gift& Novelty & Souvenir Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,442100,CLF,BEA,Furniture Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,442299,CLF,BEA,All Other Home Furnishings Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,444110,CLF,Census,Home Centers,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,445110,CLF,BEA,Grocery (except Convenience) Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,448140,CLF,BEA,Family Clothing Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,451120,CLF,BEA,Hobby & Toy & Game Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,452110,CLF,Census,Department Stores (exc Discount) (2002),"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,452910,CLF,Census,Warehouse Clubs & Superstores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,452990,CLF,Census,All Other General Merchandise Stores,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,454100,CLF,Census,Electronic Shopping & Mail-Order Houses,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0383,454390,CLF,BEA,Other Direct Selling Establishments,"Clocks, lamps, lighting fixtures, and other household decorative items"
+0360,442100,FLR,BEA,Furniture Stores,Carpets and other floor coverings
+0360,442210,FLR,BEA,Floor Covering Stores,Carpets and other floor coverings
+0360,442299,FLR,BEA,All Other Home Furnishings Stores,Carpets and other floor coverings
+0360,444110,FLR,Census,Home Centers,Carpets and other floor coverings
+0360,444190,FLR,Census,Other Building Material Dealers,Carpets and other floor coverings
+0360,452910,FLR,Census,Warehouse Clubs & Superstores,Carpets and other floor coverings
+0360,454390,FLR,BEA,Other Direct Selling Establishments,Carpets and other floor coverings
+0281,442291,WCT,BEA,Window Treatment Stores,Window coverings
+0281,442299,WCT,BEA,All Other Home Furnishings Stores,Window coverings
+0281,444110,WCT,Census,Home Centers,Window coverings
+0281,448140,WCT,BEA,Family Clothing Stores,Window coverings
+0281,452110,WCT,Census,Department Stores (exc Discount) (2002),Window coverings
+0281,452910,WCT,Census,Warehouse Clubs & Superstores,Window coverings
+0281,452990,WCT,Census,All Other General Merchandise Stores,Window coverings
+0281,454100,WCT,Census,Electronic Shopping & Mail-Order Houses,Window coverings
+0281,454390,WCT,BEA,Other Direct Selling Establishments,Window coverings
+0282,442210,WCT,BEA,Floor Covering Stores,Window coverings
+0282,442291,WCT,BEA,Window Treatment Stores,Window coverings
+0282,442299,WCT,BEA,All Other Home Furnishings Stores,Window coverings
+0282,444110,WCT,Census,Home Centers,Window coverings
+0282,448140,WCT,BEA,Family Clothing Stores,Window coverings
+0282,452110,WCT,Census,Department Stores (exc Discount) (2002),Window coverings
+0282,452910,WCT,Census,Warehouse Clubs & Superstores,Window coverings
+0282,454100,WCT,Census,Electronic Shopping & Mail-Order Houses,Window coverings
+0282,454390,WCT,BEA,Other Direct Selling Establishments,Window coverings
+0300,442100,MHA,BEA,Furniture Stores,Major household appliances
+0300,443111,MHA,BEA,Household Appliance Stores,Major household appliances
+0300,443112,MHA,BEA,Radio & Television & Other Electronics Stores,Major household appliances
+0300,444110,MHA,Census,Home Centers,Major household appliances
+0300,452110,MHA,Census,Department Stores (exc Discount) (2002),Major household appliances
+0300,452910,MHA,Census,Warehouse Clubs & Superstores,Major household appliances
+0300,454100,MHA,Census,Electronic Shopping & Mail-Order Houses,Major household appliances
+0310,442299,SEA,BEA,All Other Home Furnishings Stores,Small electric household appliances
+0310,443112,SEA,BEA,Radio & Television & Other Electronics Stores,Small electric household appliances
+0310,444110,SEA,Census,Home Centers,Small electric household appliances
+0310,446110,SEA,Census,Pharmacies & Drug Stores,Small electric household appliances
+0310,446120,SEA,Census,Cosmetics& Beauty Supplies & Perfume Stores,Small electric household appliances
+0310,452110,SEA,Census,Department Stores (exc Discount) (2002),Small electric household appliances
+0310,452910,SEA,Census,Warehouse Clubs & Superstores,Small electric household appliances
+0310,452990,SEA,Census,All Other General Merchandise Stores,Small electric household appliances
+0310,454100,SEA,Census,Electronic Shopping & Mail-Order Houses,Small electric household appliances
+0382,442299,CHN,BEA,All Other Home Furnishings Stores,Dishes and flatware
+0382,444110,CHN,Census,Home Centers,Dishes and flatware
+0382,445110,CHN,BEA,Grocery (except Convenience) Stores,Dishes and flatware
+0382,448140,CHN,BEA,Family Clothing Stores,Dishes and flatware
+0382,451120,CHN,BEA,Hobby & Toy & Game Stores,Dishes and flatware
+0382,452110,CHN,Census,Department Stores (exc Discount) (2002),Dishes and flatware
+0382,452910,CHN,Census,Warehouse Clubs & Superstores,Dishes and flatware
+0382,452990,CHN,Census,All Other General Merchandise Stores,Dishes and flatware
+0382,454100,CHN,Census,Electronic Shopping & Mail-Order Houses,Dishes and flatware
+0382,454390,CHN,BEA,Other Direct Selling Establishments,Dishes and flatware
+0388,444110,CHN,Census,Home Centers,Dishes and flatware
+0388,445110,CHN,BEA,Grocery (except Convenience) Stores,Dishes and flatware
+0388,448140,CHN,BEA,Family Clothing Stores,Dishes and flatware
+0388,448310,CHN,Census,Jewelry Stores,Dishes and flatware
+0388,451120,CHN,BEA,Hobby & Toy & Game Stores,Dishes and flatware
+0388,454100,CHN,Census,Electronic Shopping & Mail-Order Houses,Dishes and flatware
+0388,454390,CHN,BEA,Other Direct Selling Establishments,Dishes and flatware
+0381,442299,NEC,BEA,All Other Home Furnishings Stores,Nonelectric cookware and tableware
+0381,444110,NEC,Census,Home Centers,Nonelectric cookware and tableware
+0381,445110,NEC,BEA,Grocery (except Convenience) Stores,Nonelectric cookware and tableware
+0381,448140,NEC,BEA,Family Clothing Stores,Nonelectric cookware and tableware
+0381,451120,NEC,BEA,Hobby & Toy & Game Stores,Nonelectric cookware and tableware
+0381,452110,NEC,Census,Department Stores (exc Discount) (2002),Nonelectric cookware and tableware
+0381,452910,NEC,Census,Warehouse Clubs & Superstores,Nonelectric cookware and tableware
+0381,452990,NEC,Census,All Other General Merchandise Stores,Nonelectric cookware and tableware
+0381,454100,NEC,Census,Electronic Shopping & Mail-Order Houses,Nonelectric cookware and tableware
+0381,454390,NEC,BEA,Other Direct Selling Establishments,Nonelectric cookware and tableware
+0384,442299,NEC,BEA,All Other Home Furnishings Stores,Nonelectric cookware and tableware
+0384,444110,NEC,Census,Home Centers,Nonelectric cookware and tableware
+0384,445110,NEC,BEA,Grocery (except Convenience) Stores,Nonelectric cookware and tableware
+0384,448140,NEC,BEA,Family Clothing Stores,Nonelectric cookware and tableware
+0384,451120,NEC,BEA,Hobby & Toy & Game Stores,Nonelectric cookware and tableware
+0384,452110,NEC,Census,Department Stores (exc Discount) (2002),Nonelectric cookware and tableware
+0384,452910,NEC,Census,Warehouse Clubs & Superstores,Nonelectric cookware and tableware
+0384,452990,NEC,Census,All Other General Merchandise Stores,Nonelectric cookware and tableware
+0384,454100,NEC,Census,Electronic Shopping & Mail-Order Houses,Nonelectric cookware and tableware
+0384,454390,NEC,BEA,Other Direct Selling Establishments,Nonelectric cookware and tableware
+0385,442100,NEC,BEA,Furniture Stores,Nonelectric cookware and tableware
+0385,444110,NEC,Census,Home Centers,Nonelectric cookware and tableware
+0385,445110,NEC,BEA,Grocery (except Convenience) Stores,Nonelectric cookware and tableware
+0385,448140,NEC,BEA,Family Clothing Stores,Nonelectric cookware and tableware
+0385,451120,NEC,BEA,Hobby & Toy & Game Stores,Nonelectric cookware and tableware
+0385,454100,NEC,Census,Electronic Shopping & Mail-Order Houses,Nonelectric cookware and tableware
+0385,454390,NEC,BEA,Other Direct Selling Establishments,Nonelectric cookware and tableware
+0387,444110,NEC,Census,Home Centers,Nonelectric cookware and tableware
+0387,445110,NEC,BEA,Grocery (except Convenience) Stores,Nonelectric cookware and tableware
+0387,448140,NEC,BEA,Family Clothing Stores,Nonelectric cookware and tableware
+0387,451120,NEC,BEA,Hobby & Toy & Game Stores,Nonelectric cookware and tableware
+0387,451211,NEC,BEA,Book Stores,Nonelectric cookware and tableware
+0387,453100,NEC,Census,Florists,Nonelectric cookware and tableware
+0387,453210,NEC,Census,Office Supplies & Stationery Stores,Nonelectric cookware and tableware
+0387,453220,NEC,Census,Gift& Novelty & Souvenir Stores,Nonelectric cookware and tableware
+0387,454100,NEC,Census,Electronic Shopping & Mail-Order Houses,Nonelectric cookware and tableware
+0387,454390,NEC,BEA,Other Direct Selling Establishments,Nonelectric cookware and tableware
+0601,444110,HDW,Census,Home Centers,"Tools, hardware, and supplies"
+0601,444130,HDW,Census,Hardware Stores,"Tools, hardware, and supplies"
+0601,444190,HDW,Census,Other Building Material Dealers,"Tools, hardware, and supplies"
+0601,452110,HDW,Census,Department Stores (exc Discount) (2002),"Tools, hardware, and supplies"
+0601,452910,HDW,Census,Warehouse Clubs & Superstores,"Tools, hardware, and supplies"
+0601,454100,HDW,Census,Electronic Shopping & Mail-Order Houses,"Tools, hardware, and supplies"
+0602,444110,HDW,Census,Home Centers,"Tools, hardware, and supplies"
+0602,444130,HDW,Census,Hardware Stores,"Tools, hardware, and supplies"
+0602,444190,HDW,Census,Other Building Material Dealers,"Tools, hardware, and supplies"
+0602,452110,HDW,Census,Department Stores (exc Discount) (2002),"Tools, hardware, and supplies"
+0602,452910,HDW,Census,Warehouse Clubs & Superstores,"Tools, hardware, and supplies"
+0602,454100,HDW,Census,Electronic Shopping & Mail-Order Houses,"Tools, hardware, and supplies"
+0631,444110,LWN,Census,Home Centers,Outdoor equipment and supplies
+0631,444130,LWN,Census,Hardware Stores,Outdoor equipment and supplies
+0631,444220,LWN,Census,Nursery & Garden Centers,Outdoor equipment and supplies
+0631,445110,LWN,BEA,Grocery (except Convenience) Stores,Outdoor equipment and supplies
+0631,452110,LWN,Census,Department Stores (exc Discount) (2002),Outdoor equipment and supplies
+0631,452910,LWN,Census,Warehouse Clubs & Superstores,Outdoor equipment and supplies
+0631,452990,LWN,Census,All Other General Merchandise Stores,Outdoor equipment and supplies
+0631,454100,LWN,Census,Electronic Shopping & Mail-Order Houses,Outdoor equipment and supplies
+0321,442100,TVS,BEA,Furniture Stores,Televisions
+0321,443111,TVS,BEA,Household Appliance Stores,Televisions
+0321,443112,TVS,BEA,Radio & Television & Other Electronics Stores,Televisions
+0321,452110,TVS,Census,Department Stores (exc Discount) (2002),Televisions
+0321,452910,TVS,Census,Warehouse Clubs & Superstores,Televisions
+0321,454100,TVS,Census,Electronic Shopping & Mail-Order Houses,Televisions
+0322,443111,OVA,BEA,Household Appliance Stores,Other video equipment
+0322,443112,OVA,BEA,Radio & Television & Other Electronics Stores,Other video equipment
+0322,443120,OVA,Census,Computer & Software Stores,Other video equipment
+0324,452110,OVA,Census,Department Stores (exc Discount) (2002),Other video equipment
+0324,452910,OVA,Census,Warehouse Clubs & Superstores,Other video equipment
+0324,452990,OVA,Census,All Other General Merchandise Stores,Other video equipment
+0324,454100,OVA,Census,Electronic Shopping & Mail-Order Houses,Other video equipment
+0331,441310,AUD,BEA,Automotive Parts & Accessories Stores,Audio equipment
+0331,443112,AUD,BEA,Radio & Television & Other Electronics Stores,Audio equipment
+0331,443120,AUD,Census,Computer & Software Stores,Audio equipment
+0331,451140,AUD,BEA,Musical Instrument & Supplies Stores,Audio equipment
+0331,451211,AUD,BEA,Book Stores,Audio equipment
+0331,452110,AUD,Census,Department Stores (exc Discount) (2002),Audio equipment
+0331,452910,AUD,Census,Warehouse Clubs & Superstores,Audio equipment
+0331,454100,AUD,Census,Electronic Shopping & Mail-Order Houses,Audio equipment
+0335,443112,RTD,BEA,Radio & Television & Other Electronics Stores,Prerecorded and blank audio discs/tapes/digital files/downloads
+0335,451211,RTD,BEA,Book Stores,Prerecorded and blank audio discs/tapes/digital files/downloads
+0335,451220,RTD,BEA,Prerecorded Tape & CD & Record Stores,Prerecorded and blank audio discs/tapes/digital files/downloads
+0335,452110,RTD,Census,Department Stores (exc Discount) (2002),Prerecorded and blank audio discs/tapes/digital files/downloads
+0335,452910,RTD,Census,Warehouse Clubs & Superstores,Prerecorded and blank audio discs/tapes/digital files/downloads
+0335,454100,RTD,Census,Electronic Shopping & Mail-Order Houses,Prerecorded and blank audio discs/tapes/digital files/downloads
+0338,451211,RTD,BEA,Book Stores,Prerecorded and blank audio discs/tapes/digital files/downloads
+0338,454100,RTD,Census,Electronic Shopping & Mail-Order Houses,Prerecorded and blank audio discs/tapes/digital files/downloads
+0323,443112,OVE,BEA,Radio & Television & Other Electronics Stores,"Video cassettes and discs, blank and prerecorded"
+0323,451220,OVE,BEA,Prerecorded Tape & CD & Record Stores,"Video cassettes and discs, blank and prerecorded"
+0325,454100,OVE,Census,Electronic Shopping & Mail-Order Houses,"Video cassettes and discs, blank and prerecorded"
+0440,443112,CAM,BEA,Radio & Television & Other Electronics Stores,Photographic equipment
+0440,443130,CAM,BEA,Camera & Photographic Supplies Stores,Photographic equipment
+0440,446110,CAM,Census,Pharmacies & Drug Stores,Photographic equipment
+0440,452110,CAM,Census,Department Stores (exc Discount) (2002),Photographic equipment
+0440,452910,CAM,Census,Warehouse Clubs & Superstores,Photographic equipment
+0440,454100,CAM,Census,Electronic Shopping & Mail-Order Houses,Photographic equipment
+0375,443112,CPP,BEA,Radio & Television & Other Electronics Stores,Personal computers and peripheral equipment
+0375,443120,CPP,Census,Computer & Software Stores,Personal computers and peripheral equipment
+0375,452910,CPP,Census,Warehouse Clubs & Superstores,Personal computers and peripheral equipment
+0375,453210,CPP,Census,Office Supplies & Stationery Stores,Personal computers and peripheral equipment
+0375,454100,CPP,Census,Electronic Shopping & Mail-Order Houses,Personal computers and peripheral equipment
+0376,443112,CPS,BEA,Radio & Television & Other Electronics Stores,Computer software and accessories
+0376,443120,CPS,Census,Computer & Software Stores,Computer software and accessories
+0376,452110,CPS,Census,Department Stores (exc Discount) (2002),Computer software and accessories
+0376,452910,CPS,Census,Warehouse Clubs & Superstores,Computer software and accessories
+0376,453210,CPS,Census,Office Supplies & Stationery Stores,Computer software and accessories
+0376,454100,CPS,Census,Electronic Shopping & Mail-Order Houses,Computer software and accessories
+0854,443112,OIP,BEA,Radio & Television & Other Electronics Stores,"Calculators, typewriters, and other information processing equipment"
+0854,443120,OIP,Census,Computer & Software Stores,"Calculators, typewriters, and other information processing equipment"
+0854,452110,OIP,Census,Department Stores (exc Discount) (2002),"Calculators, typewriters, and other information processing equipment"
+0854,452910,OIP,Census,Warehouse Clubs & Superstores,"Calculators, typewriters, and other information processing equipment"
+0854,453210,OIP,Census,Office Supplies & Stationery Stores,"Calculators, typewriters, and other information processing equipment"
+0854,454100,OIP,Census,Electronic Shopping & Mail-Order Houses,"Calculators, typewriters, and other information processing equipment"
+0854,454390,OIP,BEA,Other Direct Selling Establishments,"Calculators, typewriters, and other information processing equipment"
+0500,441221,SPG,BEA,Motorcycle Dealers,"Sporting equipment, supplies, guns, and ammunition"
+0500,441222,SPG,BEA,Boat Dealers,"Sporting equipment, supplies, guns, and ammunition"
+0500,451110,SPG,BEA,Sporting Goods Stores,"Sporting equipment, supplies, guns, and ammunition"
+0500,452110,SPG,Census,Department Stores (exc Discount) (2002),"Sporting equipment, supplies, guns, and ammunition"
+0500,452910,SPG,Census,Warehouse Clubs & Superstores,"Sporting equipment, supplies, guns, and ammunition"
+0500,454100,SPG,Census,Electronic Shopping & Mail-Order Houses,"Sporting equipment, supplies, guns, and ammunition"
+0712,441221,NMC,BEA,Motorcycle Dealers,New motorcycles
+0713,441221,UMC,BEA,Motorcycle Dealers,Used motorcycles
+0512,451110,BCY,BEA,Sporting Goods Stores,Bicycles and accessories
+0512,451120,BCY,BEA,Hobby & Toy & Game Stores,Bicycles and accessories
+0512,452110,BCY,Census,Department Stores (exc Discount) (2002),Bicycles and accessories
+0512,452910,BCY,Census,Warehouse Clubs & Superstores,Bicycles and accessories
+0513,451110,BOA,BEA,Sporting Goods Stores,Pleasure boats
+0514,441221,BOA,BEA,Motorcycle Dealers,Pleasure boats
+0514,441222,BOA,BEA,Boat Dealers,Pleasure boats
+0519,452110,BOA,Census,Department Stores (exc Discount) (2002),Pleasure boats
+0519,452910,BOA,Census,Warehouse Clubs & Superstores,Pleasure boats
+0519,454100,BOA,Census,Electronic Shopping & Mail-Order Houses,Pleasure boats
+0515,441222,BOA,BEA,Boat Dealers,Pleasure boats
+0857,441229,AIR,BEA,All Other Motor Vehicle Dealers,Pleasure aircraft
+0714,441210,AIR,BEA,Recreational Vehicle Dealers,Pleasure aircraft
+0714,441221,AIR,BEA,Motorcycle Dealers,Pleasure aircraft
+0714,441222,AIR,BEA,Boat Dealers,Pleasure aircraft
+0714,441229,AIR,BEA,All Other Motor Vehicle Dealers,Pleasure aircraft
+0858,441229,AIR,BEA,All Other Motor Vehicle Dealers,Pleasure aircraft
+0580,441110,REV,BEA,New Car Dealers,Other recreational vehicles
+0580,441210,REV,BEA,Recreational Vehicle Dealers,Other recreational vehicles
+0527,441221,REV,BEA,Motorcycle Dealers,Other recreational vehicles
+0527,441222,REV,BEA,Boat Dealers,Other recreational vehicles
+0527,441229,REV,BEA,All Other Motor Vehicle Dealers,Other recreational vehicles
+0421,451211,RBK,BEA,Book Stores,Recreational books
+0421,452110,RBK,Census,Department Stores (exc Discount) (2002),Recreational books
+0421,452910,RBK,Census,Warehouse Clubs & Superstores,Recreational books
+0421,453300,RBK,BEA,Used Merchandise Stores,Recreational books
+0421,454100,RBK,Census,Electronic Shopping & Mail-Order Houses,Recreational books
+0422,451211,RBK,BEA,Book Stores,Recreational books
+0422,452110,RBK,Census,Department Stores (exc Discount) (2002),Recreational books
+0422,452910,RBK,Census,Warehouse Clubs & Superstores,Recreational books
+0422,453300,RBK,BEA,Used Merchandise Stores,Recreational books
+0422,454100,RBK,Census,Electronic Shopping & Mail-Order Houses,Recreational books
+0423,451211,RBK,BEA,Book Stores,Recreational books
+0423,452110,RBK,Census,Department Stores (exc Discount) (2002),Recreational books
+0423,452910,RBK,Census,Warehouse Clubs & Superstores,Recreational books
+0423,453300,RBK,BEA,Used Merchandise Stores,Recreational books
+0423,454100,RBK,Census,Electronic Shopping & Mail-Order Houses,Recreational books
+0332,451140,MSC,BEA,Musical Instrument & Supplies Stores,Musical instruments
+0332,451211,MSC,BEA,Book Stores,Musical instruments
+0334,451140,MSC,BEA,Musical Instrument & Supplies Stores,Musical instruments
+0334,451211,MSC,BEA,Book Stores,Musical instruments
+0337,443112,MSC,BEA,Radio & Television & Other Electronics Stores,Musical instruments
+0337,451211,MSC,BEA,Book Stores,Musical instruments
+0337,452110,MSC,Census,Department Stores (exc Discount) (2002),Musical instruments
+0337,454100,MSC,Census,Electronic Shopping & Mail-Order Houses,Musical instruments
+0400,448120,JLY,Census,Womens' Clothing Stores,Jewelry
+0400,448140,JLY,BEA,Family Clothing Stores,Jewelry
+0400,448150,JLY,BEA,Clothing Accessories Stores,Jewelry
+0400,448310,JLY,Census,Jewelry Stores,Jewelry
+0400,452110,JLY,Census,Department Stores (exc Discount) (2002),Jewelry
+0400,452910,JLY,Census,Warehouse Clubs & Superstores,Jewelry
+0400,454100,JLY,Census,Electronic Shopping & Mail-Order Houses,Jewelry
+0400,454390,JLY,BEA,Other Direct Selling Establishments,Jewelry
+0406,448310,WTC,Census,Jewelry Stores,Watches
+0406,454100,WTC,Census,Electronic Shopping & Mail-Order Houses,Watches
+0406,454390,WTC,BEA,Other Direct Selling Establishments,Watches
+0164,445110,TME,BEA,Grocery (except Convenience) Stores,Therapeutic medical equipment
+0164,446110,TME,Census,Pharmacies & Drug Stores,Therapeutic medical equipment
+0164,446199,TME,Census,All Other Health & Personal Care Stores,Therapeutic medical equipment
+0164,452110,TME,Census,Department Stores (exc Discount) (2002),Therapeutic medical equipment
+0164,452990,TME,Census,All Other General Merchandise Stores,Therapeutic medical equipment
+0164,454100,TME,Census,Electronic Shopping & Mail-Order Houses,Therapeutic medical equipment
+0164,454390,TME,BEA,Other Direct Selling Establishments,Therapeutic medical equipment
+0490,446130,EYE,BEA,Optical Goods Stores,Corrective eyeglasses and contact lenses
+0490,448140,EYE,BEA,Family Clothing Stores,Corrective eyeglasses and contact lenses
+0490,452110,EYE,Census,Department Stores (exc Discount) (2002),Corrective eyeglasses and contact lenses
+0490,452910,EYE,Census,Warehouse Clubs & Superstores,Corrective eyeglasses and contact lenses
+0490,454100,EYE,Census,Electronic Shopping & Mail-Order Houses,Corrective eyeglasses and contact lenses
+9939,446130,EYE,BEA,Optical Goods Stores,Corrective eyeglasses and contact lenses
+0425,451211,EBK,BEA,Book Stores,Educational books
+0425,452110,EBK,Census,Department Stores (exc Discount) (2002),Educational books
+0425,452910,EBK,Census,Warehouse Clubs & Superstores,Educational books
+0425,453300,EBK,BEA,Used Merchandise Stores,Educational books
+0425,454100,EBK,Census,Electronic Shopping & Mail-Order Houses,Educational books
+0859,448140,LUG,BEA,Family Clothing Stores,Luggage and similar personal items
+0859,448150,LUG,BEA,Clothing Accessories Stores,Luggage and similar personal items
+0859,448320,LUG,Census,Luggage & Leather Goods Stores,Luggage and similar personal items
+0859,452110,LUG,Census,Department Stores (exc Discount) (2002),Luggage and similar personal items
+0859,452910,LUG,Census,Warehouse Clubs & Superstores,Luggage and similar personal items
+0859,454100,LUG,Census,Electronic Shopping & Mail-Order Houses,Luggage and similar personal items
+0865,443112,TCE,BEA,Radio & Television & Other Electronics Stores,Telephone and facsimile equipment
+0865,443120,TCE,Census,Computer & Software Stores,Telephone and facsimile equipment
+0865,452110,TCE,Census,Department Stores (exc Discount) (2002),Telephone and facsimile equipment
+0865,452910,TCE,Census,Warehouse Clubs & Superstores,Telephone and facsimile equipment
+0865,452990,TCE,Census,All Other General Merchandise Stores,Telephone and facsimile equipment
+0111,445110,GRA,BEA,Grocery (except Convenience) Stores,Cereals
+0111,452110,GRA,Census,Department Stores (exc Discount) (2002),Cereals
+0111,452910,GRA,Census,Warehouse Clubs & Superstores,Cereals
+0105,445110,BAK,BEA,Grocery (except Convenience) Stores,Bakery products
+0105,452110,BAK,Census,Department Stores (exc Discount) (2002),Bakery products
+0105,452910,BAK,Census,Warehouse Clubs & Superstores,Bakery products
+0106,445110,BAK,BEA,Grocery (except Convenience) Stores,Bakery products
+0106,445291,BAK,BEA,Baked Goods Stores,Bakery products
+0106,452110,BAK,Census,Department Stores (exc Discount) (2002),Bakery products
+0106,452910,BAK,Census,Warehouse Clubs & Superstores,Bakery products
+0101,445110,BEE,BEA,Grocery (except Convenience) Stores,Beef and veal
+0101,445210,BEE,BEA,Meat Markets,Beef and veal
+0101,452110,BEE,Census,Department Stores (exc Discount) (2002),Beef and veal
+0101,452910,BEE,Census,Warehouse Clubs & Superstores,Beef and veal
+0101,445110,POR,BEA,Grocery (except Convenience) Stores,Pork
+0101,445210,POR,BEA,Meat Markets,Pork
+0101,452110,POR,Census,Department Stores (exc Discount) (2002),Pork
+0101,452910,POR,Census,Warehouse Clubs & Superstores,Pork
+0101,445110,MEA,BEA,Grocery (except Convenience) Stores,Other meats
+0101,445210,MEA,BEA,Meat Markets,Other meats
+0101,452110,MEA,Census,Department Stores (exc Discount) (2002),Other meats
+0101,452910,MEA,Census,Warehouse Clubs & Superstores,Other meats
+0101,445110,POU,BEA,Grocery (except Convenience) Stores,Poultry
+0101,445210,POU,BEA,Meat Markets,Poultry
+0101,452110,POU,Census,Department Stores (exc Discount) (2002),Poultry
+0101,452910,POU,Census,Warehouse Clubs & Superstores,Poultry
+0101,445110,FIS,BEA,Grocery (except Convenience) Stores,Fish and seafood
+0101,445210,FIS,BEA,Meat Markets,Fish and seafood
+0101,452110,FIS,Census,Department Stores (exc Discount) (2002),Fish and seafood
+0101,452910,FIS,Census,Warehouse Clubs & Superstores,Fish and seafood
+0104,445110,MIL,BEA,Grocery (except Convenience) Stores,Fresh milk
+0104,452110,MIL,Census,Department Stores (exc Discount) (2002),Fresh milk
+0104,452910,MIL,Census,Warehouse Clubs & Superstores,Fresh milk
+0104,445110,DAI,BEA,Grocery (except Convenience) Stores,Processed dairy products
+0104,452110,DAI,Census,Department Stores (exc Discount) (2002),Processed dairy products
+0104,452910,DAI,Census,Warehouse Clubs & Superstores,Processed dairy products
+0107,445110,DAI,BEA,Grocery (except Convenience) Stores,Processed dairy products
+0107,452110,DAI,Census,Department Stores (exc Discount) (2002),Processed dairy products
+0107,452910,DAI,Census,Warehouse Clubs & Superstores,Processed dairy products
+0104,445110,GGS,BEA,Grocery (except Convenience) Stores,Eggs
+0104,452110,GGS,Census,Department Stores (exc Discount) (2002),Eggs
+0104,452910,GGS,Census,Warehouse Clubs & Superstores,Eggs
+0111,445110,FAT,BEA,Grocery (except Convenience) Stores,Fats and oils
+0111,452110,FAT,Census,Department Stores (exc Discount) (2002),Fats and oils
+0111,452910,FAT,Census,Warehouse Clubs & Superstores,Fats and oils
+0102,445110,FRU,BEA,Grocery (except Convenience) Stores,Fruit (fresh)
+0102,445230,FRU,BEA,Fruit & Vegetable Markets,Fruit (fresh)
+0102,452110,FRU,Census,Department Stores (exc Discount) (2002),Fruit (fresh)
+0102,452910,FRU,Census,Warehouse Clubs & Superstores,Fruit (fresh)
+0102,445110,VEG,BEA,Grocery (except Convenience) Stores,Vegetables (fresh)
+0102,445230,VEG,BEA,Fruit & Vegetable Markets,Vegetables (fresh)
+0102,452110,VEG,Census,Department Stores (exc Discount) (2002),Vegetables (fresh)
+0102,452910,VEG,Census,Warehouse Clubs & Superstores,Vegetables (fresh)
+0102,445110,PFV,BEA,Grocery (except Convenience) Stores,Processed fruits and vegetables
+0102,445230,PFV,BEA,Fruit & Vegetable Markets,Processed fruits and vegetables
+0102,452110,PFV,Census,Department Stores (exc Discount) (2002),Processed fruits and vegetables
+0102,452910,PFV,Census,Warehouse Clubs & Superstores,Processed fruits and vegetables
+0111,445110,PFV,BEA,Grocery (except Convenience) Stores,Processed fruits and vegetables
+0111,452110,PFV,Census,Department Stores (exc Discount) (2002),Processed fruits and vegetables
+0111,452910,PFV,Census,Warehouse Clubs & Superstores,Processed fruits and vegetables
+0109,445110,SWE,BEA,Grocery (except Convenience) Stores,Sugar and sweets
+0109,445292,SWE,BEA,Confectionery & Nut Stores,Sugar and sweets
+0109,452110,SWE,Census,Department Stores (exc Discount) (2002),Sugar and sweets
+0109,452910,SWE,Census,Warehouse Clubs & Superstores,Sugar and sweets
+0113,446110,SWE,Census,Pharmacies & Drug Stores,Sugar and sweets
+0113,452110,SWE,Census,Department Stores (exc Discount) (2002),Sugar and sweets
+0113,454100,SWE,Census,Electronic Shopping & Mail-Order Houses,Sugar and sweets
+0113,454200,SWE,BEA,Vending Machine Operators,Sugar and sweets
+0113,454390,SWE,BEA,Other Direct Selling Establishments,Sugar and sweets
+0111,445110,OFS,BEA,Grocery (except Convenience) Stores,Soups
+0111,452110,OFS,Census,Department Stores (exc Discount) (2002),Soups
+0111,452910,OFS,Census,Warehouse Clubs & Superstores,Soups
+0107,445110,OFS,BEA,Grocery (except Convenience) Stores,Soups
+0107,452110,OFS,Census,Department Stores (exc Discount) (2002),Soups
+0107,452910,OFS,Census,Warehouse Clubs & Superstores,Soups
+0103,445110,OFF,BEA,Grocery (except Convenience) Stores,Frozen and freeze dried prepared foods
+0103,452110,OFF,Census,Department Stores (exc Discount) (2002),Frozen and freeze dried prepared foods
+0103,452910,OFF,Census,Warehouse Clubs & Superstores,Frozen and freeze dried prepared foods
+0109,445110,OFN,BEA,Grocery (except Convenience) Stores,Snacks and nuts
+0109,445292,OFN,BEA,Confectionery & Nut Stores,Snacks and nuts
+0109,452110,OFN,Census,Department Stores (exc Discount) (2002),Snacks and nuts
+0109,452910,OFN,Census,Warehouse Clubs & Superstores,Snacks and nuts
+0113,446110,OFN,Census,Pharmacies & Drug Stores,Snacks and nuts
+0113,452110,OFN,Census,Department Stores (exc Discount) (2002),Snacks and nuts
+0113,454100,OFN,Census,Electronic Shopping & Mail-Order Houses,Snacks and nuts
+0113,454200,OFN,BEA,Vending Machine Operators,Snacks and nuts
+0113,454390,OFN,BEA,Other Direct Selling Establishments,Snacks and nuts
+0111,445110,OFC,BEA,Grocery (except Convenience) Stores,"Spices, seasonings, condiments, and sauces"
+0111,452110,OFC,Census,Department Stores (exc Discount) (2002),"Spices, seasonings, condiments, and sauces"
+0111,452910,OFC,Census,Warehouse Clubs & Superstores,"Spices, seasonings, condiments, and sauces"
+0111,445110,OFB,BEA,Grocery (except Convenience) Stores,Baby food
+0111,452110,OFB,Census,Department Stores (exc Discount) (2002),Baby food
+0111,452910,OFB,Census,Warehouse Clubs & Superstores,Baby food
+0113,446110,OFO,Census,Pharmacies & Drug Stores,Other miscellaneous foods
+0113,452110,OFO,Census,Department Stores (exc Discount) (2002),Other miscellaneous foods
+0113,454100,OFO,Census,Electronic Shopping & Mail-Order Houses,Other miscellaneous foods
+0113,454200,OFO,BEA,Vending Machine Operators,Other miscellaneous foods
+0113,454390,OFO,BEA,Other Direct Selling Establishments,Other miscellaneous foods
+0111,445110,OFO,BEA,Grocery (except Convenience) Stores,Other miscellaneous foods
+0111,452110,OFO,Census,Department Stores (exc Discount) (2002),Other miscellaneous foods
+0111,452910,OFO,Census,Warehouse Clubs & Superstores,Other miscellaneous foods
+0111,445110,CTM,BEA,Grocery (except Convenience) Stores,"Coffee, tea, and other beverage materials"
+0111,452110,CTM,Census,Department Stores (exc Discount) (2002),"Coffee, tea, and other beverage materials"
+0111,452910,CTM,Census,Warehouse Clubs & Superstores,"Coffee, tea, and other beverage materials"
+0108,445110,JNB,BEA,Grocery (except Convenience) Stores,"Mineral waters, soft drinks and vegetable juices"
+0108,446110,JNB,Census,Pharmacies & Drug Stores,"Mineral waters, soft drinks and vegetable juices"
+0108,452110,JNB,Census,Department Stores (exc Discount) (2002),"Mineral waters, soft drinks and vegetable juices"
+0108,452910,JNB,Census,Warehouse Clubs & Superstores,"Mineral waters, soft drinks and vegetable juices"
+0108,454200,JNB,BEA,Vending Machine Operators,"Mineral waters, soft drinks and vegetable juices"
+0141,445110,LIQ,BEA,Grocery (except Convenience) Stores,Spirits
+0141,445120,LIQ,BEA,Convenience Stores,Spirits
+0141,445300,LIQ,Census,Beer & Wine & Liquor Stores,Spirits
+0141,446110,LIQ,Census,Pharmacies & Drug Stores,Spirits
+0141,452910,LIQ,Census,Warehouse Clubs & Superstores,Spirits
+0142,445110,WIN,BEA,Grocery (except Convenience) Stores,Wine
+0142,445120,WIN,BEA,Convenience Stores,Wine
+0142,445300,WIN,Census,Beer & Wine & Liquor Stores,Wine
+0142,446110,WIN,Census,Pharmacies & Drug Stores,Wine
+0142,452910,WIN,Census,Warehouse Clubs & Superstores,Wine
+0143,445110,MLT,BEA,Grocery (except Convenience) Stores,Beer
+0143,445120,MLT,BEA,Convenience Stores,Beer
+0143,445300,MLT,Census,Beer & Wine & Liquor Stores,Beer
+0143,446110,MLT,Census,Pharmacies & Drug Stores,Beer
+0143,452910,MLT,Census,Warehouse Clubs & Superstores,Beer
+0220,448120,WGC,Census,Womens' Clothing Stores,Women's and girls' clothing
+0220,448140,WGC,BEA,Family Clothing Stores,Women's and girls' clothing
+0220,448190,WGC,BEA,Other Clothing Stores,Women's and girls' clothing
+0220,452110,WGC,Census,Department Stores (exc Discount) (2002),Women's and girls' clothing
+0220,452910,WGC,Census,Warehouse Clubs & Superstores,Women's and girls' clothing
+0220,454100,WGC,Census,Electronic Shopping & Mail-Order Houses,Women's and girls' clothing
+0200,448110,MBC,Census,Mens' Clothing Stores,Men's and boys' clothing
+0200,448140,MBC,BEA,Family Clothing Stores,Men's and boys' clothing
+0200,448200,MBC,Census,Shoe Stores,Men's and boys' clothing
+0200,451110,MBC,BEA,Sporting Goods Stores,Men's and boys' clothing
+0200,452110,MBC,Census,Department Stores (exc Discount) (2002),Men's and boys' clothing
+0200,452910,MBC,Census,Warehouse Clubs & Superstores,Men's and boys' clothing
+0200,454100,MBC,Census,Electronic Shopping & Mail-Order Houses,Men's and boys' clothing
+0240,448130,CIC,BEA,Children's & Infants & Clothing Stores,Children's and infants' clothing
+0240,448140,CIC,BEA,Family Clothing Stores,Children's and infants' clothing
+0240,452110,CIC,Census,Department Stores (exc Discount) (2002),Children's and infants' clothing
+0240,452910,CIC,Census,Warehouse Clubs & Superstores,Children's and infants' clothing
+0240,452990,CIC,Census,All Other General Merchandise Stores,Children's and infants' clothing
+0271,451120,CSM,BEA,Hobby & Toy & Game Stores,Clothing materials
+0271,451130,CSM,BEA,Sewing & Needlework & Piece Goods Stores,Clothing materials
+0271,452110,CSM,Census,Department Stores (exc Discount) (2002),Clothing materials
+0271,452910,CSM,Census,Warehouse Clubs & Superstores,Clothing materials
+0271,452990,CSM,Census,All Other General Merchandise Stores,Clothing materials
+0271,454100,CSM,Census,Electronic Shopping & Mail-Order Houses,Clothing materials
+0272,451120,CSM,BEA,Hobby & Toy & Game Stores,Clothing materials
+0272,451130,CSM,BEA,Sewing & Needlework & Piece Goods Stores,Clothing materials
+0272,452110,CSM,Census,Department Stores (exc Discount) (2002),Clothing materials
+0272,452910,CSM,Census,Warehouse Clubs & Superstores,Clothing materials
+0272,452990,CSM,Census,All Other General Merchandise Stores,Clothing materials
+0272,454100,CSM,Census,Electronic Shopping & Mail-Order Houses,Clothing materials
+0260,448120,SHU,Census,Womens' Clothing Stores,Shoes and other footwear
+0260,448140,SHU,BEA,Family Clothing Stores,Shoes and other footwear
+0260,448200,SHU,Census,Shoe Stores,Shoes and other footwear
+0260,451110,SHU,BEA,Sporting Goods Stores,Shoes and other footwear
+0260,452110,SHU,Census,Department Stores (exc Discount) (2002),Shoes and other footwear
+0260,452910,SHU,Census,Warehouse Clubs & Superstores,Shoes and other footwear
+0260,454100,SHU,Census,Electronic Shopping & Mail-Order Houses,Shoes and other footwear
+0781,454311,OIL,BEA,Heating Oil Dealers,Fuel oil
+0781,454312,OIL,BEA,Liquefied Petroleum Gas (Bottled Gas) Dealers,Fuel oil
+0782,454311,OIL,BEA,Heating Oil Dealers,Fuel oil
+0782,454312,OIL,BEA,Liquefied Petroleum Gas (Bottled Gas) Dealers,Fuel oil
+0783,454311,OIL,BEA,Heating Oil Dealers,Fuel oil
+0783,454312,OIL,BEA,Liquefied Petroleum Gas (Bottled Gas) Dealers,Fuel oil
+0784,454311,OIL,BEA,Heating Oil Dealers,Fuel oil
+0784,454312,OIL,BEA,Liquefied Petroleum Gas (Bottled Gas) Dealers,Fuel oil
+0785,454311,OIL,BEA,Heating Oil Dealers,Fuel oil
+0785,454312,OIL,BEA,Liquefied Petroleum Gas (Bottled Gas) Dealers,Fuel oil
+0786,454311,LPF,BEA,Heating Oil Dealers,Other fuels
+0786,454319,LPF,BEA,Other Fuel Dealers,Other fuels
+0787,454319,LPF,BEA,Other Fuel Dealers,Other fuels
+0788,454311,LPF,BEA,Heating Oil Dealers,Other fuels
+0162,445110,NRD,BEA,Grocery (except Convenience) Stores,Nonprescription drugs
+0162,446110,NRD,Census,Pharmacies & Drug Stores,Nonprescription drugs
+0162,452110,NRD,Census,Department Stores (exc Discount) (2002),Nonprescription drugs
+0162,452910,NRD,Census,Warehouse Clubs & Superstores,Nonprescription drugs
+0163,445110,NRD,BEA,Grocery (except Convenience) Stores,Nonprescription drugs
+0163,446110,NRD,Census,Pharmacies & Drug Stores,Nonprescription drugs
+0163,446191,NRD,Census,Food (Health) Supplement Stores,Nonprescription drugs
+0163,452110,NRD,Census,Department Stores (exc Discount) (2002),Nonprescription drugs
+0163,452910,NRD,Census,Warehouse Clubs & Superstores,Nonprescription drugs
+0163,454100,NRD,Census,Electronic Shopping & Mail-Order Houses,Nonprescription drugs
+0163,454390,NRD,BEA,Other Direct Selling Establishments,Nonprescription drugs
+0164,445110,OMP,BEA,Grocery (except Convenience) Stores,Other medical products
+0164,446110,OMP,Census,Pharmacies & Drug Stores,Other medical products
+0164,446199,OMP,Census,All Other Health & Personal Care Stores,Other medical products
+0164,452110,OMP,Census,Department Stores (exc Discount) (2002),Other medical products
+0164,452990,OMP,Census,All Other General Merchandise Stores,Other medical products
+0164,454100,OMP,Census,Electronic Shopping & Mail-Order Houses,Other medical products
+0164,454390,OMP,BEA,Other Direct Selling Establishments,Other medical products
+0167,446199,OMP,Census,All Other Health & Personal Care Stores,Other medical products
+0167,454390,OMP,BEA,Other Direct Selling Establishments,Other medical products
+0460,443112,DOL,BEA,Radio & Television & Other Electronics Stores,"Games, toys, and hobbies"
+0460,446110,DOL,Census,Pharmacies & Drug Stores,"Games, toys, and hobbies"
+0460,451120,DOL,BEA,Hobby & Toy & Game Stores,"Games, toys, and hobbies"
+0460,452110,DOL,Census,Department Stores (exc Discount) (2002),"Games, toys, and hobbies"
+0460,452910,DOL,Census,Warehouse Clubs & Superstores,"Games, toys, and hobbies"
+0460,452990,DOL,Census,All Other General Merchandise Stores,"Games, toys, and hobbies"
+0460,454100,DOL,Census,Electronic Shopping & Mail-Order Houses,"Games, toys, and hobbies"
+0800,444220,PRP,Census,Nursery & Garden Centers,Pets and related products
+0800,445110,PRP,BEA,Grocery (except Convenience) Stores,Pets and related products
+0800,452110,PRP,Census,Department Stores (exc Discount) (2002),Pets and related products
+0800,452910,PRP,Census,Warehouse Clubs & Superstores,Pets and related products
+0800,452990,PRP,Census,All Other General Merchandise Stores,Pets and related products
+0800,453910,PRP,BEA,Pet & Pet Supplies Stores,Pets and related products
+0800,454100,PRP,Census,Electronic Shopping & Mail-Order Houses,Pets and related products
+0621,444110,FLO,Census,Home Centers,"Flowers, seeds, and potted plants"
+0621,444220,FLO,Census,Nursery & Garden Centers,"Flowers, seeds, and potted plants"
+0621,445110,FLO,BEA,Grocery (except Convenience) Stores,"Flowers, seeds, and potted plants"
+0621,452910,FLO,Census,Warehouse Clubs & Superstores,"Flowers, seeds, and potted plants"
+0621,454100,FLO,Census,Electronic Shopping & Mail-Order Houses,"Flowers, seeds, and potted plants"
+0622,445110,FLO,BEA,Grocery (except Convenience) Stores,"Flowers, seeds, and potted plants"
+0622,453100,FLO,Census,Florists,"Flowers, seeds, and potted plants"
+0622,454100,FLO,Census,Electronic Shopping & Mail-Order Houses,"Flowers, seeds, and potted plants"
+0623,445110,FLO,BEA,Grocery (except Convenience) Stores,"Flowers, seeds, and potted plants"
+0623,453100,FLO,Census,Florists,"Flowers, seeds, and potted plants"
+0623,454100,FLO,Census,Electronic Shopping & Mail-Order Houses,"Flowers, seeds, and potted plants"
+0624,445110,FLO,BEA,Grocery (except Convenience) Stores,"Flowers, seeds, and potted plants"
+0624,453100,FLO,Census,Florists,"Flowers, seeds, and potted plants"
+0624,454100,FLO,Census,Electronic Shopping & Mail-Order Houses,"Flowers, seeds, and potted plants"
+0625,445110,FLO,BEA,Grocery (except Convenience) Stores,"Flowers, seeds, and potted plants"
+0625,453100,FLO,Census,Florists,"Flowers, seeds, and potted plants"
+0625,454100,FLO,Census,Electronic Shopping & Mail-Order Houses,"Flowers, seeds, and potted plants"
+0626,444110,FLO,Census,Home Centers,"Flowers, seeds, and potted plants"
+0626,444220,FLO,Census,Nursery & Garden Centers,"Flowers, seeds, and potted plants"
+0626,445110,FLO,BEA,Grocery (except Convenience) Stores,"Flowers, seeds, and potted plants"
+0626,452110,FLO,Census,Department Stores (exc Discount) (2002),"Flowers, seeds, and potted plants"
+0626,452910,FLO,Census,Warehouse Clubs & Superstores,"Flowers, seeds, and potted plants"
+0626,452990,FLO,Census,All Other General Merchandise Stores,"Flowers, seeds, and potted plants"
+0626,454100,FLO,Census,Electronic Shopping & Mail-Order Houses,"Flowers, seeds, and potted plants"
+0440,443112,FLM,BEA,Radio & Television & Other Electronics Stores,Film and photographic supplies
+0440,443130,FLM,BEA,Camera & Photographic Supplies Stores,Film and photographic supplies
+0440,446110,FLM,Census,Pharmacies & Drug Stores,Film and photographic supplies
+0440,452110,FLM,Census,Department Stores (exc Discount) (2002),Film and photographic supplies
+0440,452910,FLM,Census,Warehouse Clubs & Superstores,Film and photographic supplies
+0440,454100,FLM,Census,Electronic Shopping & Mail-Order Houses,Film and photographic supplies
+0180,444110,CLE,Census,Home Centers,Household cleaning products
+0180,445110,CLE,BEA,Grocery (except Convenience) Stores,Household cleaning products
+0180,446110,CLE,Census,Pharmacies & Drug Stores,Household cleaning products
+0180,452110,CLE,Census,Department Stores (exc Discount) (2002),Household cleaning products
+0180,452910,CLE,Census,Warehouse Clubs & Superstores,Household cleaning products
+0180,452990,CLE,Census,All Other General Merchandise Stores,Household cleaning products
+0190,445110,PAP,BEA,Grocery (except Convenience) Stores,Household paper products
+0190,446110,PAP,Census,Pharmacies & Drug Stores,Household paper products
+0190,452110,PAP,Census,Department Stores (exc Discount) (2002),Household paper products
+0190,452910,PAP,Census,Warehouse Clubs & Superstores,Household paper products
+0190,452990,PAP,Census,All Other General Merchandise Stores,Household paper products
+0284,442299,LIN,BEA,All Other Home Furnishings Stores,Household linens
+0284,448140,LIN,BEA,Family Clothing Stores,Household linens
+0284,452110,LIN,Census,Department Stores (exc Discount) (2002),Household linens
+0284,452910,LIN,Census,Warehouse Clubs & Superstores,Household linens
+0284,452990,LIN,Census,All Other General Merchandise Stores,Household linens
+0284,454100,LIN,Census,Electronic Shopping & Mail-Order Houses,Household linens
+0284,454390,LIN,BEA,Other Direct Selling Establishments,Household linens
+0273,451120,SEW,BEA,Hobby & Toy & Game Stores,Sewing items
+0273,451130,SEW,BEA,Sewing & Needlework & Piece Goods Stores,Sewing items
+0273,452110,SEW,Census,Department Stores (exc Discount) (2002),Sewing items
+0273,452910,SEW,Census,Warehouse Clubs & Superstores,Sewing items
+0273,452990,SEW,Census,All Other General Merchandise Stores,Sewing items
+0273,454100,SEW,Census,Electronic Shopping & Mail-Order Houses,Sewing items
+0883,448130,MHP,BEA,Children's & Infants & Clothing Stores,Miscellaneous household products
+0883,451110,MHP,BEA,Sporting Goods Stores,Miscellaneous household products
+0883,451120,MHP,BEA,Hobby & Toy & Game Stores,Miscellaneous household products
+0883,453220,MHP,Census,Gift& Novelty & Souvenir Stores,Miscellaneous household products
+0883,453998,MHP,BEA,All Other Miscellaneous Store Retailers,Miscellaneous household products
+0883,454100,MHP,Census,Electronic Shopping & Mail-Order Houses,Miscellaneous household products
+0883,454390,MHP,BEA,Other Direct Selling Establishments,Miscellaneous household products
+0166,445110,OPH,BEA,Grocery (except Convenience) Stores,"Hair, dental, shaving, and misc. personal care products, except electrical products"
+0166,446110,OPH,Census,Pharmacies & Drug Stores,"Hair, dental, shaving, and misc. personal care products, except electrical products"
+0166,446120,OPH,Census,Cosmetics& Beauty Supplies & Perfume Stores,"Hair, dental, shaving, and misc. personal care products, except electrical products"
+0166,452110,OPH,Census,Department Stores (exc Discount) (2002),"Hair, dental, shaving, and misc. personal care products, except electrical products"
+0166,452910,OPH,Census,Warehouse Clubs & Superstores,"Hair, dental, shaving, and misc. personal care products, except electrical products"
+0166,452990,OPH,Census,All Other General Merchandise Stores,"Hair, dental, shaving, and misc. personal care products, except electrical products"
+0165,445110,COS,BEA,Grocery (except Convenience) Stores,Cosmetic/perfumes/bath/nail preparations and implements
+0165,446110,COS,Census,Pharmacies & Drug Stores,Cosmetic/perfumes/bath/nail preparations and implements
+0165,446120,COS,Census,Cosmetics& Beauty Supplies & Perfume Stores,Cosmetic/perfumes/bath/nail preparations and implements
+0165,452110,COS,Census,Department Stores (exc Discount) (2002),Cosmetic/perfumes/bath/nail preparations and implements
+0165,452910,COS,Census,Warehouse Clubs & Superstores,Cosmetic/perfumes/bath/nail preparations and implements
+0165,452990,COS,Census,All Other General Merchandise Stores,Cosmetic/perfumes/bath/nail preparations and implements
+0165,454100,COS,Census,Electronic Shopping & Mail-Order Houses,Cosmetic/perfumes/bath/nail preparations and implements
+0310,442299,EAP,BEA,All Other Home Furnishings Stores,Electric appliances for personal care
+0310,443112,EAP,BEA,Radio & Television & Other Electronics Stores,Electric appliances for personal care
+0310,444110,EAP,Census,Home Centers,Electric appliances for personal care
+0310,446110,EAP,Census,Pharmacies & Drug Stores,Electric appliances for personal care
+0310,446120,EAP,Census,Cosmetics& Beauty Supplies & Perfume Stores,Electric appliances for personal care
+0310,452110,EAP,Census,Department Stores (exc Discount) (2002),Electric appliances for personal care
+0310,452910,EAP,Census,Warehouse Clubs & Superstores,Electric appliances for personal care
+0310,452990,EAP,Census,All Other General Merchandise Stores,Electric appliances for personal care
+0310,454100,EAP,Census,Electronic Shopping & Mail-Order Houses,Electric appliances for personal care
+0856,445110,MAG,BEA,Grocery (except Convenience) Stores,Newspapers and periodicals
+0856,445120,MAG,BEA,Convenience Stores,Newspapers and periodicals
+0856,446110,MAG,Census,Pharmacies & Drug Stores,Newspapers and periodicals
+0856,451211,MAG,BEA,Book Stores,Newspapers and periodicals
+0856,451212,MAG,BEA,News Dealers & Newsstands,Newspapers and periodicals
+0856,452110,MAG,Census,Department Stores (exc Discount) (2002),Newspapers and periodicals
+0856,452910,MAG,Census,Warehouse Clubs & Superstores,Newspapers and periodicals
+0856,453220,MAG,Census,Gift& Novelty & Souvenir Stores,Newspapers and periodicals
+0856,454100,MAG,Census,Electronic Shopping & Mail-Order Houses,Newspapers and periodicals
+0856,454390,MAG,BEA,Other Direct Selling Establishments,Newspapers and periodicals
+0851,446110,STY,Census,Pharmacies & Drug Stores,Stationery and miscellaneous printed materials
+0851,451211,STY,BEA,Book Stores,Stationery and miscellaneous printed materials
+0851,452110,STY,Census,Department Stores (exc Discount) (2002),Stationery and miscellaneous printed materials
+0851,452990,STY,Census,All Other General Merchandise Stores,Stationery and miscellaneous printed materials
+0851,453210,STY,Census,Office Supplies & Stationery Stores,Stationery and miscellaneous printed materials
+0851,453220,STY,Census,Gift& Novelty & Souvenir Stores,Stationery and miscellaneous printed materials
+0851,454100,STY,Census,Electronic Shopping & Mail-Order Houses,Stationery and miscellaneous printed materials
+0855,445110,STY,BEA,Grocery (except Convenience) Stores,Stationery and miscellaneous printed materials
+0855,446110,STY,Census,Pharmacies & Drug Stores,Stationery and miscellaneous printed materials
+0855,452110,STY,Census,Department Stores (exc Discount) (2002),Stationery and miscellaneous printed materials
+0855,452910,STY,Census,Warehouse Clubs & Superstores,Stationery and miscellaneous printed materials
+0855,452990,STY,Census,All Other General Merchandise Stores,Stationery and miscellaneous printed materials
+0855,453220,STY,Census,Gift& Novelty & Souvenir Stores,Stationery and miscellaneous printed materials
+0855,454100,STY,Census,Electronic Shopping & Mail-Order Houses,Stationery and miscellaneous printed materials
+0340,442100,LDF,BEA,Furniture Stores,Furniture & fixtures
+0360,444110,LDF,Census,Home Centers,Furniture & fixtures
+0340,452110,LDF,Census,Department Stores (exc Discount) (2002),Furniture & fixtures
+0340,452910,LDF,Census,Warehouse Clubs & Superstores,Furniture & fixtures
+0340,452990,LDF,Census,All Other General Merchandise Stores,Furniture & fixtures
+0340,453210,LDF,Census,Office Supplies & Stationery Stores,Furniture & fixtures
+0340,454100,LDF,Census,Electronic Shopping & Mail-Order Houses,Furniture & fixtures
+0300,442100,APP,BEA,Furniture Stores,Household appliances
+0300,443111,APP,BEA,Household Appliance Stores,Household appliances
+0300,443112,APP,BEA,Radio & Television & Other Electronics Stores,Household appliances
+0300,444110,APP,Census,Home Centers,Household appliances
+0300,452110,APP,Census,Department Stores (exc Discount) (2002),Household appliances
+0300,452910,APP,Census,Warehouse Clubs & Superstores,Household appliances
+0300,454100,APP,Census,Electronic Shopping & Mail-Order Houses,Household appliances
+0360,442100,LDM,BEA,Furniture Stores,Floor coverings & miscellaneous
+0360,442210,LDM,BEA,Floor Covering Stores,Floor coverings & miscellaneous
+0360,442299,LDM,BEA,All Other Home Furnishings Stores,Floor coverings & miscellaneous
+0360,444110,LDM,Census,Home Centers,Floor coverings & miscellaneous
+0360,444190,LDM,Census,Other Building Material Dealers,Floor coverings & miscellaneous
+0360,452910,LDM,Census,Warehouse Clubs & Superstores,Floor coverings & miscellaneous
+0360,454390,LDM,BEA,Other Direct Selling Establishments,Floor coverings & miscellaneous
+0321,442100,LDR,BEA,Furniture Stores,"Audio, video, & communication eqpt"
+0321,443111,LDR,BEA,Household Appliance Stores,"Audio, video, & communication eqpt"
+0321,443112,LDR,BEA,Radio & Television & Other Electronics Stores,"Audio, video, & communication eqpt"
+0321,452110,LDR,Census,Department Stores (exc Discount) (2002),"Audio, video, & communication eqpt"
+0321,452910,LDR,Census,Warehouse Clubs & Superstores,"Audio, video, & communication eqpt"
+0321,454100,LDR,Census,Electronic Shopping & Mail-Order Houses,"Audio, video, & communication eqpt"
+0322,443111,LDR,BEA,Household Appliance Stores,"Audio, video, & communication eqpt"
+0322,443112,LDR,BEA,Radio & Television & Other Electronics Stores,"Audio, video, & communication eqpt"
+0322,443120,LDR,Census,Computer & Software Stores,"Audio, video, & communication eqpt"
+0324,452110,LDR,Census,Department Stores (exc Discount) (2002),"Audio, video, & communication eqpt"
+0324,452910,LDR,Census,Warehouse Clubs & Superstores,"Audio, video, & communication eqpt"
+0324,452990,LDR,Census,All Other General Merchandise Stores,"Audio, video, & communication eqpt"
+0324,454100,LDR,Census,Electronic Shopping & Mail-Order Houses,"Audio, video, & communication eqpt"
+0331,441310,LDR,BEA,Automotive Parts & Accessories Stores,"Audio, video, & communication eqpt"
+0331,443112,LDR,BEA,Radio & Television & Other Electronics Stores,"Audio, video, & communication eqpt"
+0331,443120,LDR,Census,Computer & Software Stores,"Audio, video, & communication eqpt"
+0331,451140,LDR,BEA,Musical Instrument & Supplies Stores,"Audio, video, & communication eqpt"
+0331,451211,LDR,BEA,Book Stores,"Audio, video, & communication eqpt"
+0331,452110,LDR,Census,Department Stores (exc Discount) (2002),"Audio, video, & communication eqpt"
+0331,452910,LDR,Census,Warehouse Clubs & Superstores,"Audio, video, & communication eqpt"
+0331,454100,LDR,Census,Electronic Shopping & Mail-Order Houses,"Audio, video, & communication eqpt"
+0865,443112,LDR,BEA,Radio & Television & Other Electronics Stores,"Audio, video, & communication eqpt"
+0865,443120,LDR,Census,Computer & Software Stores,"Audio, video, & communication eqpt"
+0865,452110,LDR,Census,Department Stores (exc Discount) (2002),"Audio, video, & communication eqpt"
+0865,452910,LDR,Census,Warehouse Clubs & Superstores,"Audio, video, & communication eqpt"
+0865,452990,LDR,Census,All Other General Merchandise Stores,"Audio, video, & communication eqpt"
