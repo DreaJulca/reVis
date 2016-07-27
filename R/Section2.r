@@ -347,7 +347,7 @@ unique(rilQ[`ril2014q1` != 0, VinPeriod])
 
 unique(rilQ[, Code])
 
-dateCol <- paste0('ril', substr(qAvail, 2, 7))
+dateCol <- sort(paste0('ril', substr(qAvail, 2, 7)))
 
 rilQ[,lapply(.SD %in% qRilDataVals, sum), by = KeyVal]
 
@@ -355,5 +355,8 @@ rilQ[,lapply(.SD %in% qRilDataVals, sum), by = KeyVal]
 qClearNAs <- paste(paste0('rilQ[,', dateCol, ' := ifelse(is.na(', dateCol, '), 0, ', dateCol, ')]'), collapse = ';')
 eval(parse(text=qClearNAs))
 
-getSums <- paste0('rilQ[, .(',paste(paste0('sum(',dateCol,')'), collapse = ','),'), by=KeyVal]')
+getSums <- paste0('revDT <- rilQ[, .(',paste(paste0('sum',dateCol,'=sum(',dateCol,')'), collapse = ','),'), by=Code]')
 eval(parse(text=getSums))
+write.csv(revDT, file=paste0('c:/Users/', userID, '/Documents/revDT.csv'))
+
+
