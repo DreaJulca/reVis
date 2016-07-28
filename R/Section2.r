@@ -15,11 +15,12 @@ library(RODBC)
 userID <- Sys.info()[[7]]
 myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
 
-dir.create(myPath)
-dir.create(paste0(myPath, 'xls/'))
-dir.create(paste0(myPath, 'xls/NIPA/'))
-dir.create(paste0(myPath, 'csv/'))
-dir.create(paste0(myPath, 'csv/NIPA'))
+#Actually, these aren't really needed
+#dir.create(myPath)
+#dir.create(paste0(myPath, 'xls/'))
+#dir.create(paste0(myPath, 'xls/NIPA/'))
+#dir.create(paste0(myPath, 'csv/'))
+#dir.create(paste0(myPath, 'csv/NIPA'))
 
 
 archive <- 'http://www.bea.gov/histdata/histChildLevels.cfm?HMI=7'
@@ -132,13 +133,13 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 				)
 			);
 
-
-		#Match Alice's names
-		release <- toupper(vint);
-		vintage <- rCyc;
-		
-		#Create empty frame for each
-		conn <- odbcConnectExcel(fileLoc)
+	
+		#Create connection (using odbcConnectExcel2007 if extension is not .xlsx)
+		if(tolower(substr(fileLoc, nchar(fileLoc)-1, nchar(fileLoc))) == 'x'){
+			conn <- odbcConnectExcel(fileLoc)
+		} else {
+			conn <- odbcConnectExcel2007(fileLoc)
+		}
 		myTabs <- sqlTables(conn)$TABLE_NAME
 		dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
 		
@@ -175,7 +176,8 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 			 finally = {
 				return('')
 			})
-		}})
+		}
+		})
 #		stopCluster(cl)	
 #		try(stopCluster(cl))
 	})
@@ -215,16 +217,16 @@ stopCluster(cl)
  #In this case, lines 1-6 are meta
 # 	 thisFile <-	qtrDpce[,V1][1]
 
-	readDT <- fread(thisFile)
+	readDT <- fread(thisFile, header = FALSE)
 	if (dim(readDT) == c(1, 1)){
 		warning(paste0('Empty file: ', thisFile))
 		return(readDT)
 	} else {
-		cleanDT <- readDT[!is.na(F3)]
-		yrs <- t(readDT[7])
-		qtr <- t(readDT[8])
+		cleanDT <- readDT[!is.na(V3)]
+		yrs <- t(readDT[8])
+		qtr <- t(readDT[9])
 		colDates <- paste0(yrs[5:length(yrs)], 'q', qtr[5:length(qtr)])
-			
+		tabName <- gsub('#', '.', readDT[1,V2], fixed=T)
 		data.table::setnames(cleanDT, c(
 			'XLS_Line', 
 			'LineNumber', 
@@ -234,14 +236,8 @@ stopCluster(cl)
 		))
 		 #Just return filename.  We'll use it later to do vintaging
 		cleanDT[, FileName := thisFile]
-		cleanDT[, LineNumber := ifelse(
-			as.numeric(XLS_Line) > 8 & as.numeric(XLS_Line) < 344,
-			as.numeric(XLS_Line) - 8, 
-			ifelse(as.numeric(XLS_Line) > 344,
-				as.numeric(XLS_Line) - 7, 
-				NA
-			)
-			)]
+		cleanDT[, TableName := tabName]
+		cleanDT[, LineNumber := as.numeric(LineNumber)]
 		fnlDT <- cleanDT[!is.na(LineNumber)]
 		
 		return(fnlDT)
@@ -253,17 +249,28 @@ stopCluster(cl)
 #memory.limit(size = 4095)
 
 pceDTq <- rbindlist(pceQtrHist, fill=T, use.names=T)
-qNames <- attributes(phDT)$names
+qNames <- attributes(pceDTq)$names
 
 pceDTq[, Vin := tolower(gsub('/', '', substr(FileName, 41,52), fixed=T))]
-pceDTq[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'adv', Vin, fixed = T)] 
+pceDTq[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTq[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
+pceDTq[
+	!is.na(SeriesCode) & gsub(' ', '', SeriesCode) != '',  
+	Code := ifelse(
+		substr(SeriesCode, 1, 1) == 'E',
+		substr(SeriesCode, 3, 5),
+		substr(SeriesCode, 2, 4)
+	)] 
 
+pceDTq[!is.na(Code)]
 #Gives us 2004Q3 advance estimate; need to use generalizable method for this
 pceDTq[Vin == '2004q3adv', .(LineNumber, LineDescription, SeriesCode, `2004q3`)]
 
+
 #Find available periods where there is both an advance and a third estimate
+#This was my original approach, but there are more second estimates than I thought
 qVinAv <- sort(unique(pceDTq[, Vin]))
+qtrsAv <- sort(unique(pceDTq[, substr(Vin, 1, 6)]))
 qAdvAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'adv', Vin])), 1, 6), '`')
 qSecAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'sec', Vin])), 1, 6), '`')
 qThiAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'thi', Vin])), 1, 6), '`')
@@ -271,27 +278,112 @@ qThiAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'thi', Vin]
 qAvail <- qAdvAv[qAdvAv %in% qThiAv]
 
 
+outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
+	#test
+	# indx <- 2
+	thisQtr <- qtrsAv[indx]
+	prevQtr <- qtrsAv[(indx-1)]
+	
+	thisAdv <- unique(pceDTq[
+		Vin == paste0(thisQtr, 'adv'), 
+		.(
+			Code, 
+			AdvLvl = eval(
+				parse(
+					text=paste0('as.numeric(`', thisQtr, '`)')
+				)
+			), 
+			AdvPct = eval(
+				parse(
+					text=paste0('(as.numeric(`', thisQtr, '`)/as.numeric(`', prevQtr, '`))-1')
+				)
+			)
+		)
+	])
+	
+	thisSec <- unique(pceDTq[
+		Vin == paste0(thisQtr, 'sec'), 
+		.(
+			Code, 
+			SecLvl = eval(
+				parse(
+					text=paste0('as.numeric(`', thisQtr, '`)')
+				)
+			), 
+			SecPct = eval(
+				parse(
+					text=paste0('(as.numeric(`', thisQtr, '`)/as.numeric(`', prevQtr, '`))-1')
+				)
+			)
+		)
+	])
+
+	thisThi <- unique(pceDTq[
+		Vin == paste0(thisQtr, 'thi'), 
+		.(
+			Code, 
+			ThiLvl = eval(
+				parse(
+					text=paste0('as.numeric(`', thisQtr, '`)')
+				)
+			), 
+			ThiPct = eval(
+				parse(
+					text=paste0('(as.numeric(`', thisQtr, '`)/as.numeric(`', prevQtr, '`))-1')
+				)
+			)
+		)
+	])
+
+	data.table::setkey(thisAdv, key = Code)
+	data.table::setkey(thisSec, key = Code)
+	data.table::setkey(thisThi, key = Code)
+
+	thisDT <- thisAdv[thisSec[thisThi]]
+	thisDT[,TimePeriod := thisQtr]
+	
+	return(thisDT)
+
+}))
+
+write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/tab245u_vin.csv'), row.names = FALSE)
+
+#####################################################
+#Junk drawer - Other stuff I was playing around with 
 getQAdv <- paste0("qAdv <- pceDTq[substr(Vin, 7,9)=='adv' & 
-	!is.na(SeriesCode) & gsub(' ', '', SeriesCode) != '',.(
+	!is.na(Code),.(
 	LineNumber, 
 	LineDescription, 
 	SeriesCode, 
 	Vin, ",
-	paste(qAvail, collapse = ','),
+	paste(qAdvAv, collapse = ','),
+#	paste(qAvail, collapse = ','),
+	 "
+)]")
+
+getQSec <- paste0("qSec <- pceDTq[substr(Vin, 7,9)=='sec' & 
+	!is.na(Code),.(
+	LineNumber, 
+	LineDescription, 
+	SeriesCode, 
+	Vin, ",
+	paste(qSecAv, collapse = ','),
 	 "
 )]")
 
 getQThi <- paste0("qThi <- pceDTq[substr(Vin, 7,9)=='thi' & 
-	!is.na(SeriesCode) & gsub(' ', '', SeriesCode) != '',.(
+	!is.na(Code),.(
 	LineNumber, 
 	LineDescription, 
 	SeriesCode, 
 	Vin, ",
-	paste(qAvail, collapse = ','),
+	paste(qThiAv, collapse = ','),
+#	paste(qAvail, collapse = ','),
 	 "
 )]")
 
 eval(parse(text=getQAdv))
+eval(parse(text=getQSec))
 eval(parse(text=getQThi))
 
 qAdv[, VinPeriod := substr(Vin, 1, 6)]
@@ -349,7 +441,8 @@ unique(rilQ[, Code])
 
 dateCol <- sort(paste0('ril', substr(qAvail, 2, 7)))
 
-rilQ[,lapply(.SD %in% qRilDataVals, sum), by = KeyVal]
+#This returns meaningless zero set
+rilQ[,lapply(.SD %in% dateCol, sum), by = KeyVal]
 
 #Let's get rid of those NA vals
 qClearNAs <- paste(paste0('rilQ[,', dateCol, ' := ifelse(is.na(', dateCol, '), 0, ', dateCol, ')]'), collapse = ';')
