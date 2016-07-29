@@ -1,0 +1,68 @@
+"","Table 5#5#6# Real Private Fixed Investment in Equipment by Type,","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Millions of chained (2009) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2014   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/23/2015 2:47:59 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013"
+"19","1","      Private fixed investment in equipment","Y032RX1","669,583.0","734,556.0","703,404.0","666,001.0","687,491.0","740,615.0","811,460.0","880,844.0","908,082.0","845,325.0","652,624.0","755,529.0","857,196.0","915,044.0","957,292.0"
+"20","2","Nonresidential equipment","Y033RX1","662,433.0","726,935.0","695,657.0","658,024.0","679,021.0","731,182.0","801,604.0","870,793.0","898,336.0","836,092.0","644,308.0","746,702.0","847,918.0","905,624.0","947,227.0"
+"21","3","  Information processing equipment","Y034RX1","149,458.0","180,365.0","178,201.0","169,888.0","185,772.0","204,549.0","222,203.0","250,933.0","279,866.0","281,007.0","256,082.0","281,441.0","285,881.0","295,015.0","303,986.0"
+"22","4","    Computers and peripheral equipment \1\","ZZZZZZ1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"23","5","    Communication equipment","C275RX1","60,088.0","77,849.0","72,853.0","59,203.0","64,785.0","71,814.0","74,633.0","85,219.0","96,240.0","91,514.0","79,374.0","90,207.0","91,765.0","102,263.0","110,449.0"
+"24","6","    Medical equipment and instruments","W176RX1","32,946.0","36,245.0","39,419.0","44,574.0","48,691.0","52,884.0","61,528.0","64,359.0","72,879.0","73,580.0","68,291.0","71,821.0","73,889.0","72,283.0","74,517.0"
+"25","7","    Nonmedical instruments","W177RX1","19,757.0","21,004.0","21,841.0","22,078.0","20,769.0","22,480.0","23,362.0","24,367.0","27,126.0","27,036.0","22,183.0","24,928.0","26,563.0","23,912.0","22,813.0"
+"26","8","    Photocopy and related equipment","C285RX1","9,378.0","8,963.0","6,331.0","4,626.0","5,353.0","5,364.0","5,077.0","4,463.0","6,799.0","7,196.0","5,658.0","6,331.0","7,338.0","7,423.0","7,491.0"
+"27","9","    Office and accounting equipment","B936RX1","3,732.0","3,885.0","4,888.0","5,301.0","8,236.0","8,492.0","8,706.0","9,084.0","4,544.0","4,864.0","3,798.0","3,518.0","3,192.0","2,773.0","2,802.0"
+"28","10","  Industrial equipment","A680RX1","182,758.0","198,543.0","183,902.0","171,550.0","172,237.0","169,098.0","183,613.0","199,067.0","205,315.0","195,454.0","152,067.0","151,312.0","183,258.0","190,277.0","197,708.0"
+"29","11","    Fabricated metal products","C263RX1","16,375.0","17,065.0","16,789.0","14,886.0","16,257.0","16,369.0","17,585.0","19,816.0","21,363.0","22,207.0","17,473.0","16,101.0","18,546.0","18,482.0","18,424.0"
+"30","12","    Engines and turbines","A668RX1","6,696.0","8,633.0","13,101.0","13,936.0","12,274.0","5,857.0","6,886.0","8,599.0","12,712.0","12,759.0","9,936.0","7,046.0","10,289.0","8,813.0","7,732.0"
+"31","13","    Metalworking machinery","C271RX1","33,132.0","33,759.0","28,641.0","25,922.0","25,622.0","25,722.0","27,826.0","29,070.0","29,610.0","28,922.0","20,683.0","20,205.0","25,577.0","30,503.0","33,014.0"
+"32","14","    Special industry machinery, n.e.c.","C272RX1","40,603.0","46,132.0","40,899.0","35,880.0","33,721.0","32,401.0","33,878.0","36,033.0","36,358.0","33,286.0","25,247.0","24,482.0","35,022.0","37,536.0","42,471.0"
+"33","15","    General industrial, including materials handling, equipment","C273RX1","58,351.0","61,876.0","56,461.0","55,925.0","59,433.0","61,231.0","67,775.0","72,151.0","70,955.0","66,583.0","53,052.0","56,019.0","64,386.0","66,906.0","68,468.0"
+"34","16","    Electrical transmission, distribution, and industrial apparatus","C276RX1","26,249.0","29,509.0","26,971.0","24,159.0","24,417.0","27,056.0","29,217.0","33,098.0","34,247.0","31,693.0","25,677.0","27,410.0","29,516.0","28,135.0","27,728.0"
+"35","17","  Transportation equipment","A681RX1","208,382.0","204,130.0","184,928.0","167,241.0","154,811.0","176,468.0","197,915.0","212,585.0","203,585.0","156,855.0","70,566.0","136,926.0","183,041.0","217,589.0","231,117.0"
+"36","18","    Trucks, buses, and truck trailers","C279RX1","103,029.0","95,413.0","77,565.0","71,862.0","74,349.0","94,488.0","111,863.0","124,089.0","106,186.0","71,363.0","23,826.0","64,570.0","97,193.0","109,391.0","121,856.0"
+"37","19","      Light trucks (including utility vehicles) \2\","W178RX1","86,665.0","83,947.0","73,023.0","65,064.0","69,317.0","85,643.0","101,555.0","114,606.0","104,671.0","64,066.0","4,752.0","90,562.0","146,286.0","164,851.0","196,104.0"
+"38","20","      Other trucks, buses, and truck trailers \2\","W179RX1","42,647.0","36,543.0","25,984.0","26,067.0","25,413.0","34,228.0","40,398.0","43,407.0","32,631.0","26,002.0","19,075.0","24,345.0","33,051.0","37,124.0","36,839.0"
+"39","21","    Autos \2\","C280RX1","49,468.0","51,713.0","51,931.0","52,100.0","46,840.0","44,687.0","49,793.0","54,188.0","54,479.0","40,279.0","17,322.0","41,018.0","46,045.0","64,547.0","69,679.0"
+"40","22","    Aircraft","C281RX1","46,212.0","47,932.0","49,756.0","36,436.0","25,657.0","28,357.0","25,916.0","23,562.0","30,227.0","30,000.0","17,703.0","22,081.0","27,921.0","30,985.0","30,658.0"
+"41","23","    Ships and boats","C282RX1","4,077.0","4,669.0","4,206.0","4,849.0","5,150.0","5,680.0","5,429.0","4,925.0","6,308.0","7,106.0","5,166.0","5,158.0","4,719.0","5,126.0","5,950.0"
+"42","24","    Railroad equipment","C283RX1","10,378.0","9,864.0","7,544.0","6,596.0","5,984.0","6,279.0","7,871.0","8,908.0","9,219.0","9,521.0","6,548.0","6,665.0","10,360.0","12,332.0","8,843.0"
+"43","25","  Other equipment","A682RX1","166,894.0","175,773.0","173,689.0","172,595.0","184,047.0","198,411.0","217,238.0","227,186.0","225,445.0","216,654.0","174,183.0","188,529.0","203,244.0","211,092.0","222,870.0"
+"44","26","    Furniture and fixtures","A667RX1","46,252.0","49,616.0","46,360.0","44,277.0","44,539.0","45,794.0","47,936.0","48,505.0","45,470.0","42,591.0","31,520.0","31,655.0","34,720.0","34,866.0","36,195.0"
+"45","27","    Agricultural machinery","C268RX1","16,436.0","18,093.0","19,177.0","21,949.0","23,717.0","25,978.0","27,244.0","25,414.0","25,315.0","28,274.0","28,804.0","26,935.0","29,879.0","24,026.0","24,852.0"
+"46","28","    Construction machinery","C269RX1","29,447.0","29,704.0","26,294.0","24,294.0","25,474.0","29,361.0","36,169.0","40,624.0","38,442.0","35,875.0","20,216.0","31,241.0","31,635.0","46,540.0","56,054.0"
+"47","29","    Mining and oilfield machinery","C270RX1","7,820.0","7,728.0","8,753.0","5,682.0","6,963.0","8,003.0","10,587.0","15,034.0","19,530.0","19,097.0","15,603.0","17,660.0","21,891.0","23,089.0","21,080.0"
+"48","30","    Service industry machinery","C570RX1","22,470.0","23,208.0","24,006.0","23,249.0","24,110.0","25,428.0","27,284.0","27,578.0","27,795.0","25,938.0","23,948.0","26,645.0","28,000.0","29,072.0","29,534.0"
+"49","31","    Electrical equipment, n.e.c.","A670RX1","4,689.0","4,901.0","5,278.0","5,661.0","5,906.0","7,002.0","6,590.0","6,447.0","5,470.0","5,396.0","4,092.0","4,484.0","4,425.0","4,317.0","4,480.0"
+"50","32","    Other","C286RX1","39,987.0","42,662.0","43,907.0","47,036.0","52,815.0","56,361.0","61,118.0","63,412.0","63,348.0","59,495.0","50,000.0","49,914.0","52,686.0","48,918.0","50,176.0"
+"51","33","  Less: Sale of equipment scrap, excluding autos","C287RX1","7,147.0","6,736.0","5,470.0","5,781.0","5,702.0","7,093.0","7,543.0","8,785.0","9,421.0","10,301.0","8,590.0","8,897.0","6,498.0","6,593.0","6,850.0"
+"52","34","Residential equipment","B013RX1","7,157.0","7,617.0","7,755.0","7,988.0","8,483.0","9,453.0","9,867.0","10,063.0","9,772.0","9,252.0","8,316.0","8,814.0","9,228.0","9,339.0","9,997.0"
+"53","35","Residual","Y036RX1","-73,600.0","-57,100.0","-49,700.0","-43,900.0","-38,500.0","-41,300.0","-47,400.0","-47,700.0","-40,600.0","-24,200.0","-100.0","-55,400.0","-86,200.0","-99,200.0","-118,900.0"
+"54",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","n.e.c. Not elsewhere classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","1. The quantity index for computers can be used to accurately measure the real",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","growth rate of this component. However, because computers exhibit rapid changes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","in prices relative to other prices in the economy, the chained-dollar estimates",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","should not be used to measure the component's relative importance or its contribution",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","to the growth rate of more aggregate series; accurate estimates of these contributions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","are shown in table 5.5.2 and real growth rates are shown in table 5.5.1.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","2. Includes net purchases of used vehicles; additional detail is available in table 7.2.6B.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Note. Chained (2009) dollar series are calculated as the product of the chain-type quantity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","index and the 2009 current-dollar value of the corresponding series, divided by 100. Because",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","the formula for the chain-type quantity indexes uses weights of more than one period, the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","corresponding chained-dollar estimates are usually not additive. The residual line is the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

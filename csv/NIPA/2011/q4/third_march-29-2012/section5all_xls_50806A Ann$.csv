@@ -1,0 +1,90 @@
+"","Table 5#8#6A# Real Gross Government Fixed Investment by Type, Ch","F2","F3","F4","F5","F6"
+"1","[Billions of chained (2005) dollars]",NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 1997",NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA
+"4","Data published August 20, 2009   ",NA,NA,NA,NA,NA
+"5","File created 3/28/2012 8:24:09 AM",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997
+"8","1","      Gross government fixed investment \1\","A782RX1",283.9,294.6,302.7
+"9","2","        Federal","A787RX1",79.9,81.7,75.8
+"10","3","          National defense","A788RX1",52.8,52.3,46.8
+"11","4","          Nondefense","A798RX1",27.1,29.3,29
+"12","5","        State and local","A799RX1",201.9,211.1,227.1
+"13","6","Structures \2\","A760RX1",201.3,209.6,219.3
+"14","7","  Federal","A801RX1",25.8,25.1,22.5
+"15","8","    National defense","A808RX1",10.1,9.2,8.7
+"16","9","      New","A814RX1",10.1,9.2,8.7
+"17","10","        Buildings","B815RX1",3.2,3,2.8
+"18","11","          Residential","B816RX1",2.3,2.1,2.1
+"19","12","          Industrial","B817RX1",0.9,0.9,0.7
+"20","13","        Military facilities \3\","B818RX1",6.9,6.2,5.9
+"21","14","      Net purchases of used structures","B819RX1",0,0,0
+"22","15","    Nondefense","A830RX1",15.7,15.9,13.8
+"23","16","      New","A831RX1",16.5,16,14.2
+"24","17","        Buildings","B832RX1",6.6,6.7,6.5
+"25","18","          Residential","ZZZZZZ1",NA,NA,NA
+"26","19","          Industrial","B834RX1",1.3,1,0.6
+"27","20","          Educational \4\","B835RX1",0,0,0
+"28","21","          Hospital","B836RX1",1.1,1.3,1.4
+"29","22","          Other \5\","B837RX1",4.2,4.4,4.4
+"30","23","        Highways and streets \6\","B838RX1",0.5,0.5,0.4
+"31","24","        Conservation and development","B839RX1",6,5.4,4.7
+"32","25","        Other \7\","B840RX1",3.4,3.4,2.6
+"33","26","      Net purchases of used structures","B841RX1",-0.9,-0.1,-0.4
+"34","27","  State and local","A842RX1",175.4,184.3,196.7
+"35","28","    New","A843RX1",170.7,180,192.5
+"36","29","      Buildings","B844RX1",78.1,84.1,90.9
+"37","30","        Residential","B845RX1",6.1,6.3,6.5
+"38","31","        Industrial","ZZZZZZ1",NA,NA,NA
+"39","32","        Educational \8\","B847RX1",38.3,41.5,47.2
+"40","33","        Hospital","B848RX1",4.6,4.4,4.6
+"41","34","        Other \5\","B849RX1",29.1,31.9,32.5
+"42","35","      Highways and streets \9\","B851RX1",56.9,57.2,59.7
+"43","36","      Conservation and development","B857RX1",3.3,3.4,3.2
+"44","37","      Sewer systems","B858RX1",12,13.2,13.3
+"45","38","      Water systems","B859RX1",7.3,9,10.6
+"46","39","      Other \7\","B860RX1",13.1,13,14.8
+"47","40","    Net purchases of used structures","B870RX1",4.7,4.4,4.3
+"48","41","Equipment and software \2\","A871RX1",85.6,88.5,88.5
+"49","42","  Federal","A872RX1",57.1,59.1,55.4
+"50","43","    National defense","A873RX1",43.7,43.8,38.9
+"51","44","      Aircraft","B874RX1",7.9,7.7,5.3
+"52","45","      Missiles","B875RX1",4.4,4,2.9
+"53","46","      Ships","B876RX1",9.8,8.2,7.3
+"54","47","      Vehicles","B877RX1",1.1,1.2,1.3
+"55","48","      Electronics and software","B878RX1",6.6,7.1,7.5
+"56","49","      Other equipment","B879RX1",14.7,16.2,14.9
+"57","50","    Nondefense","B880RX1",13.7,15.5,16.6
+"58","51","  State and local","B881RX1",29.1,29.9,33.1
+"59","52","Residual","A967RX1",-4.5,-4.6,-5.6
+"60",NA,"Addenda:"," ",NA,NA,NA
+"61","53","  Government enterprise gross fixed investment","A882RX1",68.5,70.6,62.9
+"62","54","    Federal","A883RX1",5.7,5.9,6.1
+"63","55","      Structures","B884RX1",3.7,3,3.4
+"64","56","      Equipment and software","B885RX1",2.5,3.1,3
+"65","57","    State and local","A886RX1",63.1,65.1,56.6
+"66","58","      Structures","B887RX1",57.7,61.1,52.2
+"67","59","      Equipment and software","B888RX1",6,5.3,5.2
+"68",NA,NA,NA,NA,NA,NA
+"69","1. Consists of general government and government enterprise expenditures for fixed assets.",NA,NA,NA,NA,NA
+"70","2. Structures and software include compensation of government employees engaged in new",NA,NA,NA,NA,NA
+"71","own-account investment and related expenditures for goods and services.",NA,NA,NA,NA,NA
+"72","3. Consists of Department of Defense new structures, except family housing.",NA,NA,NA,NA,NA
+"73","4. Excludes educational structures associated with hospitals, nondefense industrial, other",NA,NA,NA,NA,NA
+"74","buildings, conservation and development, and other nondefense structures, which are included",NA,NA,NA,NA,NA
+"75","in those categories.",NA,NA,NA,NA,NA
+"76","5. Consists primarily of general office buildings, police and fire stations, courthouses,",NA,NA,NA,NA,NA
+"77","auditoriums, garages, and passenger terminals.",NA,NA,NA,NA,NA
+"78","6. Excludes highways and streets associated with hospitals, other buildings, and other",NA,NA,NA,NA,NA
+"79","nondefense structures, which are included in those categories.",NA,NA,NA,NA,NA
+"80","7. Consists primarily of electric and gas facilities, transit systems, and airfields.",NA,NA,NA,NA,NA
+"81","8. Excludes the value of construction for educational facilities built at hospital sites.",NA,NA,NA,NA,NA
+"82","9. Excludes highways and streets associated with other nonbuilding structures, which are",NA,NA,NA,NA,NA
+"83","included in that category.",NA,NA,NA,NA,NA
+"84","Note. Chained (2005) dollar series are calculated as the product of the chain-type quantity",NA,NA,NA,NA,NA
+"85","index and the 2005 current-dollar value of the corresponding series, divided by 100. Because",NA,NA,NA,NA,NA
+"86","the formula for the chain-type quantity indexes uses weights of more than one period, the",NA,NA,NA,NA,NA
+"87","corresponding chained-dollar estimates are usually not additive. The residual line is the",NA,NA,NA,NA,NA
+"88","difference between the first line and the sum of the most detailed lines, excluding the",NA,NA,NA,NA,NA
+"89","lines in the addenda.",NA,NA,NA,NA,NA

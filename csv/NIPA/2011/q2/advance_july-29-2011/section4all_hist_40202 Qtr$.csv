@@ -1,0 +1,64 @@
+"","Table 4#2#2# Contributions to Percent Change in Real Exports and","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13"
+"1","; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1967 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 29, 2011     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/8/2011 9:23:11 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1967,1967,1967,1967,1968,1968,1968,1968,1969,1969
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2
+"9",NA,"Percent change at annual rate:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","1","    Exports of goods and services","A020RL1",NA,-3.6,-9.4,11.9,12.2,8.2,25.7,-5,-40,124.5
+"11",NA,"Percentage points at annual rates:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","2","Exports of goods \1\","A253RZ2",NA,-0.56,-4.27,5.3,10.2,4.47,22.09,-7.18,-33.37,106.66
+"13","3","  Foods, feeds, and beverages","B638RZ2",NA,-0.43,-1.1,2.54,1.81,-5.61,1.05,0.98,-10.72,24.96
+"14","4","  Industrial supplies and materials","A639RZ2",NA,-1.01,-2.77,1.43,3.45,7.21,12.64,-7.88,-16.96,47.88
+"15","5","    Durable goods","B686RZ2",NA,-0.31,-3.95,0.96,2.48,4.52,3.14,-0.9,-6.25,16.53
+"16","6","    Nondurable goods","B687RZ2",NA,-0.7,1.18,0.46,0.98,2.7,9.5,-6.98,-10.72,31.34
+"17","7","  Capital goods, except automotive","A640RZ2",NA,1.71,-1.4,1.17,1.48,-2.22,8.11,-4.27,-4.56,24.79
+"18","8","    Civilian aircraft, engines, and parts","B688RZ2",NA,0.44,2.57,0.99,0.88,1.16,4.22,-2.2,-0.26,-3.14
+"19","9","    Computers, peripherals, and parts","B850RZ2",NA,0.14,-0.13,0.43,-0.13,-0.13,0.81,-0.24,0.56,0.72
+"20","10","    Other","B689RZ2",NA,1.13,-3.83,-0.24,0.73,-3.26,3.08,-1.83,-4.85,27.2
+"21","11","  Automotive vehicles, engines, and parts","B641RZ2",NA,0.53,1.19,-0.8,2.78,3.49,-0.47,2.44,-2,4.42
+"22","12","  Consumer goods, except automotive","A642RZ2",NA,-1.41,0.23,0.47,0.31,1.64,0.54,-0.98,-0.13,5.2
+"23","13","    Durable goods","B690RZ2",NA,-0.65,-0.07,0.31,0.05,1.08,0.35,-0.83,0.78,2.13
+"24","14","    Nondurable goods","B691RZ2",NA,-0.76,0.3,0.16,0.26,0.56,0.19,-0.16,-0.91,3.07
+"25","15","  Other","A643RZ2",NA,0.05,-0.42,0.5,0.37,-0.06,0.23,2.53,1.01,-0.57
+"26","16","Exports of services \1\","A646RZ2",NA,-3.03,-5.11,6.59,1.94,3.73,3.58,2.18,-6.66,17.92
+"27","17","  Transfers under U.S. military agency sales contracts","B267RZ2",NA,-2.72,-5.93,6.02,1.3,2.98,1.78,1.98,-6.12,7.13
+"28","18","  Travel","B493RZ2",NA,-0.79,0.69,0.4,0.05,-0.33,0.53,0.17,1.34,0.18
+"29","19","  Passenger fares","B533RZ2",NA,-0.05,0.43,-0.04,0.13,0.12,-0.09,0.06,0.14,0.16
+"30","20","  Other transportation","B683RZ2",NA,-0.07,-0.61,0.1,0.19,0.7,0.65,-0.12,-2.05,8.64
+"31","21","  Royalties and license fees","B684RZ2",NA,0.14,-0.47,-0.18,-0.02,0.44,0.7,-0.01,-0.22,1.14
+"32","22","  Other private services","B720RZ2",NA,0.41,0.65,0.22,-0.18,-0.14,-0.07,0.01,0.26,0.5
+"33","23","  Other","B980RZ2",NA,0.04,0.13,0.06,0.47,-0.03,0.08,0.09,-0.01,0.17
+"34",NA,"Percent change at annual rate:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","24","    Imports of goods and services","A021RL1",NA,-3.2,5.3,22.8,25.7,6.3,26.3,-3.4,-32.7,105.5
+"36",NA,"Percentage points at annual rates:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","25","Imports of goods \1\","A255RZ2",NA,-8.25,2.23,26.62,24.6,7.21,22.05,-4.83,-33.7,99.32
+"38","26","  Foods, feeds, and beverages","B647RZ2",NA,-3.58,2.52,1.58,1.21,1.66,8.22,-7.21,-8.8,17.87
+"39","27","  Industrial supplies and materials, except petroleum and products","A649RZ2",NA,-4.98,-2.95,14.69,13.06,-0.25,-2.34,0.28,-16.34,36.02
+"40","28","    Durable goods","A820RZ2",NA,-1.95,-2.06,10.74,12.06,-1.19,-2.49,-0.81,-11.06,24.51
+"41","29","    Nondurable goods","B696RZ2",NA,-3.03,-0.89,3.95,1,0.94,0.15,1.09,-5.28,11.51
+"42","30","  Petroleum and products","B648RZ2",NA,0.41,-4.05,3.5,1.52,-0.09,2.49,-0.48,-0.02,2.76
+"43","31","  Capital goods, except automotive","A650RZ2",NA,-0.82,0.74,0.01,1.77,0.25,2.17,1.16,-2.67,10.13
+"44","32","    Civilian aircraft, engines, and parts","B932RZ2",NA,-0.37,0.2,0.12,0.39,0.06,-0.27,0.58,-0.34,-0.12
+"45","33","    Computers, peripherals, and parts","B852RZ2",NA,0,0,0,0.15,0,0.13,0,-0.11,0.56
+"46","34","    Other","B853RZ2",NA,-0.46,0.54,-0.11,1.24,0.19,2.31,0.58,-2.21,9.69
+"47","35","  Automotive vehicles, engines, and parts","B651RZ2",NA,-0.11,4.32,1.29,5.29,2.83,5.15,2.14,-4.07,13.35
+"48","36","  Consumer goods, except automotive","A652RZ2",NA,-0.5,1.22,3.65,4.61,1.12,3.77,1.68,-1.44,14.74
+"49","37","    Durable goods","B697RZ2",NA,-0.38,1.15,0.57,4.12,0.19,3.36,0.23,-0.56,6.53
+"50","38","    Nondurable goods","B698RZ2",NA,-0.12,0.07,3.08,0.49,0.93,0.41,1.45,-0.88,8.21
+"51","39","  Other","A653RZ2",NA,1.35,0.42,1.91,-2.86,1.68,2.59,-2.4,-0.35,4.43
+"52","40","Imports of services \1\","B656RZ2",NA,5.08,3.11,-3.81,1.14,-0.95,4.25,1.5,0.98,6.17
+"53","41","  Direct defense expenditures","B752RZ2",NA,-0.39,1.26,0.29,-0.33,0.16,1.3,0.71,0.91,-0.3
+"54","42","  Travel","B768RZ2",NA,5.62,2.94,-6.59,0.12,-1.15,1.13,-1.45,2.6,0.63
+"55","43","  Passenger fares","B769RZ2",NA,-0.15,-0.14,0.42,-0.34,0.31,0.51,0.05,0.8,0.43
+"56","44","  Other transportation","B770RZ2",NA,-0.53,-1.65,1.72,2,-0.47,1.07,-0.47,-1.65,5.19
+"57","45","  Royalties and license fees","B908RZ2",NA,-0.01,-0.01,0.11,0.18,-0.16,-0.02,0.05,0.28,-0.07
+"58","46","  Other private services","B909RZ2",NA,0.28,0.42,-0.08,-0.08,0.43,0.12,0.2,0.14,0.18
+"59","47","  Other","B910RZ2",NA,0.26,0.29,0.33,-0.41,-0.07,0.14,2.43,-2.1,0.12
+"60",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal government, are included ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","in services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Beginning with 1986, repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

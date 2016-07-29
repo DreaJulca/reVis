@@ -1,0 +1,31 @@
+"","Table 1#9#6# Real Net Value Added by Sector, Chained Dollars    ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Billions of chained (2009) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2014   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/5/2014 11:32:46 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013
+"8","1","    Net domestic product","A362RX1",10423.5,10813.4,10845.8,11008,11311.5,11745.4,12127.8,12423.2,12601.8,12492.9,12050.4,12401.1,12607.2,12912.3,13203.2
+"9","2","Business \1\","A363RX1",7773.7,8088.5,8079.4,8203.2,8470.7,8870.5,9209.5,9490.2,9664.6,9487.8,9022.6,9355.2,9559.2,9869,10141.3
+"10","3","  Nonfarm \2\","A364RX1",7736.5,8037,8034.8,8155.4,8414,8808,9142.3,9423.2,9617.2,9429.1,8947,9278.9,9490.7,9812.8,10065.2
+"11","4","  Farm","A365RX1",43.6,56.1,50.2,53.1,61.1,66.1,70.5,70.6,54.8,61.8,75.6,76.4,71.7,66,77.8
+"12","5","Households and institutions","W503RX1",1308.1,1356.1,1379.8,1392.2,1409.6,1433.8,1467.5,1474.3,1462,1508.7,1510.3,1526.8,1545.7,1554,1578.9
+"13","6","  Households","W504RX1",662.5,693.3,715.7,714.1,728.6,753.9,790.5,803.2,785.8,816.1,812.7,820.7,828.4,825.8,842.3
+"14","7","  Nonprofit institutions serving households \3\","W505RX1",648.1,664.5,664.5,679.4,681.8,680.1,677,671.4,676.2,692.6,697.6,706.1,717.3,728.1,736.6
+"15","8","General government \4\","A194RX1",1357.9,1379.4,1403.6,1429.7,1443.6,1446.6,1452.3,1455.8,1469.2,1494.6,1517.4,1519.4,1503.3,1490.5,1484.5
+"16","9","  Federal","B568RX1",319.9,322.6,323.7,331.2,341.4,343.8,344.3,341.2,341.3,354.1,375.5,389.2,389.9,385.9,372.5
+"17","10","  State and local","B251RX1",1038.3,1056.9,1079.6,1098.3,1102.3,1102.9,1108.1,1114.7,1128.1,1140.6,1141.9,1130.1,1113.3,1104.5,1111.9
+"18","11","Residual","A966RX1",-25.4,-17,-22.7,-23.5,-17.7,-9.4,-4.9,-1.1,-1.6,-1.4,0.1,-0.3,-4.1,-10.8,-3.1
+"19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","1. Equals net domestic product excluding net value added of households and institutions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","and of general government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","2. Equals net domestic business value added excluding net farm value added.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","3. Equals gross value added of nonprofit institutions excluding consumption of fixed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","capital on fixed assets owned and used by nonprofit instututions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","4. Equals compensation of general government employees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Note. Chained (2009) dollar series are calculated as the product of the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","quantity index and the 2009 current-dollar value of the corresponding series, divided by",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","100. Because the formula for the chain-type quantity indexes uses weights of more than",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","one period, the corresponding chained-dollar estimates are usually not additive. The",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

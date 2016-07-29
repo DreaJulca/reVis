@@ -1,0 +1,69 @@
+"","Table 4#2#3# Real Exports and Imports of Goods and Services by T","F2","F3","F4","F5","F6"
+"1","[Index numbers, 2009=100]                                                       ",NA,NA,NA,NA,NA
+"2","Annual data from 1967 To 1969",NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA
+"4","Data published July 31, 2013     ",NA,NA,NA,NA,NA
+"5","File created 8/7/2013 2:45:00 PM",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1967,1968,1969
+"8","1","    Exports of goods and services","B020RA3",9.402,10.14,10.631
+"9","2","Exports of goods \1\","B253RA3",8.924,9.631,10.135
+"10","3","  Foods, feeds, and beverages","B638RA3",22.014,21.664,21.213
+"11","4","  Industrial supplies and materials","B639RA3",18.037,20.521,21.46
+"12","5","    Durable goods","B686RA3",20.823,24.541,27.133
+"13","6","    Nondurable goods","B687RA3",16.909,18.839,19.014
+"14","7","  Capital goods, except automotive","B640RA3",3.59,3.7,3.917
+"15","8","    Civilian aircraft, engines, and parts","B688RA3",8.09,13.942,12.084
+"16","9","    Computers, peripherals, and parts","B850RA3",0.013,0.014,0.019
+"17","10","    Other","B689RA3",6.738,6.51,6.958
+"18","11","  Automotive vehicles, engines, and parts","B641RA3",18.387,22.663,24.497
+"19","12","  Consumer goods, except automotive","B642RA3",5.03,5.465,5.853
+"20","13","    Durable goods","B690RA3",4.912,5.433,6.347
+"21","14","    Nondurable goods","B691RA3",5.041,5.404,5.405
+"22","15","  Other","B643RA3",20.822,22.081,25.06
+"23","16","Exports of services \1\","B646RA3",10.699,11.52,11.949
+"24","17","  Transfers under U.S. military agency sales contracts","B267RA3",89.399,105.901,103.946
+"25","18","  Travel","B493RA3",11.537,11.923,13.018
+"26","19","  Passenger fares","B533RA3",6.735,7.435,8.033
+"27","20","  Other transportation","B683RA3",27.616,28.292,30.476
+"28","21","  Royalties and license fees","B684RA3",10.549,10.755,11.096
+"29","22","  Other private services","B720RA3",1.35,1.399,1.536
+"30","23","  Other","B980RA3",23.273,24.539,24.894
+"31","24","    Imports of goods and services","B021RA3",10.156,11.669,12.334
+"32","25","Imports of goods \1\","B255RA3",8.556,10.324,10.889
+"33","26","  Foods, feeds, and beverages","B647RA3",26.906,30.53,28.932
+"34","27","  Industrial supplies and materials, except petroleum and products","B649RA3",27.617,32.873,31.107
+"35","28","    Durable goods","B820RA3",37.145,46.546,42.433
+"36","29","    Nondurable goods","B696RA3",19.343,21.174,21.319
+"37","30","  Petroleum and products","B648RA3",18.592,21.411,23.887
+"38","31","  Capital goods, except automotive","B650RA3",0.633,0.725,0.848
+"39","32","    Civilian aircraft, engines, and parts","B932RA3",3.198,4.478,4.054
+"40","33","    Computers, peripherals, and parts","B852RA3",0.001,0.001,0.001
+"41","34","    Other","B853RA3",1.466,1.65,1.948
+"42","35","  Automotive vehicles, engines, and parts","B651RA3",11.276,17.539,21.423
+"43","36","  Consumer goods, except automotive","B652RA3",3.999,5.048,5.959
+"44","37","    Durable goods","B697RA3",3.745,4.737,5.467
+"45","38","    Nondurable goods","B698RA3",4.466,5.617,6.877
+"46","39","  Other","B653RA3",13.099,13.581,14.742
+"47","40","Imports of services \1\","B656RA3",18.308,18.637,19.812
+"48","41","  Direct defense expenditures","B752RA3",177.117,182.704,193.245
+"49","42","  Travel","B768RA3",21.552,19.529,21.188
+"50","43","  Passenger fares","B769RA3",16.791,17.44,21.077
+"51","44","  Other transportation","B770RA3",32.457,35.778,36.503
+"52","45","  Royalties and license fees","B908RA3",3.169,3.371,3.852
+"53","46","  Other private services","B909RA3",0.79,0.894,0.993
+"54","47","  Other","B910RA3",54.046,57.755,55.847
+"55",NA,"Addenda:"," ",NA,NA,NA
+"56","48","  Exports of durable goods","B332RA3",6.631,7.257,7.845
+"57","49","  Exports of nondurable goods","B339RA3",15.592,16.503,16.659
+"58","50","  Exports of agricultural goods \2\","B181RA3",25.994,25.908,24.806
+"59","51","  Exports of nonagricultural goods","B182RA3",9.958,11.054,11.733
+"60","52","  Imports of durable goods","B333RA3",4.782,6.09,6.508
+"61","53","  Imports of nondurable goods","B340RA3",18.29,20.716,21.49
+"62","54","  Imports of nonpetroleum goods","B187RA3",6.651,8.054,8.458
+"63",NA,NA,NA,NA,NA,NA
+"64","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal government, are included ",NA,NA,NA,NA,NA
+"65","in services.",NA,NA,NA,NA,NA
+"66","Beginning with 1986, repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA,NA
+"67","2. Includes parts of foods, feeds, and beverages, of nondurable industrial supplies and materials, and of nondurable ",NA,NA,NA,NA,NA
+"68","nonautomotive consumer goods.",NA,NA,NA,NA,NA

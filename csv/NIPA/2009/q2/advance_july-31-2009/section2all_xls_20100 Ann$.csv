@@ -1,0 +1,58 @@
+"","Table 2#1# Personal Income and Its Disposition                  ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:49:12 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","Personal income","A065RC1",6200.9,6591.6,7000.7,7525.4,7910.8,8559.4,8883.3,9060.1,9378.1,9937.2,10485.9,11268.1,11894.1,12238.8
+"9","2","  Compensation of employees, received","W209RC1",4178.8,4387.7,4668.6,5023.9,5348.8,5788.8,5979.3,6110.8,6367.6,6708.4,7060,7475.7,7862.7,8042.4
+"10","3","    Wage and salary disbursements","A576RC1",3418,3616.3,3876.6,4181.6,4460,4827.7,4952.2,4997.3,5139.6,5425.7,5701,6068.9,6408.9,6545.9
+"11","4","      Private industries","A132RC1",2789,2968.3,3204.8,3480.4,3726.3,4048,4130.3,4124.2,4226.3,4472.9,4709.5,5033.7,5319.8,5404.6
+"12","5","      Government","B202RC1",629,648.1,671.8,701.2,733.7,779.7,821.9,873.1,913.3,952.8,991.5,1035.2,1089.1,1141.3
+"13","6","    Supplements to wages and salaries","A038RC1",760.8,771.4,792,842.3,888.8,961.2,1027.1,1113.5,1228,1282.7,1359.1,1406.9,1453.8,1496.6
+"14","7","      Employer contributions for employee pension and insurance funds","B040RC1",496.7,496.6,502.4,535.1,565.4,615.9,669.1,747.4,845.6,874.6,931.6,960.1,993,1023.9
+"15","8","      Employer contributions for government social insurance","B039RC1",264.1,274.8,289.6,307.2,323.3,345.2,358,366.1,382.4,408.1,427.5,446.7,460.8,472.7
+"16","9","  Proprietors' income with inventory valuation and capital consumption adjustments","A041RC1",516,583.7,628.2,687.5,746.8,817.5,870.7,890.3,930.6,1033.8,1069.8,1133,1096.4,1106.3
+"17","10","    Farm","B042RC1",23.4,38.4,32.6,28.9,28.5,29.6,30.5,18.5,36.5,49.7,43.9,29.3,39.4,48.7
+"18","11","    Nonfarm","A045RC1",492.6,545.2,595.6,658.7,718.3,787.8,840.2,871.8,894.1,984.1,1025.9,1103.6,1056.9,1057.5
+"19","12","  Rental income of persons with capital consumption adjustment","A048RC1",154.6,170.4,176.5,191.5,208.2,215.3,232.4,218.7,204.2,198.4,178.2,146.5,144.9,210.4
+"20","13","  Personal income receipts on assets","W210RC1",1005.4,1080.7,1165.5,1269.2,1246.8,1360.7,1346,1309.6,1312.9,1408.5,1542,1829.7,2031.5,1994.4
+"21","14","    Personal interest income","A064RC1",751.9,784.4,835.8,919.3,910.9,984.2,976.5,911.9,889.8,860.2,987,1127.5,1266.4,1308
+"22","15","    Personal dividend income","B703RC1",253.4,296.4,329.7,349.8,335.9,376.5,369.5,397.7,423.1,548.3,555,702.2,765.1,686.4
+"23","16","  Personal current transfer receipts","A577RC1",878.9,924.1,949.2,977.9,1021.6,1083,1188.1,1282.1,1341.7,1415.5,1508.6,1605,1718,1875.9
+"24","17","    Government social benefits to persons","A063RC1",860.2,901.2,929.8,951.9,987.6,1040.6,1141.3,1247.9,1316,1398.6,1482.7,1583.6,1687.8,1843.2
+"25","18","      Old-age, survivors, disability, and health insurance benefits","B222RC1",508.9,536.9,563.5,574.7,588.6,620.5,667.7,706.1,740.4,790.2,844.7,943.3,1003.7,1070.3
+"26","19","      Government unemployment insurance benefits","B223RC1",21.4,22,19.9,19.5,20.3,20.6,31.7,53.2,52.8,36,31.3,29.9,32.3,50.6
+"27","20","      Veterans benefits","B224RC1",20.9,21.7,22.6,23.5,24.3,25.2,26.8,29.8,32.2,34.5,36.8,39.3,42.1,45.6
+"28","21","      Family assistance \1\","B226RC1",22.6,20.3,17.9,17.4,17.9,18.4,18.1,17.7,18.4,18.4,18.2,18.2,18.5,18.9
+"29","22","      Other","B227RC1",286.4,300.3,306,316.8,336.4,355.9,397.1,441.1,472.3,519.6,551.7,552.9,591.2,657.9
+"30","23","    Other current transfer receipts, from business (net)","B931RC1",18.7,22.9,19.4,26,34,42.4,46.8,34.2,25.7,16.9,25.8,21.4,30.2,32.6
+"31","24","  Less: Contributions for government social insurance, domestic","A061RC1",532.8,555.1,587.2,624.7,661.3,705.8,733.2,751.5,778.9,827.3,872.7,921.8,959.3,990.6
+"32","25","Less: Personal current taxes","W055RC1",743.9,832,926.2,1026.4,1107.5,1232.3,1234.8,1050.4,1000.3,1047.8,1208.6,1352.4,1490.9,1432.4
+"33","26","Equals: Disposable personal income","A067RC1",5457,5759.6,6074.6,6498.9,6803.3,7327.2,7648.5,8009.7,8377.8,8889.4,9277.3,9915.7,10403.1,10806.4
+"34","27","Less: Personal outlays","A068RC1",5170.8,5478.5,5794.2,6157.5,6595.5,7114.1,7443.5,7727.5,8088,8585.7,9149.6,9680.7,10224.3,10520
+"35","28","  Personal consumption expenditures","DPCERC1",4987.3,5273.6,5570.6,5918.5,6342.8,6830.4,7148.8,7439.2,7804,8285.1,8819,9322.7,9826.4,10129.9
+"36","29","  Personal interest payments \2\","B069RC1",130.6,147.3,159.7,169.5,176.5,200.3,203.7,191.3,182.7,190.3,210.8,230.1,256.8,237.7
+"37","30","  Personal current transfer payments","W211RC1",52.9,57.6,63.9,69.5,76.2,83.4,91,97,101.3,110.3,119.8,128,141,152.3
+"38","31","    To government","W062RC1",32.6,34.9,38.2,39.9,44.1,48.8,52.9,56.4,60.2,66.7,71.4,76.4,82.3,87.9
+"39","32","    To the rest of the world (net)","B070RC1",20.3,22.6,25.7,29.7,32.2,34.6,38.1,40.6,41.2,43.6,48.4,51.6,58.7,64.5
+"40","33","Equals: Personal saving","A071RC1",286.3,281.1,280.4,341.5,207.8,213.1,204.9,282.2,289.8,303.7,127.7,235,178.9,286.4
+"41","34","  Personal saving as a percentage of disposable personal income","A072RC1",5.2,4.9,4.6,5.3,3.1,2.9,2.7,3.5,3.5,3.4,1.4,2.4,1.7,2.7
+"42",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","35","  Personal income excluding current transfer receipts, billions of chained (2005) dollars \3\","W875RX1",6487,6761,7086.5,7595,7864.8,8327.8,8411.1,8387.2,8493.1,8776.4,8977.3,9404.8,9645.4,9504.6
+"44",NA,"  Disposable personal income:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","36","    Total, billions of chained (2005) dollars \3\","A067RX1",6651.6,6870.9,7113.5,7538.8,7766.7,8161.5,8360.1,8637.1,8853.9,9155.1,9277.3,9650.7,9860.6,9911.3
+"46",NA,"    Per capita:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","37","      Current dollars","A229RC0",20470,21355,22255,23534,24356,25945,26809,27806,28816,30303,31338,33183,34478,35486
+"48","38","      Chained (2005) dollars","A229RX0",24951,25475,26061,27299,27805,28899,29303,29984,30454,31209,31338,32296,32679,32546
+"49","39","  Population (midperiod, thousands)","B230RC0",266588,269714,272958,276154,279328,282413,285294,288055,290729,293348,296036,298820,301737,304529
+"50",NA,"  Percent change from preceding period:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","40","    Disposable personal income, current dollars","A067RP1",5.3,5.5,5.5,7,4.7,7.7,4.4,4.7,4.6,6.1,4.4,6.9,4.9,3.9
+"52","41","    Disposable personal income, chained (2005) dollars","A067RL1",3,3.3,3.5,6,3,5.1,2.4,3.3,2.5,3.4,1.3,4,2.2,0.5
+"53",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","1. Consists of aid to families with dependent children and, beginning with 1996, assistance programs operating",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","2. Consists of nonmortgage interest paid by households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","3. The current-dollar measure is deflated by the implicit price deflator for personal consumption expenditures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

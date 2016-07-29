@@ -1,0 +1,122 @@
+"","Table 2#7# Real Personal Consumption Expenditures by Type of Pro","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 09, 2002   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/29/2003 8:38:01 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001
+"8","1","      Personal consumption expenditures","A002RX",4113.4,4279.5,4393.7,4474.5,4466.6,4594.5,4748.9,4928.1,5075.6,5237.5,5423.9,5683.7,5964.5,6223.9,6377.2
+"9","2","Durable goods","B003RX",455.2,481.5,491.7,487.1,454.9,479,518.3,557.7,583.5,616.5,657.3,726.7,812.5,878.9,931.9
+"10","3","  Motor vehicles and parts","A165RX",242.4,254.9,253.9,246.1,211.8,225.7,242.2,255.1,253.4,256.3,264.8,292,322.1,338.4,361.9
+"11","4","    New autos (70)","A136RX",111.3,115.8,109.2,104,81,85.5,87.8,89.7,83.5,81.9,82.4,88.5,99.9,107,108
+"12","5","    Net purchases of used autos (71)","A137RX",41.1,41.6,41.5,42,40.8,41.7,46.9,48.5,51.2,51.4,54.4,57.5,59.8,60.4,60.4
+"13","6","    Other motor vehicles (72)","AOAURX",63.2,68.2,74.2,69.7,60.7,68.4,75.3,81.7,81.9,84.3,88.1,103.7,116.8,123.9,147.3
+"14","7","    Tires, tubes, accessories, and other parts (73)","ATBARX",26.1,28.3,28.5,29.7,29.1,29.9,32.2,35.2,36.8,38.7,39.9,42.1,45.3,46.7,45.4
+"15","8","  Furniture and household equipment","A166RX",133.3,142.3,149.9,150.9,152.7,161.5,177.4,196.3,215.4,236.9,261.9,293.3,335.1,374,398
+"16","9","    Furniture, including mattresses and bedsprings (29)","BFNRRX",38.8,39.6,43.7,42.2,41.4,41.7,44,46.3,48.1,50.9,53.8,56.9,60.6,65,65.7
+"17","10","    Kitchen and other household appliances (30)","BAPPRX",21.4,22.3,23.4,23.4,23.2,24.4,26,27.2,29.1,30,30.9,32.6,35.5,37.5,38.3
+"18","11","    China, glassware, tableware, and utensils (31)","BCHNRX",15.7,16.7,17.7,18.2,18,19.1,20.4,21.8,23.5,25.4,27.3,28.8,31.8,34.2,35.9
+"19","12","    Video and audio goods, including musical instruments, and computer goods (91)","BRADRX",25.7,29.4,31.2,33,36.2,40.3,47.7,57.1,67.3,80,97,121.3,152.7,185.5,211.5
+"20","13","      Video and audio goods, including musical instruments (92)","BVAMRX",31.6,34.7,36.6,37.3,37.5,39.8,43.4,49.2,53.6,56.4,60.4,67.4,78.3,90.7,99
+"21","14","      Computers, peripherals, and software (3) \*\","BCPTRX",1,1.5,1.7,2.1,3.4,4.5,7,10,14.6,23.6,38.1,60.9,91,122,152.6
+"22","15","    Other durable house furnishings (32)","AODHRX",39.9,41.3,41.1,40.1,38.1,39.2,41.7,45.3,47.8,50.5,53.3,56.6,61.9,65.9,68
+"23","16","  Other","A167RX",88.9,93.8,95.7,96.7,92.6,94.1,100.7,107.6,115,123.3,130.8,141.8,156.5,169.6,175.3
+"24","17","    Ophthalmic products and orthopedic appliances (46)","BOPTRX",11.2,13.1,14,16.1,14.3,14.2,14.4,15.7,16,17.6,18.9,19.9,20.6,21.3,19.4
+"25","18","    Wheel goods, sports and photographic equipment, boats, and pleasure aircraft (90)","AWHGRX",30,31.4,32.4,31.8,30.7,30.9,33.4,35.5,38.5,40.5,43.1,47,52.3,58.1,64.5
+"26","19","    Jewelry and watches (18)","BJRYRX",30.2,30.9,30.7,30.1,29.1,30.1,32.7,34.5,36.7,40.3,42.9,47.8,53.7,58.1,58
+"27","20","    Books and maps (87)","BBKSRX",17.1,18.2,18.5,18.9,18.6,18.9,20.3,22,23.9,24.9,26,27.1,30.2,32.5,34.1
+"28","21","Nondurable goods","B004RX",1274.5,1315.1,1351,1369.6,1364,1389.7,1430.3,1485.1,1529,1574.1,1619.9,1686.4,1765.1,1833.8,1869.8
+"29","22","  Food","A168RX",664.6,690.7,703.5,722.4,721.4,725.6,745.1,764.9,777,786,794.5,819.4,846.8,879,887
+"30","23","    Food purchased for off-premise consumption (3)","AOPFRX",425.3,436.9,442.7,452.4,451.7,450.8,458.3,468.8,473.7,476.7,477.6,492.2,512.4,530,533.6
+"31","24","    Purchased meals and beverages (4)","APMBRX",231,245.5,252.5,261.8,261.6,266.6,278.5,287.5,294.6,300.5,308,318.3,325.4,339.8,344
+"32","25","    Food furnished to employees (including military) and food produced and consumed on farms (5+6)","A483RX",8.2,8.3,8.3,8.3,8.2,8.2,8.4,8.5,8.7,8.7,8.8,8.9,9.1,9.2,9.3
+"33","26","    Addenda: Food excluding alcoholic beverages (8)","BFXARX",579.2,603.2,614.2,628.2,631.8,637.9,655.7,672.5,681.9,689.1,695.5,716,741,768.8,775.2
+"34","27","            Alcoholic beverages purchased for off-premise consumption (9)","BAOPRX",53.6,54,55.1,57.6,53.2,50.2,51.4,53.8,55.4,56.1,57.2,60.7,62.5,65.4,66.5
+"35","28","            Other alcoholic beverages (10)","BAPMRX",31.4,33.1,34,36.5,36.2,37.6,38.1,38.6,39.6,40.7,41.8,42.7,43.3,44.8,45.3
+"36","29","  Clothing and shoes","A169RX",182.4,187.8,198.6,197.2,197.8,208.8,218.5,231.6,244.3,258.6,271.6,290.4,312.1,329.4,337.7
+"37","30","    Shoes (12)","BSHURX",29.1,29.7,31.5,32,31.2,32,33,35.1,36.8,38.8,40.1,42.9,46.4,48.8,49.9
+"38","31","    Women's and children's clothing and accessories except shoes (14)","AWCLRX",98.8,101.5,107.5,105.4,106.3,113.1,118.6,124.7,132.3,140.8,148.4,159.4,172.6,183.1,187.1
+"39","32","    Men's and boys' clothing and accessories except shoes (15+16)","A484RX",54.5,56.7,59.5,59.9,60.4,63.7,67,71.8,75.2,78.9,83.1,88.1,93.2,97.6,100.8
+"40","33","  Gasoline, fuel oil, and other energy goods","A173RX",127.1,129.7,130.8,126.2,122.4,125.7,129.4,132.4,135.9,139.7,143.1,146.1,151.1,149.7,151.2
+"41","34","    Gasoline and oil (75)","C170RX",112.8,114.9,116.4,113.1,109.4,112.5,115.4,117.4,120.2,124.2,128.1,131.8,136.4,135.7,138.8
+"42","35","    Fuel oil and coal (40)","A171RX",14.2,14.7,14.4,13.1,12.9,13.2,14,15,15.7,15.6,15,14.3,14.7,14,12.6
+"43","36","  Other","A172RX",303.4,309.9,319.9,326.7,325.1,331.2,338.5,356.8,372,389.8,410.8,430.8,455.7,477,495.5
+"44","37","    Tobacco products (7)","BTOBRX",59.2,54.7,54,52,48.3,50.4,45.5,48,48.1,48.2,47.6,46.1,43.4,42.8,42.1
+"45","38","    Toilet articles and preparations (21)","BTLGRX",36.5,37.5,38.5,39.5,39.2,39.4,40.9,42.9,45.2,48,50.5,51.8,53.4,54.1,53.6
+"46","39","    Semidurable house furnishings (33)","BSDHRX",19.5,20.4,21.2,21.8,22.6,24.6,25.8,27.4,29,31,33.8,36,38.9,41.6,43
+"47","40","    Cleaning and polishing preparations, and miscellaneous household supplies and paper products (34)","ACLPRX",39.9,41.4,41.6,42.4,42.1,43.4,45.6,48,48.5,49.8,50.9,52.1,54.4,54.4,54.6
+"48","41","    Drug preparations and sundries (45)","BDRGRX",69.5,72.6,76.3,80.3,81.7,82.2,84.7,88.4,94.1,100.3,109,117.7,129.4,140.6,152.3
+"49","42","    Nondurable toys and sport supplies (89)","BTOYRX",28.5,29.9,32.1,33.7,35.2,36.7,39.5,43.1,47.4,50.6,53.7,59.7,67.8,74.5,82.6
+"50","43","    Stationery and writing supplies (35)","BSTYRX",13.6,14.8,15.9,16.4,16.7,17,17.6,18.3,18.4,18.8,19.2,19.8,21.2,22.3,22.4
+"51","44","    Net foreign remittances (111 less 113)","A485RX",4.5,3.5,3.9,3.2,2.8,1.1,1,0.9,0.6,0.6,1.7,1.9,1.7,2.1,2.3
+"52","45","    Magazines, newspapers, and sheet music (88)","BMAGRX",24.9,26.3,26.4,27.2,26.2,25.2,25.7,26.8,27.2,27.6,28.8,30.1,30.8,31.8,32.1
+"53","46","    Flowers, seeds, and potted plants (95)","BFLORX",10.5,10.9,11.5,11.5,11.1,11.7,12.5,13.2,13.4,14.9,15.8,16.2,17.4,17.5,17.9
+"54","47","Services","B005RX",2379.3,2477.2,2546,2616.2,2651.8,2729.7,2802.5,2886.2,2963.4,3047,3147,3273.4,3395.4,3524.5,3594.9
+"55","48","  Housing","A174RX",644.8,663.4,679.9,696.2,709.8,719.3,728.1,749.1,763.7,772.6,787.2,808.7,835,851.3,866
+"56","49","    Owner-occupied nonfarm dwellings--space rent (24)","AOWNRX",445.5,462.3,477.4,488.3,501.6,509,520.8,535.7,546.1,555.4,569,588.3,610.7,627.3,643.5
+"57","50","    Tenant-occupied nonfarm dwellings--rent (25)","ATENRX",167.7,168.6,169.6,174.6,174.9,175.6,172.4,177.8,181.6,180.6,181,182.9,185.8,184,184.3
+"58","51","    Rental value of farm dwellings (26)","BFARRX",7.2,7.2,7,6.9,7,6.8,6.6,6.4,6.3,6.2,6,6,6.1,6,5.9
+"59","52","    Other (27)","AOHORX",24.3,25.3,25.8,26.2,26.2,27.9,28.3,29.2,29.7,30.2,31.1,31.4,32.5,34.1,32.5
+"60","53","  Household operation","A186RX",238,248.2,257.2,259.8,262.9,267.6,282.3,293,304,317.3,327.4,343.5,358.7,377.8,382.6
+"61","54","    Electricity (37)","BELCRX",78.1,81.5,82.6,83.2,85.6,84.1,89.3,90.6,92.5,93.3,93.5,99.8,101,104.4,101.2
+"62","55","    Gas (38)","BNGSRX",28.7,30.8,32,29.5,30.7,31.5,32.8,32.2,32.8,35.5,34.1,31.4,31.6,32.9,33.3
+"63","56","    Water and other sanitary services (39)","BWATRX",34.8,35.6,37,37.1,36.6,35.9,37.4,38.7,39.8,40.7,41.6,41.7,43,43.9,44.4
+"64","57","    Telephone and telegraph (41)","BTELRX",52.8,56,59.8,62.6,65.4,72.5,76.2,82.6,88.1,97.1,104.7,114.2,127.1,141.1,151.2
+"65","58","    Domestic service (42)","BDMSRX",10.9,11.5,12.2,12.6,11.7,12.6,12.9,13.2,13.7,13.6,13.5,15.1,13.7,14.1,12.4
+"66","59","    Other (43)","AOPORX",34.8,34.5,35.1,36.1,33.6,31,33.8,35.7,37.2,37.1,40.1,41.6,43,42.9,42.9
+"67","60","  Transportation","A177RX",164.6,172.8,174.6,173.4,164.7,171.1,176.6,189,201,214.2,226.4,234.7,246.2,253,251.1
+"68","61","    User-operated transportation","A487RX",126,133.6,135.8,134.5,126.6,133.4,138.5,148.6,158.6,169.7,180.6,185.7,194.5,200.2,200.4
+"69","62","      Repair, greasing, washing, parking, storage, rental, and leasing (74)","BREPRX",92.9,99.6,101.7,100.8,93.7,100.2,105.1,115,124.5,134.2,144.2,148.6,156.7,162.1,162.2
+"70","63","      Other user-operated transportation (76+77)","A2631X",33.7,34.2,34,33.7,33.2,33.3,33.5,33.6,34.1,35.5,36.4,37.2,38,38.2,38.3
+"71","64","    Purchased local transportation","A477RX",10,10.1,10.2,10.8,10.7,10.6,10.8,11.3,11.4,11.2,11.3,12.2,12.5,12.6,12.7
+"72","65","      Mass transit systems (79)","BSTRRX",6.5,7,7,7.4,7.5,7.5,7.6,8,7.8,7.7,7.7,8.2,8.7,9,9.1
+"73","66","      Taxicab (80)","BTAXRX",3.5,3.2,3.1,3.4,3.2,3,3.2,3.3,3.6,3.5,3.6,4,3.8,3.5,3.5
+"74","67","    Purchased intercity transportation","A480RX",28.1,28.8,28.5,28.1,27.2,27.1,27.5,29.2,31,33.3,34.5,36.9,39.3,40.3,38
+"75","68","      Railway (82)","BIRRRX",0.8,0.9,0.9,0.9,0.8,0.7,0.7,0.7,0.7,0.6,0.7,0.7,0.7,0.8,0.8
+"76","69","      Bus (83)","BIBURX",1.5,1.9,1.6,1.3,1.5,1.5,1.6,1.5,1.6,1.8,1.8,1.8,1.8,1.3,1.3
+"77","70","      Airline (84)","BIAIRX",22.8,22.6,22.4,22,21.2,20.8,21.4,22.9,24.3,26.2,27.3,29.5,31.7,33.4,31.6
+"78","71","      Other (85)","BTRORX",2.8,3.4,3.7,3.9,3.8,4.1,3.8,4.2,4.4,4.7,4.6,4.8,5,4.7,4.3
+"79","72","  Medical care","A494RX",631,659.9,678.5,710.9,734.4,765.4,775.4,783.1,797.7,814.4,835.4,857.7,875.6,900.1,938.3
+"80","73","    Physicians (47)","BPHYRX",162.2,172.8,175.9,183.3,187.4,194.1,190.1,189.4,193.8,199.1,206,213,218.7,228,242.1
+"81","74","    Dentists (48)","BDENRX",44.6,44.4,44.6,44.8,43.9,45.4,45.8,47.1,48.7,48.4,49.6,50.5,51.1,52.5,54.4
+"82","75","    Other professional services (49)","BOPSRX",57.3,63,68,78.8,85.8,94.6,102.4,107.5,114.9,119.7,121.1,124.1,126.5,128.5,133.9
+"83","76","    Hospitals and nursing homes (50)","BPHORX",309.4,319.6,328.3,340.5,352.5,364.4,371.4,375.6,381.5,390.8,401.1,410.2,418.1,427.4,443.9
+"84","77","    Health insurance (56)","AHINRX",62.4,64.6,65.5,66,66.7,68.3,66.3,63.8,58.9,56.6,57.8,60,61.3,63.8,64.5
+"85","78","  Recreation","A490RX",120.2,130.7,139.2,145,144.5,154.5,163,169.3,181.7,191.1,200,209,218.4,226.5,233.2
+"86","79","    Admissions to specified spectator amusements (96)","A481RX",15.6,16.4,17.1,18,17.9,18.3,19.7,19.8,20.2,20.7,21.5,22.3,22.6,23.1,23.9
+"87","80","    Other (94+100+101+102+103)","A491RX",104.6,114.4,122.1,127,126.7,136.2,143.3,149.5,161.6,170.3,178.5,186.7,195.8,203.5,209.4
+"88","81","  Other","A178RX",578.7,600.6,614.7,630.6,636.1,653,677.6,702.9,715.3,737.5,770.4,819.3,860.9,915.1,922.7
+"89","82","    Personal care","A488RX",43.3,48.2,50.4,52.2,47.9,52,52.2,53,55.1,58,59,62.6,65.9,68.9,68.6
+"90","83","      Cleaning, storage, and repair of clothing and shoes (17)","A478RX",11.1,12.3,12.9,13.3,12.4,12.3,12.1,12,12.4,12.7,12.8,13.3,13.8,14.3,13.7
+"91","84","      Barbershops, beauty parlors, and health clubs (22)","BBBBRX",19.1,20.3,20.7,20.6,20.3,22.2,21.7,21.9,23.1,23.5,24.7,25.8,26.6,27.6,27.8
+"92","85","      Other (19)","ACOTRX",13.1,15.6,16.7,18.3,15.2,17.4,18.4,19.2,19.5,21.7,21.4,23.5,25.6,27.1,27
+"93","86","    Personal business","A479RX",336.1,345.6,355.3,363.2,378.7,383.8,404.9,414.6,424.4,435.1,462.1,484.4,514.2,550,550.1
+"94","87","      Brokerage charges and investment counseling (61)","BBRORX",20.7,17.4,19.2,19.1,21.5,24.9,30.2,32.6,36.1,43.2,50.5,60.4,80,98.9,86.2
+"95","88","      Bank service charges, trust services, and safe deposit box rental (62)","BBNKRX",33.8,34.4,36,36.5,37.3,38.8,40.4,39.7,40.5,42.9,45.6,51.6,56.8,58.8,60.7
+"96","89","      Services furnished without payment by financial intermediaries except life insurance carriers (63)","AIMPRX",144.3,146.4,147.5,154.2,157.2,156.8,163.2,172.3,173.9,177,188.4,195.6,201.4,220,227.4
+"97","90","      Expense of handling life insurance and pension plans (64)","BLIFRX",63.3,70.1,72.2,71.2,81.3,78.8,84.9,83,87,81.3,84.6,81.7,82.3,82,80.3
+"98","91","      Legal services (65)","BGALRX",46,49.8,51.1,51.9,50.1,51.3,51,50.6,49.7,51.5,52.8,54,54.7,54.4,55.7
+"99","92","      Funeral and burial expenses (66)","BFUNRX",11.7,12.5,12.6,12.9,12.9,13.4,13.7,13.5,14,14.5,14.4,14.9,14.6,14.1,14.6
+"100","93","      Other (67)","APBORX",17.3,18.7,19.9,20.9,21.2,21.6,22.4,23.3,23.6,24.8,25.7,27.1,28.1,28.9,29.4
+"101","94","    Education and research","A482RX",95.2,100,104.9,107.6,108.9,111.8,113.5,115.8,119.2,122.3,126,130.7,136.8,141.3,144.9
+"102","95","      Higher education (105)","BHEDRX",55.6,56.7,58.6,60.1,61.4,62.8,63.5,64.3,65.6,66.1,66.9,68.7,71.5,72.2,73.6
+"103","96","      Nursery, elementary, and secondary schools (106)","BEEDRX",22.4,22.8,24.2,25,25.1,25.6,25.9,26.7,27.4,27.4,28.1,28,29.2,29.8,29.9
+"104","97","      Other (107)","BOEDRX",17.6,20.6,22.1,22.4,22.5,23.3,24.1,24.8,26.2,28.8,31,34,36.1,39.2,41.3
+"105","98","    Religious and welfare activities (108)","BRAWRX",96.8,104.1,108,115.3,116.6,125.1,126.8,136.5,138.7,146.8,145.5,155.3,157.5,164.9,166.4
+"106","99","    Net foreign travel","A492RX",6.3,1.7,-4.7,-8.5,-15.9,-19.5,-19.7,-17,-22.1,-24.8,-22.3,-13.3,-13.4,-9.6,-7.3
+"107","100","      Foreign travel by U.S. residents (110)","BFTRRX",46.4,48.2,49.4,51.7,47.3,49.7,52.7,55.8,55.3,57.6,62.4,69.1,70.9,78.7,73.3
+"108","101","      Less: Expenditures in the United States by nonresidents (112)","BEXFRX",40.1,46.6,54.1,60.1,63.2,69.2,72.3,72.9,77.4,82.4,84.7,82.4,84.2,88.2,80.6
+"109","102","Residual","A965RX",-30.2,-28.9,-25.1,-27.3,-25.1,-19.7,-13.7,-7.6,-2.7,0.2,-2.3,-15,-41.7,-72.5,-99.9
+"110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","* The chained-dollar estimates for computers can be used to accurately measure the real growth rate of this component. However, ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","for computers, or for other components that exhibit rapid changes in prices",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","relative to other prices in the economy, the chained-dollar estimates should not be used to measure the component's relative ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","importance or its contribution to the growth rate of more aggregate series.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","The residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","  Chain-type quantity indexes for the series in this table are shown in table 7.5.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","  The figures in parentheses are the line numbers of the corresponding items in table 2.4.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

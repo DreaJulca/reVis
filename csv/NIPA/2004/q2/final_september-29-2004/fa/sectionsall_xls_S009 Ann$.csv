@@ -1,0 +1,35 @@
+"","Table 9# Current-Cost Net Stock of Residential Fixed Assets by T","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Billions of dollars; yearend estimates]                                                                                                                                                                                                                  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1993 To 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published September 23, 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 9/23/2004 8:08:24 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003
+"8",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","      Residential fixed assets","k1xtotl1es000",7175.1,7687.1,8028,8467.1,8927.5,9507,10206.7,10907.4,11711.5,12454.9,13399.1
+"10",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11",NA,"By type of owner and legal form of organization:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","2","  Private","k1rtotl1es000",7004.9,7505.4,7839.8,8270.6,8730.6,9300.1,9986.7,10675.7,11464.8,12195.9,13125.4
+"13","3","    Corporate","k1rtotl2es000",71.5,74.1,76.6,80,84.6,90,94.5,99.5,105,110.1,116.2
+"14","4","    Noncorporate","k1rtotl3es000",6933.3,7431.3,7763.3,8190.7,8646,9210.1,9892.2,10576.1,11359.8,12085.8,13009.2
+"15","5","      Sole proprietorships and partnerships","k1rtotl4es000",793.9,826.1,854.7,893.5,949.5,1011.7,1068.4,1126.7,1188.2,1244.3,1311.2
+"16","6","      Nonprofit institutions","k1rtotl8es000",112.4,115.6,117,119.7,124,129.3,134.4,139.7,145.9,151.3,157.9
+"17","7","      Households","k1rtotl5es000",6027,6489.7,6791.6,7177.4,7572.6,8069.1,8689.4,9309.8,10025.7,10690.2,11540.1
+"18","8","  Government","k1gtotl1sa000",170.3,181.7,188.2,196.5,196.8,206.9,219.9,231.7,246.7,259,273.7
+"19","9","    Federal","k1gdefn1sb100",56.5,59.9,61.6,63.7,65.9,68.7,72.2,75.4,79.2,82,85.8
+"20","10","    State and local","k1gstlc1sa000",113.8,121.7,126.6,132.7,130.9,138.2,147.7,156.4,167.5,177,187.8
+"21",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22",NA,"By industry:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","11","  Private","k1rtotl1es000",7004.9,7505.4,7839.8,8270.6,8730.6,9300.1,9986.7,10675.7,11464.8,12195.9,13125.4
+"24","12","    Farm","k1r110c1es000",50.5,51,51.3,52.2,57.9,62,67,72.2,77.2,80.6,85.6
+"25","13","    Nonfarm","k1r53101es000",6954.3,7454.4,7788.6,8218.4,8672.7,9238.1,9919.8,10603.4,11387.6,12115.3,13039.8
+"26",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27",NA,"By tenure group: \1\"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","14","  Owner-occupied","k1rtotl1esoo0",5278.4,5707.7,5987.9,6344.3,6712.4,7174.7,7752.3,8328.7,8996,9616.9,10407.9
+"29","15","    Farm","k1r110c1esoo0",50.5,51,51.3,52.2,57.9,62,67,72.2,77.2,80.6,85.6
+"30","16","    Nonfarm","k1r53101esoo0",5227.9,5656.7,5936.7,6292.1,6654.5,7112.7,7685.3,8256.4,8918.8,9536.3,10322.2
+"31","17","  Tenant-occupied","k1xtotl1estx0",1869.4,1951,2011.3,2093.3,2184.6,2300.6,2420.6,2543,2677.2,2797.7,2948.2
+"32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33"," 1. Excludes stocks of other nonfarm residential fixed assets, which consist primarily of dormitories and of fraternity and ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","sorority houses.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,43 @@
+"","Table 5#10B# Change in Private Inventories by Industry","F2","F3","F4","F5","F6","F7","F8","F9"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2002",NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published April 25, 2003    ",NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/24/2003 2:22:02 PM",NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002
+"8","1","    Change in private inventories","A014RC",62.9,73.1,59.5,63.6,-60.3,3.9
+"9","2","Farm","B018RC",2.9,0.9,-1.5,-2.2,1.6,0.5
+"10","3","Construction, mining, and utilities","N541RC",2.8,5.3,-1.1,-3.4,7.6,-0.9
+"11","4","Manufacturing","N150RC",14.9,26.3,13.7,16.6,-35.9,-11.3
+"12","5","  Durable goods industries","N624RC",9.3,20.6,7.2,15.3,-29.3,-11.3
+"13","6","  Nondurable goods industries","N625RC",5.6,5.7,6.5,1.3,-6.5,0
+"14","7","Wholesale trade","N658RC",23.5,22.2,17.3,19.3,-15.6,-3.7
+"15","8","  Durable goods industries","N661RC",15.3,17.2,12.3,12.1,-19.7,-3.4
+"16","9","  Nondurable goods industries","N664RC",8.2,5,4.9,7.1,4,-0.3
+"17","10","Retail trade","N153RC",12,14.4,25.6,21.9,-20.7,16.8
+"18","11","  Motor vehicle dealers","N631RC",4.7,2.2,13.4,11.7,-15.5,10.4
+"19","12","  Food and beverage stores","N542RC",0.3,1.1,1.7,-0.2,0.6,-0.1
+"20","13","  General merchandise stores","N543RC",0.3,0.8,2.5,1.1,-0.5,1.3
+"21","14","  Other retail stores","N558RC",6.7,10.2,8,9.3,-5.3,5.3
+"22","15","Other industries","N154RC",6.7,4.1,5.7,11.4,2.7,2.5
+"23",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA
+"24","16","  Change in private inventories","A014RC",62.9,73.1,59.5,63.6,-60.3,3.9
+"25","17","    Durable goods industries","N355RC",31.6,44.6,37.5,44.1,-65,1.1
+"26","18","    Nondurable goods industries","N357RC",31.2,28.5,22,19.4,4.7,2.8
+"27","19","  Nonfarm industries","A015RC",59.9,72.3,61.1,65.8,-61.9,3.4
+"28","20","    Nonfarm change in book value \1\","B016RC",47.6,47.4,68.3,88.2,-75.5,14.1
+"29","21","    Nonfarm inventory valuation adjustment \2\","B017RC",12.3,24.9,-7.2,-22.5,13.6,-10.7
+"30","22","  Wholesale trade","N658RC",23.5,22.2,17.3,19.3,-15.6,-3.7
+"31","23","    Merchant wholesale trade","N151RC",21.4,19.6,15.4,16.2,-12.6,-4.2
+"32","24","      Durable goods industries","N626RC",14,15,11.1,9.8,-16.8,-3.9
+"33","25","      Nondurable goods industries","N627RC",7.4,4.6,4.3,6.4,4.2,-0.3
+"34","26","    Nonmerchant wholesale trade","A152RC",2.1,2.7,1.9,3,-3.1,0.5
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36"," 1. This series is derived from the Census Bureau series ``current cost inventories.''",NA,NA,NA,NA,NA,NA,NA,NA
+"37"," 2. The inventory valuation adjustment (IVA) shown in this table differs from the IVA that adjusts business incomes.  The IVA in ",NA,NA,NA,NA,NA,NA,NA,NA
+"38","this table reflects the mix of methods (such as first-in, first-out and",NA,NA,NA,NA,NA,NA,NA,NA
+"39","last-in, first-out) underlying inventories derived primarily from Census Bureau statistics (see footnote 1).  This mix differs ",NA,NA,NA,NA,NA,NA,NA,NA
+"40","from that underlying business income derived primarily from Internal Revenue",NA,NA,NA,NA,NA,NA,NA,NA
+"41","Service statistics.",NA,NA,NA,NA,NA,NA,NA,NA
+"42","  Note.  Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA

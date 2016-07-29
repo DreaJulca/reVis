@@ -1,0 +1,41 @@
+"","Table 1#1#6C# Real Gross Domestic Product, Chained (1972) Dollar","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of chained (1972) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1969 To 1982",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 06, 2015   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/13/2015 7:24:45 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982
+"8","1","    Gross domestic product","A191CX1",1177.1,1179.5,1218.3,1282.4,1354.8,1347.8,1345.1,1417.6,1482.9,1565.4,1615.1,1611.2,1653,1621.4
+"9","2","Personal consumption expenditures","DPCECX1",682.3,698.3,725,769.4,807.6,800.9,819.1,864.8,901.2,940.8,963.2,960.1,974.4,988.3
+"10","3","  Goods","DGDSCX1",334.1,336.8,350.9,373.8,393.2,378.8,381.4,408.1,425.6,443.2,450.3,438.9,444.1,447.2
+"11","4","    Durable goods","DDURCX1",96.7,94.1,103.6,116.4,128.6,120.4,120.7,135.7,147.7,155.4,154.7,142.3,143.8,143.5
+"12","5","    Nondurable goods","DNDGCX1",237.5,242.8,247.4,257.4,264.8,258.3,260.5,272.9,279.1,289.2,296.7,296.2,299.9,303
+"13","6","  Services","DSERCX1",347.9,361.6,374.1,395.6,414.4,422.4,438.3,457.1,476.1,498.1,513.3,521.6,530.7,541.3
+"14","7","Gross private domestic investment","A006CX1",197.9,185.9,205,228.1,253.1,236.3,198.1,235.9,269.5,300.7,311.2,279.9,304.5,264.8
+"15","8","  Fixed investment","A007CX1",187.8,184,196.6,219,237.8,224.6,202.6,222.5,252.6,281.9,298.1,280.4,288,268.7
+"16","9","    Nonresidential","A008CX1",136.2,134.9,134.9,146.6,166,167.4,152.3,160.9,178.3,202.9,223.2,223.2,236.9,228.4
+"17","10","      Structures","B009CX1",46.4,46.5,45.8,47.2,51,49.9,44.7,45.8,47.7,54.5,61.4,65,70.3,69.1
+"18","11","      Equipment","Y033CX1",70.7,69.4,70,78.9,93.5,95.4,85.4,90.7,104.8,120.6,130.5,124.7,129.3,119.5
+"19","12","      Intellectual property products","Y001CX1",19.2,19.2,19.2,20.6,21.6,22.2,22.4,24.9,26.5,28.4,31.7,33.3,36.9,39.2
+"20","13","    Residential","A011CX1",51.4,48.7,61.7,72.4,71.9,57.8,50.8,62.1,74.8,79.8,76.8,60.7,55.8,45.7
+"21","14","  Change in private inventories","A014CX1",10.8,2,8.9,9.1,13.8,10.3,-4.5,12.2,15.3,16.2,9.9,-3.3,13.8,-7
+"22","15","Net exports of goods and services","A019CX1",-2.4,1.3,-1,-3.4,6.5,15,22.8,13.6,7,9.4,18.4,37.6,36.7,27.9
+"23","16","  Exports","A020CX1",58.4,64.6,65.7,70.8,84.2,90.9,90.3,94.2,96.5,106.7,117.2,129.9,131.5,121.4
+"24","17","    Goods","A253CX1",42.7,47.5,47.4,52.6,65.5,71,69.6,73.2,74.6,82.3,91,102.2,101.5,92.9
+"25","18","    Services","A646CX1",15.7,17.1,18.3,18.3,18.6,19.6,20.7,21,21.9,24.4,26.1,27.2,29.9,28.5
+"26","19","  Imports","A021CX1",60.7,63.3,66.7,74.2,77.7,75.9,67.5,80.7,89.5,97.2,98.8,92.3,94.7,93.5
+"27","20","    Goods","A255CX1",44.5,46.2,50.1,56.9,61,59.3,51.8,63.5,71.2,77.6,79,73.1,74.6,72.7
+"28","21","    Services","B656CX1",16.2,17.1,16.6,17.3,16.7,16.7,16,17.1,17.9,19.2,19.4,19,20.1,21.2
+"29","22","Government consumption expenditures and gross investment","A822CX1",301.2,295,289.6,288.2,287.3,293.8,300.3,301.9,305.5,314.5,320.3,326.4,329.5,335.6
+"30","23","  Federal","A823CX1",166.3,156.1,146.1,141.5,136.5,137.4,138.1,138.4,141.4,145,148.4,154.8,161.8,167.8
+"31","24","    National defense","A824CX1",131,120.3,108.1,100.6,95.5,94.6,93.7,93.2,94.1,94.9,97.4,101.2,107.5,115.3
+"32","25","    Nondefense","A825CX1",35.8,36.1,38.1,40.9,41,42.8,44.5,45.2,47.3,50.2,51,53.7,54.3,52.3
+"33","26","  State and local","A829CX1",135.3,139.2,143.5,146.7,150.9,156.4,162.1,163.4,164,169.4,171.9,171.6,168.1,168.3
+"34","27","Residual","A960CX1",-3.3,-1.7,-1.1,-0.1,1.4,2.7,4,0.8,-1.9,-1.2,1.1,6.9,5.9,3.7
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Note. Chained (1972) dollar series are calculated as the product of the chain-type quantity index rebased",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","with the reference year 1972 equal to 100 and of the 1972 current-dollar value of the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","than one period, the corresponding chained-dollar estimates are usually not additive. The residual line",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,30 @@
+"","Table 1#13# Real Net Domestic Product by Sector","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 09, 2002   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/29/2003 1:58:47 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001
+"8","1","    Net domestic product","A362RX",5442.9,5671,5855.9,5951.9,5891.5,6054.7,6223.7,6457.4,6631.7,6857,7147.9,7428.8,7705,7969.7,7905.4
+"9","2","Business \1\","A363RX",4474.6,4668.9,4824.6,4893.5,4822.3,4979.3,5138.3,5363.7,5529.1,5749,6024.2,6288.1,6554.5,6797.3,6706.6
+"10","3","  Nonfarm \2\","A364RX",4423.8,4627.4,4772.8,4836.6,4763.7,4911.4,5078.7,5290.4,5468.5,5682.2,5947.2,6213.7,6474.4,6707.2,6621.2
+"11","4","    Nonfarm less housing","A714RX",3991.8,4180.6,4315.8,4367.1,4284,4432.7,4589.9,4793.7,4947.6,5155.6,5417.5,5671.4,5911.1,6125.3,6045.1
+"12","5","    Housing","B710RX",432.7,447,457.1,469.9,480.7,479.2,489.1,496.6,521,526.6,529.7,542.5,563.4,582.2,576.3
+"13","6","  Farm","A365RX",52.7,45,53.9,58.4,60,70.1,60.5,76.3,60.2,66.8,78.1,73.5,80.9,97.9,89.5
+"14","7","Households and institutions","A193RX",247.8,265.5,279.8,291.5,300.9,308.6,319.7,330.9,341.5,348.6,360.5,371.9,379.2,388.9,398.7
+"15","8","  Private households","B701RX",10.2,10.6,11.1,11.4,10.5,11.3,11.7,11.8,12.2,12,11.7,13.3,11.7,12,10.1
+"16","9","  Nonprofit institutions","B702RX",237.6,254.8,268.6,280.1,290.4,297.3,308,319.1,329.3,336.5,348.8,358.6,367.5,376.9,388.7
+"17","10","General government \3\","A194RX",723.1,738.6,753,769.2,772.2,769.3,767.1,763.5,761.3,759.4,763.4,769.4,773.2,786.2,800.5
+"18","11","  Federal","B568RX",255.9,255.5,255.8,258.4,257.6,248.6,240.8,230.4,219,211,205.7,202.6,199.4,201.4,201.6
+"19","12","  State and local","B251RX",469.5,485.2,499,512.4,516.2,521.9,527.1,533.6,542.4,548.4,557.7,566.8,573.8,584.9,598.9
+"20","13","Residual","A966RX",-7.5,-7.7,-5.4,-5.8,-7.9,-6.4,-3.4,-4.1,0,0.1,-1.3,0.1,-2.8,-10.9,-4.8
+"21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22"," 1. Equals net domestic product less net product of households and institutions and of general government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23"," 2. Equals net domestic business product less net farm product.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24"," 3. Equals compensation of general government employees as shown in table 3.8.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","The residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

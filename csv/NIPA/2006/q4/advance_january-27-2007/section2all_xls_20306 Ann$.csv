@@ -1,0 +1,40 @@
+"","Table 2#3#6# Real Personal Consumption Expenditures by Major Typ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20"
+"1","[Billions of chained (2000) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1990 To 2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published January 31, 2007  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/31/2007 10:13:57 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006
+"8","1","    Personal consumption expenditures","A002RX1",4770.3,4778.4,4934.8,5099.8,5290.7,5433.5,5619.4,5831.8,6125.8,6438.6,6739.4,6910.4,7099.3,7295.3,7577.1,7841.2,8092.3
+"9","2","Durable goods","B003RX1",453.5,427.9,453,488.4,529.4,552.6,595.9,646.9,720.3,804.6,863.3,900.7,964.8,1020.6,1085.7,1145.3,1204
+"10","3","  Motor vehicles and parts","A165RX1",256.1,226.6,244.9,259.2,276.2,272.3,285.4,304.7,339,372.4,386.5,405.8,429,442.1,450.4,452.9,448
+"11","4","  Furniture and household equipment","A166RX1",119.9,121.1,127.8,141.1,156.8,173.3,193.4,216.3,244.7,280.7,312.9,331.8,364.3,397.8,446,490.6,551.2
+"12","5","  Other","A167RX1",92.7,88.8,90.2,97,104.2,111.2,119.6,127.3,137.6,151.7,163.9,163.2,172.4,183.2,195.6,212.6,224.5
+"13","6","Nondurable goods","B004RX1",1484,1480.5,1510.1,1550.4,1603.9,1638.6,1680.4,1725.3,1794.4,1876.6,1947.2,1986.7,2037.1,2103,2179.2,2276.8,2363.5
+"14","7","  Food","A168RX1",784.4,783.3,787.9,802.2,821.8,827.1,834.7,845.2,865.6,893.6,925.2,940.2,954.6,977.7,1011,1065.7,1111.4
+"15","8","  Clothing and shoes","A169RX1",188.2,188.8,199.2,207.4,218.5,227.4,238.7,246,263.1,282.7,297.7,303.7,318.3,334.2,350.9,372.7,392.7
+"16","9","  Gasoline, fuel oil, and other energy goods","A173RX1",158.4,156.7,162.8,166.9,169.7,173,176.2,179.7,186.3,192.7,191.5,193.4,197.4,198.5,200.5,199.5,197.9
+"17","10","    Gasoline and oil","C170RX1",141.8,140.3,146,149.7,151.7,154.5,157.9,162.8,170.3,176.3,175.7,178.3,181.9,183.2,186,185.9,185.3
+"18","11","    Fuel oil and coal","A171RX1",16.7,16.6,17,17.4,18.2,18.7,18.4,16.9,16,16.4,15.8,15.2,15.5,15.4,14.6,13.7,12.7
+"19","12","  Other","A172RX1",361,359.3,366,379,397.7,414.1,432.9,456.6,481.1,508.6,532.9,549.2,567.1,593.2,618.5,643.9,671.5
+"20","13","Services","B005RX1",2851.7,2900,3000.8,3085.7,3176.6,3259.9,3356,3468,3615,3758,3928.8,4023.2,4100.4,4178.8,4323.9,4436.6,4549
+"21","14","  Housing","A174RX1",802.2,820.1,832.7,841.8,869.3,887.5,901.1,922.5,948.8,978.6,1006.5,1033.7,1042.1,1051.9,1091.6,1122.6,1148.7
+"22","15","  Household operation","A186RX1",266.4,269.9,277.4,291.1,303.3,312.9,327.3,340.4,357.1,371.9,390.1,391,393.2,398.8,409.3,418,415.8
+"23","16","    Electricity and gas","A175RX1",117.4,121.1,120.4,126.8,128.8,130.2,134.7,133.7,136.7,138.1,143.3,140.9,144.9,147.5,149.8,153.8,149.9
+"24","17","    Other household operation","A176RX1",149.4,149.2,157.4,164.8,175,183.2,193,207,220.7,233.8,246.8,250.2,248.3,251.2,259.5,264.1,267.1
+"25","18","  Transportation","A177RX1",195.7,186.3,194.2,202.5,218.4,231.8,247.5,263.2,272,283.4,291.3,288,280.2,280.6,284,284.4,288.4
+"26","19","  Medical care","A494RX1",797.6,824.5,863.6,877.2,887.1,906.4,922.5,942.8,970.7,989,1026.8,1075.2,1136.6,1180.8,1217.3,1260.9,1304.3
+"27","20","  Recreation","A490RX1",170.6,171.6,184,195.4,204.8,219.2,228.6,235.7,245,257.8,268.3,274.9,281.2,290.8,304.8,313.1,319.9
+"28","21","  Other","A178RX1",621.9,631.3,653.2,680.9,696.2,704.5,730.7,764.7,821.9,877.6,945.9,960.3,966.6,975.3,1016,1036.2,1070.6
+"29","22","Residual","A963RX1",-45.3,-50.5,-49.7,-42.6,-34,-27.9,-19.7,-13.6,-7.4,-2.1,-0.1,-0.2,-3.7,-9.6,-18.9,-31.9,-53.9
+"30",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","23","  Energy goods and services \1\","BA02RX1",276.2,278.5,283.5,294.3,299,303.6,311.6,313.7,323.1,330.5,334.8,334.1,342.2,346.1,350.4,353.1,347.3
+"32","24","  Personal consumption expenditures excluding food and energy","BA03RX1",3715.3,3722.2,3869.1,4009.1,4175,4307.3,4477.1,4675.8,4939.4,5215.3,5479.4,5636,5802.6,5971.7,6216.7,6424.9,6641.7
+"33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","1. Consists of gasoline, fuel oil, and other energy goods and of electricity and gas.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Note. Chained (2000) dollar series are calculated as the product of the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","quantity index and the 2000 current-dollar value of the corresponding series, divided by",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","100. Because the formula for the chain-type quantity indexes uses weights of more than",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","one period, the corresponding chained-dollar estimates are usually not additive. The",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

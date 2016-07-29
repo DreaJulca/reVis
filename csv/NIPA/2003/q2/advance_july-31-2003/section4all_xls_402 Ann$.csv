@@ -1,0 +1,29 @@
+"","Table 4#2# Real Exports and Imports of Goods and Services and Re","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2003     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 7/31/2003 7:38:07 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002
+"8","1","Exports of goods and services","A020RX",408,473.5,529.4,575.7,613.2,651,672.7,732.8,808.2,874.2,981.5,1002.4,1036.3,1137.2,1076.1,1058.8
+"9","2","  Goods \1\","A253RX",271.4,322.6,363.2,393.2,421.1,449.8,463.4,508.2,568.8,618.4,708.1,722.9,750,834.7,785.2,756.9
+"10","3","    Durable","A332RX",154.7,191.9,221.3,243,261.6,280.8,295.2,330.5,378,421.7,498.3,513.7,537.5,607.8,558.3,529.2
+"11","4","    Nondurable","A339RX",123,135.6,146.3,154,163.3,172.7,170.6,178.9,191,196.7,209.8,209.2,212.4,226.7,226.7,227.5
+"12","5","  Services \1\","A646RX",139.1,152,166.7,183.5,192.9,201.7,209.9,225.1,239.5,255.8,273.6,279.8,286.8,304.1,292,301.5
+"13","6","Income receipts","A645RX",161.6,192.6,215.7,219.2,188.4,165.1,164.6,191.9,236.5,245.6,276.8,279.3,304.4,359,292,253.3
+"14","7","Imports of goods and services","A021RX",564.2,585.6,608.8,632.2,629,670.8,731.8,819.4,886.6,963.1,1094.8,1223.5,1356.8,1536,1492,1547.4
+"15","8","  Goods \1\","A255RX",445.8,463.9,483.4,497.9,497.6,543.7,598.4,677.9,739.1,808.3,923.1,1031.4,1157.5,1313.7,1270.5,1320.1
+"16","9","    Durable","A333RX",267.9,279.1,291.2,299.2,300.9,331.9,370.9,432.2,481.7,533.3,619.8,701.2,801.7,924.1,865.6,901.4
+"17","10","    Nondurable","A340RX",181.5,188.5,195.9,202.7,200.5,215.5,230.8,247.4,257.8,275.1,303.5,330.4,356.2,391.6,402.3,415.5
+"18","11","  Services \1\","B656RX",120.2,123.4,126.9,136.6,133.4,128,134,141.9,147.7,154.8,171.7,192.2,200.3,223.6,222.4,227.2
+"19","12","Income payments","A655RX",144,169.8,192,186.9,161.1,139.1,139.2,175.2,216.2,227.5,268,279.8,279.6,333.6,269.2,260.3
+"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21"," 1. Exports and imports of certain goods, primarily military equipment purchased and sold by the Federal Government, are included ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","in services.  Beginning with 1986, repairs and alterations of equipment are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","reclassified from goods to services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","  Chain-type quantity indexes for the series in this table are shown in table 7.9.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

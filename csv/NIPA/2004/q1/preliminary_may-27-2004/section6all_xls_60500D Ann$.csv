@@ -1,0 +1,131 @@
+"","Table 6#5D# Full-Time Equivalent Employees by Industry","F2","F3","F4","F5","F6","F7","F8"
+"1","[Thousands]",NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2002",NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA
+"4","Data published February  13, 2004",NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/27/2004 11:17:28 AM",NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002
+"8","1","      Full-time equivalent employees \1\","A4301C0",118823,121656,124319,124632,123382
+"9","2","Domestic industries","A4302C0",119224,122097,124707,125056,123826
+"10","3","  Private industries","A4303C0",100521,103248,105579,105666,104029
+"11","4","    Agriculture, forestry, fishing, and hunting","N4304C0",1141,1174,1181,1369,1379
+"12","5","      Farms \2\","N4305C0",663,662,664,745,759
+"13","6","      Forestry, fishing, and related activities","N4306C0",478,513,517,624,620
+"14","7","    Mining","N4307C0",558,510,511,530,504
+"15","8","      Oil and gas extraction","N4308C0",128,113,118,123,122
+"16","9","      Mining, except oil and gas","N4309C0",241,231,222,220,210
+"17","10","      Support activities for mining","N4310C0",189,165,171,187,172
+"18","11","    Utilities","N4311C0",595,597,593,595,587
+"19","12","    Construction","N4312C0",6197,6638,6907,6855,6753
+"20","13","    Manufacturing","N4313C0",17225,17045,16947,16194,15059
+"21","14","      Durable goods","N4314C0",10779,10704,10713,10194,9368
+"22","15","        Wood products","N4315C0",597,618,606,576,567
+"23","16","        Nonmetallic mineral products","N4316C0",531,535,545,535,511
+"24","17","        Primary metals","N4317C0",625,609,611,560,499
+"25","18","        Fabricated metal products","N4318C0",1728,1729,1738,1645,1524
+"26","19","        Machinery","N4319C0",1479,1433,1420,1348,1212
+"27","20","        Computer and electronic products","N4320C0",1831,1786,1813,1728,1482
+"28","21","        Electrical equipment, appliances, and components","N4321C0",565,552,568,548,490
+"29","22","        Motor vehicles, bodies and trailers, and parts","N4322C0",1269,1289,1283,1198,1141
+"30","23","        Other transportation equipment","N4323C0",792,769,736,714,666
+"31","24","        Furniture and related products","N4324C0",637,657,664,630,592
+"32","25","        Miscellaneous manufacturing","N4325C0",725,727,728,712,685
+"33","26","      Nondurable goods","N4326C0",6446,6341,6235,6000,5691
+"34","27","        Food and beverage and tobacco products","N4327C0",1706,1716,1719,1718,1698
+"35","28","        Textile mills and textile product mills","N4328C0",666,620,584,521,476
+"36","29","        Apparel and leather and allied products","N4329C0",652,596,538,487,408
+"37","30","        Paper products","N4330C0",616,607,596,564,530
+"38","31","        Printing and related support activities","N4331C0",774,775,767,764,707
+"39","32","        Petroleum and coal products","N4332C0",129,126,120,118,117
+"40","33","        Chemical products","N4333C0",966,967,968,946,915
+"41","34","        Plastics and rubber products","N4334C0",938,935,942,884,839
+"42","35","    Wholesale trade","N4335C0",5664,5766,5840,5578,5458
+"43","36","      Durable goods","N4336C0",3378,3438,3482,3319,3202
+"44","37","      Nondurable goods","N4337C0",2286,2328,2358,2259,2256
+"45","38","    Retail trade","N4338C0",12396,12809,13122,13673,13527
+"46","39","      Motor vehicle and parts dealers","N4339C0",1529,1584,1618,1673,1688
+"47","40","      Food and beverage stores","N4340C0",2382,2459,2522,2642,2579
+"48","41","      General merchandise stores","N4341C0",2262,2337,2399,2544,2536
+"49","42","      Other retail \3\","N4342C0",6223,6428,6582,6813,6723
+"50","43","    Transportation and warehousing","N4343C0",3917,4041,4124,4187,4042
+"51","44","      Air transportation","N4344C0",545,566,589,584,533
+"52","45","      Rail transportation","N4345C0",208,208,198,189,181
+"53","46","      Water transportation","N4346C0",51,51,53,51,51
+"54","47","      Truck transportation","N4347C0",1247,1296,1323,1341,1298
+"55","48","      Transit and ground passenger transportation","N4348C0",349,361,357,381,384
+"56","49","      Pipeline transportation","N4349C0",44,45,44,43,40
+"57","50","      Other transportation and support activities \4\","N4350C0",1020,1049,1086,1113,1070
+"58","51","      Warehousing and storage","N4351C0",453,465,474,485,485
+"59","52","    Information","N4352C0",3066,3194,3343,3399,3180
+"60","53","      Publishing industries (includes software)","N4353C0",997,1015,1036,971,913
+"61","54","      Motion picture and sound recording industries","N4354C0",305,317,316,321,333
+"62","55","      Broadcasting and telecommunications","N4355C0",1294,1358,1453,1604,1479
+"63","56","      Information and data processing services","N4356C0",469,504,538,504,455
+"64","57","    Finance and insurance","N4357C0",5389,5481,5470,5604,5618
+"65","58","      Federal Reserve banks, credit intermediation, and related activities","N4358C0",2404,2438,2396,2505,2573
+"66","59","      Securities, commodity contracts, and investments","N4359C0",768,809,859,826,781
+"67","60","      Insurance carriers and related activities","N4360C0",2139,2154,2134,2189,2182
+"68","61","      Funds, trusts, and other financial vehicles","N4361C0",78,80,81,84,83
+"69","62","    Real estate and rental and leasing","N4362C0",1756,1818,1847,1928,1923
+"70","63","      Real estate","N4363C0",1179,1210,1213,1293,1325
+"71","64","      Rental and leasing services and lessors of intangible assets \5\","N4364C0",577,609,634,635,599
+"72","65","    Professional, scientific, and technical services","N4365C0",6485,6795,7114,6937,6713
+"73","66","      Legal services","N4366C0",1157,1197,1212,1186,1210
+"74","67","      Computer systems design and related services","N4367C0",1129,1211,1294,1219,1080
+"75","68","      Miscellaneous professional, scientific, and technical services \6\","N4368C0",4198,4387,4608,4531,4423
+"76","69","    Management of companies and enterprises \7\","N4369C0",1595,1621,1647,1635,1613
+"77","70","    Administrative and waste management services","N4370C0",6550,6985,7419,7114,7005
+"78","71","      Administrative and support services","N4371C0",6258,6687,7118,6806,6697
+"79","72","      Waste management and remediation services","N4372C0",292,298,300,307,308
+"80","73","    Educational services","N4373C0",2039,2117,2199,2292,2360
+"81","74","    Health care and social assistance","N4374C0",11185,11452,11707,12271,12653
+"82","75","      Ambulatory health care services","N4375C0",3907,3967,4027,4137,4275
+"83","76","      Hospitals","N4390C0",3427,3475,3524,3741,3858
+"84","77","      Nursing and residential care facilities","N4391C0",2209,2267,2325,2411,2458
+"85","78","      Social assistance","N4392C0",1642,1742,1831,1983,2063
+"86","79","    Arts, entertainment, and recreation","N4393C0",1363,1418,1493,1589,1604
+"87","80","      Performing arts, spectator sports, museums, and related activities","N4394C0",378,392,413,415,416
+"88","81","      Amusements, gambling, and recreation industries","N4395C0",985,1026,1081,1174,1188
+"89","82","    Accommodation and food services","N4396C0",8118,8381,8626,8328,8363
+"90","83","      Accommodation","N4397C0",1551,1614,1659,1688,1644
+"91","84","      Food services and drinking places","N4398C0",6567,6767,6967,6639,6719
+"92","85","    Other services, except government","N4399C0",5283,5407,5489,5589,5687
+"93","86","  Government","A4376C0",18703,18849,19128,19390,19797
+"94","87","    Federal","A4377C0",4207,4167,4198,4120,4190
+"95","88","      General government","A4378C0",3416,3370,3416,3342,3395
+"96","89","        Civilian","B4379C0",1845,1821,1869,1794,1818
+"97","90","        Military \8\","B4380C0",1571,1549,1547,1548,1577
+"98","91","      Government enterprises","B4381C0",791,797,782,778,795
+"99","92","    State and local","A4382C0",14496,14682,14930,15270,15607
+"100","93","      General government","A4383C0",13581,13762,14000,14318,14619
+"101","94","        Education","B4384C0",7234,7372,7572,7782,7873
+"102","95","        Other \9\","B4385C0",6347,6390,6428,6536,6746
+"103","96","      Government enterprises \9\","B4386C0",915,920,930,952,988
+"104","97","Rest of the world \10\","A4387C0",-401,-441,-388,-424,-444
+"105",NA,NA,NA,NA,NA,NA,NA,NA
+"106","1. Full-time equivalent employees equals the number of employees on full-time schedules plus",NA,NA,NA,NA,NA,NA,NA
+"107","the number of employees on part-time schedules converted to a full-time basis.  The number",NA,NA,NA,NA,NA,NA,NA
+"108","of full-time equivalent employees in each industry is the product of the total number of",NA,NA,NA,NA,NA,NA,NA
+"109","employees and the ratio of average weekly hours per employee for all employees to average",NA,NA,NA,NA,NA,NA,NA
+"110","weekly hours per employee on full-time schedules.",NA,NA,NA,NA,NA,NA,NA
+"111","2. NAICS crop and animal production.",NA,NA,NA,NA,NA,NA,NA
+"112","3. Consists of furniture and home furnishings stores; electronics and appliance stores; building",NA,NA,NA,NA,NA,NA,NA
+"113","material and garden equipment and supplies dealers; health and personal care stores; gasoline",NA,NA,NA,NA,NA,NA,NA
+"114","stations; clothing and clothing accessories stores; sporting goods, hobby, book, and music",NA,NA,NA,NA,NA,NA,NA
+"115","stores; miscellaneous store retailers; and nonstore retailers.",NA,NA,NA,NA,NA,NA,NA
+"116","4. Consists of scenic and sightseeing transportation; transportation support activities; and",NA,NA,NA,NA,NA,NA,NA
+"117","couriers and messengers.",NA,NA,NA,NA,NA,NA,NA
+"118","5. Intangible assets include patents, trademarks, and franchise agreements, but not copyrights.",NA,NA,NA,NA,NA,NA,NA
+"119","6. Consists of accounting, tax preparation, bookkeeping, and payroll services; architectural,",NA,NA,NA,NA,NA,NA,NA
+"120","engineering, and related services; specialized design services; management, scientific, and",NA,NA,NA,NA,NA,NA,NA
+"121","technical consulting services; scientific research and development services; advertising and",NA,NA,NA,NA,NA,NA,NA
+"122","related services; and other professional, scientific, and technical services.",NA,NA,NA,NA,NA,NA,NA
+"123","7. Consists of offices of bank and other holding companies and of corporate, subsidiary, and",NA,NA,NA,NA,NA,NA,NA
+"124","regional managing offices.",NA,NA,NA,NA,NA,NA,NA
+"125","8. Includes Coast Guard.",NA,NA,NA,NA,NA,NA,NA
+"126","9. Employees of Indian tribal governments are classified in state and local government.",NA,NA,NA,NA,NA,NA,NA
+"127","10. Includes estimates of foreign professional workers and undocumented Mexican migratory",NA,NA,NA,NA,NA,NA,NA
+"128","workers employed temporarily in the United States.",NA,NA,NA,NA,NA,NA,NA
+"129","Note. Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA
+"130","System (NAICS).",NA,NA,NA,NA,NA,NA,NA

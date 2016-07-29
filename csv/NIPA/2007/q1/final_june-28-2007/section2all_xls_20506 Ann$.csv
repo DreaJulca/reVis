@@ -1,0 +1,212 @@
+"","Table 2#5#6# Real Personal Consumption Expenditures by Type of E","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2000) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1990 To 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 02, 2006   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/28/2007 9:19:47 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005
+"8","1","      Personal consumption expenditures","A002RX1",4770.3,4778.4,4934.8,5099.8,5290.7,5433.5,5619.4,5831.8,6125.8,6438.6,6739.4,6910.4,7099.3,7295.3,7577.1,7841.2
+"9","2","Food and tobacco","A495RX1",867.1,862.1,869.2,882.7,903.6,909.9,918.5,929.4,948.5,973,1003.7,1018.3,1030.7,1051.1,1082.2,1134.7
+"10","3","  Food purchased for off-premise consumption (n.d.)","AOPFRX1",485.7,484.9,483.9,488.9,503.4,507.1,513.2,518.3,528.4,548.8,566.7,578.6,586.6,598.7,619,659.2
+"11","4","  Purchased meals and beverages (n.d.) \1\","APMBRX1",289.6,289.4,295,304.3,309.4,310.8,312.3,317.7,327.8,335.3,348.8,351.8,358.2,368.7,381.6,395.8
+"12","5","  Food furnished to employees (including military) (n.d.)","AFOORX1",8.3,8.2,8.3,8.4,8.5,8.6,8.6,8.7,8.8,8.9,9.1,9.3,9.4,9.7,9.9,10.4
+"13","6","  Food produced and consumed on farms (n.d.)","BFFDRX1",0.6,0.6,0.6,0.6,0.6,0.5,0.5,0.5,0.6,0.6,0.6,0.5,0.5,0.4,0.4,0.4
+"14","7","  Tobacco products (n.d.)","BTOBRX1",87.7,81.4,84.9,83.2,84.2,85.5,86.7,86.7,84.3,79.5,78.5,78.1,76.3,74.1,72.3,70.7
+"15","8","  Addenda: Food excluding alcoholic beverages (n.d.)","BFXARX1",681.7,685.7,692.3,707,725.2,730,736.5,745.5,763.3,789.1,816.5,830.9,844.5,864.8,892.4,937.7
+"16","9","           Alcoholic beverages purchased for off-premise consumption (n.d.)","BAOPRX1",61.8,57.1,53.8,55.2,58.3,60,62.5,64.7,66.5,68.1,71.2,72.1,72.3,74.1,79.3,87.8
+"17","10","           Other alcoholic beverages (n.d.)","BAPMRX1",41.2,40.8,42.3,40.4,38.6,37.2,35.8,35.1,35.8,36.4,37.5,37.2,37.9,38.8,39.3,40.4
+"18","11","Clothing, accessories, and jewelry","A496RX1",247.7,244.1,257.8,269.7,284.4,297.6,313.8,324.1,348.3,376,397,401,419.6,440.4,463.9,489.5
+"19","12","  Shoes (n.d.)","BSHURX1",30.4,29.5,30.3,31.5,33.7,35.4,37.5,38.7,41.3,44.7,47,48.1,50.5,52.1,53.9,54.8
+"20","13","  Clothing and accessories except shoes \2\","A497RX1",157.7,159,168.6,175.6,184.5,191.7,200.9,207,221.5,237.7,250.4,255.3,267.4,281.6,296.7,317.9
+"21","14","    Women's and children's (n.d.)","AWCLRX1",99,99.8,106.2,110.1,114.2,118.7,124.4,127,136.6,148,156.7,159.3,166.6,175,184.6,198.5
+"22","15","    Men's and boys' (n.d.)","AMCLRX1",58.6,59.1,62.2,65.4,70.2,73,76.6,80,84.9,89.7,93.7,96,100.7,106.6,112.2,119.4
+"23","16","  Standard clothing issued to military personnel (n.d.)","BMICRX1",0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.6,0.3,0.4
+"24","17","  Cleaning, storage, and repair of clothing and shoes (s.)","A478RX1",14.2,13.3,13.4,13.1,13.1,13.6,13.6,14.5,15,15.5,15.7,15.2,14.8,13.9,14,13.5
+"25","18","  Jewelry and watches (d.)","BJRYRX1",26.5,25.6,26.5,28.7,30.5,32.6,35.8,37.5,41.7,46.8,50.6,49.2,52.7,56.3,59.8,63.3
+"26","19","  Other (s.) \3\","ACOTRX1",20,16.6,19,20.8,22.6,24.4,25.9,26.4,28.6,31.1,32.9,32.9,34,36.4,39.5,40.7
+"27","20","Personal care","A532RX1",68.5,68.3,70.8,72.3,75.1,79.3,82.8,88,90,91.6,93.4,92.7,94,97.1,102,105.7
+"28","21","  Toilet articles and preparations (n.d.)","BTLGRX1",41.1,40.8,41,43,45.4,47.9,50.9,53.8,54,54.6,55,53.9,54,56.1,58.3,61.6
+"29","22","  Barbershops, beauty parlors, and health clubs (s.)","BBBBRX1",27.4,27.5,30.1,29.4,29.7,31.3,31.8,34.2,36,37,38.4,38.8,40,41,43.6,44.1
+"30","23","Housing","A174RX1",802.2,820.1,832.7,841.8,869.3,887.5,901.1,922.5,948.8,978.6,1006.5,1033.7,1042.1,1051.9,1091.6,1122.6
+"31","24","  Owner-occupied nonfarm dwellings--space rent (s.) \4\","AOWNRX1",551.6,567.4,575.5,583.9,604.8,615.9,626.7,642.4,663.7,688.2,712.2,740.2,748.9,764.9,804.2,831.9
+"32","25","  Tenant-occupied nonfarm dwellings--rent (s.) \5\","ATENRX1",199.9,201.7,203.8,204.9,209.9,216.5,217.1,218.8,222.8,226.7,227.5,230.7,228.8,220.4,218.1,218.6
+"33","26","  Rental value of farm dwellings (s.)","BFARRX1",9.6,9.6,9.6,9.6,9.6,9.6,9.7,10,10.2,10.5,10.7,10.8,10.9,11,10.9,10.9
+"34","27","  Other (s.) \6\","AOHORX1",40.9,41.2,43.8,43.3,45,45.5,47.7,51.4,52.2,53.2,56,52,53.5,55.9,58.7,61.5
+"35","28","Household operation","A534RX1",485,485.7,501.3,526.8,553.1,572.8,597.5,621.3,650.5,686.3,719.3,723.8,740.5,765.9,801.9,829.8
+"36","29","  Furniture, including mattresses and bedsprings (d.)","BFNRRX1",41.8,41,41.4,43.8,46.4,48.7,51.8,56,59.2,63.2,67.6,68.3,71.6,73.9,79.7,84.4
+"37","30","  Kitchen and other household appliances (d.) \7\","BAPPRX1",22.2,22,23.1,23.9,24.2,25.1,25.3,25.2,26.6,28.9,30.4,31,32.7,34.6,38.1,39.6
+"38","31","  China, glassware, tableware, and utensils (d.)","BCHNRX1",17.8,17.6,18.7,19.8,21.1,22.5,23.9,25,26.3,28.9,31,31.9,34.5,36.8,38.9,40.8
+"39","32","  Other durable house furnishings (d.) \8\","AODHRX1",39.2,37.3,38.4,41.2,45.2,47.9,51,54.3,57.6,63.1,67.3,68.6,72.1,77.7,85.4,91.6
+"40","33","  Semidurable house furnishings (n.d.) \9\","BSDHRX1",20.1,20.8,22.7,23.8,25.2,26.5,28.1,29.5,31.6,34.2,36.5,37.4,39.9,44.5,49.1,53.2
+"41","34","  Cleaning and polishing preparations, and miscellaneous household supplies and paper products (n.d)","ACLPRX1",46.2,45.9,47.3,50.1,53.4,54.5,56,58.1,59.4,61.8,61.6,62.2,63.5,67.1,70.6,73.8
+"42","35","  Stationery and writing supplies (n.d.)","BSTYRX1",17.2,17.5,17.8,18.1,18.4,17.8,17.3,16.9,17.3,18.2,19,18.3,18.3,18.8,19.8,20.6
+"43","36","  Household utilities","A535RX1",174.5,177.7,176.7,185.4,189.9,193.3,199.3,198,201,204.5,209.9,207.3,212.3,215.4,216.5,219.6
+"44","37","    Electricity (s.)","BELCRX1",81.1,83.5,82,86.9,88.8,90.2,91.8,91.7,98,98.8,102.3,100,104.6,105.7,108.7,113.5
+"45","38","    Gas (s.)","BNGSRX1",36.6,38.1,39.1,40.6,40.5,40.4,43.8,42.8,38.7,39.3,41,40.8,40.3,41.8,41.3,40.9
+"46","39","    Water and other sanitary services (s.)","BWATRX1",41.1,40.5,39.7,41.6,43.5,45.2,46.6,47.7,48.4,50,50.8,51.3,51.9,52.5,52,52.2
+"47","40","    Fuel oil and coal (n.d.)","A171RX1",16.7,16.6,17,17.4,18.2,18.7,18.4,16.9,16,16.4,15.8,15.2,15.5,15.4,14.6,13.7
+"48","41","  Telephone and telegraph (s.)","BTELRX1",58.3,61,67.5,71.1,75.5,79.5,86.5,96.4,104,114.3,125.1,131,131.2,133.5,139.6,144.1
+"49","42","  Domestic service (s.)","BDMSRX1",14.3,13.3,14.3,14.9,15.4,16,15.7,16.2,18.3,16.8,17.4,16.2,15.5,16.7,17.4,17.1
+"50","43","  Other (s.) \10\","AOPORX1",39.7,37.2,37.6,38.7,42.3,44.3,45.4,47.4,50.6,52.8,53.6,51.7,49.9,48.9,51.1,51.8
+"51","44","Medical care","A536RX1",905.9,932.1,971.5,988,1003.1,1028.9,1053.7,1085.7,1129.7,1164.7,1218.3,1279.6,1353.2,1411,1457.7,1508.3
+"52","45","  Drug preparations and sundries (n.d.) \11\","BDRGRX1",90.1,91.7,92.3,95.2,99.2,105.6,112.7,122.8,138.1,154.3,169.4,184.2,195.5,208.6,218.3,224.2
+"53","46","  Ophthalmic products and orthopedic appliances (d.)","BOPTRX1",17.3,15.3,15.3,15.3,16.3,16.4,17.9,19.7,20.8,21.4,22.1,20.1,21.1,21.5,22,22.9
+"54","47","  Physicians (s.) \12\","BPHYRX1",194.7,198.1,204.3,198.4,196.5,200.1,204.9,210.6,218.7,224.6,236.8,249.7,269.8,288.1,302.6,315.9
+"55","48","  Dentists (s.)","BDENRX1",53.5,52.4,54.2,54.2,55.3,56.7,57.1,58.1,59.2,60,61.8,64.2,66.4,65.9,67.5,68.2
+"56","49","  Other professional services (s.) \13\","BOPSRX1",94.8,104.2,115.6,125.9,132.7,142.3,148.6,151.1,155.5,157.2,161.6,169.9,178.1,187.2,196.6,205.3
+"57","50","  Hospitals and nursing homes \14\","BPHORX1",386.4,399.4,414.4,421.9,426.5,434.1,441.6,453.6,462.6,469.4,482.6,504,529.3,541.5,549.2,565.1
+"58","51","    Hospitals","A2601X1",317.3,328.8,341,346.6,350,353.3,357.8,365.7,374.9,383,396,416.8,440.9,452.2,460.5,474.1
+"59","52","      Nonprofit (s.)","B2602X1",214.7,224.4,235.3,239.2,238.6,237.6,239.7,245.1,251.7,259.4,267.1,275.8,288.1,297,303.5,312.6
+"60","53","      Proprietary (s.)","B2603X1",38.9,38.6,37.6,36.1,36.4,38.4,41.2,42.9,42.2,41.9,43.1,48.1,54.7,57.2,57.3,59.7
+"61","54","      Government (s.)","B2604X1",64.1,66.1,68.3,71.6,75,77.3,76.9,77.7,81.1,81.7,85.7,93,98.2,98,99.7,101.9
+"62","55","    Nursing homes (s.)","B2605X1",68.7,70.2,73,74.8,76.2,80.7,83.8,88,87.7,86.4,86.6,87.2,88.4,89.5,88.8,91.2
+"63","56","  Health insurance","AHINRX1",70.1,71.8,76.2,78,77.1,73.7,70.6,69.6,74.7,77.8,84,87.4,93.3,98.8,102.9,108.2
+"64","57","    Medical care and hospitalization (s.) \15\","BMINRX1",52.8,54.5,57.5,58.9,58.7,56.8,55.1,54.7,60.1,62.9,68.4,70.4,74.8,79.2,82.8,87.6
+"65","58","    Income loss (s.) \16\","BIINRX1",0.7,0.7,0.8,1,1,1,1,1.3,1.5,1.6,1.7,1.8,1.9,2,2.1,2.3
+"66","59","    Workers' compensation (s.) \17\","BPWCRX1",17.4,17.7,18.8,18.5,17.7,15.9,14.2,13.5,13.1,13.3,13.8,15.2,16.7,17.7,17.9,18.1
+"67","60","Personal business","A479RX1",330,349,358.9,381,382.6,387,402.3,426.3,453.9,495.3,539.1,532.9,526.6,528.4,560.6,579.7
+"68","61","  Brokerage charges and investment counseling (s.)","BBRORX1",12.3,14.3,16.8,21.4,24.1,28.1,34.2,41.3,53.1,73.9,100.6,86.4,87.9,85.9,94.3,97.1
+"69","62","  Bank service charges, trust services, and safe deposit box rental (s.)","BBNKRX1",45.9,47.7,49.3,50.3,48.9,48.7,49.2,49.6,54.4,61.6,64.2,67.3,72.4,76.5,80.3,87.2
+"70","63","  Services furnished without payment by financial intermediaries except life insurance carriers (s.)","AIMPRX1",115.7,122.6,127.3,131.1,133.2,129.7,136.1,143.2,150.4,158.9,167.2,176.2,174.5,170.5,183.7,187.6
+"71","64","  Expense of handling life insurance and pension plans (s.) \18\","BLIFRX1",86.2,96.1,91.4,100.3,95.1,97,93.2,97.3,93.1,91.4,96.1,90.1,79.5,77.8,84.7,89
+"72","65","  Legal services (s.)","BGALRX1",62.2,60.2,61.6,61,60.2,58.8,60.6,62,63.4,64.2,63.9,64.5,63.9,67.1,67.2,67.4
+"73","66","  Funeral and burial expenses (s.)","BFUNRX1",15,15,15.5,15.5,15,15.1,14.8,14.3,14.7,14.4,14,14.1,13.6,14.1,13.2,13.1
+"74","67","  Other (s.) \19\","APBORX1",24.2,24.6,25.1,26.3,27.3,27.8,28.5,29.9,31.5,32.9,33.1,33.4,34.4,35.6,37.2,38.1
+"75","68","Transportation","A537RX1",590.1,549,581.1,607.6,643.2,654.6,687.1,727.4,779.3,831.6,853.4,872,890.9,905.3,919.7,922.3
+"76","69","  User-operated transportation","A538RX1",546.6,506.1,538.3,564.4,596.3,606.1,635.3,673.9,723.2,773.4,793.8,815.7,834.2,845.9,857.4,859.9
+"77","70","    New autos (d.)","A136RX1",102.5,79.8,84.2,86.4,88.3,82.2,80.6,81,87,97.5,103.6,103.7,103.4,100.6,101.7,107
+"78","71","    Net purchases of used autos (d.)","A137RX1",42.4,44.8,47.8,48.4,53.5,52.8,54.8,57.4,61.3,61.7,60.7,58.7,58.1,56.3,56,57.2
+"79","72","    Other motor vehicles (d.)","AOAURX1",79.6,72.7,83.2,91.7,98.6,99.8,110.2,124.7,146.9,166.1,173.2,195.6,219.6,236.1,241.5,234.5
+"80","73","    Tires, tubes, accessories, and other parts (d.)","ATBARX1",29.3,28.6,29.4,32.1,35.5,37.2,39.7,41.5,43.8,47.2,49,47.9,48.2,49.5,51.4,54.3
+"81","74","    Repair, greasing, washing, parking, storage, rental, and leasing (s.)","BREPRX1",109.4,101.7,108.8,116.3,127.7,138.8,150.5,163.5,169,177.4,183.5,182.9,175.2,173,173,173.3
+"82","75","    Gasoline and oil (n.d.)","C170RX1",141.8,140.3,146,149.7,151.7,154.5,157.9,162.8,170.3,176.3,175.7,178.3,181.9,183.2,186,185.9
+"83","76","    Bridge, tunnel, ferry, and road tolls (s.)","BTOLRX1",3.3,3.4,3.9,4,4.2,4.4,4.8,5,4.7,5,5.1,4.9,4.9,4.9,4.9,4.8
+"84","77","    Insurance (s.) \20\","BAINRX1",39.9,39.1,39.4,39.3,39.9,40.2,40.4,41.2,42.3,42.9,43,43.8,43.7,43.8,44.5,44.6
+"85","78","  Purchased local transportation","A477RX1",10.9,10.8,10.7,10.8,11.2,11.2,11,11,11.8,12.1,12.2,12.1,11.7,11.5,11.6,11.8
+"86","79","    Mass transit systems (s.)","BSTRRX1",7.5,7.6,7.6,7.6,8,7.9,7.7,7.8,8.3,8.7,9.1,9,8.5,8.4,8.5,8.7
+"87","80","    Taxicab (s.)","BTAXRX1",3.4,3.2,3.1,3.2,3.2,3.4,3.2,3.2,3.5,3.4,3.1,3.1,3.2,3.1,3.1,3.1
+"88","81","  Purchased intercity transportation","A480RX1",32.5,31.9,32,32.4,35.5,37.1,40.8,42.5,44.2,46,47.4,44.1,44.8,48.1,51.3,51.2
+"89","82","    Railway (s.)","BIRRRX1",0.8,0.8,0.6,0.6,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.6,0.6
+"90","83","    Bus (s.)","BIBURX1",1.5,1.7,1.7,1.9,2,2.1,2.2,2.5,2.4,2.3,2.4,2.3,2.2,2.1,2,1.8
+"91","84","    Airline (s.)","BIAIRX1",24.8,23.9,23.4,23.7,26.1,27.2,30.3,31.7,33.3,34.9,36.7,34,34.2,36.8,39.7,39.9
+"92","85","    Other (s.) \21\","BTRORX1",5.3,5.4,6.2,6.3,6.9,7.4,7.9,7.8,8,8.3,7.8,7.2,7.9,8.6,9.2,9.1
+"93","86","Recreation","A539RX1",276.5,280.9,296.6,322.9,350.9,383.6,415,447.8,488.7,540.9,585.7,612.2,647.9,689,744.4,802.7
+"94","87","  Books and maps (d.)","BBKSRX1",19.2,18.9,19.3,20.7,22.7,24.5,25.6,27.2,28.2,31.4,33.7,34.2,35.6,37.4,39.2,40.9
+"95","88","  Magazines, newspapers, and sheet music (n.d.)","BMAGRX1",29.3,28.2,27,28,29.7,30.8,31.7,33.2,33.4,34.1,35,34.3,33.8,34.3,36.3,39.1
+"96","89","  Nondurable toys and sport supplies (n.d.)","BTOYRX1",28.3,29.6,30.8,32.6,35,37.4,39.1,41,45.6,51.6,56.6,60,65.3,70.7,77,86
+"97","90","  Wheel goods, sports and photographic equipment, boats, and pleasure aircraft (d.)","AWHGRX1",30.4,29.4,29.5,32.5,35,37.9,40.4,43.1,46.9,52,57.6,59.7,63.1,68.3,75.1,86.1
+"98","91","  Video and audio goods, including musical instruments, and computer goods (d.)","BRADRX1",18.6,20.3,22.5,27.1,32.8,39.6,48.9,60.5,76.9,97,116.6,132.3,155.6,179.2,212.1,248.5
+"99","92","    Video and audio goods, including musical instruments (d.)","BVAMRX1",32.2,32.1,33.7,37,41.9,45.9,48.8,50.8,56.5,64.4,72.8,77.5,84.5,91.5,104.6,117.9
+"100","93","    Computers, peripherals, and software (d.) \22\","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","94","  Radio and television repair (s.)","BRTVRX1",4,3.6,3.5,3.6,3.6,3.8,3.8,3.9,4,4.1,4.2,4,4,4,4.5,4.6
+"102","95","  Flowers, seeds, and potted plants (n.d.)","BFLORX1",11.5,11.1,11.7,12.6,13.3,13.5,15,16.2,16.7,17.9,18,17.5,17.4,17.4,17.3,18.6
+"103","96","  Admissions to specified spectator amusements","A481RX1",21.7,21.6,22.3,24.5,25.2,26.2,27.8,28.7,29.5,30.2,30.4,30.9,32.1,32.1,32.1,31.5
+"104","97","    Motion picture theaters (s.)","BMOVRX1",7.4,7.1,6.7,6.7,6.8,7,7.2,7.6,8.2,8.4,8.6,8.7,9,8.8,8.5,8.1
+"105","98","    Legitimate theaters and opera, and entertainments of nonprofit institutions (except athletics) (s.)","BLEGRX1",7.5,7.4,8.1,9.4,9.7,10,10.1,10.6,10.4,10.5,10.3,10.5,10.9,10.6,10.7,10.7
+"106","99","    Spectator sports (s.) \23\","BSPERX1",6.8,7.1,7.5,8.4,8.7,9.2,10.4,10.5,10.9,11.2,11.5,11.7,12.2,12.7,12.9,12.7
+"107","100","  Clubs and fraternal organizations (s.) \24\","BCLURX1",17.9,19.6,20.8,20.9,20.5,20,19.1,17.8,18.1,18.6,19,19.3,20,21.4,21,21.6
+"108","101","  Commercial participant amusements (s.) \25\","ACOMRX1",33.2,33.6,38,43.3,49.5,55.7,60.2,64.5,67.3,71.4,75.8,77.2,79.6,84.4,90.8,93.9
+"109","102","  Pari-mutuel net receipts (s.)","BPARRX1",4.6,4.4,4.1,4,4.1,4.2,4.2,4.3,4.6,5,5,4.9,5.1,4.9,5.2,5.5
+"110","103","  Other (s.) \26\","AREORX1",89.3,89,95.4,99.3,102.1,109.4,113.6,116.5,121.4,128.5,133.9,138.6,140.3,144.2,151.3,156.2
+"111","104","Education and research","A482RX1",125.6,127.1,130.5,132.6,134.8,138.5,142.7,145.7,151.9,157.3,163.8,170,173.5,176,174.8,176.1
+"112","105","  Higher education (s.) \27\","BHEDRX1",69.6,71,72.8,73.6,74.5,76,77.3,77.8,80.5,83.3,86.4,90.6,93.2,96.2,95.9,96.4
+"113","106","  Nursery, elementary, and secondary schools (s.) \28\","BEEDRX1",29,29.1,29.7,30.3,30.9,31.9,32.5,32.6,33.3,34.1,34.6,35,35.7,36.4,37,37.9
+"114","107","  Other (s.) \29\","BOEDRX1",26.8,26.9,27.9,28.5,29.2,30.4,32.8,35.2,38.1,39.9,42.8,44.4,44.7,43.4,41.9,41.9
+"115","108","Religious and welfare activities (s.) \30\","BRAWRX1",121.2,122.8,131.3,133.4,140.7,142.4,149.9,149.4,157.8,162.1,172.3,181.2,189,189.5,194.4,193.2
+"116","109","Foreign travel and other, net","A540RX1",-13.1,-21.5,-27.8,-27.7,-25.2,-30.5,-33.1,-28.6,-17.7,-17.7,-13,-7.4,-8,-6.5,-7.2,-7.5
+"117","110","  Foreign travel by U.S. residents (s.) \31\","BFTRRX1",53.3,48.9,51.4,54.4,57.7,57.5,59.9,65.5,73.7,76.1,84.4,79.7,74.5,72.1,78.4,81.7
+"118","111","  Expenditures abroad by U.S. residents (n.d.)","AABDRX1",3.6,3.3,2.3,2.5,2.5,2.3,2.4,3.7,4.1,4.1,4.6,4.9,5.2,5.3,5.1,5
+"119","112","  Less: Expenditures in the United States by nonresidents (s.) \32\","BEXFRX1",68.8,72.4,79.7,82.8,83.8,88.9,94.2,96.7,94.3,96.5,100.7,90.5,86.2,82.1,88.8,92.1
+"120","113","  Less: Personal remittances in kind to nonresidents (n.d.)","BREMRX1",1.2,1.3,1.8,1.7,1.6,1.4,1.2,1.2,1.2,1.4,1.4,1.5,1.5,1.7,1.9,2.1
+"121","114","Residual","A964RX1",-129.7,-128.4,-122.8,-107,-91.8,-77.6,-58.6,-40.1,-21.2,-5.4,0.2,0,-9.9,-25.2,-47.2,-77.2
+"122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","1. Consists of purchases (including tips) of meals and beverages from retail, service, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","amusement establishments, hotels, dining and buffet cars, schools, school fraternities,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","institutions, clubs, and industrial lunchrooms.  Includes meals and beverages consumed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","both on- and off-premise.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","2. Includes luggage.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","3. Consists of watch, clock, and jewelry repairs, costume and dress suit rental, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","miscellaneous personal services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","4. Consists of rent for space and for heating and plumbing facilities, water heaters,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","lighting fixtures, kitchen cabinets, linoleum, storm windows and doors, window screens,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","and screen doors, but excludes rent for appliances and furniture and purchases of fuel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","and electricity.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","5. Consists of space rent (see footnote 4) and rent for appliances, furnishings, and furniture.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","6. Consists of transient hotels, motels, other traveler accommodations, clubs, schools, and other group housing.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","7. Consists of refrigerators and freezers, cooking ranges, dishwashers, laundry equipment,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","stoves, room air conditioners, sewing machines, vacuum cleaners, and other appliances.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","8. Includes such house furnishings as floor coverings, picture frames, mirrors, art products,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","portable lamps, clocks, blinds, shades, drapery hardware, and telephone equipment.  Also",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","includes writing equipment and hand, power, and garden tools.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","9. Consists largely of textile house furnishings, including piece goods allocated to house",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","furnishing use. Also includes lamp shades, brooms, and brushes.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","10. Consists of repair and maintenance services for appliances and house furnishings, moving and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","warehouse expenses, postage and parcel delivery charges, premiums plus premium supplements",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","less normal losses and dividends paid to policyholders for insurance on personal property (except",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","motor vehicles), and miscellaneous household operation services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","11. Excludes drug preparations and related products dispensed by physicians, hospitals, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","other medical services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","12. Consists of offices of physicians, HMO medical centers, and freestanding ambulatory surgical and emergency centers.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","13. Consists of chiropractors, optometrists, mental health practitioners (except physicians),",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","physical, occupational and speech therapists, and audiologists,  podiatrists, all other miscellaneous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","health practitioners, ambulance services, kidney dialysis centers, family planning services, outpatient",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","mental health and substance abuse centers, all other outpatient care centers, blood and organ banks, all",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","other miscellaneous ambulatory health care services, home health furniture and equipment rental, medical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","and diagnostic laboratories, and home health care.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","14. Consists of (1) current expenditures (including consumption of fixed capital) of nonprofit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","hospitals and nursing homes, and (2) payments by patients to proprietary and government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","hospitals and nursing homes.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","15. Consists of premiums less benefits for health, hospitalization, and accidental death and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","dismemberment insurance.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","16. Consists of premiums less benefits for income loss insurance.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","17. Consists of premiums plus premium supplements less normal losses and dividends paid to",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","policyholders for privately administered workers' compensation.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","18. Consists of (1) operating expenses of commercial life insurance carriers and fraternal benefit life",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","insurance and (2) administrative expenses of private noninsured pension plans and publicly administered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","government employee retirement plans.  For commercial life insurance carriers, excludes expenses for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","accident and health insurance and includes profits of stock companies and services furnished without",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","payment by banks, credit agencies, and investment companies.  For pension and retirement plans, excludes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","services furnished without payment by banks, credit agencies, and investment companies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","19. Consists of current expenditures (including consumption of fixed capital) of trade unions and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","professional associations, employment agency fees, money order fees, spending for classified advertisements,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","tax return preparation services, and other personal business services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","20. Consists of premiums plus premium supplements less normal losses and dividends paid to policyholders for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","motor vehicle insurance.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","21. Consists of baggage charges, coastal and inland waterway fares, travel agents' fees, airport bus fares,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","and limousine services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","22. The quantity index for computers can be used to accurately measure the real growth rate of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","this component. However, because computers exhibit rapid changes in prices relative to other prices",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","in the economy, the chained-dollar estimates should not be used to measure the component's relative",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","importance or its contribution to the growth rate of more aggregate series.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","23. Consists of admissions to professional and amateur athletic events and to racetracks.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","24. Consists of current expenditures (including consumption of fixed capital) of nonprofit clubs and fraternal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","organizations and dues and fees paid to proprietary clubs.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","25. Consists of billiard parlors; bowling alleys; dancing, riding, shooting, skating, and swimming places;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","amusement devices and parks; golf courses; skiing facilities; marinas; sightseeing; private flying operations;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","casino gambling; recreational equipment rental, and other commercial participant amusements.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","26. Consists of lotteries, pets and pet care services, cable TV, film processing, photographic studios, sporting",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","and recreation camps, video rentals, internet access fees, and recreational services, not elsewhere classified.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","27. For private institutions, equals current expenditures (including consumption of fixed capital) less receipts--",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","such as those from meals, rooms, and entertainments--accounted for separately in consumer expenditures, and less",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","expenditures for research and development financed under contracts or grants.  For government institutions, equals",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","student payments of tuition.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","28. For private institutions, equals current expenditures (including consumption of fixed capital) less receipts--",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","such as those from meals, rooms, and entertainments--accounted for separately in consumer expenditures.  For government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","institutions, equals student payments of tuition.  Excludes child day care services, which are included in religious and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","welfare activities.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","29. Consists of (1) fees paid to business schools and computer and management training, technical and trade schools,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","other schools and instruction, and educational support services, and (2) current expenditures (including consumption",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199","of  fixed capital) by nonprofit research organizations and by grantmaking foundations for education and research.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","30. For nonprofit institutions, equals current expenditures (including consumption of fixed capital) of religious",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","organizations, child day care services (excluding educational programs), social advocacy organizations, human rights",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","organizations, civic and social organizations, residential mental health and substance abuse facilities, homes for the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","elderly, other residential care facilities, social assistance services, political organizations, museums, libraries,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","and grantmaking and giving services.  The expenditures are net of receipts--such as those from meals, rooms, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","entertainments--accounted for separately in consumer expenditures, and exclude relief payments within the United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","and expenditures by grantmaking foundations for education and research.  For proprietary and government institutions,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","equals receipts from users.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","31. Beginning with 1981, includes U.S. students' expenditures abroad.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","32. Beginning with 1981, includes nonresidents' student and medical care expenditures in the United States.  Beginning",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","with 1986, includes migratory worker and foreign professional expenditures in the U.S..",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","Note. Consumer durable goods are designated (d.), nondurable goods (n.d.), and services (s.).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

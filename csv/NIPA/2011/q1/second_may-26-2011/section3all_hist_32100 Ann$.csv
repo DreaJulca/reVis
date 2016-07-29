@@ -1,0 +1,59 @@
+"","Table 3#21# Local Government Current Receipts and Expenditures","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1959 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 07, 2010  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/25/2011 9:25:47 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","    Current receipts","W830RC1",26.9,29.9,32.6,35.2,38.2,41.8,45.5,49.9,55.8,61.7,69.2
+"9","2","Current tax receipts","W831RC1",17.1,18.8,20.3,21.8,23.4,25.3,27,28.5,31.3,34.8,38.4
+"10","3","  Personal current taxes","W832RC1",0.8,0.8,0.9,1,1.1,1.2,1.2,1.4,1.6,1.7,2
+"11","4","    Income taxes","W833RC1",0.2,0.3,0.3,0.3,0.4,0.5,0.5,0.6,0.8,0.9,1.1
+"12","5","    Other","W834RC1",0.5,0.6,0.6,0.6,0.7,0.7,0.8,0.7,0.8,0.8,0.9
+"13","6","  Taxes on production and imports","W8735C1",16.4,18,19.4,20.8,22.3,24.1,25.7,27.1,29.5,32.8,36.1
+"14","7","    Sales taxes","W836RC1",1.2,1.3,1.4,1.5,1.6,1.9,2.1,2,1.9,2.3,2.9
+"15","8","    Property taxes","W837RC1",14.3,15.7,17,18.4,19.7,21.1,22.5,23.8,26.2,29.1,31.9
+"16","9","    Other","W838RC1",0.9,0.9,1,1,1,1.1,1.1,1.3,1.3,1.4,1.4
+"17","10","  Taxes on corporate income","W839RC1",0,0,0,0,0,0,0,0,0.2,0.3,0.3
+"18","11","Contributions for government social insurance","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","12","Income receipts on assets","W841RC1",0.7,0.8,0.9,1,1,1.3,1.4,1.7,2,1.7,2.2
+"20","13","  Interest receipts","W842RC1",0.5,0.7,0.7,0.8,0.9,1.1,1.2,1.4,1.6,1.4,1.8
+"21","14","  Dividends","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","15","  Rents and royalties","W844RC1",0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.4,0.4
+"23","16","Current transfer receipts","W845RC1",8.3,9.4,10.4,11.5,12.6,14,15.9,18.6,21.6,24.2,27.7
+"24","17","  Federal grants-in-aid","W846RC1",0.4,0.5,0.6,0.6,0.8,1.1,1.1,1.2,1.5,1.1,1.3
+"25","18","  State government grants-in-aid","W847RC1",7.7,8.6,9.4,10.3,11.3,12.4,14.3,16.7,19.1,22,25.4
+"26","19","  From business (net)","W848RC1",0.1,0.1,0.2,0.2,0.2,0.2,0.3,0.2,0.4,0.4,0.4
+"27","20","  From persons","W849RC1",0.1,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.6,0.7,0.7
+"28","21","Current surplus of government enterprises","W850RC1",0.8,0.9,1,1,1.2,1.2,1.2,1.1,1,0.9,0.9
+"29","22","    Current expenditures","W851RC1",24.1,26.4,29.1,30.9,33.2,36.3,39.6,44.2,48.9,55.2,62.4
+"30","23","Consumption expenditures","W852RC1",22.1,24.2,26.6,28.3,30.4,33.3,36.3,40.5,44.7,50.2,56.6
+"31","24","Current transfer payments","W853RC1",1,1,1.2,1.2,1.2,1.3,1.5,1.7,2,2.6,3.2
+"32","25","  Government social benefit payments to persons","W854RC1",0.7,0.8,0.9,0.9,1,1,1.1,1.3,1.6,2,2.4
+"33","26","  Grants-in-aid to state governments","W855RC1",0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.5,0.6,0.8
+"34","27","Interest payments","W856RC1",1,1.2,1.3,1.4,1.5,1.7,1.8,2,2.1,2.4,2.5
+"35","28","Subsidies","W857RC1",0,0,0,0,0,0,0,0,0,0,0
+"36","29","Less: Wage accruals less disbursements","W858RC1",0,0,0,0,0,0,0,0,0,0,0
+"37","30","    Net local government saving","W859RC1",2.8,3.4,3.5,4.3,5,5.5,5.9,5.7,7,6.5,6.9
+"38","31","Social insurance funds","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","32","Other","W861RC1",2.8,3.4,3.5,4.3,5,5.5,5.9,5.7,7,6.5,6.9
+"40",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","33","  Total receipts","W862RC1",28.1,31.1,33.9,36.6,39.6,43.3,47.1,51.6,57.8,64.5,72.4
+"42","34","    Current receipts","W830RC1",26.9,29.9,32.6,35.2,38.2,41.8,45.5,49.9,55.8,61.7,69.2
+"43","35","    Capital transfer receipts","W864RC1",1.2,1.2,1.3,1.3,1.4,1.6,1.7,1.8,2,2.9,3.2
+"44","36","  Total expenditures","W865RC1",29.6,32.4,35.2,37.3,40.1,44.1,48.5,53.8,59.6,67.4,73.9
+"45","37","    Current expenditures","W851RC1",24.1,26.4,29.1,30.9,33.2,36.3,39.6,44.2,48.9,55.2,62.4
+"46","38","    Gross government investment","W867RC1",7.6,8.2,8.4,8.8,9.5,10.5,11.8,12.7,14.2,16.1,15.9
+"47","39","    Capital transfer payments","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","40","    Net purchases of nonproduced assets","W868RC1",0.4,0.4,0.4,0.5,0.5,0.6,0.7,0.7,0.8,0.8,0.8
+"49","41","    Less: Consumption of fixed capital","W869RC1",2.4,2.6,2.7,2.9,3.1,3.3,3.6,3.9,4.3,4.7,5.3
+"50","42","  Net lending or net borrowing (-)","W870RC1",-1.6,-1.4,-1.4,-0.8,-0.5,-0.8,-1.4,-2.1,-1.7,-2.9,-1.5
+"51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Note. State receipts plus local receipts and state expenditures plus local expenditures do not sum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","to the consolidated state and local government account totals because grants-in-aid from states",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","to local governments and from local to state governments are netted in the consolidated account",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","totals. In addition, the receipt category ""surplus of government enterprises"" and the expenditure",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","category ""subsidies"" do not sum to the consolidated account totals because the level of government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","making subsidy payments accounts for them as subsidies while recipient governments account for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","them as surpluses of government enterprises.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

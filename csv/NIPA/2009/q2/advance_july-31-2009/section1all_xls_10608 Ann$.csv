@@ -1,0 +1,71 @@
+"","Table 1#6#8# Contributions to Percent Change in the Gross Domest","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","                                                                                                                                                                                                                                                          ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:48:35 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8",NA,"Percent change at annual rate:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","  Gross domestic purchases","A712RV1",2.1,1.8,1.5,0.7,1.6,2.5,1.9,1.4,2.3,3,3.7,3.4,2.9,3.2
+"10",NA,"Percentage points at annual rates:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","2","Personal consumption expenditures","DPCERS2",1.47,1.44,1.24,0.63,1.06,1.64,1.27,0.92,1.37,1.75,1.99,1.82,1.78,2.23
+"12","3","  Goods","DGDSRS2",0.23,0.27,-0.03,-0.36,0.12,0.48,-0.02,-0.25,-0.01,0.36,0.51,0.35,0.29,0.74
+"13","4","    Durable goods","DDURRS2",0.06,-0.09,-0.19,-0.25,-0.25,-0.16,-0.18,-0.23,-0.32,-0.16,-0.09,-0.13,-0.15,-0.09
+"14","5","      Motor vehicles and parts","DMOTRS2",0.14,0.07,0.01,-0.04,0.01,0.01,0.01,-0.02,-0.1,-0.02,0.05,0,-0.02,-0.02
+"15","6","      Furnishings and durable household equipment","DFDHRS2",0,0.01,0,0,-0.03,-0.01,-0.04,-0.04,-0.06,-0.03,0,-0.01,-0.02,-0.01
+"16","7","      Recreational goods and vehicles","DREQRS2",-0.09,-0.16,-0.19,-0.19,-0.2,-0.15,-0.16,-0.15,-0.15,-0.11,-0.12,-0.14,-0.15,-0.11
+"17","8","      Other durable goods","DODGRS2",0.02,-0.01,-0.01,-0.02,-0.03,-0.01,0,-0.02,-0.02,0,-0.01,0.02,0.04,0.05
+"18","9","    Nondurable goods","DNDGRS2",0.17,0.35,0.16,-0.11,0.37,0.64,0.16,-0.01,0.31,0.53,0.59,0.47,0.44,0.83
+"19","10","      Food and beverages purchased for off-premises consumption","DFXARS2",0.13,0.18,0.11,0.07,0.09,0.12,0.15,0.08,0.1,0.16,0.09,0.09,0.19,0.3
+"20","11","      Clothing and footwear","DCLORS2",-0.07,-0.04,0,-0.05,-0.04,-0.03,-0.05,-0.07,-0.06,-0.01,-0.02,-0.01,-0.02,-0.02
+"21","12","      Gasoline and other energy goods","DGOERS2",0.02,0.12,0,-0.22,0.12,0.44,-0.06,-0.11,0.27,0.31,0.45,0.29,0.2,0.43
+"22","13","      Other nondurable goods","DONGRS2",0.09,0.09,0.05,0.09,0.2,0.11,0.12,0.09,0.01,0.06,0.08,0.11,0.07,0.13
+"23","14","  Services","DSERRS2",1.24,1.18,1.27,0.99,0.94,1.17,1.29,1.16,1.38,1.39,1.48,1.47,1.49,1.49
+"24","15","    Household consumption expenditures","DHCERS2",1.24,1.15,1.21,0.9,0.89,1.08,1.22,1.15,1.41,1.39,1.41,1.43,1.46,1.47
+"25","16","      Housing and utilities","DHUTRS2",0.33,0.36,0.33,0.28,0.28,0.39,0.54,0.35,0.38,0.31,0.41,0.51,0.43,0.43
+"26","17","      Health care","DHLCRS2",0.35,0.22,0.19,0.17,0.2,0.25,0.3,0.25,0.37,0.36,0.31,0.3,0.36,0.27
+"27","18","      Transportation services","DTRSRS2",0.05,0.03,0.06,0.04,0.04,0.08,0.03,0.01,0.05,0.03,0.08,0.09,0.05,0.11
+"28","19","      Recreation services","DRCARS2",0.05,0.08,0.08,0.06,0.08,0.1,0.08,0.07,0.08,0.07,0.07,0.08,0.07,0.08
+"29","20","      Food services and accommodations","DFSARS2",0.1,0.11,0.12,0.11,0.1,0.11,0.11,0.1,0.08,0.13,0.13,0.13,0.15,0.16
+"30","21","      Financial services and insurance","DIFSRS2",0.19,0.2,0.29,0.12,0.05,0.05,-0.03,0.14,0.23,0.28,0.19,0.12,0.23,0.17
+"31","22","      Other services","DOTSRS2",0.17,0.15,0.15,0.11,0.14,0.11,0.18,0.23,0.22,0.2,0.22,0.2,0.17,0.25
+"32","23","    Final consumption expenditures of nonprofit institutions serving households (NPISHs)","DNPIRS2",0,0.03,0.06,0.09,0.05,0.08,0.08,0.01,-0.03,-0.01,0.06,0.03,0.02,0.02
+"33","24","Gross private domestic investment","A006RS2",0.17,-0.07,-0.06,-0.19,-0.02,0.19,0.14,0.06,0.21,0.53,0.73,0.71,0.35,0.1
+"34","25","  Fixed investment","A007RS2",0.17,-0.04,-0.04,-0.15,-0.01,0.2,0.15,0.06,0.22,0.52,0.72,0.7,0.35,0.12
+"35","26","    Nonresidential","A008RS2",0.02,-0.13,-0.15,-0.26,-0.18,0.01,-0.05,-0.05,0,0.15,0.33,0.37,0.28,0.18
+"36","27","      Structures","A009RS2",0.11,0.07,0.11,0.14,0.09,0.12,0.16,0.12,0.09,0.18,0.32,0.35,0.24,0.12
+"37","28","      Equipment and software","A010RS2",-0.09,-0.2,-0.26,-0.4,-0.27,-0.11,-0.21,-0.17,-0.09,-0.03,0.01,0.01,0.04,0.05
+"38","29","        Information processing equipment and software","A679RS2",-0.17,-0.3,-0.31,-0.42,-0.31,-0.13,-0.23,-0.19,-0.15,-0.13,-0.1,-0.07,-0.05,-0.04
+"39","30","          Computers and peripheral equipment","B935RS2",-0.15,-0.25,-0.25,-0.3,-0.26,-0.14,-0.17,-0.11,-0.08,-0.05,-0.08,-0.08,-0.07,-0.07
+"40","31","          Software \1\","B985RS2",-0.01,-0.03,-0.03,-0.04,0.02,0.05,0.01,-0.03,-0.04,-0.04,-0.01,0.02,0.01,0.02
+"41","32","          Other","A937RS2",-0.01,-0.03,-0.02,-0.08,-0.07,-0.05,-0.06,-0.05,-0.03,-0.04,-0.01,0,0.01,0.01
+"42","33","        Industrial equipment","A680RS2",0.06,0.04,0.01,0.01,0.01,0.01,0.01,0,0.01,0.03,0.04,0.04,0.04,0.05
+"43","34","        Transportation equipment","A681RS2",-0.01,0.03,0.03,-0.01,0.02,0,-0.01,0.01,0.04,0.06,0.01,0.01,0.02,0
+"44","35","        Other equipment","A862RS2",0.03,0.03,0.02,0.02,0.02,0.01,0.02,0.01,0.01,0.01,0.05,0.03,0.03,0.04
+"45","36","    Residential","A011RS2",0.15,0.09,0.11,0.11,0.17,0.19,0.2,0.11,0.22,0.37,0.4,0.34,0.07,-0.06
+"46","37","  Change in private inventories","A014RS2",0,-0.02,-0.02,-0.04,-0.01,-0.01,0,0,-0.01,0.01,0.01,0.01,0.01,-0.02
+"47","38","    Farm","B018RS2",0,-0.01,-0.01,0,0,0,0,0,0,0,-0.01,0,0,-0.01
+"48","39","    Nonfarm","A015RS2",0,-0.01,-0.01,-0.03,-0.01,-0.01,0,0,-0.01,0,0.01,0.01,0.01,-0.02
+"49","40","Government consumption expenditures and gross investment","A822RS2",0.5,0.43,0.32,0.23,0.54,0.67,0.46,0.46,0.75,0.77,1.02,0.85,0.8,0.83
+"50","41","  Federal","A823RS2",0.2,0.19,0.11,0.07,0.15,0.19,0.11,0.22,0.27,0.31,0.32,0.27,0.23,0.2
+"51","42","    National defense","A824RS2",0.12,0.14,0.06,0.04,0.09,0.12,0.07,0.14,0.19,0.2,0.24,0.19,0.16,0.16
+"52","43","      Consumption expenditures","A997RS2",0.1,0.14,0.07,0.05,0.09,0.12,0.08,0.15,0.19,0.19,0.22,0.18,0.16,0.14
+"53","44","      Gross investment","A788RS2",0.02,0,-0.01,0,0.01,0,-0.01,0,0,0.01,0.01,0.01,0.01,0.01
+"54","45","    Nondefense","A825RS2",0.08,0.05,0.05,0.03,0.05,0.07,0.04,0.08,0.08,0.11,0.08,0.07,0.07,0.05
+"55","46","      Consumption expenditures","A542RS2",0.07,0.05,0.05,0.03,0.05,0.06,0.04,0.08,0.08,0.1,0.08,0.07,0.06,0.05
+"56","47","      Gross investment","A798RS2",0.01,0,0,0,0,0,0,0,0,0,0.01,0,0,0
+"57","48","  State and local","A829RS2",0.31,0.24,0.21,0.16,0.39,0.48,0.35,0.25,0.48,0.46,0.7,0.58,0.57,0.63
+"58","49","      Consumption expenditures","A991RS2",0.24,0.21,0.18,0.14,0.35,0.41,0.3,0.2,0.45,0.36,0.54,0.45,0.42,0.52
+"59","50","      Gross investment","A799RS2",0.06,0.04,0.03,0.03,0.04,0.07,0.05,0.04,0.03,0.1,0.16,0.13,0.15,0.11
+"60",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","51","  Final sales of computers to domestic purchasers \2\","W489RS2",-0.22,-0.38,-0.39,-0.46,-0.41,-0.23,-0.29,-0.2,-0.16,-0.1,-0.14,-0.14,-0.11,-0.12
+"62","52","  Gross domestic purchases excluding final sales of computers to domestic purchasers","BB05RS2",2.36,2.19,1.89,1.13,1.99,2.73,2.17,1.64,2.49,3.14,3.88,3.53,3.04,3.27
+"63","53","  Food \3\","B981RS2",0.13,0.17,0.1,0.06,0.09,0.12,0.15,0.08,0.09,0.16,0.08,0.08,0.19,0.29
+"64","54","  Energy goods and services","B982RS2",0.03,0.15,0.03,-0.28,0.12,0.51,0.07,-0.18,0.36,0.37,0.59,0.41,0.24,0.54
+"65","55","  Gross domestic purchases excluding food and energy","B983RS2",1.99,1.49,1.37,0.88,1.38,1.87,1.65,1.55,1.87,2.52,3.06,2.88,2.5,2.33
+"66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","1. Excludes software ""embedded,"" or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","2. Some components of final sales of computers include computer parts.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","3. Food excludes personal consumption expenditures for purchased meals and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","beverages, which are classified in food services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

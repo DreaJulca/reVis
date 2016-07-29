@@ -1,0 +1,75 @@
+"","Table 7#20# Comparison of Income and Outlays of Nonprofit Instit","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21"
+"1","[Millions of dollars]                                                           ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1992 To 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 26, 2010  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/28/2010 10:13:36 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009"
+"19","1","Revenue of nonprofit institutions, IRS \1\","W430RC1","682,094.0","728,130.0","764,521.0","849,085.0","917,762.0","987,262.0","997,145.0","1,078,995.0","1,149,784.0","1,155,399.0","1,214,362.0","1,393,282.0","1,495,550.0","1,614,937.0","1,778,516.0","1,864,155.0",".....","....."
+"20","2","Less: Nonprofit revenue recorded by the IRS not included in nonprofit institution income and receipts from sales","W431RC1","251,179.0","264,781.0","275,273.0","324,735.0","359,002.0","386,070.0","361,197.0","394,270.0","406,920.0","342,409.0","344,308.0","476,625.0","518,462.0","559,583.0","615,738.0","734,724.0",".....","....."
+"21","3","      Capital gains or losses","W432RC1","18,620.0","22,127.0","20,343.0","36,821.0","52,049.0","72,758.0","60,726.0","83,892.0","56,086.0","-757.0","-13,115.0","39,339.0","61,920.0","83,473.0","101,882.0","95,787.0",".....","....."
+"22","4","      Adjustment for different accounting periods","W433RC1","8,147.0","4,586.0","4,763.0","1,624.0","7,953.0","2,006.0","7,690.0","12,219.0","13,050.0","8,012.0","4,205.0","15,270.0","17,090.0","23,015.0","14,826.0","28,612.0",".....","....."
+"23","5","      Nonresident institutions","W434RC1","10,483.0","9,919.0","12,184.0","11,853.0","11,195.0","11,363.0","9,925.0","10,774.0","11,603.0","10,851.0","8,444.0","11,550.0","11,388.0","9,364.0","14,416.0","16,750.0",".....","....."
+"24","6","      Government hospitals and schools \2\","W435RC1","50,997.0","55,903.0","63,290.0","68,212.0","64,821.0","64,244.0","66,910.0","59,955.0","76,972.0","79,609.0","88,227.0","115,979.0","124,415.0","129,389.0","137,910.0","179,754.0",".....","....."
+"25","7","      Other out-of-scope activity \3\","W436RC1","137,494.0","145,348.0","148,378.0","178,255.0","190,519.0","201,436.0","173,778.0","179,937.0","194,134.0","185,431.0","196,257.0","231,888.0","239,755.0","245,505.0","268,182.0","323,509.0",".....","....."
+"26","8","      Transfer receipts from nonprofit institutions \4\","W426RC1","25,439.0","26,898.0","26,315.0","27,970.0","32,466.0","34,264.0","42,169.0","47,494.0","55,075.0","59,263.0","60,290.0","62,598.0","63,894.0","68,837.0","78,521.0","90,311.0","95,301.0","86,789.0"
+"27","9","Plus: Nonprofit institution income not recorded by the IRS","W438RC1","29,305.0","30,244.0","33,881.0","34,804.0","36,724.0","36,440.0","40,745.0","42,066.0","47,041.0","51,549.0","51,654.0","50,713.0","54,174.0","56,616.0","58,480.0","63,561.0",".....","....."
+"28","10","      Religious organizations \5\","W439RC1","27,610.0","28,961.0","32,686.0","33,466.0","35,109.0","35,041.0","38,705.0","39,958.0","44,973.0","48,849.0","49,668.0","49,392.0","54,000.0","56,755.0","59,232.0","63,574.0",".....","....."
+"29","11","      Other organizations","W440RC1","1,475.0","1,495.0","1,588.0","1,691.0","1,803.0","1,917.0","1,908.0","1,904.0","1,813.0","1,671.0","1,674.0","2,251.0","2,077.0","2,160.0","2,430.0","2,718.0",".....","....."
+"30","12","      Other accounting differences \6\","W428RC1","221.0","-212.0","-394.0","-353.0","-188.0","-518.0","132.0","204.0","254.0","1,029.0","312.0","-930.0","-1,904.0","-2,299.0","-3,182.0","-2,731.0",".....","....."
+"31","13","Equals: IRS-derived nonprofit institution income and receipts from sales","W441RC1","460,220.0","493,593.0","523,129.0","559,155.0","595,484.0","637,633.0","676,693.0","726,791.0","789,904.0","864,539.0","921,708.0","967,370.0","1,031,262.0","1,111,970.0","1,221,258.0","1,192,993.0",".....","....."
+"32","14","Nonprofit institution income, NIPAs \7\","W400RC1","131,746.0","135,343.0","142,856.0","151,294.0","170,850.0","188,832.0","196,701.0","221,802.0","248,743.0","240,968.0","240,819.0","242,993.0","270,641.0","294,675.0","305,877.0","314,958.0","314,250.0","318,511.0"
+"33","15","Plus: Receipts from sales of goods and services by nonprofit institutions, NIPAs \8\","DNPSRC1","308,456.0","328,681.0","342,315.0","356,216.0","373,091.0","397,036.0","419,552.0","439,870.0","466,611.0","501,808.0","544,679.0","574,028.0","617,703.0","660,557.0","693,258.0","731,415.0","758,816.0","799,221.0"
+"34","16","Equals: BEA-derived nonprofit institution income and receipts from sales","W442RC1","440,202.0","464,024.0","485,171.0","507,510.0","543,941.0","585,868.0","616,253.0","661,672.0","715,354.0","742,776.0","785,498.0","817,021.0","888,344.0","955,232.0","999,135.0","1,046,373.0","1,073,065.0","1,117,733.0"
+"35","17","    Gap, IRS less BEA nonprofit institution income and receipts from sales","W443RC1","20,018.0","29,569.0","37,957.0","51,645.0","51,543.0","51,764.0","60,440.0","65,119.0","74,550.0","121,763.0","136,210.0","150,349.0","142,918.0","156,738.0","222,123.0","146,620.0",".....","....."
+"36","18","Expenses of nonprofit institutions, IRS \1\","W444RC1","633,554.0","673,556.0","700,748.0","764,249.0","809,733.0","861,972.0","882,739.0","933,465.0","1,039,507.0","1,116,294.0","1,202,700.0","1,284,506.0","1,362,845.0","1,455,299.0","1,575,686.0","1,669,330.0",".....","....."
+"37","19","Less: Nonprofit institution expenses recorded by the IRS not included in gross output of nonprofit institutions and current transfer payments","W445RC1","223,539.0","235,494.0","243,903.0","273,274.0","326,046.0","282,264.0","292,715.0","301,220.0","345,386.0","353,913.0","369,874.0","418,030.0","444,796.0","478,083.0","516,668.0","602,591.0",".....","....."
+"38","20","      Adjustment for different accounting periods","W446RC1","7,477.0","3,632.0","4,355.0","1,249.0","5,457.0","3,775.0","8,848.0","8,631.0","15,601.0","14,608.0","5,975.0","7,947.0","12,996.0","21,369.0","11,886.0","30,882.0",".....","....."
+"39","21","      Nonresident institutions","W447RC1","9,361.0","9,398.0","11,571.0","10,251.0","10,119.0","10,527.0","11,345.0","10,052.0","10,960.0","10,502.0","7,633.0","10,554.0","9,987.0","8,332.0","12,830.0","15,513.0",".....","....."
+"40","22","      Government hospitals and schools \2\","W448RC1","49,122.0","58,003.0","64,425.0","67,128.0","79,170.0","51,390.0","69,783.0","64,755.0","76,374.0","82,031.0","97,289.0","119,633.0","130,439.0","136,050.0","155,174.0","155,875.0",".....","....."
+"41","23","      Other out-of-scope activity \3\","W449RC1","136,060.0","141,549.0","141,300.0","170,893.0","202,922.0","186,270.0","164,464.0","174,373.0","191,903.0","192,370.0","203,659.0","222,529.0","233,297.0","250,393.0","266,352.0","319,059.0",".....","....."
+"42","24","      Transfer payments to nonprofit institutions \4\","W426RC1","25,439.0","26,898.0","26,315.0","27,970.0","32,466.0","34,264.0","42,169.0","47,494.0","55,075.0","59,263.0","60,290.0","62,598.0","63,894.0","68,837.0","78,521.0","90,311.0","95,301.0","86,789.0"
+"43","25","      Capital consumption adjustment \9\","W429RC1","-3,922.0","-3,987.0","-4,063.0","-4,217.0","-4,087.0","-3,963.0","-3,894.0","-4,085.0","-4,527.0","-4,861.0","-4,973.0","-5,230.0","-5,817.0","-6,897.0","-8,095.0","-9,049.0",".....","....."
+"44","26","Plus: Gross output of nonprofit institutions and current transfer payments not recorded by the IRS","W451RC1","25,807.0","28,015.0","31,666.0","32,551.0","34,314.0","33,949.0","36,748.0","37,616.0","40,486.0","43,846.0","43,451.0","44,144.0","47,006.0","50,289.0","51,792.0","55,821.0",".....","....."
+"45","27","      Religious organizations \5\","W453RC1","26,252.0","27,764.0","31,255.0","32,156.0","34,077.0","34,369.0","37,793.0","39,254.0","43,315.0","47,061.0","47,783.0","48,904.0","52,537.0","55,309.0","57,251.0","61,718.0",".....","....."
+"46","28","      Other organizations","W454RC1","1,209.0","1,203.0","1,293.0","1,369.0","1,448.0","1,784.0","1,732.0","1,784.0","1,701.0","1,625.0","1,717.0","1,958.0","1,961.0","1,987.0","2,149.0","2,304.0",".....","....."
+"47","29","      Adjustment for other accounting differences \10\","W452RC1","-1,654.0","-952.0","-882.0","-974.0","-1,211.0","-2,204.0","-2,777.0","-3,421.0","-4,530.0","-4,840.0","-6,049.0","-6,718.0","-7,492.0","-7,007.0","-7,609.0","-8,201.0",".....","....."
+"48","30","Equals: IRS-derived gross output of nonprofit institutions and current transfer payments","W455RC1","435,822.0","466,077.0","488,511.0","523,526.0","518,001.0","613,658.0","626,772.0","669,861.0","734,607.0","806,227.0","876,277.0","910,621.0","965,055.0","1,027,505.0","1,110,809.0","1,122,560.0",".....","....."
+"49","31","Gross output of nonprofit institutions, NIPAs \11\","DNPERC1","400,799.0","423,303.0","444,684.0","463,386.0","488,806.0","509,284.0","550,547.0","585,277.0","631,979.0","688,012.0","749,684.0","785,843.0","827,716.0","874,632.0","933,608.0","985,585.0","1,037,638.0","1,058,079.0"
+"50","32","Plus: Nonprofit institution current transfer payments, NIPAs \12\","W419RC1","23,153.0","26,237.0","28,567.0","28,671.0","33,488.0","36,717.0","43,655.0","48,765.0","51,652.0","58,716.0","61,902.0","65,594.0","69,777.0","76,554.0","79,715.0","84,706.0","88,712.0","91,566.0"
+"51","33","Equals: BEA-derived gross output of nonprofit institutions and current transfer payments","W456RC1","423,952.0","449,540.0","473,251.0","492,057.0","522,294.0","546,001.0","594,202.0","634,042.0","683,631.0","746,728.0","811,586.0","851,437.0","897,493.0","951,186.0","1,013,323.0","1,070,291.0","1,126,350.0","1,149,645.0"
+"52","34","    Gap, IRS less BEA gross output of nonprofit institutions and current transfer payments","W457RC1","11,871.0","16,536.0","15,260.0","31,468.0","-4,293.0","67,656.0","32,570.0","35,819.0","50,976.0","59,499.0","64,691.0","59,184.0","67,562.0","76,319.0","97,486.0","52,268.0",".....","....."
+"53",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","1. For 1996, includes an adjustment to account for some classes of tax-exempt institutions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","not included in the IRS statistics.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","2. Primarily reflects adjustment for differences between IRS and BEA in sector definitions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","and in treatment of scholarships and fellowships.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","3. Includes activities of nonprofit institutions serving business, unrelated sales, secondary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","sales, and sales to business, government, and the rest of the world.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","4. Includes grants and allocations made by nonprofit institutions that indirectly support",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","households through the support of other nonprofit institutions, plus their payments to affiliates.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","5. Reflects partial coverage in the IRS statistics.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","6. Consists of imputed interest received for depositor and insurance services, net insurance",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","settlements, and capital consumption adjustment for rental income.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","7. Estimates of income and outlays of nonprofit institutions serving households",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","are provided in table 2.9.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","8. Equals table 2.9, line 68.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","9. IRS-reported capital consumption allowance less BEA-estimated consumption of fixed capital",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","for structures and for equipment and software of nonprofit institutions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","10. Consists primarily of financial services furnished without payment for depositor and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","insurance services, less expenditures for computer software investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","11. Equals table 2.9, line 58.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","12. Equals table 2.9, line 78.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","IRS Internal Revenue Service",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

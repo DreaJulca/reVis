@@ -1,0 +1,17 @@
+"","Table 2#11# Real Personal Consumption Expenditures by Major Type","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (1996) dollars; months seasonally adjusted at annual rates]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 28, 2003    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/28/2003 8:51:34 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002
+"8","1","Personal consumption expenditures","A002RX",4113.4,4279.5,4393.7,4474.5,4466.6,4594.5,4748.9,4928.1,5075.6,5237.5,5423.9,5683.7,5964.5,6223.9,6377.2,6576
+"9","2","  Durable goods","B003RX",455.2,481.5,491.7,487.1,454.9,479,518.3,557.7,583.5,616.5,657.3,726.7,812.5,878.9,931.9,999.9
+"10","3","  Nondurable goods","B004RX",1274.5,1315.1,1351,1369.6,1364,1389.7,1430.3,1485.1,1529,1574.1,1619.9,1686.4,1765.1,1833.8,1869.8,1929.5
+"11","4","  Services","B005RX",2379.3,2477.2,2546,2616.2,2651.8,2729.7,2802.5,2886.2,2963.4,3047,3147,3273.4,3395.4,3524.5,3594.9,3675.6
+"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

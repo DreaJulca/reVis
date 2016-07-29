@@ -1,0 +1,27 @@
+"","Table 7#9# Rental Income of Persons by Legal Form of Organizatio","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1946 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2010   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/25/2011 9:30:07 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","      Rental income of persons with capital consumption adjustment","A048RC1",7.1,7.2,7.8,8.1,9.1,10,11.2,12.4,13.4,13.8,14.1,14.5,15.2,16,17,17.7,18.6,19.3,19.4,19.9,20.5,20.9,20.6,20.9
+"9","2","Other private business","W155RC1",4.1,4.2,4.6,4.4,4.8,5.1,5.2,5.3,5.4,5.4,5.5,5.4,5.6,5.5,5.5,5.6,5.6,5.8,5.8,6,6.1,6,6.1,6
+"10","3","  Tenant-occupied housing","W285RC1",1.6,1.7,1.9,2.1,2.3,2.3,2.5,2.7,2.9,2.9,2.9,3.1,3.3,3.5,3.5,3.4,3.4,3.4,3.4,3.4,3.2,3.3,3.2,3.1
+"11","4","    Nonfarm tenant-occupied permanent site housing","B1436C1",1.5,1.6,1.8,2.1,2.2,2.3,2.4,2.6,2.8,2.8,2.9,3,3.2,3.4,3.4,3.3,3.3,3.3,3.3,3.3,3.2,3.2,3.1,3
+"12","5","    Farm tenant-occupied housing owned by farm operator landlords","W156RC1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"13","6","  Farms owned by nonoperator landlords \1\","B1437C1",1.3,1.4,1.3,1,1.2,1.3,1.3,1.1,1.1,1,1.1,1,1.1,1,1,1.2,1.3,1.4,1.4,1.5,1.6,1.4,1.5,1.6
+"14","7","  Nonfarm nonresidential properties \2\","B1438C1",0.7,0.7,0.7,0.7,0.7,0.8,0.7,0.7,0.6,0.6,0.5,0.4,0.2,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2
+"15","8","  Royalties","B1439C1",0.4,0.4,0.6,0.6,0.6,0.7,0.7,0.8,0.8,0.9,1,1,1,1,1,0.9,0.9,1,1,1,1.2,1.1,1.2,1.2
+"16","9","Households and nonprofit institutions","W157RC1",3,3,3.2,3.6,4.3,4.9,5.9,7,8,8.4,8.6,9.1,9.6,10.5,11.5,12.2,13,13.5,13.6,13.9,14.4,14.9,14.5,14.9
+"17","10","  Nonfarm owner-occupied housing","A2217C1",2.4,2.3,2.6,3.1,3.7,4.3,5.2,6.3,7.3,7.7,8,8.4,8.9,9.7,10.6,11.3,12.1,12.5,12.6,12.9,13.3,13.8,13.4,13.7
+"18","11","    Permanent site","B1434C1",2.4,2.3,2.6,3.1,3.7,4.3,5.2,6.3,7.2,7.7,7.9,8.3,8.8,9.6,10.5,11.2,12,12.4,12.4,12.7,13.1,13.5,13.1,13.4
+"19","12","    Manufactured homes","B1435C1",0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.3,0.3,0.3
+"20","13","  Farm owner-occupied housing owned by farm operators","W158RC1",0.6,0.6,0.6,0.6,0.6,0.6,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.8,0.8,0.9,0.9,1,1.1,1.1,1.1,1.1,1.1,1.2
+"21","14","  Tenant-occupied housing owned by nonprofit institutions","W159RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","15","  Rental income with capital consumption adjustment (1-8)","A2215C1",6.7,6.7,7.2,7.5,8.5,9.3,10.4,11.5,12.5,12.9,13.1,13.5,14.2,15,16,16.8,17.7,18.4,18.4,18.9,19.4,19.8,19.4,19.7
+"24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","1. Includes housing, service structures, and land.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","2. Includes rental income of private noninsured pension plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

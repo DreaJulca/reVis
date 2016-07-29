@@ -1,0 +1,43 @@
+"","Table 6#12D# Nonfarm Proprietors' Income by Industry","F2","F3","F4","F5","F6","F7","F8","F9","F10"
+"1","[Millions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 04, 2005   ",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/27/2005 1:42:12 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004
+"8","1","      Nonfarm proprietors' income","B046RC0",553370,595223,641768,656975,646254,658492,723876
+"9","2","Forestry, fishing, and related activities","N1800C0",6144,6530,7746,7826,6500,6399,7070
+"10","3","Mining","N1801C0",11051,10376,15499,15336,12241,16218,18851
+"11","4","Utilities","N1802C0",14234,14467,16104,20040,18005,19558,20142
+"12","5","Construction","N1803C0",65304,72684,74921,76516,77310,83464,99421
+"13","6","Manufacturing","N1804C0",33057,36026,42573,42044,42054,45244,50051
+"14","7","  Durable goods","N1805C0",13128,14747,20253,17618,22161,22815,25130
+"15","8","  Nondurable goods","N1806C0",19929,21279,22320,24426,19893,22429,24921
+"16","9","Wholesale trade","N1807C0",16353,17394,18881,16520,18048,19080,21667
+"17","10","Retail trade","N1808C0",39640,42837,44622,43363,43406,44054,47211
+"18","11","Transportation and warehousing","N1809C0",17335,19870,19876,25789,20394,21788,22882
+"19","12","Information","N1810C0",13569,12901,10210,10794,12861,13073,13007
+"20","13","Finance, insurance, real estate, rental, and leasing","N1811C0",84659,103380,117945,120119,110977,110470,126802
+"21","14","  Finance and insurance","N1812C0",36192,48130,61512,64707,58684,53532,56971
+"22","15","  Real estate and rental and leasing","N1813C0",48467,55250,56433,55412,52293,56938,69831
+"23","16","Professional and business services","N1814C0",144774,153782,163201,165587,164749,160769,170694
+"24","17","  Professional, scientific, and technical services","N1815C0",127720,133605,142395,140590,138635,134628,142218
+"25","18","    Legal services","N1816C0",43301,43976,44935,44589,41923,43306,44912
+"26","19","    Computer systems design and related services","N1817C0",8241,8944,11236,11965,15544,9463,10128
+"27","20","    Miscellaneous professional, scientific, and technical services \1\","N1818C0",76178,80685,86224,84036,81168,81859,87178
+"28","21","  Management of companies and enterprises; administrative and waste management services","N1819C0",17054,20177,20806,24997,26114,26141,28476
+"29","22","Educational services, health care, and social assistance","N1820C0",59907,60434,65155,68504,73855,70742,75946
+"30","23","  Educational services","N1821C0",1947,2456,2507,2417,2303,2568,2724
+"31","24","  Health care and social assistance","N1822C0",57960,57978,62648,66087,71552,68174,73222
+"32","25","Arts, entertainment, recreation, accommodation, and food services","N1823C0",18546,18661,17087,15831,16024,16914,18102
+"33","26","  Arts, entertainment, and recreation","N1824C0",11013,11311,10831,10278,11093,11193,11898
+"34","27","  Accommodation and food services","N1825C0",7533,7350,6256,5553,4931,5721,6204
+"35","28","Other services, except government","N1826C0",28797,25881,27948,28706,29830,30719,32030
+"36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","1. Consists of accounting, tax preparation, bookkeeping, and payroll services; architectural,",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","engineering, and related services; specialized design services; management, scientific, and",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","technical consulting services; scientific research and development services; advertising and",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","related services; and other professional, scientific, and technical services.",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Note.  Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,60 @@
+"","Table 3#11#5# National Defense Consumption Expenditures and Gros","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:51:18 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    National defense consumption expenditures and gross investment","A824RC1",348.8,354.8,349.8,346.1,361.1,371,393,437.7,497.9,550.8,589,624.9,662.1,737.9
+"9","2","Consumption expenditures \1\","A997RC1",297,303.2,304.5,300.3,313,321.8,342,380.7,435.2,481.2,514.8,543.9,574.9,634
+"10","3","  Gross output of general government","W085RC1",300.7,307.2,308,303.5,316,324.9,345.6,384.9,439.7,485.8,520.2,549.6,581,639.3
+"11","4","    Value added","W086RC1",191.5,193.5,192.2,190.4,192.7,198.8,205.2,222.5,243.8,264.2,284.4,298.8,315.6,335.7
+"12","5","      Compensation of general government employees","B237RC1",129.8,132.3,131.9,130.8,132.7,138.1,144.8,162,182.1,199.4,215.7,225.6,238.2,252.9
+"13","6","        Military","B4080C1",80.2,82.9,82.8,82.5,84.3,88.5,94.5,107.6,124.4,135.1,147,153.8,162.8,174.3
+"14","7","        Civilian","W090RC1",49.5,49.4,49.1,48.2,48.4,49.6,50.3,54.4,57.7,64.3,68.7,71.8,75.4,78.6
+"15","8","      Consumption of general government fixed capital \2\","B432RC1",61.7,61.2,60.4,59.7,60,60.7,60.5,60.5,61.7,64.8,68.7,73.2,77.4,82.9
+"16","9","    Intermediate goods and services purchased \3\","W087RC1",109.2,113.7,115.8,113,123.3,126.2,140.3,162.4,195.9,221.6,235.8,250.9,265.4,303.5
+"17","10","      Durable goods","A998RC1",20.9,20.8,20.9,20.9,22.2,22.1,22.3,23.2,25.7,28.8,29.5,32.8,36.1,43.1
+"18","11","        Aircraft","B999RC1",8.9,8.8,9.4,9.9,10.5,9.8,9.8,9.8,11.2,11.9,10.7,11,11.3,12.8
+"19","12","        Missiles","B277RC1",2.8,2.6,2.3,2.3,2.2,2.4,2.6,2.5,2.4,2.6,3.3,4.1,4.5,4.8
+"20","13","        Ships","B278RC1",1.2,0.9,0.9,0.9,1.2,1.3,1.2,1.3,1.3,1.4,1.4,1.4,1.1,0.8
+"21","14","        Vehicles","B288RC1",1.1,1,1.2,0.9,0.7,0.7,0.7,0.7,0.7,0.8,1.1,1.7,2.4,3.2
+"22","15","        Electronics","B388RC1",2.5,2.5,2.5,2.4,2.7,2.9,2.9,3.2,3.7,4.4,5.4,6.4,7.8,10.9
+"23","16","        Other durable goods","B389RC1",4.6,5,4.6,4.6,5,5,5.1,5.7,6.4,7.7,7.7,8.2,8.9,10.5
+"24","17","      Nondurable goods","A725RC1",6.3,7.6,7.6,7,8.2,10.4,10.3,11.5,13.4,17.1,20.9,22.1,24.1,30.8
+"25","18","        Petroleum products","B780RC1",2.8,3.4,2.9,2.1,2.6,4.1,4.2,4.6,5.3,7,10.1,11.2,12.5,18
+"26","19","        Ammunition","B781RC1",1.2,1.4,1.7,1.9,1.9,1.8,2.1,2.5,2.6,3.6,4,4.2,4.1,4.5
+"27","20","        Other nondurable goods","B783RC1",2.4,2.9,3,3,3.7,4.6,4,4.4,5.5,6.4,6.8,6.7,7.6,8.4
+"28","21","      Services","A489RC1",81.9,85.2,87.3,85.1,92.9,93.6,107.8,127.7,156.8,175.8,185.4,196,205.3,229.6
+"29","22","        Research and development","B784RC1",25,27.4,28.2,26.9,27.2,27,29.7,36.8,43.1,50.6,53.9,58,57.7,62.9
+"30","23","        Installation support","B911RC1",25.4,25.9,25,23.9,25,25.2,27.5,30.5,35.5,35.8,35.3,36.7,36,38.9
+"31","24","        Weapons support","B912RC1",8.2,7.4,8.8,8.5,9.9,10.1,13.3,16.5,21.1,21.5,24.4,25.5,25.4,30.8
+"32","25","        Personnel support","B913RC1",14.9,15.9,17.2,17.2,21.8,22.2,27.3,33.8,40.5,51,55.8,60.8,66.5,79.2
+"33","26","        Transportation of material","B786RC1",4.2,4.6,4,4.2,4.4,4.3,4.9,5.1,10.3,9.1,7.7,7.6,11.6,10.7
+"34","27","        Travel of persons","B785RC1",4.2,4,4.2,4.3,4.6,4.7,5.1,5.1,6.3,7.6,8.2,7.3,8.1,7.3
+"35","28","  Less: Own-account investment \4\","W088RC1",1.6,1.5,1.5,1.4,1.3,1.1,1.5,2.1,2.1,2.1,2.1,2.1,2.1,2.2
+"36","29","        Sales to other sectors","W089RC1",2.1,2.6,2,1.7,1.7,1.9,2,2.2,2.4,2.5,3.3,3.6,4.1,3
+"37","30","Gross investment \5\","A788RC1",51.8,51.6,45.3,45.8,48.2,49.2,50.9,57,62.8,69.6,74.2,81,87.3,103.9
+"38","31","  Structures","A808RC1",6.7,6.3,6.1,5.8,5.4,5.4,5.3,5.8,7.3,7.1,7.5,8.1,10.5,12.9
+"39","32","  Equipment and software","A873RC1",45.1,45.4,39.2,39.9,42.8,43.8,45.6,51.2,55.4,62.4,66.8,72.9,76.8,91
+"40","33","    Aircraft","B874RC1",9,9.2,5.8,5.8,7,7.8,8.5,9.4,9.2,11.1,13.5,13.6,12.8,13.9
+"41","34","    Missiles","B875RC1",4.7,4.1,2.9,3.3,2.9,2.7,3.3,3.3,3.5,4.1,4,4.5,4.3,4.2
+"42","35","    Ships","B876RC1",8,6.8,6.1,6.4,6.8,6.6,7.2,8.7,9.5,10,9.8,10.5,10.3,11
+"43","36","    Vehicles","B877RC1",1.1,1.2,1.4,1.5,1.7,1.9,2,2.6,3.2,2.8,3.9,4.9,6.2,9.3
+"44","37","    Electronics and software","B878RC1",8.8,9,9,9.1,9.7,10.1,9.7,9.9,10.5,11.5,12.6,14.3,16.4,20.5
+"45","38","    Other equipment","B879RC1",13.6,15.2,14,13.8,14.8,14.9,14.9,17.3,19.6,23,22.9,25.1,26.7,32.1
+"46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","1. National defense consumption expenditures are defense services produced by government that",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","are valued at their cost of production. Excludes government sales to other sectors and government own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","2. Consumption of fixed capital, or depreciation, is included in government gross output as",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","a partial measure of the services of general government fixed assets; the use of depreciation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","assumes a zero net return on these assets.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","3. Includes general government intermediate inputs for goods and services sold to other sectors and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","for own-account investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","4. Own-account investment is measured in current dollars by compensation of general government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","employees and related expenditures for goods and services and is classified as investment in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","structures and in software.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","5. Gross government investment consists of general government and government enterprise expenditures for fixed assets; inventory",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","investment is included in government consumption expenditures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,16 @@
+"","Table 1#4#3# Real Gross Domestic Product, Real Gross Domestic Pu","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Index numbers, 2005=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:47:36 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","Gross domestic product","B191RA3",71.953,74.645,77.972,81.367,85.295,88.825,89.783,91.412,93.688,97.036,100,102.673,104.872,105.331
+"9","2","Less: Exports of goods and services","B020RA3",64.805,70.186,78.55,80.343,83.849,91.054,85.946,84.224,85.574,93.698,100,108.962,118.472,124.842
+"10","3","Plus: Imports of goods and services","B021RA3",46.58,50.631,57.45,64.165,71.55,80.871,78.596,81.27,84.857,94.231,100,106.086,108.188,104.721
+"11","4","Equals: Gross domestic purchases","B712RA3",68.775,71.417,74.79,78.885,83.385,87.428,88.508,90.619,93.175,96.942,100,102.579,104.046,103.294
+"12","5","Less: Change in private inventories","ZZZZZZ3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","6","Equals: Final sales to domestic purchasers","B713RA3",68.877,71.522,74.531,78.682,83.216,87.318,89.18,90.889,93.406,96.812,100,102.52,104.288,103.896
+"14",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","7","  Final sales of domestic product","B190RA3",72.076,74.771,77.711,81.162,85.123,88.713,90.494,91.699,93.934,96.9,100,102.611,105.131,105.98

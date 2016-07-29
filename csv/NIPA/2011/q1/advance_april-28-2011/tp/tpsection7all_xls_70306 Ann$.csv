@@ -1,0 +1,44 @@
+"","Table 7#3#6# Real Farm Sector Output, Real Gross Value Added, an","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Millions of chained (2005) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2010   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/27/2011 9:43:57 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009"
+"19","1","Farm output","A2000X1","211,612.0","215,884.0","230,956.0","232,324.0","237,634.0","240,627.0","237,166.0","236,207.0","246,146.0","250,161.0","251,481.0","251,938.0","255,432.0","255,025.0","260,672.0"
+"20","2","  Cash receipts from farm marketings","A2001X1","218,220.0","204,675.0","222,229.0","223,728.0","230,009.0","234,752.0","226,976.0","231,221.0","235,518.0","230,106.0","240,045.0","242,060.0","244,758.0","242,999.0","247,292.0"
+"21","3","    Crops","B1005X1","105,211.0","94,356.0","105,501.0","106,057.0","109,085.0","111,579.0","105,812.0","106,627.0","110,705.0","107,908.0","114,966.0","114,913.0","117,013.0","113,493.0","117,838.0"
+"22","4","    Livestock","B1006X1","112,615.0","111,479.0","116,953.0","117,936.0","121,187.0","123,416.0","121,514.0","125,130.0","124,895.0","122,299.0","125,079.0","127,229.0","127,686.0","130,339.0","129,208.0"
+"23","5","  Farm products consumed on farms","B1008X1","586.0","543.0","475.0","492.0","471.0","405.0","342.0","379.0","327.0","310.0","343.0","429.0","339.0","414.0","461.0"
+"24","6","  Other farm income","B1009X1","6,369.0","5,659.0","7,176.0","8,695.0","10,447.0","9,303.0","10,344.0","9,928.0","10,603.0","11,669.0","11,306.0","12,318.0","10,144.0","9,838.0","9,267.0"
+"25","7","  Change in farm finished goods inventories","W248RX1","-10,818.0","7,311.0","3,125.0","1,063.0","-2,209.0","-2,535.0","798.0","-4,509.0","394.0","8,088.0","-213.0","-3,404.0","-607.0","1,401.0","3,404.0"
+"26","8","    Crops","B1010X1","-8,371.0","6,243.0","2,721.0","1,093.0","-1,183.0","-1,623.0","1,169.0","-3,213.0","1,082.0","7,148.0","-1,515.0","-3,493.0","-183.0","1,897.0","3,010.0"
+"27","9","    Livestock","B1011X1","360.0","-1,646.0","-561.0","-415.0","-904.0","-819.0","-529.0","-781.0","-955.0","607.0","1,303.0","500.0","-420.0","-1,596.0","-927.0"
+"28","10","Less: Intermediate goods and services consumed","A2003X1","164,427.0","154,458.0","160,941.0","167,171.0","168,548.0","159,216.0","162,066.0","157,176.0","156,040.0","152,681.0","149,463.0","152,639.0","164,725.0","152,335.0","152,555.0"
+"29","11","      Other than rent","W249RX1","149,808.0","139,147.0","145,217.0","151,614.0","156,217.0","147,113.0","149,718.0","146,084.0","146,755.0","144,014.0","141,520.0","144,863.0","157,589.0","143,994.0","143,275.0"
+"30","12","        Intermediate goods and services purchased, other than rent","B1012X1","147,282.0","140,244.0","145,819.0","152,213.0","154,714.0","147,857.0","149,023.0","147,565.0","146,493.0","143,787.0","141,849.0","144,581.0","157,374.0","143,633.0","143,315.0"
+"31","13","        Less: Change in farm materials and supplies inventories","W250RX1","-2,416.0","1,040.0","569.0","566.0","-1,431.0","739.0","-665.0","1,436.0","-260.0","-225.0","329.0","-281.0","-215.0","-361.0","38.0"
+"32","14","      Rent paid to nonoperator landlords","B1013X1","14,466.0","15,094.0","15,506.0","15,354.0","12,251.0","12,010.0","12,253.0","11,031.0","9,266.0","8,660.0","7,943.0","7,768.0","7,045.0","8,527.0","9,652.0"
+"33","15","Equals: Gross farm value added","B359RX1","56,392.0","65,281.0","72,511.0","69,387.0","72,759.0","83,536.0","77,731.0","81,172.0","91,551.0","97,915.0","102,018.0","99,131.0","90,348.0","102,346.0","108,543.0"
+"34","16","Less: Consumption of fixed capital","B366RX1","23,057.0","23,576.0","24,241.0","25,205.0","25,728.0","25,966.0","26,349.0","26,937.0","27,679.0","28,490.0","29,494.0","30,272.0","31,004.0","31,799.0","32,258.0"
+"35","17","Equals: Net farm value added","A365RX1","34,988.0","42,195.0","47,974.0","44,601.0","47,321.0","57,772.0","51,644.0","54,481.0","64,066.0","69,431.0","72,524.0","68,736.0","59,205.0","69,716.0","75,539.0"
+"36",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","18","  Change in farm inventories \1\","B018RX1","-13,034.0","8,294.0","3,679.0","1,639.0","-3,700.0","-1,775.0","115.0","-3,058.0","147.0","7,894.0","117.0","-3,687.0","-825.0","1,015.0","3,429.0"
+"38",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","1. Beginning with 1991, includes change in farm materials and supplies inventories.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Note. Chained (2005) dollar series are calculated as the product of the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","quantity index and the 2005 current-dollar value of the corresponding series, divided",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","by 100. Because the formula for the chain-type quantity indexes uses weights of more",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","than one period, the corresponding chained-dollar estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

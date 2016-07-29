@@ -1,0 +1,89 @@
+"","Table 3#19# Relation of State and Local Government Current Recei","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1959 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published January 10, 2014  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/12/2014 3:57:44 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8",NA,"      Current receipts"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","Census total revenue","L319011",54,60.3,64.5,69.5,75.3,81.5,88.1,97.6,106.6,117.6,132.2
+"10","2","Less: Coverage differences","L319021",6.1,7.1,7.4,8.1,9.2,9.9,10.6,11.4,11.9,12.2,14.3
+"11","3","  State and local employee retirement plan transactions \1\","L319031",1.9,2.1,2.3,2.6,2.8,3.1,3.4,3.7,4.3,4.9,5.7
+"12","4","    Contributions to defined-benefit pension plans \2\","L319041",1.4,1.5,1.6,1.7,1.9,2,2.2,2.4,2.7,3.1,3.5
+"13","5","    Interest received \3\","L319051",0.5,0.6,0.7,0.8,1,1.1,1.2,1.4,1.6,1.7,2
+"14","6","    Dividends received \3\","L319061",NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1
+"15","7","    Capital gains net of losses \4\","L319071",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","8","  Unemployment insurance fund contributions and earnings \5\","L319081",1.8,2.3,2.5,2.8,3.2,3.3,3.2,3.3,3.3,3,3
+"17","9","  Certain grant programs \6\","L319091",-0.1,-0.2,-0.1,-0.1,-0.1,-0.3,-0.4,-0.1,0,-0.9,-0.7
+"18","10","  Capital transfers received \7\","L319101",2.7,3,2.8,3,3.3,4,4.5,4.5,4.5,5.5,6.6
+"19","11","  Financial transactions \4\","L319111",0,0,0,0,0,0.1,0,0,0.1,0.1,0.1
+"20","12","  Sale of land","L319121",0.2,0.2,0.2,0.2,0.3,0.2,0.3,0.3,0.2,0.3,0.3
+"21","13","  Certain dividends","W720RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","14","  Current surplus of Indian tribal government enterprises","W721RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","15","  Imputed interest received and net insurance settlements","W722RC1",-0.4,-0.3,-0.4,-0.4,-0.4,-0.4,-0.5,-0.5,-0.5,-0.6,-0.6
+"24","16","Less: Netting and grossing differences","L319141",8.6,9.4,10.1,11,12,13.1,14.3,15.8,17.4,19.3,21.5
+"25","17","  Current expenditures of government enterprises \8\","W723RC1",5,5.4,5.8,6.1,6.5,7.1,7.6,8.1,8.7,9.6,10.5
+"26","18","  Government sales included in Census total revenue \9\","L319161",3.3,3.7,4,4.6,5.2,5.7,6.5,7.4,8.3,9.4,10.5
+"27","19","  Insurance claims included in Census total revenue","W724RC1",0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.4
+"28","20","  Employer contributions to own social insurance funds","L319181",0,0,0,0,0,0,0,0,0,0,0
+"29","21","Plus: Timing and other differences \10\","L319191",-0.4,-1.3,-1.3,-0.7,-0.7,-0.2,-0.4,-0.2,-0.6,1.9,0.9
+"30","22","  Corporate profits taxes timing differences","L319201",0.1,0,-0.1,0.1,0.1,0.1,0,0.1,0.2,0.1,0.2
+"31","23","  Other timing differences and other","L319211",-0.5,-1.4,-1.2,-0.9,-0.8,-0.3,-0.4,-0.3,-0.8,1.7,0.7
+"32","24","Equals: State and local government current receipts, NIPAs","L319221",38.9,42.5,45.8,49.6,53.3,58.2,62.7,70.3,76.7,87.9,97.2
+"33",NA,"      Current expenditures"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","25","Census total expenditures","L319231",58.6,61,67,70.5,75.8,80.6,87,94.9,106,116.2,131.6
+"35","26","Less: Coverage differences","L319241",12.1,10.7,12.2,12.1,12.6,13.4,14.1,14.4,15.4,16,16.4
+"36","27","  State and local employee retirement plan transactions \1\","L319251",-2,-2,-2.4,-2.4,-2.4,-2.6,-2.5,-3.1,-3.2,-3.6,-4.6
+"37","28","    Contributions from general government employers to own defined-benefit pension plans","L319261",-2.3,-2.4,-2.8,-2.9,-2.9,-3.3,-3.6,-4,-4.3,-4.9,-5.9
+"38","29","    Benefits paid","L319271",1.1,1.3,1.4,1.6,1.7,1.8,2.3,2.2,2.6,2.8,3.2
+"39","30","    Administrative expenses","L319281",0,0,0,0,0,0.1,0,0.1,0.1,0.1,0.1
+"40","31","    Imputed interest for unfunded actuarial liability","Y396RC1",-0.8,-0.9,-1,-1.1,-1.1,-1.2,-1.3,-1.4,-1.5,-1.7,-2
+"41","32","  Unemployment insurance fund benefits paid \5\","L319291",3.3,2.4,3.5,2.8,2.8,2.6,2.3,1.9,1.9,2.1,2
+"42","33","  Net investment \11\","L319301",10.2,9.8,10.5,10.8,11.2,12.2,13.2,14.3,15.7,16.4,18
+"43","34","  Services provided without payment by domestic securities brokers","L319311",0,0,0,0,0,0,0,0,0,0,0
+"44","35","  Purchases of land","L319321",1,1,1.1,1.2,1.3,1.5,1.5,1.6,1.6,1.7,1.8
+"45","36","  Indian tribal government expenditures","W725RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","37","  Imputed banking and insurance services","W726RC1",-0.4,-0.3,-0.4,-0.4,-0.4,-0.4,-0.4,-0.5,-0.5,-0.6,-0.7
+"47","38","  Other","L319331",-0.1,-0.1,-0.1,-0.1,0,0,0,0.1,-0.1,0.1,0
+"48","39","Less: Netting and grossing differences","L319341",8.6,9.4,10.1,11,12,13.1,14.3,15.8,17.4,19.3,21.5
+"49","40","  Current expenditures of government enterprises \8\","W727RC1",5,5.4,5.8,6.1,6.5,7.1,7.6,8.1,8.7,9.6,10.5
+"50","41","  Government sales included in Census total revenue \9\","L319361",3.3,3.7,4,4.6,5.2,5.7,6.5,7.4,8.3,9.4,10.5
+"51","42","  Insurance claims included in Census total revenue","W728RC1",0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.4
+"52","43","  Employer contributions to own social insurance funds","L319381",0,0,0,0,0,0,0,0,0,0,0
+"53","44","Plus: Timing and other differences \10\","L319391",-0.8,-1,-1.2,-0.5,-1.4,0,0.2,0.3,-0.6,1.7,0.2
+"54","45","Equals: State and local government current expenditures, NIPAs","L319401",37.1,39.8,43.5,47,49.7,54.1,58.8,65,72.5,82.5,94
+"55",NA,"      Net state and local government saving"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","46","Census total revenue less Census total expenditures (1-25)","L319411",-4.6,-0.7,-2.5,-1.1,-0.4,0.9,1.2,2.7,0.6,1.3,0.6
+"57","47","Plus: Net investment (33)","L319421",10.2,9.8,10.5,10.8,11.2,12.2,13.2,14.3,15.7,16.4,18
+"58","48","Less: Net capital transfers received (10)","L319431",2.7,3,2.8,3,3.3,4,4.5,4.5,4.5,5.5,6.6
+"59","49","Less: State and local employee retirement plans (3-27)","L319441",3.9,4.1,4.7,4.9,5.2,5.6,5.9,6.9,7.4,8.5,10.2
+"60","50","Less: Other coverage differences (8+9+11+12+13+14+15-32-34-35-36-37-38)","L319451",-2.3,-0.9,-1.8,-1.1,-0.6,-0.9,-0.7,0,0.2,-1.4,-0.9
+"61","51","Less: Timing and other differences (44-21)","L319461",-0.4,0.3,0.1,0.2,-0.7,0.2,0.7,0.5,0,-0.2,-0.6
+"62","52","Equals: State and local government net saving, national income and product accounts (24-45)","L319471",1.8,2.6,2.3,2.7,3.6,4.1,3.9,5.2,4.1,5.4,3.3
+"63",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","1. In the NIPAs, pension plans are treated as ""pass-through"" institutions that hold financial assets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","on behalf of households, which are the effective owners.  Pensions plans are classified as financial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","corporations that receive contributions and property income on behalf of plan participants but do not",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","have saving or net worth of their own.  Table 7.23 shows the transactions of the state and local",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","government defined-benefit pension subsectors.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","2. Consists of employee and employer contributions, except general government employer contributions to",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","own retirement plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","3. Prior to 1968, dividends received is included in interest received (line 5).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","4. Prior to 1985, capital gains (net of losses) of state and local employee retirement plans is included in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","line 11.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","5. Unemployment insurance is recorded as a federal program in the NIPAs.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","6. Consists of Census Bureau data on revenue received from the federal government, less NIPA federal grants,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","federal capital grants, federal subsidies, and research and development sales to the federal government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","7. Consists of estate and gift taxes, federal investment grants, and disaster-related insurance benefits.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","8. Excludes current expenditures of Indian tribal government enterprises.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","9. Consists of current-account sales by general government that are classified as revenues in Census Bureau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","data and as reductions to current expenditures in the NIPAs.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","10. Includes timing differences that arise from restating the Census Bureau data to a year ending June 30.  Census",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Bureau measures of state and local government revenue and expenditures (lines 1 and 25) primarily represent a",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","fiscal year ending June 30, but some governments use other fiscal years.  The NIPA measures shown in this table",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","are for the fiscal year ending June 30, and are consistent with the not seasonally adjusted estimates in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","table 3.23.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","11. Net investment is gross investment less consumption of fixed capital for government enterprises and general",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","NIPAs National income and product accounts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

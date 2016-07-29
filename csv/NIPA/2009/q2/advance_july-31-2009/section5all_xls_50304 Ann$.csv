@@ -1,0 +1,48 @@
+"","Table 5#3#4# Price Indexes for Private Fixed Investment by Type ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Index numbers, 2005=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:52:24 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Private fixed investment","B007RG3",90.06,89.817,89.589,88.756,88.7,89.751,90.553,90.924,92.301,95.541,100,104.419,106.718,107.551
+"9","2","Nonresidential","B008RG3",102.247,101.054,99.775,97.587,96.173,96.219,95.788,95.363,95.355,96.834,100,103.534,106.209,107.897
+"10","3","  Structures","B009RG3",60.601,62.141,64.516,67.48,69.559,72.298,76.087,79.292,82.174,88.441,100,112.922,121.275,125.207
+"11","4","    Commercial and health care","W001RG3",65.546,67.033,69.153,72.381,75.526,78.63,81.437,83.631,85.995,91.404,100,108.496,114.749,119.014
+"12","5","    Manufacturing","C307RG3",68.626,70.174,72.428,75.397,78.428,81.362,84.202,86.74,88.232,92.855,100,106.483,112.261,120.113
+"13","6","    Power and communication","W003RG3",72.96,74.866,76.484,77.344,77.624,80.127,82.442,84.316,86.324,92.68,100,109.568,114.634,122.152
+"14","7","    Mining exploration, shafts, and wells","E318RG3",28.587,29.907,33.926,38.634,37.462,38.947,48.126,57.539,64.076,74.335,100,129.399,146.745,147.142
+"15","8","    Other structures \1\","W004RG3",68.546,70.287,72.416,74.808,77.637,80.873,84.305,86.106,88.439,93.253,100,107.202,112.432,115.011
+"16","9","  Equipment and software","B010RG3",122.265,119.323,115.788,110.641,107.406,106.114,103.603,101.494,100.287,99.897,100,100.194,100.715,101.455
+"17","10","    Information processing equipment and software","B679RG3",175.93,161.998,149.57,135.058,125.622,122.047,115.986,110.658,106.399,102.759,100,98.149,96.698,95.6
+"18","11","      Computers and peripheral equipment","B935RG3",640.569,488.486,376.572,279.774,217.847,190.64,157.838,137.092,122.55,113.617,100,87.395,78.065,69.96
+"19","12","      Software \2\","B985RG3",111.535,108.87,105.729,102.572,103.851,106.967,107.432,105.534,103.069,100.519,100,101.17,101.7,102.748
+"20","13","      Other \3\","B937RG3",130.479,128.467,126.856,121.284,116.155,113.2,109.273,105.805,103.552,100.794,100,99.647,100.112,100.487
+"21","14","    Industrial equipment","B680RG3",88.652,90.491,91.108,91.622,92.154,92.669,93.272,93.308,94.013,96.367,100,103.192,106.771,110.942
+"22","15","    Transportation equipment","B681RG3",88.251,90.013,91.441,90.818,91.624,91.723,90.951,91.803,94.635,99.243,100,100.872,102.425,102.641
+"23","16","    Other equipment \4\","B862RG3",85.659,87.957,89.059,90.376,91.549,92.139,93.447,94.228,95.109,96.047,100,102.32,104.601,108.231
+"24","17","Residential","B011RG3",66.403,67.828,69.557,71.412,74.151,77.415,80.994,83.002,86.953,93.296,100,106.081,107.513,105.779
+"25","18","  Structures","B012RG3",65.885,67.321,69.071,70.954,73.746,77.055,80.683,82.729,86.773,93.238,100,106.142,107.587,105.832
+"26","19","    Permanent site","B943RG3",63.795,65.028,67.029,69.228,72.29,75.641,79.27,81.506,85.882,92.962,100,106.832,108.258,105.756
+"27","20","      Single family","B944RG3",63.914,65.087,66.975,68.732,71.856,75.176,78.966,81.149,85.655,92.972,100,106.361,107.501,103.358
+"28","21","      Multifamily","B292RG3",63.157,64.898,67.823,73.659,76.19,79.823,82.049,84.743,87.988,92.875,100,110.908,114.454,121.226
+"29","22","    Other structures \5\","B863RG3",69.172,70.916,72.294,73.706,76.079,79.323,82.951,84.702,88.231,93.701,100,104.996,106.467,105.572
+"30","23","  Equipment","B013RG3",107.438,108.008,107.875,107.238,105.489,105.121,104.993,104.112,100.875,97.792,100,101.633,102.243,101.608
+"31",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","24","  Private fixed investment in structures","A349RG3",63.953,65.441,67.473,69.841,72.342,75.424,79.142,81.665,85.301,91.705,100,108.402,112.542,113.49
+"33","25","  Private fixed investment in equipment and software","A327RG3",122.127,119.224,115.722,110.615,107.393,106.108,103.617,101.519,100.293,99.876,100,100.208,100.729,101.457
+"34","26","  Private fixed investment in new structures \6\","W040RG3",63.362,64.845,66.984,69.4,71.949,74.987,78.61,81.175,84.798,91.488,100,108.957,113.516,114.919
+"35","27","    Nonresidential structures","A771RG3",60.466,62.005,64.383,67.352,69.447,72.193,75.98,79.197,82.089,88.383,100,112.993,121.39,125.37
+"36","28","    Residential structures","A756RG3",65.27,66.694,68.61,70.524,73.432,76.69,80.139,82.189,86.268,93.18,100,106.623,108.348,107.059
+"37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","1. Consists primarily of religious, educational, vocational, lodging, railroads, farm, and amusement and recreational",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","structures, net purchases of used structures, and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","2. Excludes software ""embedded,"" or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","3. Includes communication equipment, nonmedical instruments, medical equipment and instruments, photocopy and related",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","equipment, and office and accounting equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","4. Consists primarily of furniture and fixtures, agricultural machinery, construction machinery, mining and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","oilfield machinery, service industry machinery, and electrical equipment not elsewhere classified.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","5. Consists primarily of manufactured homes, improvements, dormitories, net purchases",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","of used structures, and brokers' commissions on the sale of residential structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","6. Excludes net purchases of used structures and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

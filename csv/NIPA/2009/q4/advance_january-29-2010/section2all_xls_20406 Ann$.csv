@@ -1,0 +1,136 @@
+"","Table 2#4#6# Real Personal Consumption Expenditures by Type of P","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 20, 2009   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/29/2010 9:31:59 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","      Personal consumption expenditures","DPCERX1",6079,6291.2,6523.4,6865.5,7240.9,7608.1,7813.9,8021.9,8247.6,8532.7,8819,9073.5,9313.9,9290.9
+"9","2","Goods","DGDSRX1",1898.6,1983.6,2078.2,2218.6,2395.3,2521.7,2600.9,2706.6,2829.9,2955.3,3073.9,3173.9,3273.7,3206
+"10","3","  Durable goods","DDURRX1",511.6,549.8,594.7,667.2,753.8,819.9,864.4,930,986.1,1051,1105.5,1150.4,1199.9,1146.3
+"11","4","    Motor vehicles and parts","DMOTRX1",255.6,268,286.1,316.1,345.1,356.1,374.3,394,405.3,411.3,409.6,396.6,402.4,347.5
+"12","5","      New motor vehicles (55)","DNMVRX1",144.7,147.2,155.1,172.3,192.3,202.8,222.6,239.6,251.2,253.7,248.9,234.6,237.3,190.5
+"13","6","      Net purchases of used motor vehicles (56)","DNPVRX1",74.1,81.7,90.2,101.9,108.8,108.5,108.2,111.1,109.5,111.4,112.7,113.4,116.3,110.1
+"14","7","      Motor vehicle parts and accessories (58)","DMVPRX1",37.6,40.1,42,42.7,44.6,45.2,43.6,43.3,44.5,46.2,48,48.6,48.8,46.3
+"15","8","    Furnishings and durable household equipment","DFDHRX1",133,138.8,145.3,157.3,175.5,192.4,202.2,217,230.6,249.3,263.9,277.9,283.6,275.5
+"16","9","      Furniture and furnishings (parts of 31 and 32)","DFFFRX1",75.9,79.9,85,91.7,101.6,111.7,116.5,124.3,131.3,142.7,152.8,161.1,165.3,159.9
+"17","10","      Household appliances (part of 33)","DAPPRX1",23.8,24.1,24,26.2,29.6,32.2,34,36.2,38.3,42.1,43.4,44.2,43.5,42.3
+"18","11","      Glassware, tableware, and household utensils (34)","DUTERX1",20.6,21.7,22.7,24.5,28.2,31.5,34.1,38.1,41.1,43.1,45.4,49.6,51.9,50.3
+"19","12","      Tools and equipment for house and garden (35)","DTOORX1",12.8,13.2,13.8,15.1,16.4,17.1,17.7,18.4,19.9,21.4,22.3,23.2,23.2,23.1
+"20","13","    Recreational goods and vehicles","DREQRX1",75.6,87.3,100.9,121.2,147,172.7,189.8,212.9,237,269.4,303.4,343.2,382.4,403
+"21","14","      Video, audio, photographic, and information processing equipment and media (75, 76, and part of 93)","DVAPRX1",24.4,30.1,37.1,48.4,62.5,76.7,88.7,105.1,120,141.7,167.7,199.8,232.1,258.7
+"22","15","      Sporting equipment, supplies, guns, and ammunition (part of 80)","DSPGRX1",22.1,23.5,24.5,27.1,31.4,36.1,38.9,41.7,44.4,48.3,52.2,57.6,62.2,62.5
+"23","16","      Sports and recreational vehicles (79)","DWHLRX1",24,25.5,27.8,30.5,33.1,35.7,35.6,37,41.4,45.7,47.7,48.5,50.3,47.7
+"24","17","      Recreational books (part of 90)","DRBKRX1",17.9,19.1,20.5,21.1,23.4,25.2,25.2,25.6,27.1,28.5,29.8,31.6,33.1,33.2
+"25","18","      Musical instruments (part of 80)","DMSCRX1",2.8,3,3.1,3.4,3.9,4.7,4.8,5.1,5.1,5.6,5.8,6.3,6.8,6.4
+"26","19","    Other durable goods","DODGRX1",70.2,74.9,78.6,86.4,96.7,105.3,103,109.8,115.5,121.7,128.6,133.4,134.5,128
+"27","20","      Jewelry and watches (part of 119)","DJRYRX1",29.9,32.6,34,37.6,42.1,45.7,44.3,47,50.4,53.3,56.2,58.2,57.3,52.1
+"28","21","      Therapeutic appliances and equipment (42)","DTAERX1",24,25.9,28,30.4,32.1,34.1,33.1,35.3,36.1,37,38.2,39.3,41.5,42.5
+"29","22","      Educational books (96)","DEBKRX1",11.5,11.2,11.2,11.4,12,11.8,11.4,11.2,11.1,10.8,10.2,9.6,9.1,8.4
+"30","23","      Luggage and similar personal items (part of 119)","DLUGRX1",6.5,6.6,6.9,7.9,9.9,11.6,11.3,12.4,12.9,14.1,16.4,17.3,16.7,14.9
+"31","24","      Telephone and facsimile equipment (67)","DTCERX1",1.6,1.7,1.8,2,2.6,3.3,3.9,4.6,5.3,6.5,7.5,9,10.3,11.2
+"32","25","  Nondurable goods","DNDGRX1",1437.8,1479.4,1522.9,1580.3,1660.9,1714.7,1745.6,1780.2,1845.6,1904.6,1968.4,2023.6,2074.8,2057.3
+"33","26","    Food and beverages purchased for off-premises consumption","DFXARX1",548.5,554,558.9,565.5,587.4,600.6,607.6,609,622.4,639.2,665,686.2,700.7,700.7
+"34","27","      Food and nonalcoholic beverages purchased for off-premises consumption (4)","DTFDRX1",481.9,484.6,487.1,491.4,509.9,519.1,524.5,525.6,537,549.3,569.5,583.9,594.5,593.5
+"35","28","      Alcoholic beverages purchased for off-premises consumption (5)","DAOPRX1",66.3,69,71.4,73.8,77.1,81.1,82.8,83.1,85.1,89.6,95.1,101.9,105.8,106.9
+"36","29","      Food produced and consumed on farms (6)","DFFDRX1",0.6,0.5,0.5,0.5,0.5,0.4,0.3,0.4,0.3,0.3,0.3,0.4,0.4,0.4
+"37","30","    Clothing and footwear","DCLORX1",201,210.8,217.7,231,246.2,258.1,260.5,268.5,283.4,297.3,315.5,331.5,345.9,345
+"38","31","      Garments","DGARRX1",163,170.7,176.4,186.8,198.4,208.1,210.3,217.5,230.3,242.4,259,272.2,284.8,284.5
+"39","32","        Women's and girls' clothing (10)","DWGCRX1",91.2,95.7,97.9,105,113.7,121,122.7,127.5,134.7,141.7,151.9,159,165.9,167.2
+"40","33","        Men's and boys' clothing (11)","DMBCRX1",63.7,66.9,70,72.6,75,76.9,76.8,78.6,83.7,88,93.6,99.1,103.9,102.2
+"41","34","        Children's and infants' clothing (12)","DCICRX1",8,8.1,8.4,9.2,9.7,10.2,10.7,11.3,11.9,12.7,13.5,14.2,15,15.1
+"42","35","      Other clothing materials and footwear (13 and 17)","DOCCRX1",38,40.2,41.4,44.3,47.9,50.2,50.3,51.1,53.2,54.9,56.6,59.3,61.1,60.5
+"43","36","    Gasoline and other energy goods","DGOERX1",264.3,268.5,273.9,283.8,292.5,287.1,289.2,294,302.2,306.5,304.8,298.4,300.7,287.4
+"44","37","      Motor vehicle fuels, lubricants, and fluids (59)","DMFLRX1",233.8,238.8,246.1,256.1,263.5,261.3,263.6,267.5,276.3,282.1,283.8,278.9,280.9,271.7
+"45","38","      Fuel oil and other fuels (29)","DFULRX1",32.1,31.1,28.8,28.4,29.8,26.2,26,26.9,26.2,24.6,21,19.5,19.7,16
+"46","39","    Other nondurable goods","DONGRX1",443,462.6,488.1,514.4,546.3,574.2,592.9,612.5,640.1,662.6,683,708.4,729.4,728.7
+"47","40","      Pharmaceutical and other medical products (40 and 41)","DPHMRX1",117.1,125.3,137.1,154.6,173.3,189.6,206.1,218.3,232.8,241.6,247.3,256.8,263.1,258.9
+"48","41","      Recreational items (parts of 80, 92, and 93)","DREIRX1",58.8,61.6,64.9,70.6,78.7,85.6,89.5,95.7,100.9,105.8,114,120.8,128.6,133
+"49","42","      Household supplies (parts of 32 and 36)","DHOURX1",72.8,76,79.6,81.1,84.6,85.4,85.9,87.9,93.7,98.6,103,107.4,111.4,110.9
+"50","43","      Personal care products (part of 118)","DOPCRX1",52.7,56,58.9,61.7,65.4,68.6,70.4,72.7,74.8,76.5,79.5,82.8,85.4,88.7
+"51","44","      Tobacco (127)","DTOBRX1",90,91.2,91.5,88.2,82.3,80.3,78.9,76.1,74.7,74.1,71.1,69.9,68.1,65.9
+"52","45","      Magazines, newspapers, and stationery (part of 90)","DNEWRX1",53.8,53.9,55,55.6,57.5,59.6,57.3,56.4,57.7,60.7,63.2,65.8,68.3,68.3
+"53","46","      Net expenditures abroad by U.S. residents (131)","DNFRRX1",1.9,2.1,4.2,4.6,4.5,5.2,5.6,6,5.8,5.4,5,4.9,4.8,4.1
+"54","47","Services","DSERRX1",4208.2,4331.4,4465,4661.8,4852.8,5093.3,5218.7,5318.1,5418.4,5577.6,5745.1,5899.7,6040.8,6083.1
+"55","48","  Household consumption expenditures (for services)","DHCERX1",4068.6,4183.3,4327.2,4510.6,4690.4,4917.8,5028.8,5109.3,5199,5359.3,5531,5664.4,5796.1,5817.6
+"56","49","    Housing and utilities","DHUTRX1",1234.9,1261.7,1290.4,1329.8,1371.8,1413.7,1451.5,1462,1480.2,1512.8,1582.8,1616.7,1631.8,1647.2
+"57","50","      Housing","DHSGRX1",1017.3,1037.1,1066,1100.6,1138.7,1174.2,1213.7,1219.4,1233,1264.1,1328.9,1367.1,1377.5,1397.2
+"58","51","        Rental of tenant-occupied nonfarm housing (20)","DTENRX1",253.5,253.8,257.3,261.8,266.2,267.9,272.6,270.4,261,261.3,264.7,273.7,288.9,295.4
+"59","52","        Imputed rental of owner-occupied nonfarm housing (21)","DOWNRX1",752,771.3,796.3,825.9,859.2,890.7,925.7,933.5,956.3,984.8,1044.5,1073.7,1068.9,1082.2
+"60","53","        Rental value of farm dwellings (22)","DFARRX1",11.5,11.6,11.9,12.3,12.6,14.8,14.7,14.6,14.9,17.2,18.8,18.8,18.8,18.7
+"61","54","        Group housing (23)","DGRHRX1",1,1.1,1,1.1,1.1,1.1,1.1,1,1,0.9,0.9,0.9,0.9,0.9
+"62","55","      Household utilities","DUTLRX1",218.7,225.8,225.4,230.1,233.8,240.1,237.8,243,247.6,248.8,253.9,249.8,254.4,250.5
+"63","56","        Water supply and sanitation (25)","DWRSRX1",55.4,57.2,58.5,59.4,61.3,61.9,62.5,63.1,63.9,63.4,63.6,65.6,66.1,66
+"64","57","        Electricity and gas","DELGRX1",163.2,168.5,166.9,170.6,172.3,178.1,175.2,179.7,183.6,185.4,190.4,184.3,188.3,184.6
+"65","58","          Electricity (27)","DELCRX1",101.9,103.5,103.2,110.6,111.7,115.5,113.3,118.6,120.6,123,128.7,125.8,127.7,126.7
+"66","59","          Natural gas (28)","DGHERX1",64.4,69.5,67.6,60.9,61.5,63.5,62.7,61.3,63.4,62.5,61.6,58.5,60.7,57.7
+"67","60","    Health care","DHLCRX1",947.5,967.1,997.1,1029.5,1045.6,1081.5,1135.4,1202.3,1229.4,1268.6,1316,1340,1375.5,1416.4
+"68","61","      Outpatient services","DOUTRX1",423,434.7,445,459.2,468.1,490.2,518,552.4,580.3,608.5,636.5,652.9,669.6,691.8
+"69","62","        Physician services (44)","DPHYRX1",209.1,214.2,219.9,227.9,234.1,248.7,263,284.1,302.6,316.9,332.4,343.5,347.9,359.5
+"70","63","        Dental services (45)","DDENRX1",71,71.5,72.8,74.9,76.6,79.7,83.5,87.1,86.5,88.6,89,88.9,89.8,89
+"71","64","        Paramedical services (46)","DPMSRX1",144.1,150,153.2,157.3,158.3,162.6,172.2,181.7,191.3,203,215.1,220.5,232.1,243.7
+"72","65","      Hospital and nursing home services","DHPNRX1",526.4,534.1,554.2,572.4,579.5,592.8,618.7,650.9,649.4,660.2,679.5,687.2,705.9,724.7
+"73","66","        Hospitals (51)","DHSPRX1",425.3,430.5,446.9,462.4,471.1,484.3,510.1,540.9,537.6,548.9,567,575.8,592.2,611.3
+"74","67","        Nursing homes (52)","DNRSRX1",101,103.8,107.4,110.1,108.3,108.3,108.6,110.1,111.8,111.2,112.5,111.4,113.7,113.4
+"75","68","    Transportation services","DTRSRX1",213.8,231.4,248.8,259.2,273.5,286.2,283.6,275.8,276.7,283.2,285.9,285,288.3,273.8
+"76","69","      Motor vehicle services","DMVSRX1",160.8,174.4,189.5,195.4,205.8,213.3,212.5,203.8,202.5,205.1,209.1,209.1,210.8,199.3
+"77","70","        Motor vehicle maintenance and repair (60)","DVMRRX1",124.6,130.1,134.7,139.5,144.3,148.7,150.9,148.8,151.7,153.3,154.9,150.6,150.4,140.3
+"78","71","        Other motor vehicle services (61)","DOVSRX1",37.7,44.9,54.2,55.4,60.6,63.7,60.9,54.7,50.9,51.8,54.2,58.6,60.5,59.2
+"79","72","      Public transportation","DPUBRX1",53,57,59.7,63.9,67.7,72.7,71,71.9,74.2,78.2,76.8,75.9,77.6,74.5
+"80","73","        Ground transportation (63)","DGRDRX1",23,22.4,22.8,24.6,25.7,26.4,27,26.7,25.5,26.2,26.4,27.1,26.9,27.8
+"81","74","        Air transportation (64)","DAITRX1",30.3,34,35.9,38.3,40.9,44.6,42.2,43.2,46.3,49.3,47.7,46,47.7,43.7
+"82","75","        Water transportation (65)","DWATRX1",0.8,1.1,1.3,1.4,1.5,1.8,2,2.1,2.4,2.6,2.7,2.8,3,3.1
+"83","76","    Recreation services","DRCARX1",245.3,256.3,264.5,273.3,286.6,295.2,294.9,296.7,305.5,320.7,326.8,337.5,350,349.8
+"84","77","      Membership clubs, sports centers, parks, theaters, and museums (82)","DRLSRX1",96.9,100.4,103.1,106.1,106.2,106.9,105.6,106.3,107.1,109.4,110.6,113.7,117,116.9
+"85","78","      Audio-video, photographic, and information processing equipment services (parts of 77 and 93)","DAVPRX1",68.1,69.1,69.4,72.4,77.4,80.6,81.3,78.9,81.1,86.2,87.2,89,94.5,96.3
+"86","79","      Gambling (91)","DGAMRX1",57.9,62.4,66.3,66.9,73.1,76.6,77.2,80.4,85.9,92.8,95.6,100.6,103.2,103.1
+"87","80","      Other recreational services (81, 94, and part of 92)","DOTRRX1",22.6,24.6,25.9,28.1,30,31.2,30.8,31.1,31.4,32.3,33.4,34.1,35.3,33.6
+"88","81","    Food services and accommodations","DFSARX1",416,418.8,428,439.2,450,470.5,469.9,477.2,493.6,508.8,525.3,541.6,547.7,545.4
+"89","82","      Food services","DFSERX1",365.2,365.8,370.9,381.4,390.9,408,411.3,417.3,431,443.1,455.3,469.6,474.7,470.3
+"90","83","        Purchased meals and beverages (102)","DPMBRX1",355.4,355.9,361.1,371.5,380.9,397.9,401,406.9,420.3,432.2,443.5,456.6,461.6,458
+"91","84","        Food furnished to employees (including military) (103)","DFOORX1",9.8,9.8,9.8,9.9,10,10.1,10.3,10.4,10.7,10.9,11.8,13,13.1,12.3
+"92","85","      Accommodations (104)","DACCRX1",50.6,52.9,57,57.7,59.1,62.4,58.6,59.9,62.5,65.6,70,72,72.9,75.1
+"93","86","    Financial services and insurance","DIFSRX1",489.4,507.8,525.2,558.6,605.6,665.4,660.7,658.3,657.8,691.8,712.6,735.4,772.3,759.8
+"94","87","      Financial services","DFNLRX1",251.8,278,293.9,319.6,360.5,405,399.5,399.3,393.2,414.6,427.2,448.1,485.1,473.8
+"95","88","        Financial services furnished without payment (107)","DIMPRX1",179.9,195,199.8,201.7,210,216.9,218.4,214.1,202.3,217.9,220,222.3,241.5,246.3
+"96","89","        Financial service charges, fees, and commissions (108)","DOFIRX1",79.8,90.6,100.5,121.3,151.7,187.9,181,185.1,190.9,196.6,207.2,225.7,243.5,227.5
+"97","90","      Insurance","DINSRX1",250.8,237.7,237.4,243.4,246.1,259.6,260.8,258.5,264.7,277.2,285.4,287.4,287.3,286
+"98","91","        Life insurance (110)","DLIFRX1",88.8,80,80.5,77.3,75,79.7,75.8,66.8,65.2,73.4,76.5,78.7,79,77.5
+"99","92","        Net household insurance (111)","DFINRX1",6.2,6.3,5.7,6.5,6.6,6.5,6.5,6,5.5,6.1,6.2,6,6.9,7.3
+"100","93","        Net health insurance (112)","DHINRX1",102.5,97.9,96.5,103.5,107.8,116.1,120.7,128.6,137.2,139.7,145.1,145.3,144.2,145.3
+"101","94","        Net motor vehicle and other transportation insurance (116)","DTINRX1",52.5,52.7,53.8,55.2,56,56.2,57.2,57,57.1,58,57.6,57.4,57.2,55.9
+"102","95","    Other services","DOTSRX1",524.3,541.9,574.1,621.7,656.7,704.2,732.6,737,755.7,773.5,781.6,808.3,831,825.7
+"103","96","      Communication","DCOMRX1",89.4,97.5,107.5,117.7,132.9,153,163.2,167.5,171.5,179.4,185.2,199.5,215.2,221.3
+"104","97","        Telecommunication services (71)","DTCSRX1",77.2,83.9,92.9,101.2,111.9,125.3,134.7,136.1,137.1,142.1,146.1,156.8,158.1,161.3
+"105","98","        Postal and delivery services (68)","DPSSRX1",11.6,12,12.2,12.3,12,11.9,11.1,10.3,9.4,9.3,9.3,9,8.9,8.2
+"106","99","        Internet access (72)","DINTRX1",1.7,2.8,3.6,5.2,9.7,16.3,17.8,21.2,25.1,28,29.9,33.8,50.4,55
+"107","100","      Education services","DTEDRX1",153,157.4,161.8,166.5,170.4,176.3,179.6,175.5,174.2,170.7,170.4,171.6,174.8,177.1
+"108","101","        Higher education (97)","DHEDRX1",93.1,95.7,99,102.3,105.5,109.9,113,110.9,111,108.8,108.8,109.3,110.2,112.1
+"109","102","        Nursery, elementary, and secondary schools (98)","DNEHRX1",34.2,34.2,33.5,32.7,32.7,32.5,32.6,32,31.8,31.9,31.8,32,32.9,32.8
+"110","103","        Commercial and vocational schools (99)","DVEDRX1",25.5,27.4,29.1,31.4,32.1,33.9,34,32.6,31.4,30.1,29.8,30.3,31.6,32.2
+"111","104","      Professional and other services (121)","DPRSRX1",127.8,130,132.1,136.1,139.3,140.1,143,142.8,148.4,149.2,149.4,150,152.7,148.8
+"112","105","      Personal care and clothing services (14 and parts of 17 and 118)","DPERRX1",74.8,77,80.7,85.3,89.2,93.5,92.8,94.6,97.7,103.9,105.9,108.5,111.7,111.4
+"113","106","      Social services and religious activities (120)","DSOCRX1",79.3,81,83.4,88,93.2,98.7,106.2,110.6,114.2,117.7,118.7,121.8,127.4,131.4
+"114","107","      Household maintenance (parts of 31, 33, and 36)","DHHMRX1",47.6,47.9,50.8,55.3,54.9,56.3,53.4,51.4,52.7,55.6,57,58.2,60.8,60
+"115","108","      Net foreign travel","DFORRX1",-28.7,-32,-27.8,-14.7,-14,-8.2,-2.3,-3.9,-2.2,-3,-5.1,-1,-10.5,-22.3
+"116","109","        Foreign travel by U.S. residents (129)","DFTRRX1",72.8,75.9,82.8,93.2,96.3,106.8,101,94.6,91.8,98.6,99.8,104.1,102.7,99
+"117","110","        Less: Expenditures in the United States by nonresidents (130)","DEXFRX1",101.6,107.8,110.7,107.9,110.3,115,103.4,98.5,94,101.6,104.9,105.1,113.2,121.3
+"118","111","  Final consumption expenditures of nonprofit institutions serving households (NPISHs) \1\","DNPIRX1",142.3,150.9,140.6,153.9,165,177.8,191.4,209,219.3,218.3,214.1,235.4,244.9,266.6
+"119","112","    Gross output of nonprofit institutions (133) \2\","DNPERX1",636.4,653.4,663.8,696.7,721,749,785.3,831.1,844,860.6,874.6,901,924.6,956.7
+"120","113","    Less: Receipts from sales of goods and services by nonprofit institutions (134) \3\","DNPSRX1",497.1,505.4,526.8,546,558.6,573,595.2,622.5,624.5,642.3,660.6,665.8,680,691
+"121","114","  Residual","A965RX1",-198.8,-173,-147.8,-114.1,-74.7,-45.9,-35.1,-19.8,-11.8,-3.2,0.4,-3.5,-13.6,-22.8
+"122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","1. Net expenses of NPISHs, defined as their gross operating expenses less primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","sales to households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","2. Gross output is net of unrelated sales, secondary sales, and sales to business,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","government, and the rest of the world; excludes own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","3. Excludes unrelated sales, secondary sales, and sales to business, government,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","and the rest of the world; includes membership dues and fees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","Note.  The figures in parentheses are the line numbers of the corresponding items in table 2.5.6.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","Note.  Chained (2005) dollar series are calculated as the product of the chain-type quantity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","index and the 2005 current-dollar value of the corresponding series, divided by 100. Because the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","formula for the chain-type quantity indexes uses weights of more than one period, the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","chained-dollar estimates are usually not additive. The residual line is the difference between the first",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

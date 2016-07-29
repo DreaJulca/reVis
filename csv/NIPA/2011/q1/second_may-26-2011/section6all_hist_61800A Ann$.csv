@@ -1,0 +1,84 @@
+"","Table 6#18A# Taxes on Corporate Income by Industry              ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22"
+"1","[Millions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 20, 2009   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/25/2011 9:29:06 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947
+"8","1","    Taxes on corporate income \1\","A054RC0",1369,842,498,385,521,744,951,1409,1502,1029,1441,2834,7610,11415,14074,12949,10689,9104,11268
+"9","2","Domestic industries","A054RC0",1369,842,498,385,521,744,951,1409,1502,1029,1441,2834,7610,11415,14074,12949,10689,9104,11268
+"10","3","  Agriculture, forestry, and fisheries","A3103C0",6,3,1,1,2,4,6,9,8,5,7,10,23,39,62,56,61,58,61
+"11","4","    Farms","B3104C0",5,3,1,1,2,4,6,9,7,5,6,9,22,37,59,54,58,55,58
+"12","5","    Agricultural services, forestry, and fisheries","B3105C0",1,0,0,0,0,0,0,0,1,0,1,1,1,2,3,2,3,3,3
+"13","6","  Mining","A3106C0",47,20,6,8,10,23,23,40,62,35,43,74,150,199,159,128,108,118,268
+"14","7","    Metal mining","B3107C0",23,3,1,1,3,7,9,17,36,17,23,42,75,106,55,34,25,23,66
+"15","8","    Anthracite mining","B3175C0",2,2,1,0,1,1,0,1,0,0,0,1,2,4,4,6,4,9,10
+"16","9","    Bituminous and other soft coal mining","B3108C0",5,3,1,1,1,4,4,4,4,2,3,8,21,36,51,49,38,32,93
+"17","10","    Crude petroleum and natural gas","B3109C0",10,7,0,4,3,8,7,13,16,12,12,14,30,21,26,18,19,28,65
+"18","11","    Nonmetallic mining and quarrying","B3110C0",7,5,3,2,2,3,3,5,6,4,5,9,22,32,23,21,22,26,34
+"19","12","  Contract construction","B3111C0",19,18,9,4,4,5,9,13,16,13,14,26,88,192,155,74,59,86,142
+"20","13","  Manufacturing","A3112C0",618,373,206,132,255,329,484,720,768,447,741,1727,5244,7301,8667,7776,5903,4745,6470
+"21","14","    Durable goods","A3113C0",328,168,64,21,66,118,199,363,440,187,357,1075,3524,4600,5199,4450,2906,1656,3035
+"22","15","      Lumber and basic timber products","B3114C0",9,3,0,0,1,2,3,7,10,4,7,22,77,108,100,80,54,101,190
+"23","16","      Furniture and finished lumber products","B3115C0",8,2,2,1,3,3,4,10,8,7,12,21,63,78,79,89,74,92,109
+"24","17","      Stone, clay, and glass products","B3116C0",20,13,6,2,6,11,16,30,31,17,31,63,170,209,181,138,122,140,176
+"25","18","      Iron and steel and their products, including ordnance","B3117C0",97,40,5,3,7,18,35,73,103,28,68,204,851,1302,1351,1103,750,426,737
+"26","19","      Nonferrous metals and their products","B3118C0",25,11,6,5,10,19,23,36,42,12,29,76,199,222,284,236,138,141,203
+"27","20","      Machinery, except electrical","B3119C0",63,36,13,5,10,26,38,73,101,45,66,235,744,1038,972,808,543,338,593
+"28","21","      Electric and electronic equipment","B3120C0",29,16,3,1,2,4,12,27,34,18,36,116,392,450,560,526,353,117,319
+"29","22","      Motor vehicles and equipment","B3121C0",49,29,20,-1,19,21,48,76,74,32,68,196,468,204,195,169,121,74,469
+"30","23","      Other transportation equipment","B3122C0",9,6,1,1,1,2,2,7,14,10,20,104,452,833,1274,1135,607,63,64
+"31","24","      Miscellaneous manufacturing, including instruments and miscellaneous plastic products","B3124C0",19,12,8,4,7,12,18,24,23,14,20,38,108,156,203,166,144,164,175
+"32","25","    Nondurable goods","A3125C0",290,205,142,111,189,211,285,357,328,260,384,652,1720,2701,3468,3326,2997,3089,3435
+"33","26","      Food and kindred products","B3126C0",61,60,48,32,62,71,121,105,82,86,112,147,329,647,888,901,841,807,742
+"34","27","      Tobacco manufactures","B3127C0",17,21,22,26,12,17,18,22,22,25,26,40,69,93,100,86,65,68,77
+"35","28","      Textile mill products","B3128C0",31,10,7,5,31,20,25,44,33,16,40,64,266,526,528,493,456,567,606
+"36","29","      Apparel and other textile products","B3129C0",8,3,2,2,6,6,6,10,6,6,10,14,54,122,153,152,141,189,171
+"37","30","      Paper and allied products","B3130C0",16,10,6,3,9,15,17,24,28,14,24,59,183,210,242,247,203,223,360
+"38","31","      Printing and publishing","B3131C0",33,24,17,11,13,21,25,34,33,24,29,46,76,124,268,352,369,251,243
+"39","32","      Chemicals and allied products","B3132C0",53,42,31,24,38,48,53,77,76,63,102,204,498,603,702,683,584,563,676
+"40","33","      Petroleum and coal products","B3133C0",54,28,3,5,8,4,6,22,36,16,20,50,141,214,293,130,91,202,389
+"41","34","      Rubber products","B3134C0",7,2,2,0,2,2,5,10,6,5,12,16,69,84,201,200,167,126,84
+"42","35","      Leather and leather products","B3135C0",10,5,4,3,8,7,9,9,6,5,9,12,35,78,93,82,80,93,87
+"43","36","  Transportation and public utilities","A3136C0",245,176,125,122,106,150,150,196,224,208,261,412,762,1657,2466,2215,1602,931,1047
+"44","37","    Transportation","A3137C0",135,73,34,27,27,49,52,72,76,59,89,151,330,988,1685,1415,812,346,527
+"45","38","      Railroad transportation","B3138C0",105,52,18,13,12,20,21,35,36,22,39,63,149,705,1348,1106,560,151,312
+"46","39","      Local and interurban passenger transit","B3139C0",6,5,4,4,4,6,6,8,6,6,7,10,22,104,171,159,127,68,47
+"47","40","      Trucking and warehousing","B3140C0",4,3,2,2,2,3,3,3,3,5,7,9,19,35,35,31,25,34,45
+"48","41","      Water transportation","B3141C0",7,5,3,2,3,7,8,10,13,7,12,33,80,72,58,50,43,51,73
+"49","42","      Transportation by air","B3142C0",0,0,0,1,1,0,0,0,1,1,2,4,9,16,16,8,13,6,2
+"50","43","      Pipelines, except natural gas","B3143C0",9,6,5,3,3,10,11,13,14,13,16,23,33,26,27,29,20,16,19
+"51","44","      Transportation services","B3144C0",4,2,2,2,2,3,3,3,3,5,6,9,18,30,30,32,24,20,29
+"52","45","    Communication","A3145C0",39,35,33,30,22,27,30,40,44,48,58,76,125,248,305,347,330,160,109
+"53","46","      Telephone and telegraph","B3146C0",37,35,32,29,22,26,28,37,40,45,54,68,110,231,274,303,290,137,87
+"54","47","      Radio and television broadcasting","B3147C0",2,0,1,1,0,1,2,3,4,3,4,8,15,17,31,44,40,23,22
+"55","48","    Electric, gas, and sanitary services","B3148C0",71,68,58,65,57,74,68,84,104,101,114,185,307,421,476,453,460,425,411
+"56","49","      Utilities: electric and gas","B3176C0",68,65,56,63,55,71,65,81,101,98,111,180,300,413,465,442,450,416,401
+"57","50","      Local utilities and public services, n.e.c.","B3177C0",3,3,2,2,2,3,3,3,3,3,3,5,7,8,11,11,10,9,10
+"58","51","  Wholesale trade","B3149C0",52,29,17,15,34,60,64,98,88,52,81,142,451,623,745,733,733,946,1035
+"59","52","  Retail trade and automobile services","B3150C0",72,48,41,26,44,60,73,110,113,86,114,187,475,823,1067,1155,1227,1172,1264
+"60","53","  Finance, insurance, and real estate","A3151C0",282,151,82,68,57,97,125,196,192,154,149,212,336,401,445,509,674,751,721
+"61","54","    Banking","A3152C0",66,34,11,5,3,5,8,19,14,15,17,25,57,64,128,220,321,344,310
+"62","55","    Security and commodity brokers, and services","B3156C0",41,9,2,2,4,3,7,11,2,2,2,4,3,2,9,7,18,13,6
+"63","56","    Credit agencies (other than banks) and holding and other investment companies","B3155C0",70,27,10,9,12,31,47,97,100,66,62,101,159,118,74,73,88,105,110
+"64","57","    Insurance carriers","B3157C0",38,28,22,21,12,21,23,22,24,30,26,22,27,104,119,80,67,54,44
+"65","58","    Insurance agents, brokers, and service","B3158C0",5,4,3,3,2,3,3,3,3,4,4,7,12,15,12,12,11,15,21
+"66","59","    Real estate","B3159C0",62,49,34,28,24,34,37,44,49,37,38,53,78,98,103,117,169,220,230
+"67","60","  Services","A3161C0",28,24,11,9,9,16,17,27,31,29,31,44,81,180,308,303,322,297,260
+"68","61","    Hotels and other lodging places","B3162C0",2,1,1,1,0,1,1,1,2,2,3,4,8,22,48,48,55,49,46
+"69","62","    Personal services","B3163C0",2,2,1,1,1,1,1,2,2,3,3,5,9,18,24,26,24,24,27
+"70","63","    Business services","B3164C0",9,7,3,3,3,6,6,8,9,8,8,12,19,26,34,39,45,44,49
+"71","64","    Miscellaneous repair services","B3166C0",1,1,0,0,0,0,0,1,1,0,1,1,3,6,8,8,3,2,4
+"72","65","    Motion pictures","B3167C0",10,9,4,3,3,4,5,10,10,11,11,14,26,77,149,138,139,127,90
+"73","66","    Amusement and recreation services","B3168C0",2,2,1,0,1,2,2,3,4,3,3,5,10,12,23,28,44,38,27
+"74","67","    Other services","A3169C0",2,2,1,1,1,2,2,2,3,2,2,3,6,19,22,16,12,13,17
+"75","68","      Health services","B3170C0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","69","      Legal services","B3171C0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","70","      Educational services, n.e.c.","B3172C0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","71","      Social services and membership organizations","B3173C0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","72","Rest of the world","B3174C0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"80",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","1. Consists of taxes on corporate income paid to federal, state, and local government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Note.  Estimates in this table are based on the 1942 Standard Industrial Classification (SIC).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","n.e.c.  Not elsewhere classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

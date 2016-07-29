@@ -1,0 +1,27 @@
+"","Table 7#15# Relation of Net Farm Income in the National Income a","F2","F3","F4","F5","F6"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA
+"2","Annual data from 1967 To 1969",NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA
+"4","Data published October 7, 2009   ",NA,NA,NA,NA,NA
+"5","File created 8/5/2010 12:04:53 PM",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1967,1968,1969
+"8","1","Net farm income, USDA","B1448C1",12.3,12.3,14.3
+"9","2","Plus: Depreciation and other consumption of farm capital, USDA","B1449C1",5.4,5.8,6.2
+"10","3","      Farm housing expenses excluding depreciation","B1007C1",1,1,1.1
+"11","4","      Monetary interest received by farm corporations","B1450C1",0,0,0
+"12","5","      Valuation adjustment, Commodity Credit Corporation loans","B2637C1",0,0,-0.1
+"13","6","      Change in farm materials and supplies inventories","W250RC1",NA,NA,NA
+"14","7","Less: Consumption of fixed capital, NIPAs","B366RC1",4.2,4.5,4.8
+"15","8","      Gross rental value of farm housing, USDA","B2638C1",2.7,2.8,3
+"16","9","      Patronage dividends received from cooperatives","B2639C1",0,0,0
+"17","10","      Other \1\","B1451C1",NA,NA,NA
+"18","11","      Statistical differences \2\","W713RC1",NA,NA,NA
+"19","12","Equals: Farm proprietors' income and corporate profits with inventory valuation and capital consumption adjustments","A1024C1",11.7,11.8,13.6
+"20","13","          Proprietors' income","B042RC1",11.6,11.7,12.8
+"21","14","          Corporate profits","B1023C1",0.1,0.1,0.7
+"22",NA,NA,NA,NA,NA,NA
+"23","1. Consists largely of salaries paid to certain farm operators.",NA,NA,NA,NA,NA
+"24","2. Statistical differences result from updates to the USDA farm income estimates that have not yet been incorporated",NA,NA,NA,NA,NA
+"25","into the NIPAs.",NA,NA,NA,NA,NA
+"26","USDA U.S. Department of Agriculture",NA,NA,NA,NA,NA

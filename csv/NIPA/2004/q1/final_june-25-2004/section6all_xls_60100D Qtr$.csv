@@ -1,0 +1,35 @@
+"","Table 6#1D# National Income Without Capital Consumption Adjustme","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16"
+"1","[Billions of dollars]; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 2001 To 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published June 25, 2004     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/23/2004 4:09:14 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2001,2001,2001,2001,2002,2002,2002,2002,2003,2003,2003,2003,2004
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1
+"9","1","      National income without capital consumption adjustment","A422RC1",8859.3,8868.1,8800.4,8847.2,8904.8,9007.1,9046.3,9108.9,9167.9,9218.8,9392.7,9596.3,9690.4
+"10","2","Domestic industries","A423RC1",8832,8840.8,8788.8,8772.7,8882.8,8999.5,9027.8,9071,9140,9185.4,9354.9,9520.4,9628.1
+"11","3","  Private industries","A736RC1",7799.3,7796.1,7728.3,7695.7,7788,7891.9,7903.9,7933.6,7981,8016.5,8181.5,8342.8,8433.8
+"12","4","    Agriculture, forestry, fishing, and hunting","N5004C1",70.8,74.2,75.7,80.9,68.9,73.8,73.3,76,70.1,76.1,77.1,83.4,81.8
+"13","5","    Mining","N5005C1",112.5,108.8,100.4,82.5,80.4,82.4,82.6,86.5,92.3,92.6,95.6,99.6,103.3
+"14","6","    Utilities","N5006C1",137.5,138.5,152.4,155.1,147.2,156.2,152.8,156.2,161.2,153.5,156.7,162.8,164
+"15","7","    Construction","N5007C1",458.8,468.9,472.6,466.8,467.6,467.2,467.3,470,473.2,472.4,482.2,493.5,499.8
+"16","8","    Manufacturing","N5008C1",1165.7,1128.5,1075.6,1009.4,1053,1092.3,1111.3,1118.1,1109.9,1098.9,1122.8,1165.7,1162.6
+"17","9","      Durable goods","N5009C1",687,647.1,595.1,550.9,602.4,633.3,646.7,650.6,640.1,634.4,645,669.9,669.5
+"18","10","      Nondurable goods","N5010C1",478.7,481.4,480.6,458.5,450.6,459,464.6,467.5,469.8,464.6,477.9,495.7,493.2
+"19","11","    Wholesale trade","N5011C1",561.3,555,554.4,555.5,550.6,559.9,553.6,556.3,556,561.9,574.8,578.9,577.9
+"20","12","    Retail trade","N5012C1",685.6,689.7,691.5,703,704.2,712.3,713.9,710.6,712.3,728,734.5,738,747.3
+"21","13","    Transportation and warehousing","N5013C1",262,262.3,239.4,247.2,246.9,247.1,250.6,256.4,259.8,256.5,268.8,270.3,270.8
+"22","14","    Information","N5014C1",307.4,319.8,301.1,282.1,284.8,287.3,291.7,303,299.6,300.8,316.6,309.5,303.9
+"23","15","    Finance, insurance, real estate, rental, and leasing","N5015C1",1626.6,1609.1,1610.8,1661.5,1706.2,1717.1,1698,1682,1706,1716.2,1764.5,1805.6,1840.6
+"24","16","    Professional and business services \1\","N5016C1",1165.8,1182.5,1185.2,1175.9,1167.4,1165.5,1162.6,1161.2,1172.6,1178.1,1187.2,1209.9,1230.9
+"25","17","    Educational services, health care, and social assistance","N5017C1",704.9,715.4,726.1,736.2,755.8,768.1,777.7,785.1,795.8,808.8,821.5,836.1,854.1
+"26","18","    Arts, entertainment, recreation, accommodation, and food services","N5018C1",315.5,318.2,316.8,314.1,320.8,325.1,327.5,329.5,328.6,328.4,333.5,340.5,345.1
+"27","19","    Other services, except government","N5019C1",224.9,225.3,226.2,225.4,234.3,237.6,241.1,242.7,243.6,244.3,246,249,251.5
+"28","20","  Government","B436RC1",1032.7,1044.7,1060.5,1077.1,1094.7,1107.7,1123.9,1137.4,1159,1169,1173.4,1177.7,1194.3
+"29","21","Rest of the world","A192RC1",27.3,27.3,11.6,74.5,22.1,7.6,18.5,37.9,27.8,33.4,37.8,75.9,62.3
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","1. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Note. Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

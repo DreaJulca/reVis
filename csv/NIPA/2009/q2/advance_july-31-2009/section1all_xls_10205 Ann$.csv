@@ -1,0 +1,37 @@
+"","Table 1#2#5# Gross Domestic Product by Major Type of Product    ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:47:23 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Gross domestic product","A191RC1",7414.7,7838.5,8332.4,8793.5,9353.5,9951.5,10286.2,10642.3,11142.1,11867.8,12638.4,13398.9,14077.6,14441.4
+"9","2","       Final sales of domestic product","A190RC1",7383.5,7807.7,8261.4,8729.8,9292.7,9896.9,10324.5,10630.3,11125.8,11802.8,12588.4,13339,14058.3,14476.2
+"10","3","       Change in private inventories","A014RC1",31.2,30.8,71,63.7,60.8,54.5,-38.3,12,16.4,64.9,50,60,19.4,-34.8
+"11","4","Goods","A353RC1",2379.5,2516.3,2701.2,2819.2,2990.1,3124.5,3077.6,3101.2,3170.1,3333.9,3472.9,3660.7,3814.1,3783.8
+"12","5","    Final sales","A325RC1",2348.3,2485.5,2630.2,2755.5,2929.3,3070,3115.9,3089.1,3153.7,3269,3422.9,3600.7,3794.7,3818.6
+"13","6","    Change in private inventories","A014RC1",31.2,30.8,71,63.7,60.8,54.5,-38.3,12,16.4,64.9,50,60,19.4,-34.8
+"14","7","  Durable goods","A354RC1",1259.5,1340.1,1470.7,1563.5,1671.2,1770,1687,1696.5,1707.3,1785.2,1891.1,1977.4,2047.7,2042.3
+"15","8","    Final sales","A326RC1",1225.9,1321,1430.7,1524.2,1633.8,1734.4,1731.5,1678.9,1694.2,1748,1855.9,1951.5,2040.1,2032
+"16","9","    Change in private inventories \1\","A355RC1",33.6,19.1,40,39.3,37.4,35.6,-44.4,17.7,13,37.3,35.2,25.9,7.6,10.3
+"17","10","  Nondurable goods","A356RC1",1120,1176.2,1230.5,1255.7,1318.9,1354.5,1390.6,1404.7,1462.8,1548.7,1581.8,1683.3,1766.4,1741.5
+"18","11","    Final sales","A334RC1",1122.4,1164.5,1199.5,1231.3,1295.5,1335.6,1384.4,1410.3,1459.5,1521.1,1567,1649.3,1754.6,1786.6
+"19","12","    Change in private inventories \1\","A357RC1",-2.4,11.7,31,24.4,23.4,19,6.2,-5.6,3.3,27.6,14.7,34,11.8,-45.1
+"20","13","Services \2\","A341RC1",4396.7,4625.5,4882.5,5159.7,5485.1,5878,6208.7,6535.5,6891.7,7319.3,7802.1,8285.5,8810.8,9265.4
+"21","14","Structures","A755RC1",638.5,696.7,748.6,814.5,878.2,949,999.9,1005.7,1080.4,1214.5,1363.4,1452.7,1452.8,1392.2
+"22",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","15","  Motor vehicle output","A953RC1",277.8,293.4,319.7,340.4,375.3,369.4,349.6,387.1,382.2,398.9,418.9,412.7,403.9,321.2
+"24","16","  Gross domestic product excluding motor vehicle output","A962RC1",7136.8,7545,8012.6,8453.1,8978.2,9582.1,9936.6,10255.2,10760,11468.9,12219.4,12986.2,13673.7,14120.2
+"25","17","  Final sales of computers \3\","BB01RC1",74.9,84.8,94.1,96.7,101.8,109.9,98.9,83.2,82.4,79.7,79,82.9,85.7,87.4
+"26","18","  Gross domestic product excluding final sales of computers","BB00RC1",7339.8,7753.7,8238.2,8696.8,9251.6,9841.6,10187.3,10559.1,11059.7,11788.1,12559.4,13316,13991.9,14354
+"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","1. Prior to 1959, inventories held by construction establishments are included in nondurable",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","goods. Beginning with 1959, these inventories are included in durable goods.  Estimates for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","durable goods and nondurable goods for 1996 and earlier periods are based on the 1987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Standard Industrial Classification (SIC); later estimates for these industries are based on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","2. Includes government consumption expenditures, which are for services (such as education",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","and national defense) produced by government. In current dollars, these services are valued",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","at their cost of production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","3. Some components of final sales of computers include computer parts.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

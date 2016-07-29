@@ -1,0 +1,80 @@
+"","Table 4#2#5# Exports and Imports of Goods and Services by Type o","F2","F3","F4","F5","F6"
+"1","[Millions of dollars]                                                           ",NA,NA,NA,NA,NA
+"2","Annual data from 1967 To 1969",NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA
+"4","Data published July 30, 2010     ",NA,NA,NA,NA,NA
+"5","File created 8/5/2010 12:12:52 PM",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1967","1968","1969"
+"19","1","    Exports of goods and services","B020RC1","43,467.0","47,907.0","51,923.0"
+"20","2","Exports of goods \1\","A253RC1","32,174.0","35,262.0","38,262.0"
+"21","3","  Foods, feeds, and beverages","B638RC1","4,999.0","4,806.0","4,699.0"
+"22","4","  Industrial supplies and materials","A639RC1","9,998.0","11,046.0","11,679.0"
+"23","5","    Durable goods","B686RC1","3,657.0","4,182.0","4,679.0"
+"24","6","    Nondurable goods","B687RC1","6,341.0","6,864.0","7,000.0"
+"25","7","  Capital goods, except automotive","A640RC1","9,934.0","11,111.0","12,423.0"
+"26","8","    Civilian aircraft, engines, and parts","B688RC1","790.0","1,405.0","1,266.0"
+"27","9","    Computers, peripherals, and parts","B850RC1","545.0","585.0","786.0"
+"28","10","    Other","B689RC1","8,599.0","9,121.0","10,371.0"
+"29","11","  Automotive vehicles, engines, and parts","B641RC1","2,784.0","3,453.0","3,931.0"
+"30","12","  Consumer goods, except automotive","A642RC1","2,111.0","2,334.0","2,604.0"
+"31","13","    Durable goods","B690RC1","890.0","990.0","1,190.0"
+"32","14","    Nondurable goods","B691RC1","1,221.0","1,344.0","1,414.0"
+"33","15","  Other","A643RC1","2,348.0","2,512.0","2,926.0"
+"34","16","Exports of services \1\","A646RC1","11,293.0","12,645.0","13,661.0"
+"35","17","  Transfers under U.S. military agency sales contracts","B267RC1","3,191.0","3,941.0","4,138.0"
+"36","18","  Travel","B493RC1","1,646.0","1,775.0","2,043.0"
+"37","19","  Passenger fares","B533RC1","372.0","412.0","450.0"
+"38","20","  Other transportation","B683RC1","2,425.0","2,548.0","2,652.0"
+"39","21","  Royalties and license fees","B684RC1","1,747.0","1,867.0","2,019.0"
+"40","22","  Other private services","B720RC1","738.0","801.0","924.0"
+"41","23","  Other","B980RC1","1,174.0","1,301.0","1,435.0"
+"42","24","    Imports of goods and services","B021RC1","39,912.0","46,556.0","50,491.0"
+"43","25","Imports of goods \1\","A255RC1","27,761.0","33,946.0","36,813.0"
+"44","26","  Foods, feeds, and beverages","B647RC1","4,586.0","5,271.0","5,236.0"
+"45","27","  Industrial supplies and materials, except petroleum and products","A649RC1","9,949.0","12,027.0","11,658.0"
+"46","28","    Durable goods","A820RC1","6,004.0","7,644.0","7,147.0"
+"47","29","    Nondurable goods","B696RC1","3,945.0","4,383.0","4,511.0"
+"48","30","  Petroleum and products","B648RC1","2,091.0","2,384.0","2,649.0"
+"49","31","  Capital goods, except automotive","A650RC1","2,454.0","2,840.0","3,422.0"
+"50","32","    Civilian aircraft, engines, and parts","B932RC1","130.0","188.0","177.0"
+"51","33","    Computers, peripherals, and parts","B852RC1","75.0","90.0","135.0"
+"52","34","    Other","B853RC1","2,249.0","2,562.0","3,110.0"
+"53","35","  Automotive vehicles, engines, and parts","B651RC1","2,442.0","3,956.0","5,057.0"
+"54","36","  Consumer goods, except automotive","A652RC1","4,213.0","5,375.0","6,487.0"
+"55","37","    Durable goods","B697RC1","2,633.0","3,339.0","3,979.0"
+"56","38","    Nondurable goods","B698RC1","1,580.0","2,036.0","2,508.0"
+"57","39","  Other","A653RC1","2,026.0","2,093.0","2,304.0"
+"58","40","Imports of services \1\","B656RC1","12,151.0","12,610.0","13,678.0"
+"59","41","  Direct defense expenditures","B752RC1","4,378.0","4,535.0","4,856.0"
+"60","42","  Travel","B768RC1","3,207.0","3,030.0","3,373.0"
+"61","43","  Passenger fares","B769RC1","829.0","885.0","1,080.0"
+"62","44","  Other transportation","B770RC1","2,158.0","2,367.0","2,456.0"
+"63","45","  Royalties and license fees","B908RC1","167.0","186.0","223.0"
+"64","46","  Other private services","B909RC1","410.0","487.0","569.0"
+"65","47","  Other","B910RC1","1,002.0","1,120.0","1,121.0"
+"66",NA,"Addenda:"," ",NA,NA,NA
+"67","48","  Exports of durable goods","A332RC1","18,439.0","20,992.0","23,686.0"
+"68","49","  Exports of nondurable goods","A339RC1","13,735.0","14,270.0","14,576.0"
+"69","50","  Exports of agricultural goods \2\","B181RC1","6,453.0","6,297.0","6,095.0"
+"70","51","  Exports of nonagricultural goods","A182RC1","25,721.0","28,965.0","32,167.0"
+"71","52","  Imports of durable goods","A333RC1","14,546.0","18,826.0","20,757.0"
+"72","53","  Imports of nondurable goods","A340RC1","13,215.0","15,120.0","16,056.0"
+"73","54","  Imports of nonpetroleum goods","A187RC1","25,670.0","31,562.0","34,164.0"
+"74",NA,NA,NA,NA,NA,NA
+"75","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal government, are included ",NA,NA,NA,NA,NA
+"76","in services.",NA,NA,NA,NA,NA
+"77","Beginning with 1986, repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA,NA
+"78","2. Includes parts of foods, feeds, and beverages, of nondurable industrial supplies and materials, and of nondurable ",NA,NA,NA,NA,NA
+"79","nonautomotive consumer goods.",NA,NA,NA,NA,NA

@@ -1,0 +1,87 @@
+"","Table 3#18A# Relation of Federal Government Current Receipts and","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32","F33","F34","F35","F36","F37","F38","F39"
+"1","[Billions of dollars]; Quarter totals not seasonally adjusted                                                              ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1959 To 1967",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 27, 2000  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 11/25/2003 11:03:33 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1959,1959,1959,1959,1960,1960,1960,1960,1961,1961,1961,1961,1962,1962,1962,1962,1963,1963,1963,1963,1964,1964,1964,1964,1965,1965,1965,1965,1966,1966,1966,1966,1967,1967,1967,1967
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4
+"9",NA,"      Current receipts"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","1","Cash receipts from the public","L318011A",NA,NA,21.4,19.4,25.8,28.5,23.4,20.6,24.8,28.5,23.4,21.3,26.2,31,26,23,28.2,32.6,27.3,24.5,30.3,33.4,27,24.3,30.7,37.7,29.2,25.9,33.3,46.2,34.6,31.1,38,49.9,35.9,32.5
+"11","2","Less: Coverage differences","L318021A",NA,NA,0.7,0.8,0.8,1.2,0.7,0.9,1,1.5,0.9,0.8,0.9,1.1,1.2,0.9,0.8,1.2,1.1,0.9,1,1.3,1,1.2,1.2,1.3,1.1,1,1.3,1.7,1.2,1.4,1.3,2.1,1.3,1.1
+"12","3","        Geographic \1\","L318031A",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"13","4","        Contributions received by Federal employee retirement plans \2\","L318041A",NA,NA,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+"14","5","        Capital transfers received \3\","L318051A",NA,NA,0.3,0.3,0.4,0.5,0.4,0.4,0.5,0.6,0.4,0.4,0.5,0.7,0.5,0.4,0.5,0.7,0.5,0.4,0.6,0.9,0.6,0.6,0.7,0.9,0.6,0.6,0.8,1,0.6,0.6,0.8,1,0.7,0.6
+"15","6","        Financial transactions","L318061A",NA,NA,0.1,0.2,0.2,0.1,0.1,0.2,0.2,0.6,0.2,0.1,0.1,0.1,0.5,0.1,0,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.1,0,0.1,0.1
+"16","7","        District of Columbia","L318071A",NA,NA,0,0.1,0,0.1,0,0.1,0.1,0.1,0,0.1,0.1,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"17","8","        Other \4\","L318081A",NA,NA,0,0,-0.1,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0.1,0.2,0,0,0,0.7,0,-0.1
+"18","9","      Netting and grossing differences","L318091A",NA,NA,0,0.2,0.1,0.3,0.1,0.2,0,0.2,0,0.1,0,0.2,0.1,0.4,0.2,0.3,0.2,0.4,0.3,0.1,0.1,0.2,0,0,0.1,0.2,0.2,0.4,0.2,0.3,0,0.2,-0.1,0.1
+"19","10","        Taxes received from the rest of the world \5\","B1068C1A",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"20","11","        Other \6\","L318111A",NA,NA,0,0.2,0,0.2,0,0.1,0,0.1,0,0.1,0,0.1,0.1,0.3,0.1,0.2,0.1,0.3,0.2,0.1,0,0.2,0,0,0,0.2,0.1,0.3,0.2,0.2,-0.1,0.1,-0.2,0
+"21","12","Plus: Timing differences","L318121A",NA,NA,0.8,1.8,-1.4,-0.7,-0.1,0.8,-1.8,-0.1,0.7,2.2,-0.4,-0.1,0,1.5,-0.5,0.3,0.7,2.1,-1.8,-0.2,0.6,1.7,-0.6,-1.2,0.5,2.3,0.1,-4.5,-0.3,2.4,-0.9,-7.3,0.9,1.8
+"22","13","        Corporate profits taxes","L318131A",NA,NA,1.3,1.4,-1.9,-1,0.5,0.8,-2.2,-0.7,1.4,2,-1.5,-0.5,1.1,1.5,-1.7,0,1.7,1.9,-1.7,-0.6,1.5,1.6,-1.5,-1.2,1.4,2.1,-1.2,-3.4,1.5,1.9,-1.3,-7.2,1.4,2.2
+"23","14","        Federal and State unemployment insurance taxes","L318141A",NA,NA,-0.2,-0.1,0.3,0,-0.2,-0.1,0.4,0,-0.2,-0.1,0.7,0.1,-0.2,-0.1,0.1,0.1,-0.2,-0.1,0.1,0,-0.2,-0.1,0.4,0,-0.3,-0.1,0.4,0,-0.2,-0.1,0.3,-0.1,-0.2,-0.1
+"24","15","        Withheld personal income tax and social security contributions","L318151A",NA,NA,-0.2,0.4,0.1,0.3,-0.3,0.1,0.1,0.3,-0.3,0.2,0.4,0.1,-0.6,-0.1,1.1,0,-0.5,0.1,-0.1,0.1,-0.5,0.1,0.4,0.1,-0.2,0.1,1.3,-1.4,-1.3,0.6,0.9,0,-0.2,-0.3
+"25","16","        Excise taxes","L318161A",NA,NA,-0.1,0.1,0.1,0.1,-0.2,0.1,-0.1,0.2,-0.1,0.1,-0.1,0.2,-0.2,0.1,-0.1,0.2,-0.2,0.2,-0.1,0.3,-0.2,0.1,0.1,-0.1,-0.5,0.2,-0.4,0.3,-0.2,0.1,-0.7,0,-0.1,0
+"26","17","        Other","L318171A",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"27","18","Equals: Federal Government current receipts, national income and product accounts","L318181A",NA,NA,21.4,20.3,23.6,26.4,22.4,20.4,22,26.7,23.2,22.6,24.9,29.6,24.7,23.1,26.6,31.4,26.8,25.4,27.2,31.7,26.6,24.6,28.8,35.1,28.5,26.8,32,39.6,33,31.8,35.9,40.3,35.6,33.1
+"28",NA,"      Current expenditures"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","19","Cash payments to the public","L318191A",NA,NA,24.4,23.9,22,24.1,24.2,24.5,23.4,27.4,26.7,27.2,25.9,27.9,28.5,29.6,26.5,29.1,31,30.6,28.7,30.1,30.9,30.6,28.3,32.6,33.1,34,34.6,36.2,41.3,38.8,36.7,38.4,45.1,43.5
+"30","20","Less: Coverage differences","L318201A",NA,NA,2.8,2.8,2,2.2,2.6,2.2,2.1,3.1,4.8,3.5,2.8,2.8,3.6,3.1,1.6,2.9,3.6,4,2.3,2.7,2.8,3.4,1.6,4.7,2.1,3.7,3.9,3.1,4.9,3.6,-0.2,0.3,5.4,4.5
+"31","21","        Geographic \7\","L318211A",NA,NA,0,0.1,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"32","22","        Federal employee retirement plan transactions \2\","L318221A",NA,NA,0.2,0.1,0.2,0.1,0.2,0.1,0.2,0.1,0.3,0.1,0.3,0.1,0.3,0.2,0.3,0.2,0.3,0.2,0.4,0.2,0.4,0.2,0.4,0.2,0.4,0.3,0.6,0.3,0.5,0.4,0.7,0.4,0.7,0.3
+"33","23","          Interest received","L318231A",NA,NA,0,-0.1,0,-0.1,0,-0.1,0,-0.1,0,-0.1,0,-0.2,0,-0.2,0,-0.2,0,-0.2,0,-0.2,0,-0.2,0,-0.2,0,-0.2,0,-0.3,0,-0.3,0,-0.3,0,-0.3
+"34","24","          Contributions received (employer)","L318241A",NA,NA,-0.2,-0.2,-0.2,-0.2,-0.3,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.3,-0.2,-0.2,-0.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.3,-0.3,-0.3,-0.3,-0.4
+"35","25","          Benefits paid","L318251A",NA,NA,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.6,0.6,0.6,0.6,0.7,0.7,0.7,0.7,0.7,0.7,0.8,0.8,0.9,0.9,0.9,0.9,1,1,1,1.1
+"36","26","          Administrative expenses","L318261A",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"37","27","        District of Columbia","L318271A",NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"38","28","        Federal Home Loan banks and Federal Land banks","L318281A",NA,NA,0.5,0.3,-0.6,0.1,-0.1,0.1,-0.7,0.4,0.4,0.4,-0.4,0.7,0.5,0.3,-1.1,0.8,1.1,0.6,-0.5,0.5,0.3,0.3,-0.3,1,0.5,0.2,0,1.2,0.8,-0.6,-2,-1.2,0.6,0.3
+"39","29","        Net investment \8\","L318291A",NA,NA,1.4,1,0.9,0.8,1,0.9,1.3,1.2,1.3,1.4,1.5,1.4,1.6,1.4,0.9,0.9,1.2,0.8,0.8,0.8,0.8,0.7,0.5,0.4,0.6,0.4,0.9,0.8,1.1,1.2,1.2,0.9,1.2,1
+"40","30","        Capital transfers paid \9\","L318301A",NA,NA,1,0.9,0.5,0.6,0.8,0.8,0.5,0.6,0.9,0.9,0.6,0.7,0.9,1,0.6,0.7,1.1,1.2,0.7,0.8,1.3,1.3,0.8,0.8,1.2,1.2,0.8,0.9,1.3,1.3,0.8,0.7,1.3,1.4
+"41","31","        Financial transactions","L318311A",NA,NA,0.1,0.7,1,0.6,0.9,0.6,0.8,0.9,2.1,0.9,1.3,0.5,0.7,0.8,1,0.4,0.2,1.5,1.2,0.7,0.3,1.1,0.6,1.9,-0.4,2,2.2,0.2,1.4,1.7,-0.4,-0.7,2.1,1.3
+"42","32","          Loan disbursements less loan repayments and sales \10\","L318321A",NA,NA,-0.1,0.5,0.7,0.3,0.6,0.3,0.5,0.5,1.9,0.7,1,0.2,0.4,0.6,0.7,0,0,1.2,1.3,0.4,0.1,0.8,0.4,1.6,-0.3,1.7,2,0.1,1.6,1.7,-0.4,-0.8,1.7,1.2
+"43","33","          Net purchases of foreign currency","L318331A",NA,NA,0.3,0.2,0.3,0.3,0.2,0.3,0.4,0.4,0.2,0.3,0.3,0.4,0.3,0.2,0.3,0.4,0.2,0.3,0,0.4,0.2,0.2,0.2,0.3,-0.1,0.3,0.2,0.1,-0.2,0.1,0,0,0.4,0.1
+"44","34","        Other \11\","L318341A",NA,NA,-0.5,-0.4,-0.1,-0.1,-0.3,-0.4,-0.2,-0.2,-0.2,-0.4,-0.4,-0.7,-0.3,-0.6,-0.2,-0.3,-0.5,-0.4,-0.4,-0.5,-0.5,-0.4,-0.6,0.2,-0.3,-0.7,-0.7,-0.4,-0.5,-0.5,-0.6,-0.1,-0.7,-0.1
+"45","35","      Netting and grossing differences","L318351A",NA,NA,0,0.2,0.1,0.3,0.1,0.2,0,0.2,0,0.1,0,0.2,0.1,0.4,0.2,0.3,0.2,0.4,0.3,0.1,0.1,0.2,0,0,0.1,0.2,0.2,0.4,0.2,0.3,0,0.2,-0.1,0.1
+"46","36","        Taxes received from the rest of the world \5\","B1068C1A",NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"47","37","        Other \6\","L318371A",NA,NA,0,0.2,0,0.2,0,0.1,0,0.1,0,0.1,0,0.1,0.1,0.3,0.1,0.2,0.1,0.3,0.2,0.1,0,0.2,0,0,0,0.2,0.1,0.3,0.2,0.2,-0.1,0.1,-0.2,0
+"48","38","Plus: Timing differences","L318381A",NA,NA,-0.3,0.5,0.6,-0.1,0,0.2,0.8,-0.4,0.5,0.2,1,0.4,0,-0.3,0.9,0,-0.2,0.2,0.4,0.6,-0.2,0,0.2,0.8,-0.6,0.3,0,0.1,-0.6,-0.2,0,0,-0.6,0.3
+"49","39","        Purchases (increase in payables net of advances) \12\","L318391A",NA,NA,0,0.3,-0.1,0,0.2,0.1,0.1,-0.1,0.2,0.2,0,-0.1,0,0.2,-0.2,-0.5,0.1,0.2,-0.2,-1.3,0.9,0.4,-0.2,-0.2,-0.1,0.3,-0.4,-0.1,-0.3,0.2,-0.9,0.3,-1.6,0.4
+"50","40","        Interest","L318401A",NA,NA,0.4,0.2,0.1,-0.2,-0.1,0.2,-0.2,0.3,-0.3,0.7,0.5,-0.1,0.4,0.1,0.3,0.1,0.3,0.3,0.3,0.1,0.3,0.1,0.3,0.1,0.1,0.4,0.2,0.1,0.5,0.3,0.2,-0.3,0.7,0.3
+"51","41","        Transfer payments","L318411A",NA,NA,0.1,0,0,0,0,0,0,-0.2,0.2,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"52","42","        Subsidies less current surplus of government enterprises","L318421A",NA,NA,-0.1,0.1,0,0.1,-0.1,0.1,0,0,0,0,-0.1,0.3,0,-0.1,0,0.2,0.2,-0.3,0.1,0.5,-0.1,-0.1,0.1,0.1,0.1,0,-0.1,0.1,0.3,-0.3,-0.2,0,0.3,0
+"53","43","        Checks outstanding and certain other accounts","L318431A",NA,NA,-0.7,-0.1,0.5,0,0,-0.2,0.8,-0.3,0.4,-0.7,0.6,0.3,-0.5,-0.5,0.8,0.2,-0.8,0,0.3,1.4,-1.2,-0.4,0,0.7,-0.8,-0.4,0.3,0,-1.1,-0.3,0.8,0,0,-0.5
+"54","44","Equals: Federal Government current expenditures, national income and product accounts","L318441A",NA,NA,21.2,21.5,20.5,21.5,21.5,22.3,22.1,23.7,22.3,23.8,24.1,25.3,24.7,25.9,25.6,26,27,26.4,26.5,27.8,27.9,27,26.8,28.6,30.3,30.4,30.5,32.8,35.6,34.7,36.9,38,39.2,39.2
+"55",NA,"      Surplus or deficit (-)"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","45","Consolidated cash budget surplus or deficit (-) (1-19)","L318451A",NA,NA,-3,-4.5,3.8,4.4,-0.8,-3.9,1.4,1,-3.3,-5.9,0.3,3.1,-2.5,-6.6,1.7,3.4,-3.6,-6.1,1.6,3.3,-3.9,-6.3,2.4,5.1,-3.9,-8.1,-1.3,10,-6.7,-7.7,1.4,11.5,-9.2,-10.9
+"57","46","Plus: Net investment (29)","L318461A",NA,NA,1.4,1,0.9,0.8,1,0.9,1.3,1.2,1.3,1.4,1.5,1.4,1.6,1.4,0.9,0.9,1.2,0.8,0.8,0.8,0.8,0.7,0.5,0.4,0.6,0.4,0.9,0.8,1.1,1.2,1.2,0.9,1.2,1
+"58","47","Less: Net capital transfers received (5-30)","L318471A",NA,NA,-0.7,-0.6,-0.1,0,-0.4,-0.3,0,0,-0.4,-0.5,-0.1,0,-0.4,-0.5,-0.1,0,-0.6,-0.7,-0.1,0,-0.7,-0.7,-0.1,0,-0.5,-0.6,-0.1,0.1,-0.7,-0.7,-0.1,0.3,-0.6,-0.8
+"59","48","      Federal employee retirement plans (4-22)","L318481A",NA,NA,0,0.1,0,0.1,0.1,0.1,0,0.1,0,0.1,-0.1,0.1,-0.1,0.1,-0.1,0.1,-0.1,0.1,-0.1,0,-0.1,0,-0.2,0,-0.2,0,-0.3,-0.1,-0.2,-0.1,-0.4,-0.1,-0.3,0
+"60","49","      Other coverage differences (3+6+7+8-21-27-28-31-34)","L318491A",NA,NA,-0.1,-0.5,-0.3,-0.3,-0.4,-0.2,0.2,-0.5,-2.2,-0.9,-0.4,-0.4,-0.4,-0.3,0.2,-0.9,-0.6,-1.7,-0.3,-0.8,-0.1,-0.7,0.4,-3,0.3,-1.6,-1.4,-0.7,-1.7,-0.3,3.1,2.6,-1.9,-1.7
+"61","50","      Timing differences (38-12)","L318501A",NA,NA,-1.1,-1.3,2,0.6,0.1,-0.6,2.6,-0.3,-0.3,-2,1.5,0.6,-0.1,-1.8,1.4,-0.3,-0.9,-1.9,2.2,0.8,-0.8,-1.7,0.8,2,-1.2,-2,-0.1,4.6,-0.3,-2.6,0.9,7.3,-1.6,-1.5
+"62","51","Equals: Federal Government surplus or deficit (-), national income and product accounts (18-44)","L318511A",NA,NA,0.2,-1.2,3.1,4.9,0.9,-1.9,-0.1,2.9,0.9,-1.2,0.8,4.3,0,-2.7,1.1,5.4,-0.2,-1,0.7,3.9,-1.3,-2.4,2,6.5,-1.8,-3.5,1.4,6.8,-2.6,-2.9,-0.9,2.3,-3.6,-6.1
+"63",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64"," 1. Consists largely of contributions for social insurance by residents of U.S. territories, Puerto Rico, and the Northern ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Mariana Islands.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66"," 2. These transactions are included in the NIPA personal sector.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67"," 3. Consists of estate and gift taxes.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68"," 4. Consists largely of sales of land, receipts from offshore oil leases, and U.S. Treasury receipts from sales of foreign ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","currencies to Government agencies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70"," 5. Taxes received from the rest of the world are included in receipts in the cash budget and netted against expenditures ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","(transfer payments) in the NIPA's.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72"," 6. Consists largely of sales of goods and services and interest receipts that are recorded as receipts in the cash budget and ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","netted against expenditures in the NIPA's.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74"," 7. Consists of transfer payments, subsidies, and grants-in-aid to residents of U.S. territories, Puerto Rico, and the Northern ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Mariana Islands.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76"," 8. Net investment is gross investment less consumption of fixed capital for government enterprises and general government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77"," 9. Consists of investment grants to State and local governments and maritime construction subsidies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78"," 10. Also includes the financial transactions of deposit insurance funds.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79"," 11. Consists largely of offshore oil leases and purchases of land, certain purchases of foreign currency from the U.S. Treasury ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","by Government agencies, net",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","expenditures of foreign currencies, grants to the District of Columbia, and net purchases of silver and minor coin metal.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82"," 12. Consists largely of real estate transactions, sales of military equipment to foreign countries, purchases of farm ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","commodities, and purchases of defense equipment and supplies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","  Note.  In this time period, fiscal year estimates reflect a July 1-June 30 fiscal year.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","NIPA quarterly and fiscal year estimates in this table are consistent with the not seasonally adjusted estimates published in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","table 9.3.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

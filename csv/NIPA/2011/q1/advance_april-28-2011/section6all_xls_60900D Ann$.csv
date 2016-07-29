@@ -1,0 +1,41 @@
+"","Table 6#9D# Hours Worked by Full-Time and Part-Time Employees by","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13"
+"1","[Millions of hours]                                                                                                                                                                                                                                       ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 2000 To 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2010   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/27/2011 9:21:23 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+"8","1","      Hours worked by full-time and part-time employees","B4701C0",230609,227725,225628,224103,226650,229536,234818,238162,236816,223006
+"9","2","Domestic industries","B4702C0",231552,229013,226934,225511,228168,231092,236451,239885,238594,224887
+"10","3","  Private industries","B4703C0",197180,194341,191503,189869,192589,195473,200698,203789,201936,188227
+"11","4","    Agriculture, forestry, fishing, and hunting","N4704C0",2498,2468,2481,2417,2234,2281,2440,2598,2516,2373
+"12","5","      Farms \1\","N4705C0",1654,1668,1691,1654,1499,1507,1432,1558,1496,1452
+"13","6","      Forestry, fishing, and related activities","N4706C0",844,800,790,763,735,774,1008,1040,1020,921
+"14","7","    Mining","N4707C0",1119,1151,1041,1035,1131,1232,1408,1497,1579,1384
+"15","8","    Utilities","N4708C0",1181,1166,1127,1092,1071,1059,1064,1078,1100,1077
+"16","9","    Construction","N4709C0",13799,14018,13814,13831,14327,15056,15979,15459,14486,11967
+"17","10","    Manufacturing","N4710C0",34014,31729,29495,28004,27854,27552,27761,27187,26161,22632
+"18","11","      Durable goods","N4711C0",21540,20003,18357,17366,17455,17421,17632,17224,16543,13885
+"19","12","      Nondurable goods","N4712C0",12474,11726,11138,10638,10399,10131,10129,9963,9618,8747
+"20","13","    Wholesale trade","N4713C0",10708,10688,10391,10289,10410,10759,10858,11080,11089,10212
+"21","14","    Retail trade","N4714C0",22679,22546,22554,22351,22505,22177,22830,22853,22515,21302
+"22","15","    Transportation and warehousing","N4715C0",7966,7725,7501,7394,7619,7794,7940,8074,7976,7405
+"23","16","    Information","N4716C0",7014,6863,6266,5821,5701,5742,5657,5583,5554,5185
+"24","17","    Finance and insurance, real estate, rental, and leasing","N4717C0",13655,14024,13970,14084,14147,14162,14786,14735,14464,13874
+"25","18","    Professional and business services \2\","N4718C0",28254,27801,27171,26994,27771,28922,30221,31327,31272,29127
+"26","19","    Educational services, health care and social assistance","N4719C0",25327,26130,27139,27875,28673,29557,30046,31767,32676,32548
+"27","20","    Arts, entertainment, recreation, accommodation, and food services","N4729C0",18468,17650,17898,18141,18636,18788,19264,19438,19393,18639
+"28","21","    Other services, except government","N4730C0",10498,10382,10655,10541,10510,10392,10444,11113,11155,10502
+"29","22","  Government","B4720C0",34372,34672,35431,35642,35579,35619,35753,36096,36658,36660
+"30","23","    General government","B4721C0",30888,31135,31831,32077,32069,32124,32269,32559,33069,33089
+"31","24","    Government enterprises","B4722C0",3484,3537,3600,3565,3510,3495,3484,3537,3589,3571
+"32","25","Rest of the world \3\","B4723C0",-943,-1288,-1306,-1408,-1518,-1556,-1633,-1723,-1778,-1881
+"33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","1. NAICS crop and animal production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","2. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","3. Includes estimates of foreign professional workers and undocumented Mexican migratory",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","workers employed temporarily in the United States.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Note.  Estimates in this table are based on the 2002 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

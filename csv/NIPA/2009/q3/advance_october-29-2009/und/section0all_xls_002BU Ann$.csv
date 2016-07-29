@@ -1,0 +1,75 @@
+"","Table 2BU# Real Manufacturing and Trade Sales, Seasonally Adjust","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15"
+"1","[Millions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 30, 2009  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/29/2009 10:20:54 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","      Manufacturing and trade industries","KPMT0",806958,846141,893140,919657,906606,919205,936477,971987,1013268,1041901,1046022,1012423
+"9","2","Manufacturing industries","KP300",365134,377074,389133,393760,371853,369801,370586,378381,395247,399957,390390,367824
+"10","3","  Durable goods manufacturing industries","KP30D0",182707,192166,202617,206114,190058,186888,188663,192700,202087,207093,203577,191509
+"11","4","    Wood product manufacturing","KP3210",8262,8498,8914,8748,8215,8470,8477,8772,9351,9438,8589,8094
+"12","5","    Nonmetallic mineral product manufacturing","KP3270",8534,9009,9145,9125,8813,8774,8882,9110,9586,9789,9043,8064
+"13","6","    Primary metal manufacturing","KP3310",17455,17816,17595,16927,15522,15628,15148,16443,16986,16783,16402,15595
+"14","7","    Fabricated metal product manufacturing","KP3320",23706,24525,24728,25453,23841,23140,22899,22839,24152,25380,25020,23467
+"15","8","    Machinery manufacturing","KP3330",25290,25861,25264,26364,23902,22734,22747,23432,25257,26379,25974,26027
+"16","9","    Computer and electronic product manufacturing","KP3340",25742,27823,31094,35162,30704,26594,27524,29619,31050,33046,33878,34273
+"17","10","    Electrical equipment, appliance, and component manufacturing","KP3350",9917,10296,10535,11080,10106,9152,8939,9113,9347,9350,9505,8960
+"18","11","    Transportation equipment manufacturing","KP3360",50092,53326,58838,55055,51704,54967,56264,55456,57432,57642,56594,49515
+"19","12","      Motor vehicle and parts manufacturing","KP3MV0",35021,36552,41488,39061,35610,39588,41518,40953,41782,41782,39841,31746
+"20","13","      Other transportation equipment manufacturing","KP3OT0",15240,17093,17494,16090,16327,15445,14734,14491,15650,15857,16689,17495
+"21","14","    Furniture and related product manufacturing","KP3370",6075,6502,6700,6797,6476,6736,6627,6749,7024,7028,6544,5805
+"22","15","    Miscellaneous durable goods manufacturing","KP3390",9263,9703,9922,10381,10294,10971,11144,11166,11904,12307,12160,11960
+"23","16","  Nondurable goods manufacturing industries","KP30N0",183833,185367,185828,186717,181671,183129,181958,185709,193161,192904,186922,176388
+"24","17","    Food manufacturing","KP3110",39675,41177,41417,41687,41926,42837,43493,43015,44400,44659,43958,42575
+"25","18","    Beverage and tobacco product manufacturing","KP3120",11539,11521,10595,10566,10550,9141,9595,9820,10333,10231,10523,10498
+"26","19","    Textile mills","KP3130",4798,4716,4606,4412,3910,3969,3728,3523,3533,3121,2902,2553
+"27","20","    Textile product mills","KP3140",2818,2811,2959,3001,2827,2832,2743,2904,2921,2695,2436,2091
+"28","21","    Apparel manufacturing","KP3150",5706,5423,5181,4982,4517,3495,3222,2731,2621,2532,2449,2524
+"29","22","    Leather and allied product manufacturing","KP3160",975,920,872,857,765,510,491,485,517,495,507,448
+"30","23","    Paper manufacturing","KP3220",14546,14663,14840,14547,13711,13824,13510,13512,13515,13495,12966,12411
+"31","24","    Printing and related support activities","KP3230",9042,9121,9170,9179,8746,8295,7998,7947,8083,8111,8149,7601
+"32","25","    Petroleum and coal product manufacturing","KP3240",34708,34768,35247,34676,34998,36487,33829,36500,39564,38711,35937,33745
+"33","26","    Chemical manufacturing","KP3250",43418,42959,43126,44568,42970,45513,46277,48716,50956,52128,50847,46807
+"34","27","    Plastics and rubber product manufacturing","KP3260",15226,15747,16474,16699,15858,16245,16218,16373,16719,16772,16592,15544
+"35","28","Merchant wholesale industries","KP42W0",209829,224691,242820,255711,256425,263512,268762,284724,298380,311555,317794,316833
+"36","29","  Durable goods merchant wholesale industries","KP42WD0",93958,102365,113919,121978,120399,122573,125575,138531,147897,158321,161578,160765
+"37","30","    Motor vehicles, parts, and supplies wholesalers","KP42110",14146,15229,17469,18224,19323,21079,21701,23277,24529,27392,27442,24456
+"38","31","    Furniture and home furnishings wholesalers","KP42120",3707,3937,4280,4751,4687,4759,4827,5026,5085,5349,5179,4665
+"39","32","    Lumber and other construction materials wholesalers","KP42130",7207,7681,8231,8221,8481,8998,9805,10866,11801,11960,10848,9663
+"40","33","    Professional and commercial equipment wholesalers","KP42140",8842,11473,14739,16076,17267,19175,20426,22951,25771,29009,32473,35302
+"41","34","      Computers and software wholesalers","KP42430",2847,4254,6150,7048,7659,8795,9561,11329,13592,15695,19070,21909
+"42","35","      Other professional and commercial equipment wholesalers","KP424X0",8474,8857,9404,9458,9984,10618,11043,11686,12179,13345,13748,14124
+"43","36","    Metal and mineral (except petroleum) wholesalers","KP42150",10293,10399,10751,11191,10578,9994,9466,10889,11378,11519,10983,10075
+"44","37","    Electrical goods wholesalers","KP42160",14507,15285,17226,20308,18440,17928,18534,21001,22175,24237,25778,26564
+"45","38","    Hardware and plumbing and heating equipment wholesalers","KP42170",5948,6202,6432,6677,6326,6404,6416,6737,6946,7279,6795,6128
+"46","39","    Machinery, equipment, and supplies wholesalers","KP42180",21240,22916,23103,23747,22667,20728,20741,22590,24095,25284,25691,26878
+"47","40","    Miscellaneous durable goods wholesalers","KP42190",14095,13409,14129,14793,13870,13981,13732,15262,16117,16439,16958,17994
+"48","41","  Nondurable goods merchant wholesale industries","KP42WN0",118031,123917,129374,133676,136362,141481,143669,146271,150483,153313,156301,156101
+"49","42","    Paper and paper products wholesalers","KP42210",6511,6624,7025,6771,6712,6649,6679,7089,7301,7109,7003,6763
+"50","43","    Drugs and druggists' sundries wholesalers","KP42220",11086,12192,14321,16394,19402,22341,24351,25581,27496,28134,28121,28895
+"51","44","    Apparel, piece goods, and notions wholesalers","KP42230",6958,7139,7473,7992,8208,8882,8751,9033,9416,9756,9885,10034
+"52","45","    Grocery and related products wholesalers","KP42240",31403,32494,33590,35237,34567,35435,36272,35088,35762,36636,38330,37762
+"53","46","    Farm product raw material wholesalers","KP42250",9134,8920,9417,9492,9247,8877,8871,9103,9901,10047,9657,9932
+"54","47","    Chemical and allied products wholesalers","KP42260",6230,6341,6534,6687,6847,7263,7015,7059,7360,6823,6928,6501
+"55","48","    Petroleum and petroleum products wholesalers","KP42270",26992,31894,30941,28344,29780,31101,30081,30086,29188,30381,31655,32835
+"56","49","    Beer, wine, and distilled alcoholic beverages wholesalers","KP42280",5687,6012,6485,6699,6804,7102,7282,7356,7533,7960,8299,8337
+"57","50","    Miscellaneous nondurable goods wholesalers","KP42290",15216,15786,15731,16567,15621,14781,14741,16100,16526,16460,16442,14778
+"58","51","Retail trade industries","KP440",227933,241546,259318,269260,275528,283838,295189,307967,319641,330881,338239,326938
+"59","52","  Motor vehicle and parts dealers","KP4410",57617,60942,66957,69260,70289,70658,73920,76020,76407,76524,77416,67758
+"60","53","  Furniture, furnishings, electronics, and appliance stores","KP44230",8762,9674,10904,12024,12544,13708,15012,17065,18932,20955,22328,22412
+"61","54","  Building material and garden equipment and supplies dealers","KP4440",17264,18867,20365,21516,22627,23710,25087,26793,28800,30170,29253,27591
+"62","55","  Food and beverage stores","KP4450",42175,42231,42858,42760,43084,42520,42762,43167,44072,44869,45420,45148
+"63","56","  Clothing and clothing accessories stores","KP4480",10901,11832,12846,13652,13782,14562,15544,16624,17789,18802,19472,18973
+"64","57","  General merchandise stores","KP4520",28793,30628,33123,34974,36841,38765,41289,43578,46337,48844,51162,52299
+"65","58","    Department stores","KP45210",18070,18501,19184,19329,19111,18756,18695,18811,19046,19077,19008,18240
+"66","59","    Other general merchandise stores","KP45290",10311,11781,13657,15433,17599,19944,22573,24762,27291,29762,32131,33988
+"67","60","  Other retail stores","KP44X0",64576,69258,73616,75962,77093,80536,81823,84790,87305,90759,93303,92679
+"68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Note. Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Chained (2005) dollar final sales series are calculated as the product of the chain-type quantity index",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","and the 2005 current-dollar value of the corresponding series, divided by 100.  Because the formula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","estimates are usually not additive.  The residual line is the difference between the first line and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","the sum of the most detailed lines for inventories.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

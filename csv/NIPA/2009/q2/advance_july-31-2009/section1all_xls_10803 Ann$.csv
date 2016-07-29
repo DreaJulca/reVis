@@ -1,0 +1,17 @@
+"","Table 1#8#3# Command-Basis Real Gross National Product, Quantity","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Index numbers, 2005=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:48:52 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","Gross national product","B001RA3",71.685,74.368,77.592,80.907,84.897,88.483,89.55,91.138,93.551,97.039,100,102.438,104.925,105.552
+"9","2","Less: Exports of goods and services and income receipts from the rest of the world","BB20RA3",60.026,64.606,72.296,73.833,78.006,86.163,78.822,76.791,79.577,89.877,100,112.869,125.539,126.175
+"10","3","Plus: Command-basis exports of goods and services and income receipts from the rest of the world \1\","AB21RA3",59.852,64.734,73.569,77.166,80.817,87.53,81.6,80.081,82.108,91.724,100,112.264,124.595,119.893
+"11","4","Equals: Command-basis gross national product","AB22RA3",71.659,74.387,77.78,81.399,85.312,88.685,89.96,91.623,93.924,97.312,100,102.349,104.786,104.625
+"12",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","5","  Percent change from preceding period in command-basis real gross national product","AB22RL1",2.5,3.8,4.6,4.7,4.8,4,1.4,1.8,2.5,3.6,2.8,2.3,2.4,-0.2
+"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","1. Exports of goods and services and income receipts deflated by the implicit price deflator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","for imports of goods and services and income payments.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

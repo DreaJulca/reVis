@@ -1,0 +1,60 @@
+"","Table 3#11#4# Price Indexes for National Defense Consumption Exp","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Index numbers, 2005=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:51:14 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    National defense consumption expenditures and gross investment","B824RG3",73.161,75.431,76.517,77.328,79.225,81.821,83.484,86.624,90.659,94.895,100,104.421,108.286,111.913
+"9","2","Consumption expenditures \1\","B997RG3",69.956,72.437,73.868,74.848,76.786,79.69,81.716,85.382,89.898,94.474,100,104.779,109.011,112.891
+"10","3","  Gross output of general government","W085RG3",69.948,72.429,73.867,74.858,76.798,79.699,81.74,85.406,89.911,94.486,100,104.77,109.003,112.878
+"11","4","    Value added","W086RG3",64.518,67.47,69.059,70.29,72.59,75.437,77.696,82.692,88.078,93.698,100,105.576,110.946,113.49
+"12","5","      Compensation of general government employees","B237RG3",57.008,60.701,62.776,64.269,66.841,70.024,72.895,79.478,86.269,92.744,100,106.231,112.56,115.062
+"13","6","        Military","B4080G3",55.538,59.578,61.117,62.349,64.878,67.519,70.602,77.56,85.085,91.349,100,107.092,114.276,117.109
+"14","7","        Civilian","W090RG3",60.276,63.399,66.464,68.457,71.132,75.395,77.847,83.655,88.835,95.775,100,104.412,108.964,110.779
+"15","8","      Consumption of general government fixed capital \2\","B432RG3",87.949,88.504,88.581,89.014,90.513,92.384,92.806,92.918,93.853,96.726,100,103.565,106.104,108.763
+"16","9","    Intermediate goods and services purchased \3\","W087RG3",78.549,79.96,81.054,81.547,82.768,85.705,87.34,88.906,92.18,95.439,100,103.813,106.729,112.088
+"17","10","      Durable goods","B998RG3",96.612,96.79,96.622,96.186,96.072,96.635,96.646,96.752,97.5,98.477,100,102.349,102.545,103.449
+"18","11","        Aircraft","B999RG3",94.968,95.4,94.779,94.309,94.46,95.328,95.907,95.994,97.636,98.968,100,102.853,101.897,101.701
+"19","12","        Missiles","B277RG3",96.029,94.646,94.397,93.754,93.896,93.848,93.845,96.207,96.944,97.804,100,103.843,105.245,107.052
+"20","13","        Ships","B278RG3",93.959,94.06,94.773,94.833,92.5,93.445,93.982,93.751,94.667,97.499,100,103,104.036,107.541
+"21","14","        Vehicles","B288RG3",69.518,71.931,77.142,79.569,85.764,91.921,91.745,94.633,95.405,98.524,100,100.411,102.107,103.707
+"22","15","        Electronics","B388RG3",120.192,117.09,113.97,110.525,107.443,106.128,104.088,102.468,100.614,99.849,100,101.698,101.865,102.129
+"23","16","        Other durable goods","B389RG3",94.49,95.844,96.152,96.359,96.124,96.339,96.232,95.923,96.519,97.334,100,101.696,102.355,104.386
+"24","17","      Nondurable goods","B725RG3",58.632,64.195,63.198,56.38,58.845,71.73,68.662,67.278,74.42,82.388,100,109.722,115.473,142.673
+"25","18","        Petroleum products","B780RG3",32.181,39.154,37.563,27.088,30.696,52.149,46.282,43.807,55.667,67.799,100,115.224,123.895,175.903
+"26","19","        Ammunition","B781RG3",93.127,91.825,91.432,89.771,89.241,89.603,89.363,89.18,90.19,95.355,100,107.669,111.518,119.092
+"27","20","        Other nondurable goods","B783RG3",86.389,87.951,88.516,88.807,90.018,92.067,93.066,93.619,94.414,97.056,100,102.79,105.375,108.422
+"28","21","      Services","B489RG3",77.515,78.743,80.323,81.845,83.197,85.352,87.907,90.092,93.333,96.433,100,103.406,106.496,110.384
+"29","22","        Research and development","B784RG3",79.428,79.805,81.886,83.352,84.638,86.432,87.87,89.345,91.979,95.581,100,103.894,106.737,110.756
+"30","23","        Installation support","B911RG3",78.455,79.296,79.654,80.684,81.842,82.824,85.212,87.434,91.277,95.486,100,104.037,107.852,112.173
+"31","24","        Weapons support","B912RG3",80.089,82.16,83.938,85.442,87.016,89.324,91.596,93.084,95.255,97.383,100,102.369,104.478,106.986
+"32","25","        Personnel support","B913RG3",74.31,76.587,78.097,80.079,82.618,85.798,89.158,92.218,95.138,97.557,100,102.862,106.634,108.85
+"33","26","        Transportation of material","B786RG3",68.3,72.717,76.035,77.484,76.866,80.88,84.592,87.34,95.449,97.021,100,103.382,104.521,114.912
+"34","27","        Travel of persons","B785RG3",72.876,72.408,75.911,78.74,77.923,81.373,86.56,89.298,92.18,95.474,100,104.461,106.104,118.712
+"35","28","  Less: Own-account investment \4\","W088RG3",68.019,69.871,72.285,74.12,76.18,79.187,81.85,85.815,89.688,95.301,100,104.675,108.602,111.646
+"36","29","        Sales to other sectors","W089RG3",70.425,73.344,75.189,77.187,79.47,81.822,86.012,89.324,92.532,95.962,100,103.484,108.006,111.47
+"37","30","Gross investment \5\","B788RG3",98.204,98.76,96.927,96.254,97.774,97.832,96.578,95.645,96.098,97.853,100,102.014,103.524,105.63
+"38","31","  Structures","B808RG3",66.525,68.303,70.44,72.403,75.308,78.581,81.753,83.877,86.459,91.537,100,108.136,114.5,117.04
+"39","32","  Equipment and software","B873RG3",103.202,103.479,100.821,99.604,100.856,100.392,98.486,97.136,97.289,98.592,100,101.358,102.321,104.376
+"40","33","    Aircraft","B874RG3",113.987,119.159,108.441,107.209,124.633,118.735,111.252,106.249,105.588,102.602,100,98.969,98.952,102.508
+"41","34","    Missiles","B875RG3",106.177,102.577,97.344,98.927,95.193,94.45,93.359,92.366,95.347,97.775,100,100.873,102.509,104.988
+"42","35","    Ships","B876RG3",82.04,82.238,83.559,83.168,82.428,84.447,84.362,84.868,85.902,94.117,100,108.854,114.227,123.044
+"43","36","    Vehicles","B877RG3",101.728,103.21,103.382,101.936,102.841,100.92,99.231,98.812,99.483,99.834,100,98.629,103.099,104.756
+"44","37","    Electronics and software","B878RG3",132.08,126.216,120.698,114.959,111.676,111.479,108.704,105.96,103.166,101.49,100,99.105,97.622,96.015
+"45","38","    Other equipment","B879RG3",92.126,93.678,94.225,94.423,94.398,94.904,94.909,94.864,95.778,96.927,100,101.534,102.02,103.701
+"46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","1. National defense consumption expenditures are defense services produced by government that",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","are valued at their cost of production. Excludes government sales to other sectors and government own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","2. Consumption of fixed capital, or depreciation, is included in government gross output as",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","a partial measure of the services of general government fixed assets; the use of depreciation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","assumes a zero net return on these assets.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","3. Includes general government intermediate inputs for goods and services sold to other sectors and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","for own-account investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","4. Own-account investment is measured in current dollars by compensation of general government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","employees and related expenditures for goods and services and is classified as investment in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","structures and in software.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","5. Gross government investment consists of general government and government enterprise expenditures for fixed assets; inventory",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","investment is included in government consumption expenditures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

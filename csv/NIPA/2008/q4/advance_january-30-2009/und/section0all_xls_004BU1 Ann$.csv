@@ -1,0 +1,35 @@
+"","Table 4BU1# Real Manufacturing Inventories, by Stage of Fabricat","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Millions of chained (2000) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published February 02, 2009 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/30/2009 10:32:04 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007
+"8",NA,"  Materials and supplies"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","A Manufacturing industries","KS30M0",149217,153871,162625,168279,159794,156763,151305,153988,158157,162668,159666
+"10","2","A   Durable goods industries","KS30DM0",86400,91209,96820,104450,96805,93189,89351,92162,96403,99660,96720
+"11","3","A     Wood product manufacturing","KS321M0",3744,3907,4119,4049,3979,4136,4180,4556,4870,4939,4584
+"12","4","A     Nonmetallic mineral product manufacturing","KS327M0",3319,3330,3442,3521,3467,3484,3449,3585,3584,3755,3742
+"13","5","A     Primary metal manufacturing","KS331M0",6703,7632,7593,7264,6857,6743,5735,6794,7182,7694,6571
+"14","6","A     Fabricated metal product manufacturing","KS332M0",11139,11540,11923,12247,11742,11520,11296,11300,12047,12201,11587
+"15","7","A     Machinery manufacturing","KS333M0",12431,12617,13276,14014,13045,12261,11545,11356,12320,13023,13434
+"16","8","A     Computer and electronic product manufacturing","KS334M0",18288,18465,21856,27845,24420,22487,21429,21736,22131,22825,22421
+"17","9","A     Electrical equipment, appliance, and component manufacturing","KS335M0",5077,5163,5312,5829,5553,5450,5222,5176,5285,5167,5083
+"18","10","A     Transportation equipment manufacturing","KS336M0",16998,19501,19856,20036,18278,17629,17153,18305,19050,19952,19798
+"19","11","D       Motor vehicle and parts manufacturing","KS3MVM0",10021,10899,12056,11391,10359,10965,11080,11352,11453,11661,10972
+"20","12","D       Other transportation equipment manufacturing","KS3OTM0",6972,8600,7800,8645,7917,6683,6101,6978,7626,8324,8867
+"21","13","A     Furniture and related product manufacturing","KS337M0",3407,3412,3536,3635,3443,3559,3480,3485,3619,3627,3609
+"22","14","A     Miscellaneous durable goods manufacturing","KS339M0",5307,5729,5901,6004,6001,5867,5831,5630,5903,5968,5893
+"23","15","A   Nondurable goods industries","KS30NM0",62944,62673,65798,63822,62961,63529,61885,61823,61901,63209,63009
+"24","16","A     Food manufacturing","KS311M0",10143,10327,11095,10690,10604,10431,10382,9943,10109,10520,10140
+"25","17","A     Beverage and tobacco product manufacturing","KS312M0",7064,7130,6847,6206,6338,6389,6027,5905,5946,5963,5574
+"26","18","A     Textile mills","KS313M0",2308,2196,2267,2154,1909,1841,1866,1855,1831,1794,1745
+"27","19","A     Textile product mills","KS314M0",1258,1195,1281,1496,1503,1116,1108,1135,1169,1161,1123
+"28","20","A     Apparel manufacturing","KS315M0",2730,2633,2692,2500,2027,2040,1939,1943,1870,1838,1868
+"29","21","A     Leather and allied product manufacturing","KS316M0",538,517,498,466,428,389,384,392,399,430,465
+"30","22","A     Paper manufacturing","KS322M0",7906,7572,8358,8014,7713,8521,8001,8057,7977,8015,8040
+"31","23","A     Printing and related support activities","KS323M0",2504,2113,2533,2313,2265,2523,2414,2431,2350,2398,2747
+"32","24","A     Petroleum and coal product manufacturing","KS324M0",5070,4807,4856,4249,5040,4765,5222,5525,5702,5581,5816
+"33","25","A     Chemical manufacturing","KS325M0",16417,17002,17676,18289,18162,18416,17397,17213,16961,17619,17307
+"34","26","A     Plastics and rubber product manufacturing","KS326M0",7093,7250,7688,7438,7081,7220,7221,7490,7577,7922,8041

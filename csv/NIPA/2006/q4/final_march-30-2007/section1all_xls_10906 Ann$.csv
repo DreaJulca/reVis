@@ -1,0 +1,31 @@
+"","Table 1#9#6# Real Net Value Added by Sector, Chained Dollars    ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2000) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1990 To 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 02, 2006   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/28/2007 8:04:11 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005
+"8","1","    Net domestic product","A362RX1",6399.1,6348,6556.8,6737.8,6991,7153.6,7409.9,7727.1,8026.6,8357.4,8629.1,8616.2,8761.8,8981.2,9319.8,9557.2
+"9","2","Business \1\","A363RX1",4806.3,4735.6,4932.2,5090,5327.6,5470.9,5715.6,6004.4,6273.5,6572.8,6797.4,6743.7,6862.7,7083.9,7394.4,7646.2
+"10","3","  Nonfarm \2\","A364RX1",4780.6,4707.8,4893.1,5062,5285.2,5445.9,5681.4,5959.2,6233.4,6531.8,6747.1,6705.3,6819,7034.4,7339.7,7591.6
+"11","4","  Farm","A365RX1",29.4,30.1,36.7,31.2,40.1,30.4,36,42.9,40.2,41.5,50.2,39,44.2,49.7,54.3,54.6
+"12","5","Households and institutions","W503RX1",736.4,756.3,765,787.3,800.8,819.9,828.8,849.6,870.6,895.1,928.6,952.4,962.4,953.4,982.3,966.9
+"13","6","  Households","W504RX1",395.4,407.3,405.8,412.7,425.5,433.2,437.2,447.2,453.6,475.7,498.2,512.9,509.5,500.7,529.3,512
+"14","7","  Nonprofit institutions serving households \3\","W505RX1",340.9,348.8,359.3,374.8,375.3,386.8,391.7,402.5,417.3,419.4,430.3,439.7,453.1,453,453.9,455
+"15","8","General government \4\","A194RX1",874.8,879.1,877.6,876.2,873.9,872.4,871.5,876.3,883.8,889.7,903.2,918.4,935.1,945.1,948.4,954.1
+"16","9","  Federal","B568RX1",299.4,298.4,288,279.6,267.4,254.2,244.9,238.8,235.1,231.8,233.8,234.7,240.3,247.8,249.7,250
+"17","10","  State and local","B251RX1",579.1,584.2,592.4,598.8,608,618.8,626.9,637.7,648.8,657.9,669.4,683.7,694.8,697,698.4,703.9
+"18","11","Residual","A966RX1",-25.7,-28.6,-18.5,-21.3,-10.5,-15.7,-8.2,-1.2,-1.8,-0.7,0.1,0.9,0.9,-1.4,-5.5,-9.9
+"19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","1. Equals net domestic product excluding net value added of households and institutions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","and of general government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","2. Equals net domestic business value added excluding net farm value added.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","3. Equals gross value added of nonprofit institutions excluding consumption of fixed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","capital on fixed assets owned and used by nonprofit instututions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","4. Equals compensation of general government employees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Note. Chained (2000) dollar series are calculated as the product of the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","quantity index and the 2000 current-dollar value of the corresponding series, divided by",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","100. Because the formula for the chain-type quantity indexes uses weights of more than",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","one period, the corresponding chained-dollar estimates are usually not additive. The",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,140 @@
+"","Table 3#16# Government Current Expenditures by Function         ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1959 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published September 17, 2014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/28/2014 2:26:48 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","      Government \1\","W022RC1",124.2,131.2,141,152,160,168.6,181,203.9,231.7,260.7,283.5
+"9","2","General public service","G160021",20.8,23.8,25,26.7,28.5,30.5,32.7,35.3,37.6,42.1,47.4
+"10","3","  Executive and legislative","G160031",4.4,4.5,5,5.1,5.3,5.5,5.8,5.8,5.6,4.5,5.1
+"11","4","  Tax collection and financial management","G160041",1.2,1.3,1.4,1.5,1.5,1.6,1.6,1.8,2.1,3.5,4.4
+"12","5","  Interest payments \2\","G160051",14.1,16.9,17.2,18.6,20.1,21.6,23.1,25.2,27.2,30.6,34
+"13","6","  Other \3\","G160061",1.1,1.2,1.5,1.6,1.6,1.9,2.2,2.5,2.8,3.4,3.9
+"14","7","National defense","G160071",44,44.3,45.6,50.1,52.1,52.7,55.5,65.6,75.8,84,85.2
+"15","8","Public order and safety","G160081",4.4,4.8,5.2,5.4,5.7,6.1,6.6,7.2,8,9.3,10.3
+"16","9","  Police","G160091",2.1,2.3,2.4,2.6,2.8,2.9,3.2,3.5,3.8,4.7,5.1
+"17","10","  Fire","G160101",1,1.1,1.2,1.2,1.3,1.4,1.5,1.6,1.7,1.9,2.2
+"18","11","  Law courts","G160111",0.7,0.7,0.8,0.8,0.9,0.9,1,1.1,1.2,1.4,1.6
+"19","12","  Prisons","G160121",0.6,0.7,0.7,0.7,0.8,0.9,0.9,1,1.2,1.3,1.5
+"20","13","Economic affairs","G160131",12.7,11.4,12.5,14.5,14.8,16.6,17.9,19.3,21.2,23.4,26.2
+"21","14","  Transportation","G160181",5.8,6.1,6.6,6.9,7.3,7.7,8.1,8.8,9.6,10.3,11.3
+"22","15","    Highways","G160191",4.6,4.9,5.1,5.4,5.7,6,6.5,7,7.6,8.2,9.1
+"23","16","    Air","G160201",0.5,0.5,0.7,0.7,0.7,0.8,0.7,0.8,0.9,0.9,1
+"24","17","    Water","G160211",0.7,0.7,0.8,0.8,0.8,0.9,0.9,0.9,1.1,1.1,1.1
+"25","18","    Transit and railroad","G160221",0,0,0,0,0,0,0,0,0,0,0.1
+"26","19","  Space","G160241",0.2,0.3,0.4,0.9,1.8,2.3,2.7,2.6,1.9,1.9,1.8
+"27","20","  Other economic affairs","W690RC1",6.8,5,5.4,6.6,5.7,6.6,7.1,7.9,9.7,11.2,13.1
+"28","21","    General economic and labor affairs","G160141",1.2,1.5,1.7,2.1,2.3,2.3,2.8,3.5,4.3,4.3,4.4
+"29","22","    Agriculture","G160151",4.6,2.7,2.8,3.8,3,3.6,3.6,3.5,3.9,5.6,6.8
+"30","23","    Energy","G160161",0.4,0.3,0.4,0.4,0.2,0.3,0.2,0.2,0.4,0.3,0.5
+"31","24","    Natural resources","G160171",0.6,0.5,0.5,0.4,0.3,0.5,0.5,0.7,1.1,1,1.4
+"32","25","    Postal service","G160231",0,0,0,0,0,0,0,0,0,0,0
+"33","26","    Other \4\","G160251",0,0,0,0,0,0,0,0,0,0,0
+"34","27","Housing and community services","G160261",0.7,0.8,0.9,0.9,1,1.1,1.1,1.2,1.4,1.5,1.6
+"35","28","Health","G160271",5.2,5.5,6.3,6.5,7,7.4,7.8,10.1,15.2,18.6,21.1
+"36","29","Recreation and culture","G160281",0.7,0.7,0.8,0.9,0.9,1,1.1,1.2,1.3,1.5,1.7
+"37","30","Education","G160291",14.7,16.2,17.6,18.9,20.6,22.8,25.3,29,32.9,37.1,42.4
+"38","31","  Elementary and secondary","G160301",12,13.4,14.7,15.9,17.3,19.1,21.1,23.7,26,29.1,32.8
+"39","32","  Higher","G160311",1.5,1.7,1.9,2,2.2,2.4,2.7,3.3,4.2,5.1,6
+"40","33","  Libraries and other","W691RC1",1.2,1.1,1,1.1,1.2,1.3,1.6,2.1,2.6,2.9,3.5
+"41","34","    Libraries","G160321",0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.6
+"42","35","    Other","G160331",0.9,0.8,0.7,0.7,0.8,0.9,1.1,1.6,2.1,2.3,2.9
+"43","36","Income security","G160341",21.9,23.6,27.1,28.1,29.4,30.4,33,35,38.4,43.3,47.5
+"44","37","  Disability","G160351",4.4,4.7,5.3,5.5,6,6.2,6.8,6.9,7.5,8.1,9
+"45","38","  Retirement \5\","G160361",10.5,11.6,12.8,14.4,15.2,16,17.8,19.3,20.7,24.1,25.8
+"46","39","  Welfare and social services","G160371",4.2,4.2,4.5,4.9,5.1,5.3,6,6.7,7.7,8.6,10.2
+"47","40","  Unemployment","G160381",2.8,3,4.4,3.2,3,2.7,2.3,1.9,2.2,2.2,2.3
+"48","41","  Other","G160391",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.3
+"49","42","      Federal","W013RC1",90.5,93.4,99.8,108.5,113.5,118.2,125.9,144.3,165.7,184.3,196.9
+"50","43","General public service","G160411",15.2,17.7,18.1,19.5,20.9,22.3,23.6,25.2,26.7,29.2,32.6
+"51","44","  Executive and legislative","G160421",3.8,3.8,4.2,4.4,4.6,4.8,5,5,4.7,3.4,3.9
+"52","45","  Tax collection and financial management","G160431",NA,NA,NA,NA,NA,NA,NA,NA,NA,1.2,1.3
+"53","46","  Interest payments \2\","G160441",11.4,13.9,13.9,15.1,16.3,17.5,18.6,20.3,21.9,24.6,27.5
+"54","47","  Other \6\","G160451",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","48","National defense","G160461",44,44.4,45.7,50.2,52.1,52.7,55.5,65.6,75.8,84.2,85.5
+"56","49","Public order and safety","G160471",0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.5,0.5,0.6
+"57","50","  Police","G160481",0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.2,0.3,0.3
+"58","51","  Fire","G160491",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","52","  Law courts","G160501",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.1,0.2,0.2
+"60","53","  Prisons","G160511",0,0,0,0,0,0,0,0,0.1,0.1,0.1
+"61","54","Economic affairs","G160521",7.1,5.4,6.1,7.8,7.6,9,9.8,10.4,11.7,13.8,15.7
+"62","55","  Transportation","G160571",1.3,1.3,1.5,1.6,1.6,1.7,1.7,1.9,2.1,2.1,2.3
+"63","56","    Highways","G160581",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"64","57","    Air","G160591",0.5,0.5,0.7,0.7,0.7,0.8,0.7,0.8,0.9,0.9,1
+"65","58","    Water","G160601",0.7,0.7,0.8,0.8,0.8,0.9,0.9,0.9,1.1,1.1,1.1
+"66","59","    Transit and railroad","G160611",NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+"67","60","  Space","G160631",0.2,0.3,0.4,0.9,1.8,2.3,2.7,2.6,1.9,1.9,1.8
+"68","61","  Other economic affairs","W692RC1",5.7,3.8,4.1,5.3,4.2,5,5.3,6,7.7,9.8,11.6
+"69","62","    General economic and labor affairs","G160531",0.6,0.8,1,1.2,1.4,1.3,1.7,2.4,3.1,3.7,3.8
+"70","63","    Agriculture","G160541",4.4,2.5,2.5,3.5,2.7,3.3,3.3,3.1,3.4,5.2,6.5
+"71","64","    Energy","G160551",0.4,0.4,0.5,0.4,0.2,0.3,0.3,0.3,0.6,0.5,0.6
+"72","65","    Natural resources","G160561",0.3,0.2,0.2,0.1,0,0,0.1,0.2,0.7,0.4,0.7
+"73","66","    Postal service","G160621",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","67","Housing and community services","G160651",0.2,0.3,0.4,0.5,0.7,1,0.8,0.9,1.1,1.1,1.3
+"75","68","Health","G160661",2.4,2.5,2.9,2.9,3.1,3.2,3.2,5.9,10.7,11.2,12.9
+"76","69","Recreation and culture","G160671",0.1,0.1,0.1,0.1,0.2,0.1,0.2,0.2,0.2,0.3,0.4
+"77","70","Education","G160681",1,0.9,0.8,0.9,0.9,1,1.3,3.4,4,4.3,4.7
+"78","71","  Elementary and secondary","G160691",0.4,0.3,0.3,0.3,0.3,0.3,0.3,1.8,1.8,1.9,1.9
+"79","72","  Higher","G160701",0,0.2,0.2,0.3,0.3,0.3,0.5,0.7,1.1,0.9,0.9
+"80","73","  Other","G160711",0.6,0.4,0.3,0.3,0.3,0.3,0.4,0.9,1.2,1.4,1.9
+"81","74","Income security","G160721",20.1,21.7,25.3,26.3,27.6,28.4,31,32.3,35.1,39.7,43.3
+"82","75","  Disability","G160731",4,4.2,4.8,4.9,5.3,5.5,6,6.1,6.7,7.3,8
+"83","76","  Retirement \5\","G160741",10.5,11.6,12.8,14.4,15.2,16,17.8,19.3,20.7,24.1,25.8
+"84","77","  Welfare and social services","G160751",2.3,2.2,2.6,3,3.2,3.4,3.9,3.6,4.2,5.1,6
+"85","78","  Unemployment","G160761",3.1,3.3,4.7,3.5,3.4,3.1,2.7,2.4,2.8,2.8,2.9
+"86","79","  Other","G160771",0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.8,0.7,0.4,0.5
+"87","80","      State and local","W024RC1",38.2,41.6,45.5,48.2,51.8,56.3,61.7,68.9,76.9,88.2,100.2
+"88","81","General public service","G160791",5.6,6.2,6.9,7.2,7.6,8.3,9.1,10.1,11,12.9,14.9
+"89","82","  Executive and legislative","G160801",0.6,0.7,0.8,0.7,0.7,0.8,0.8,0.9,1,1.2,1.4
+"90","83","  Tax collection and financial management","G160811",1.2,1.3,1.4,1.5,1.5,1.6,1.6,1.8,2.1,2.3,3.1
+"91","84","  Interest payments","G160821",2.7,3,3.3,3.5,3.8,4.1,4.5,4.9,5.2,6,6.6
+"92","85","  Other \7\","G160831",1.1,1.2,1.5,1.6,1.6,1.9,2.2,2.5,2.8,3.4,3.9
+"93","86","Public order and safety","G160841",4.1,4.5,4.8,5,5.3,5.7,6.2,6.8,7.5,8.8,9.8
+"94","87","  Police","G160851",1.9,2.1,2.2,2.4,2.5,2.7,3,3.2,3.6,4.4,4.8
+"95","88","  Fire","G160861",1,1.1,1.2,1.2,1.3,1.4,1.5,1.6,1.7,1.9,2.2
+"96","89","  Law courts","G160871",0.6,0.6,0.7,0.7,0.7,0.8,0.9,1,1.1,1.3,1.4
+"97","90","  Prisons","G160881",0.6,0.6,0.7,0.7,0.8,0.8,0.9,1,1.1,1.2,1.4
+"98","91","Economic affairs","G160891",5.9,6.2,6.6,7,7.4,7.9,8.5,9.3,10.1,10.9,12
+"99","92","  Transportation","G160941",4.6,4.8,5.1,5.3,5.7,6,6.4,7,7.5,8.2,9
+"100","93","    Highways","G160951",4.6,4.8,5.1,5.3,5.7,6,6.4,6.9,7.5,8.1,9
+"101","94","    Transit and railroad","G160981",NA,NA,NA,NA,0,0,0,0,0,0,0
+"102","95","  Other economic affairs","W693RC1",1.3,1.4,1.6,1.6,1.7,1.9,2.1,2.4,2.6,2.7,3
+"103","96","    General economic and labor affairs","G160901",0.6,0.7,0.8,0.8,0.9,0.9,1.1,1.2,1.3,1.3,1.5
+"104","97","    Agriculture","G160911",0.3,0.3,0.4,0.4,0.4,0.4,0.5,0.6,0.6,0.6,0.6
+"105","98","    Energy","G160921",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","99","    Natural resources","G160931",0.4,0.4,0.5,0.4,0.5,0.5,0.6,0.6,0.6,0.8,0.9
+"107","100","    Other \4\","G160991",0,0,0,0,0,0,0,0,0,0,0
+"108","101","Housing and community services \8\","G161001",0.6,0.6,0.6,0.6,0.6,0.7,0.7,0.8,0.8,1,1
+"109","102","Health (net)","G161051",3.1,3.3,3.8,4.1,4.4,4.8,5.3,6,7.1,8.9,10.2
+"110","103","  Gross expenditures","Y652RC1",4,4.3,4.8,5.3,5.8,6.4,7.1,8.2,9.7,12.1,13.7
+"111","104","  Less: Sales to other sectors","Y653RC1",1,1,1.1,1.3,1.4,1.5,1.8,2.1,2.6,3.2,3.6
+"112","105","Recreation and culture","G161061",0.6,0.7,0.7,0.7,0.8,0.8,0.9,1,1.1,1.3,1.4
+"113","106","Education","G161071",14,15.7,17.2,18.5,20.3,22.4,24.8,28.2,31.5,35.6,40.6
+"114","107","  Elementary and secondary","G161081",12,13.4,14.7,15.8,17.3,19,21.1,23.7,26,28.8,32.5
+"115","108","  Higher","G161091",1.5,1.7,1.9,1.9,2.1,2.3,2.6,3.1,3.8,4.7,5.6
+"116","109","  Libraries and other","W694RC1",0.6,0.6,0.7,0.8,0.9,1,1.2,1.5,1.8,2.1,2.5
+"117","110","    Libraries","G161101",0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.6
+"118","111","    Other","G161111",0.3,0.4,0.4,0.4,0.5,0.6,0.7,1,1.3,1.6,1.9
+"119","112","Income security","G161121",4.4,4.5,4.8,5,5.3,5.7,6.1,6.7,7.7,8.8,10.4
+"120","113","  Disability","G161131",0.4,0.5,0.5,0.6,0.7,0.7,0.7,0.8,0.8,0.9,1
+"121","114","  Welfare and social services","G161141",3.9,4.1,4.3,4.4,4.7,5,5.4,5.9,6.9,8,9.4
+"122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","1. Equals federal government current expenditures less grants-in-aid to state and local governments",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","plus state and local government current expenditures. Federal grants-in-aid to state and local",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","governments by function are shown in table 3.17.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","2. Prior to 1960, federal interest receipts are not available separately but are included in interest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","payments, which is shown net of federal interest receipts.  Interest payments includes interest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","accrued on the actuarial liabilities of defined benefit pension plans for government employees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","3. Equals unallocable state and local government expenditures; includes federal government revenue sharing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","grants to state and local governments beginning with 1972 and ending with 1987.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","4. Consists of state and local government publicly owned liquor store systems, government-administered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","lotteries and parimutuels, and other commercial activities.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","5. Consists of social insurance funds, including old age, survivors, and disability insurance (social",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","security), and railroad retirement.  Excludes government employee retirement plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","6. Consists primarily of federal government revenue sharing grants to state and local governments beginning",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","with 1972 and ending with 1987.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","7. Equals unallocable state and local government expenditures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","8. Consists of current expenditures for sanitation.  Beginning with 2007, includes housing subsidies",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","related to Hurricanes Katrina and Rita.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

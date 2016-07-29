@@ -1,0 +1,16 @@
+"","Table 1#4#4# Price Indexes for Gross Domestic Product, Gross Dom","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Index numbers, 2005=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:47:37 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","Gross domestic product","B191RG3",81.533,83.083,84.554,85.507,86.766,88.648,90.654,92.113,94.099,96.769,100,103.263,106.221,108.481
+"9","2","Less: Exports of goods and services","B020RG3",95.997,94.727,93.103,90.972,90.408,91.999,91.627,91.253,93.216,96.517,100,103.447,107.103,112.389
+"10","3","Plus: Imports of goods and services","B021RG3",95.557,93.891,90.627,85.748,86.25,89.963,87.762,86.784,89.796,94.144,100,104.144,108.017,119.559
+"11","4","Equals: Gross domestic purchases","B712RG3",81.674,83.15,84.397,84.962,86.304,88.463,90.123,91.422,93.55,96.4,100,103.38,106.408,109.765
+"12","5","Less: Change in private inventories","ZZZZZZ3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","6","Equals: Final sales to domestic purchasers","B713RG3",81.524,83.023,84.294,84.896,86.257,88.436,90.098,91.396,93.537,96.389,100,103.384,106.412,109.792
+"14",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","7","  Final sales of domestic product","B190RG3",81.379,82.953,84.449,85.443,86.72,88.623,90.631,92.089,94.089,96.759,100,103.266,106.226,108.507

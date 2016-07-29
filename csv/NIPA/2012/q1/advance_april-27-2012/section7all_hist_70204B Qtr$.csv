@@ -1,0 +1,61 @@
+"","Table 7#2#4B# Price Indexes for Motor Vehicle Output            ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Index numbers, 2005=100]; Seasonally adjusted                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1967 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published December 22, 2011 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 12/21/2011 10:26:53 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1967,1967,1967,1967,1968,1968,1968,1968,1969,1969,1969
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3
+"9","1","      Motor vehicle output","A953RG3",32.812,33.044,33.651,34.194,34.047,34.274,34.638,34.899,34.848,35.028,35.375
+"10","2","        Auto output","A133RG3",36.771,37.057,37.866,38.472,38.218,38.546,38.941,39.238,39.159,39.365,39.689
+"11","3","        Truck output","A716RG3",25.886,26.017,26.134,26.569,26.711,26.67,26.993,27.188,27.213,27.351,27.788
+"12","4","Final sales of domestic product","AB60RG3",33.043,33.272,33.892,34.451,34.302,34.529,34.885,35.142,35.101,35.28,35.627
+"13","5","  Personal consumption expenditures","AB61RG3",29.617,29.878,30.533,31.023,30.966,31.147,31.405,31.662,31.649,31.811,31.88
+"14","6","    New motor vehicles","AB67RG3",35.25,35.439,35.966,36.479,36.47,36.637,36.879,37.196,37.036,37.247,37.469
+"15","7","      Autos","A136RG3",36.842,37.045,37.598,38.134,38.112,38.294,38.55,38.881,38.707,38.933,39.17
+"16","8","      Light trucks (including utility vehicles)","B704RG3",32.652,32.715,33.173,33.631,33.82,33.862,34.028,34.348,34.275,34.413,34.57
+"17","9","    Net purchases of used autos and used light trucks","W240RG3",15.008,15.4,16.275,16.671,16.515,16.732,17.025,17.124,17.467,17.503,17.198
+"18","10","      Used autos","A137RG3",13.987,14.372,15.219,15.596,15.438,15.648,15.928,16.019,16.354,16.385,16.087
+"19","11","      Used light trucks (including utility vehicles)","W241RG3",24.707,24.757,25.103,25.438,25.571,25.6,25.735,25.973,25.893,26.05,26.166
+"20","12","  Private fixed investment","AB62RG3",30.229,30.311,30.51,30.958,30.922,31.183,31.408,31.795,31.654,31.854,32.435
+"21","13","    New motor vehicles","AB68RG3",30.018,30.173,30.523,30.949,31.017,31.138,31.345,31.567,31.553,31.764,32.054
+"22","14","      Autos","B139RG3",36.843,37.049,37.613,38.14,38.114,38.294,38.541,38.883,38.715,38.933,39.164
+"23","15","      Trucks","B705RG3",23.65,23.761,23.918,24.25,24.399,24.465,24.636,24.75,24.866,25.066,25.397
+"24","16","        Light trucks (including utility vehicles)","B196RG3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","17","        Other","B197RG3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","18","    Net purchases of used autos and used light trucks","W242RG3",25.888,26.326,27.239,27.558,28.116,27.586,27.702,27.096,27.689,27.92,26.795
+"27","19","      Used autos","B140RG3",25.548,25.989,26.899,27.214,27.768,27.238,27.351,26.743,27.335,27.566,26.441
+"28","20","      Used light trucks (including utility vehicles)","W243RG3",28.494,28.555,28.959,29.362,29.529,29.572,29.716,30.003,29.946,30.059,30.188
+"29","21","  Gross government investment","AB64RG3",23.628,23.772,23.914,24.236,24.39,24.556,24.768,25.022,25.164,25.372,25.801
+"30","22","    Autos","B144RG3",24.929,25.166,25.285,25.613,25.793,26.167,26.473,26.998,27.194,27.418,28.022
+"31","23","    Trucks","B708RG3",23.419,23.528,23.683,24.012,24.16,24.226,24.395,24.507,24.62,24.823,25.159
+"32","24","  Net exports","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","25","    Exports","AB69RG3",18.34,18.424,18.272,18.946,18.976,18.484,18.618,19.01,19.122,19.017,20.003
+"34","26","      Autos","B142RG3",16.889,16.978,16.977,17.152,17.154,17.241,16.892,17.242,17.503,17.678,18.29
+"35","27","      Trucks","B706RG3",21.497,21.578,21.082,23.108,23.273,20.986,22.467,22.997,22.722,21.973,23.772
+"36","28","    Imports","AB70RG3",14.173,14.3,13.995,14.177,14.822,14.681,14.382,14.944,14.952,15.061,15.011
+"37","29","      Autos","B143RG3",13.179,13.349,13.009,13.179,13.86,13.689,13.349,13.944,13.944,14.029,13.944
+"38","30","      Trucks","B707RG3",21.503,21.275,21.275,21.585,21.827,21.982,22.129,22.211,22.206,22.443,22.671
+"39","31","Change in private inventories","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","32","  Autos","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","33","    New","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","34","      Domestic","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","35","      Foreign","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","36","    Used","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","37","  Trucks","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","38","    New","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","39","      Domestic","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","40","      Foreign","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","41","    Used \1\","ZZZZZZ2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","42","  Final sales of motor vehicles to domestic purchasers","AB75RG3",29.71,29.921,30.441,30.916,30.872,31.074,31.323,31.616,31.572,31.747,31.974
+"52","43","  Private fixed investment in new autos and new light trucks","AB76RG3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","44","  Domestic output of new autos \2\","B148RG3",34.664,34.858,35.362,35.861,35.845,36.007,36.215,36.54,36.397,36.614,36.867
+"54","45","  Sales of imported new autos \3\","B149RG3",36.905,37.101,37.651,38.178,38.146,38.321,38.576,38.899,38.724,38.955,39.212
+"55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","1. Consists of used light trucks only.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","2. Consists of final sales and change in private inventories of new autos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","assembled in the United States.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","3. Consists of sales of imported new autos in personal consumption expenditures,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","in private fixed investment, and in gross government investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

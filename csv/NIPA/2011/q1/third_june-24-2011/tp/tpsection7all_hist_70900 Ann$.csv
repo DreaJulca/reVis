@@ -1,0 +1,38 @@
+"","Table 7#9# Rental Income of Persons by Legal Form of Organizatio","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27"
+"1","[Millions of dollars]                                                           ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1946 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2010   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/23/2011 9:38:36 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1946","1947","1948","1949","1950","1951","1952","1953","1954","1955","1956","1957","1958","1959","1960","1961","1962","1963","1964","1965","1966","1967","1968","1969"
+"19","1","      Rental income of persons with capital consumption adjustment","A048RC1","7,092.0","7,177.0","7,797.0","8,089.0","9,073.0","10,039.0","11,152.0","12,357.0","13,382.0","13,776.0","14,068.0","14,472.0","15,236.0","16,018.0","16,960.0","17,730.0","18,605.0","19,332.0","19,433.0","19,949.0","20,522.0","20,906.0","20,626.0","20,896.0"
+"20","2","Other private business","W155RC1","4,073.0","4,204.0","4,557.0","4,448.0","4,809.0","5,115.0","5,233.0","5,324.0","5,422.0","5,379.0","5,450.0","5,410.0","5,634.0","5,485.0","5,487.0","5,553.0","5,602.0","5,848.0","5,826.0","6,021.0","6,076.0","5,994.0","6,082.0","6,023.0"
+"21","3","  Tenant-occupied housing","W285RC1","1,609.0","1,673.0","1,900.0","2,109.0","2,277.0","2,327.0","2,451.0","2,707.0","2,851.0","2,877.0","2,932.0","3,069.0","3,304.0","3,466.0","3,459.0","3,420.0","3,405.0","3,430.0","3,374.0","3,374.0","3,238.0","3,314.0","3,175.0","3,062.0"
+"22","4","    Nonfarm tenant-occupied permanent site housing","B1436C1","1,546.0","1,606.0","1,833.0","2,052.0","2,219.0","2,262.0","2,381.0","2,637.0","2,786.0","2,811.0","2,869.0","3,004.0","3,238.0","3,392.0","3,383.0","3,341.0","3,325.0","3,346.0","3,289.0","3,288.0","3,150.0","3,227.0","3,089.0","2,972.0"
+"23","5","    Farm tenant-occupied housing owned by farm operator landlords","W156RC1","64.0","67.0","67.0","57.0","58.0","65.0","70.0","71.0","65.0","66.0","63.0","65.0","66.0","74.0","76.0","79.0","80.0","84.0","86.0","85.0","88.0","87.0","86.0","90.0"
+"24","6","  Farms owned by nonoperator landlords \1\","B1437C1","1,342.0","1,384.0","1,299.0","1,049.0","1,167.0","1,313.0","1,346.0","1,120.0","1,098.0","1,001.0","1,050.0","975.0","1,100.0","997.0","1,017.0","1,191.0","1,267.0","1,368.0","1,360.0","1,513.0","1,580.0","1,430.0","1,519.0","1,566.0"
+"25","7","  Nonfarm nonresidential properties \2\","B1438C1","739.0","705.0","719.0","715.0","749.0","762.0","701.0","683.0","634.0","601.0","508.0","370.0","233.0","35.0","35.0","45.0","50.0","69.0","75.0","90.0","94.0","117.0","192.0","226.0"
+"26","8","  Royalties","B1439C1","382.0","442.0","639.0","575.0","616.0","714.0","735.0","814.0","838.0","900.0","960.0","996.0","997.0","986.0","976.0","897.0","879.0","981.0","1,016.0","1,045.0","1,164.0","1,132.0","1,196.0","1,169.0"
+"27","9","Households and nonprofit institutions","W157RC1","3,019.0","2,973.0","3,240.0","3,641.0","4,265.0","4,924.0","5,919.0","7,033.0","7,960.0","8,397.0","8,618.0","9,062.0","9,602.0","10,533.0","11,473.0","12,177.0","13,003.0","13,485.0","13,607.0","13,928.0","14,445.0","14,912.0","14,544.0","14,873.0"
+"28","10","  Nonfarm owner-occupied housing","A2217C1","2,421.0","2,334.0","2,596.0","3,082.0","3,690.0","4,275.0","5,212.0","6,312.0","7,285.0","7,712.0","7,955.0","8,370.0","8,889.0","9,715.0","10,625.0","11,272.0","12,069.0","12,482.0","12,557.0","12,874.0","13,342.0","13,796.0","13,419.0","13,670.0"
+"29","11","    Permanent site","B1434C1","2,417.0","2,327.0","2,585.0","3,069.0","3,672.0","4,251.0","5,182.0","6,274.0","7,240.0","7,658.0","7,898.0","8,312.0","8,833.0","9,642.0","10,547.0","11,179.0","11,987.0","12,373.0","12,419.0","12,696.0","13,117.0","13,532.0","13,125.0","13,372.0"
+"30","12","    Manufactured homes","B1435C1","4.0","7.0","11.0","13.0","18.0","24.0","30.0","38.0","45.0","53.0","57.0","58.0","56.0","72.0","78.0","93.0","82.0","110.0","138.0","179.0","225.0","263.0","294.0","298.0"
+"31","13","  Farm owner-occupied housing owned by farm operators","W158RC1","598.0","640.0","644.0","560.0","575.0","649.0","707.0","720.0","675.0","685.0","663.0","692.0","714.0","818.0","847.0","905.0","934.0","1,002.0","1,050.0","1,053.0","1,104.0","1,117.0","1,125.0","1,203.0"
+"32","14","  Tenant-occupied housing owned by nonprofit institutions","W159RC1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"33",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","15","  Rental income with capital consumption adjustment (1-8)","A2215C1","6,710.0","6,735.0","7,158.0","7,514.0","8,457.0","9,325.0","10,417.0","11,543.0","12,544.0","12,876.0","13,108.0","13,476.0","14,239.0","15,032.0","15,984.0","16,833.0","17,726.0","18,351.0","18,417.0","18,904.0","19,358.0","19,774.0","19,430.0","19,727.0"
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","1. Includes housing, service structures, and land.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","2. Includes rental income of private noninsured pension plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

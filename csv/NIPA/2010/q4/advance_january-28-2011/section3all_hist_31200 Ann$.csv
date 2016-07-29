@@ -1,0 +1,71 @@
+"","Table 3#12# Government Social Benefits                          ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32","F33","F34","F35","F36","F37","F38","F39","F40","F41","F42","F43","F44"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2010   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/27/2011 11:58:29 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","      Government social benefits","W063RC1",0.8,0.9,1.9,1.3,1.3,1.3,1.6,2.7,1.6,2.1,2.2,2.4,2.3,2.3,2.1,2.7,5.1,10.1,10.4,9.9,10.9,13.4,10.5,11,11.7,13.7,14.8,15.6,18.1,22.2,22.9,24.7,28.4,29.1,30.7,31.7,34.4,38,46.3,53.9,59.6
+"9","2","To persons","A063RC1",0.8,0.9,1.9,1.3,1.3,1.3,1.6,2.7,1.6,2.1,2.2,2.4,2.3,2.3,2.1,2.7,5.1,10.1,10.4,9.9,10.9,13.4,10.5,11,11.7,13.7,14.8,15.6,18.1,22.2,22.9,24.4,28.1,28.8,30.3,31.3,33.9,37.5,45.8,53.3,59
+"10","3","  Federal","B087RC1",0.6,0.7,1.7,0.9,0.6,0.5,0.5,2,0.7,1.1,1.1,1.3,1.2,1.3,1.1,1.7,4.1,8.7,8.4,7.2,8.2,10.2,7.9,8.1,8.7,10.7,11.5,12.3,14.5,18.2,18.6,19.9,23.1,23.5,24.6,25.2,27.3,29.9,36.5,41.9,45.8
+"11","4","    Benefits from social insurance funds","A1588C1",0,0,0,0,0,0,0,0,0.1,0.5,0.6,0.8,0.6,0.7,0.4,0.5,1.2,3.5,2.6,2.4,3.6,5.9,4.1,4.5,5.3,7.2,7.7,8.5,10.7,14.2,14.6,15.9,19,19.3,20.3,20.6,22.3,24.7,30.3,35.1,38
+"12","5","      Old-age, survivors, and disability insurance","TRP0251",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0.1,0.1,0.2,0.2,0.3,0.4,0.5,0.6,0.7,1,1.9,2.2,3,3.6,4.9,5.7,7.3,8.5,10.2,11.1,12.6,14.3,15.2,16,18.1,19.8,21.1,24.6,26.4
+"13","6","      Hospital and supplementary medical insurance","TRP0501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4.7,5.9,6.7
+"14","7","      Unemployment insurance","A1589C1",NA,NA,NA,NA,NA,NA,NA,NA,0,0.4,0.4,0.5,0.4,0.4,0.1,0.1,0.6,2.6,1.6,1.3,2.2,1.5,0.9,1.1,1.1,2.3,1.6,1.6,1.9,4.2,2.9,3.1,4.4,3.2,3.1,2.8,2.4,1.9,2.2,2.2,2.3
+"15","8","        State","L311071",NA,NA,NA,NA,NA,NA,NA,NA,0,0.4,0.4,0.5,0.3,0.3,0.1,0.1,0.4,1.1,0.8,0.8,1.7,1.4,0.8,1,1,2,1.3,1.4,1.7,3.8,2.4,2.7,4,2.9,2.8,2.5,2.1,1.8,2.1,2,2.1
+"16","9","        Railroad employees","TRP2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0,0.1,0.1,0.2,0.1,0.1,0.1,0.3,0.3,0.2,0.3,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"17","10","        Federal employees","TRP1501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,1.5,0.8,0.4,0.4,0,0,0,0,0.1,0.1,0.1,0.1,0.2,0.2,0.1,0.2,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1
+"18","11","        Special unemployment benefits","B1590C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","12","      Railroad retirement","TRP2501",NA,NA,NA,NA,NA,NA,NA,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.3,0.3,0.3,0.3,0.4,0.5,0.5,0.6,0.6,0.7,0.7,0.8,0.9,1,1,1.1,1.1,1.1,1.2,1.3,1.5,1.5
+"20","13","      Pension benefit guaranty","B1044C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","14","      Veterans life insurance","TRP3501",0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.3,0.4,0.4,0.4,3.1,1,0.8,0.7,0.7,0.6,0.6,0.6,0.7,0.7,0.7,0.9,0.7,0.8,0.6,0.6,0.7,0.8,0.7,0.7
+"22","15","      Workers' compensation","TRP3751",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"23","16","      Military medical insurance \1\","B1606C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.2
+"24","17","    Veterans benefits","A1594C1",0.5,0.5,1.5,0.7,0.5,0.4,0.4,1.8,0.5,0.5,0.4,0.5,0.4,0.4,0.4,0.8,2.6,5,5.5,4.4,4.2,4,3.5,3.3,3.2,3.3,3.7,3.7,3.8,3.8,3.8,3.7,3.8,3.8,3.9,4,4.2,4.1,4.8,5.1,5.8
+"25","18","      Pension and disability","TRP4501",0.4,0.4,0.5,0.5,0.4,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.6,0.9,1.6,2,2.1,2.1,2.2,2.1,2.2,2.4,2.5,2.7,2.8,2.9,3.1,3.3,3.4,3.6,3.7,3.9,4,4.2,4,4.4,4.6,5.1
+"26","19","      Readjustment","TRP5001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1.3,1.8,1.9,1.9,1.7,1.2,0.6,0.5,0.5,0.6,0.7,0.7,0.6,0.5,0.3,0.2,0.1,0.1,0,0,0.1,0.3,0.5,0.7
+"27","20","      Other \2\","TRP5701",0.1,0.1,1,0.2,0.1,0,0,1.4,0.1,0.1,0,0,0,0,0,0.2,1.6,2.1,1.6,0.4,0.2,0.1,0.2,0.5,0.4,0.3,0.3,0.2,0.1,0.1,0,0,0,0,0,0,NA,NA,NA,NA,NA
+"28","21","    Supplemental Nutrition Assistance Program (SNAP) \3\","TRP6001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.2,0.3
+"29","22","    Black lung benefits","TRP6501",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","23","    Supplemental security income","TRP7001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","24","    Direct relief","TRP7301",NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","25","    Earned income credit","TRP7601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","26","    Other \4\","TRP7801",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0.1,0.2,0.3,0.2,0.1,0.3,0.3,0.3,0.4,0.3,0.2,0.2,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.3,0.4,0.4,0.6,0.7,1,1.3,1.4,1.7
+"34","27","  State and local","B109RC1",0.1,0.2,0.3,0.4,0.6,0.8,1,0.7,0.9,1.1,1.1,1.1,1.1,1,1,1,1.1,1.5,2,2.7,2.7,3.2,2.6,2.9,3,3.1,3.3,3.3,3.6,4,4.3,4.6,5,5.3,5.7,6.2,6.7,7.6,9.2,11.4,13.2
+"35","28","    Benefits from social insurance funds","A1595C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.6,0.6,0.7,0.7,0.8,0.8,0.9
+"36","29","      Temporary disability insurance","S122001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.4
+"37","30","      Workers' compensation","S123001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.5,0.5,0.5
+"38","31","    Public assistance","A1596C1",0.1,0.2,0.2,0.4,0.6,0.8,1,0.7,0.9,1,1.1,1.1,1.1,1,1,1,1.1,1.2,1.6,1.8,2.3,2.4,2.4,2.5,2.6,2.7,2.8,2.9,3.1,3.5,3.8,3.9,4.2,4.6,4.9,5.3,5.7,6.6,8,10,11.6
+"39","32","      Medical care","B1597C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.2,0.2,0.2,0.2,0.3,0.5,0.5,0.7,0.9,1.1,1.3,1.5,2,2.8,4.1,4.6
+"40","33","        Medicaid","TRP8001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,0.4,0.6,0.8,1,1.1,1.4,1.9,2.7,4,4.6
+"41","34","        Other medical care \5\","TRP8101",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"42","35","      Family assistance \6\","B1598C1",NA,NA,NA,NA,0.1,0.1,0.1,0.2,0.4,0.5,0.6,0.6,0.7,0.8,0.8,0.9,0.9,1.1,0.3,0.4,0.5,0.6,0.6,0.5,0.5,0.6,0.6,0.6,0.7,0.8,0.9,1,1.1,1.3,1.4,1.5,1.7,1.9,2.3,2.8,3.5
+"43","36","      Supplemental security income \7\","B1599C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1.2,1.4,1.5,1.5,1.6,1.7,1.7,1.7,1.7,1.8,1.9,1.9,1.9,1.9,1.9,2,2.1,2.1,2.2,2.4,2.4,2.6
+"44","37","      General assistance","B1600C1",NA,NA,NA,NA,0.5,0.7,0.8,0.4,0.4,0.5,0.5,0.4,0.3,0.2,0.1,0.1,0.1,0.1,0.2,0.2,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.5
+"45","38","      Energy assistance","B1601C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","39","      Other \8\","B1602C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3
+"47","40","    Education","B1603C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.3,0.4,0.5,0.6
+"48","41","    Employment and training","B1604C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","42","    Other \9\","B1605C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.4,0.8,0.3,0.6,0.1,0.2,0.1,0,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0.1,0.1,0.1
+"50","43","To the rest of the world \10\","W016RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.3,0.3,0.3,0.3,0.5,0.5,0.6,0.6,0.6
+"51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","1. Consists of payments for medical services for dependents of active duty military personnel",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","at nonmilitary facilities.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","2. Consists of mustering out pay, terminal leave pay, and adjusted compensation benefits.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","3. Prior to October 2008, benefits for the Supplemental Nutrition Assistance Program were",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","called Food Stamp benefits.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","4. Consists largely of payments to nonprofit institutions, aid to students, and payments for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","medical services for retired military personnel and their dependents at nonmilitary facilities.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","5. Consists of general medical assistance and state child health care programs.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","6. Consists of aid to families with dependent children and, beginning with 1996, assistance",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","programs operating under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","7. Prior to 1974, consists of old-age assistance, aid to the blind, and aid to the permanently and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","totally disabled, when the programs were partly federally funded.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","8. Consists of expenditures for food under the supplemental program for women, infants,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","and children; foster care; adoption assistance; and payments to nonprofit welfare institutions.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","9. Consists largely of veterans benefits, Alaska dividends, and crime-victim payments.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","10. Consists of federal government social benefits to the rest of the world and includes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","benefits paid to individuals in the U.S. territories and the Commonwealths of Puerto Rico and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Northern Mariana Islands.  Prior to 1960, government social benefits to the rest of the world",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","are included in other current transfer payments to the rest of the world (net) in table 3.1.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

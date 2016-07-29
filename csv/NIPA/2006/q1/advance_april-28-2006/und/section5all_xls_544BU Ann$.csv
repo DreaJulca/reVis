@@ -1,0 +1,66 @@
+"","Table 5#4#4BU# Price Indexes for Private Fixed Investment in Str","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+"1","[Index numbers, 2000=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published May 01, 2006      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/28/2006 4:27:41 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005
+"8","1","    Private fixed investment in structures","B349RG3",89.518,92.654,95.932,100,104.995,108.41,113.204,120.461,128.163
+"9","2","Nonresidential","B009RG3",89.381,93.474,96.257,100,105.403,110.03,113.889,120.124,132.228
+"10","3","  Commercial and health care","W001RG3",87.945,92.046,96.052,100,103.567,106.346,109.357,116.112,123.788
+"11","4","    Office\1\","W031RG3",86.964,91.408,95.927,100,103.018,105.48,108.539,115.275,122.968
+"12","5","    Health care","W032RG3",88.574,91.828,95.736,100,104.456,106.387,109.625,115.797,123.314
+"13","6","      Hospitals and special care","C311RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.314
+"14","7","        Hospitals","W033RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.285
+"15","8","        Special care","W034RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.439
+"16","9","      Medical buildings","W035RG3",88.471,91.828,95.736,100,104.456,106.387,109.625,115.797,123.256
+"17","10","    Multimerchandise shopping","W036RG3",88.584,92.751,96.298,100,103.811,107.273,110.141,117.243,124.93
+"18","11","    Food and beverage establishments","W037RG3",88.563,92.751,96.298,100,103.811,107.273,110.141,117.243,125.327
+"19","12","    Warehouses","W038RG3",88.586,92.751,96.298,100,103.811,107.273,110.141,117.243,125
+"20","13","    Other commercial\2\","W039RG3",88.69,92.799,96.33,100,103.776,107.206,110.058,117.198,125.053
+"21","14","  Manufacturing","B307RG3",89.04,92.681,96.396,100,103.502,106.635,108.466,113.535,121.44
+"22","15","  Power and communication","W003RG3",95.511,96.574,96.926,100,102.893,105.224,107.739,111.944,118.317
+"23","16","    Power","W028RG3",92.814,94.573,96.081,100,102.827,105.599,108.022,111.534,119.058
+"24","17","      Electric","B571RG3",93.292,95.17,96.176,100,103.08,106.057,108.152,110.073,117.76
+"25","18","      Other power","W029RG3",91.879,93.431,95.815,100,101.882,103.961,107.333,114.886,122.876
+"26","19","    Communication","B314RG3",99.4,99.36,98.041,100,102.992,104.616,107.318,113.065,117.286
+"27","20","  Mining exploration, shafts, and wells","B318RG3",88.58,100.57,96.78,100,122.364,145.169,157.945,167.444,207.918
+"28","21","    Petroleum and natural gas","B319RG3",88.514,101.025,96.834,100,123.175,147.167,160.49,170.16,212.411
+"29","22","    Mining","B320RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.374
+"30","23","  Other structures","W004RG3",89.559,92.504,95.978,100,104.23,106.467,109.34,114.805,121.536
+"31","24","    Religious","C309RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.329
+"32","25","    Educational and vocational","W044RG3",88.637,92.282,96.05,100,103.693,106.808,109.249,115.208,122.699
+"33","26","    Lodging","W045RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.075
+"34","27","    Amusement and recreation","W046RG3",89.115,91.828,95.736,100,104.456,106.387,109.625,115.797,123.246
+"35","28","    Transportation","W047RG3",92.691,94.874,96.97,100,104.316,106.661,109.554,113.011,115.497
+"36","29","      Air","W048RG3",89.053,91.828,95.736,100,104.456,106.387,109.625,115.797,123.33
+"37","30","      Land\3\","W049RG3",93.649,95.715,97.388,100,104.255,106.751,109.558,112.475,114.164
+"38","31","    Farm","B316RG3",88.604,91.828,95.736,100,104.456,106.387,109.625,115.797,123.259
+"39","32","    Other\4\","W050RG3",91.962,93.354,95.718,100,103.297,105.771,108.024,110.983,119.184
+"40","33","    Brokers' commissions on sale of structures","B321RG3",96.147,98.307,98.066,100,104.678,105.816,106.321,106.928,107.253
+"41","34","    Net purchases of used structures","ZZZZZZ3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","35","Residential","B012RG3",89.642,92.086,95.708,100,104.709,107.369,112.637,120.357,126.132
+"43","36","  Permanent site","B943RG3",88.614,91.521,95.57,100,104.797,107.753,113.538,122.059,127.848
+"44","37","    Single-family structures","B944RG3",89.091,91.429,95.584,100,105.042,107.945,113.939,122.771,128.604
+"45","38","    Multifamily structures","B292RG3",84.966,92.278,95.448,100,102.789,106.163,110.228,116,120.984
+"46","39","  Other structures","A863RG3",91.151,92.929,95.917,100,104.575,106.786,111.267,117.728,123.515
+"47","40","    Manufactured homes","B945RG3",94.379,95.639,98.212,100,101.74,103.271,105.156,114.635,125.116
+"48","41","    Dormitories","B295RG3",89.091,91.429,95.584,100,105.042,107.945,113.939,122.771,128.673
+"49","42","    Improvements","B946RG3",90.839,92.571,95.906,100,104.014,106.102,110.554,117.965,124.606
+"50","43","    Brokers' commissions on sale of structures","B758RG3",90.819,92.882,95.387,100,106.166,108.715,113.587,118.319,122.588
+"51","44","    Net purchases of used structures","ZZZZZZ3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","45","  Private fixed investment in new structures\5\","W040RG3",89.391,92.61,95.969,100,104.901,108.399,113.198,120.753,128.888
+"54","46","    Nonresidential structures","A771RG3",89.327,93.433,96.242,100,105.41,110.062,113.941,120.218,132.383
+"55","47","    Residential structures","A756RG3",89.467,91.963,95.754,100,104.497,107.175,112.513,120.741,126.81
+"56",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","1. Consists of office buildings, except those constructed at manufacturing sites and those constructed by power utilities for ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","their own use.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Includes all financial buildings.  Medical buildings are included in health care.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","2. Includes buildings and structures used by the retail, wholesale and selected service industries.  Consists of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","auto dealerships, garages, service stations, drug stores, restaurants, mobile structures, and other structures used",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","for commercial purposes.  Bus or truck garages are included in transportation.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","3. Consists primarily of railroads.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","4. Includes water supply, sewage and waste disposal, public safety, highway and street, and conservation and development.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","5. Excludes net purchases of used structures and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

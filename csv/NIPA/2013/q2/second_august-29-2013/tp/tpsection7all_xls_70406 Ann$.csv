@@ -1,0 +1,39 @@
+"","Table 7#4#6# Real Housing Sector Output, Real Gross Value Added,","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Millions of chained (2009) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 07, 2013   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/28/2013 6:46:16 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012"
+"19","1","Housing output \1\","A2007X1","1,276,756.0","1,319,232.0","1,363,483.0","1,368,821.0","1,386,547.0","1,427,300.0","1,492,448.0","1,532,445.0","1,545,962.0","1,569,839.0","1,590,252.0","1,607,405.0","1,635,576.0","1,656,799.0"
+"20","2","  Nonfarm housing","A2008X1","1,258,635.0","1,298,583.0","1,342,809.0","1,348,140.0","1,365,690.0","1,406,450.0","1,471,552.0","1,511,564.0","1,525,110.0","1,549,046.0","1,569,538.0","1,586,772.0","1,615,092.0","1,636,475.0"
+"21","3","    Owner-occupied","DOWNRX1","956,125.0","993,032.0","1,031,359.0","1,038,855.0","1,065,493.0","1,104,749.0","1,164,320.0","1,194,594.0","1,190,394.0","1,205,093.0","1,209,860.0","1,214,643.0","1,219,840.0","1,224,550.0"
+"22","4","    Tenant-occupied","DTENRX1","303,605.0","306,394.0","312,150.0","309,860.0","300,298.0","301,553.0","306,832.0","316,593.0","334,643.0","343,922.0","359,679.0","372,122.0","395,181.0","411,744.0"
+"23","5","  Farm housing","DFARRX1","17,936.0","20,962.0","20,821.0","20,809.0","20,963.0","20,861.0","20,877.0","20,869.0","20,845.0","20,792.0","20,713.0","20,638.0","20,515.0","20,397.0"
+"24","6","Less: Intermediate goods and services consumed","B1027X1","152,503.0","154,880.0","163,304.0","163,855.0","166,631.0","166,525.0","173,795.0","179,708.0","186,143.0","171,668.0","181,239.0","178,509.0","182,122.0","192,341.0"
+"25","7","Equals: Gross housing value added","A2009X1","1,123,536.0","1,163,670.0","1,199,411.0","1,204,195.0","1,219,117.0","1,260,245.0","1,318,128.0","1,352,070.0","1,358,663.0","1,398,481.0","1,409,013.0","1,428,975.0","1,453,519.0","1,464,236.0"
+"26","8","  Nonfarm housing","B499RX1","1,107,552.0","1,145,419.0","1,181,131.0","1,185,908.0","1,200,654.0","1,241,802.0","1,299,641.0","1,333,595.0","1,340,137.0","1,379,969.0","1,390,577.0","1,410,622.0","1,435,304.0","1,446,139.0"
+"27","9","    Owner-occupied","B1300X1","844,639.0","882,321.0","914,594.0","923,327.0","947,592.0","984,913.0","1,035,868.0","1,061,248.0","1,053,415.0","1,083,930.0","1,080,310.0","1,087,908.0","1,090,788.0","1,087,280.0"
+"28","10","    Tenant-occupied","B1301X1","263,664.0","263,603.0","266,942.0","262,872.0","253,076.0","256,804.0","263,594.0","272,190.0","286,737.0","296,057.0","310,267.0","322,701.0","344,441.0","358,675.0"
+"29","11","  Farm housing","B1302X1","15,796.0","18,496.0","18,394.0","18,384.0","18,548.0","18,434.0","18,458.0","18,457.0","18,510.0","18,511.0","18,436.0","18,359.0","18,246.0","18,154.0"
+"30","12","Less: Consumption of fixed capital","B1028X1","281,240.0","292,060.0","302,147.0","313,105.0","326,378.0","342,159.0","359,202.0","374,070.0","383,197.0","385,325.0","382,899.0","379,537.0","376,756.0","375,662.0"
+"31","13","Equals: Net housing value added","B952RX1","844,630.0","874,003.0","899,680.0","893,135.0","894,405.0","919,385.0","960,079.0","978,018.0","974,030.0","1,012,912.0","1,026,114.0","1,049,416.0","1,076,610.0","1,088,301.0"
+"32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","1. Equals personal consumption expenditures for housing excluding expenditures for group housing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","as shown in table 2.5.6.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Note. Chained (2009) dollar series are calculated as the product of the chain-type quantity index",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","and the 2009 current-dollar value of the corresponding series, divided by 100. Because the formula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","for the chain-type quantity indexes uses weights of more than one period, the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","chained-dollar estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,58 @@
+"","Table 5#13B# Real Private Inventories and Real Domestic Final Sa","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32"
+"1","[Billions of chained (1996) dollars]; Seasonally adjusted quarterly totals                                                                ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1996 To 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published May 29, 2003      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/28/2003 2:14:58 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1996,1996,1996,1996,1997,1997,1997,1997,1998,1998,1998,1998,1999,1999,1999,1999,2000,2000,2000,2000,2001,2001,2001,2001,2002,2002,2002,2002,2003
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1
+"9","1","    Private inventories \1\","A371RX",NA,NA,NA,1251.9,1264.2,1286.3,1299.1,1315.6,1343.9,1354.4,1372.3,1392.3,1412.3,1420.1,1432,1455.1,1466.4,1489.3,1505.1,1520.1,1513.3,1498.8,1483.3,1458.7,1451.5,1452.7,1457.4,1463.9,1467.2
+"10","2","Farm","B372RX",NA,NA,NA,103.7,103.5,103.5,105.7,106.9,108.5,107.1,107.3,108.4,110.7,110.9,107.8,106.5,103,103.7,103.2,104,105.4,104.6,105.1,106,107.6,107.8,107.2,107.1,107.4
+"11","3","Construction, mining, and utilities","N238RX",NA,NA,NA,28.9,30,30.9,31.5,31.6,32.9,34.4,35.5,37.1,38,37.8,36.9,36.2,36.7,35.7,35.5,33.6,34.9,37.5,38.9,40,40.4,40.2,39.6,39.3,37.7
+"12","4","Manufacturing","N376RX",NA,NA,NA,422.1,426.3,431.9,434.2,436.8,446.3,453,458.3,464,467.6,467.9,471.5,478.3,482,488.3,491.8,495.8,491.1,480.7,469.7,459.6,451.7,448.1,447.5,448.2,447.1
+"13","5","  Durable goods industries","N377RX",NA,NA,NA,262.3,265.4,269.7,270.9,271.7,278.8,284.3,288.4,292.8,295.4,294.5,296.6,300.5,303.3,308.3,311.2,316.8,313.6,305.8,295.5,286.7,280.3,276.5,273.9,275.3,273.5
+"14","6","  Nondurable goods industries","N378RX",NA,NA,NA,159.8,160.8,162.2,163.3,165.1,167.4,168.6,169.8,171.1,172.1,173.4,174.8,177.7,178.7,180,180.5,179.1,177.6,175,174.1,172.8,171.3,171.5,173.3,172.7,173.4
+"15","7","Wholesale trade","N379RX",NA,NA,NA,287.4,293.1,301.9,305.2,311.3,319.7,322.6,329.8,335.2,340.1,341.6,347,354.2,359.9,365.5,369.6,374.1,372.9,370.6,364.3,357.6,352.6,350.4,352.4,354.2,353.7
+"16","8","  Durable goods industries","N380RX",NA,NA,NA,178.5,182.1,189.6,191.1,194.1,201.5,202.8,208,212.6,216,218.2,221,226.4,229.8,235.2,237,239.2,238.3,231.7,224.8,217.3,213.1,211.2,212.8,213.8,214.5
+"17","9","  Nondurable goods industries","N381RX",NA,NA,NA,108.9,110.9,112.3,114.1,117.2,118.3,119.9,121.8,122.6,124.1,123.3,126,127.8,130.1,130.5,132.7,134.9,134.7,138.4,138.7,139.2,138.4,138.1,138.5,139.3,138.2
+"18","10","Retail trade","N382RX",NA,NA,NA,327.9,326.9,331.9,335.3,339.9,347,347,350.3,354.4,361.1,365.1,370.3,380,381.9,390,394.8,401.6,396.6,392.3,391.5,381.3,384.7,390.2,394.1,397.9,403.8
+"19","11","  Motor vehicle dealers","N864RX",NA,NA,NA,102.2,101.6,102.7,103.9,106.9,108.4,106.5,106.7,109.1,113.6,115.1,118.6,122.7,123.8,128.6,131.4,134.4,129.2,127.9,127.6,118.9,122.4,126.3,127.5,129.4,133.5
+"20","12","  Food and beverage stores","N239RX",NA,NA,NA,27.2,27.2,27.2,27.6,27.4,28,28.5,28.5,28.6,28.9,29.1,29.7,30.2,30.2,29.8,29.9,30,30.3,30.3,30.3,30.5,30,30.1,30.5,30.4,30.5
+"21","13","  General merchandise stores","N240RX",NA,NA,NA,57.9,57.3,58,57.8,58.2,58.5,58.7,59.4,59,59.5,59.6,60.1,61.5,61.5,61.9,61.6,62.6,63.9,63.5,62.9,62.1,61.1,61.1,61.7,63.4,63.7
+"22","14","  Other retail stores","N865RX",NA,NA,NA,140.7,140.9,143.8,145.8,147.1,151.9,153.1,155.3,157.4,158.9,161.1,161.8,165.5,166.4,169.8,171.9,174.7,173.1,170.5,170.6,169.4,171.1,172.8,174.4,174.7,176.3
+"23","15","Other industries","N385RX",NA,NA,NA,81.9,84.4,86,87.1,88.7,89.1,89.9,90.9,92.9,94.5,96.3,97.7,98.6,101.6,104.7,108.7,109.8,111,111.3,111.8,112.4,112.4,113.7,114.3,114.9,115.3
+"24","16","Residual","N968RX",NA,NA,NA,-0.1,0.1,0.4,0.3,0.7,0.6,0.6,0.7,0.7,0.6,0.8,1,1.5,1.3,1.1,1.5,1,1.3,2.3,3,3.4,3.4,3.4,3.7,3.6,3.2
+"25",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","17","  Private inventories","A371RX",NA,NA,NA,1251.9,1264.2,1286.3,1299.1,1315.6,1343.9,1354.4,1372.3,1392.3,1412.3,1420.1,1432,1455.1,1466.4,1489.3,1505.1,1520.1,1513.3,1498.8,1483.3,1458.7,1451.5,1452.7,1457.4,1463.9,1467.2
+"27","18","    Durable goods industries","N241RX",NA,NA,NA,605.5,611.8,625.4,630,637.1,654.5,660.2,670.5,683.6,695.4,698.9,708.2,723.5,732.5,749.1,757.9,769.5,760,743.5,726.4,701.6,696.5,695.4,696.6,702.9,707
+"28","19","    Nondurable goods industries","N242RX",NA,NA,NA,646.2,652.1,660.5,668.6,677.9,688.1,693,700.5,707.4,715.6,719.8,722.4,730.3,732.7,739.2,746.1,749.8,752.2,753.5,754.7,754.5,752.3,754.6,758,758.3,757.8
+"29","20","  Nonfarm industries","A373RX",NA,NA,NA,1148.1,1160.7,1182.8,1193.4,1208.7,1235.4,1247.2,1264.9,1283.7,1301.4,1309,1323.6,1347.8,1362.5,1384.7,1400.8,1415,1406.8,1393.1,1377.2,1351.8,1343.1,1344.1,1349.3,1355.9,1358.9
+"30","21","  Wholesale trade","N379RX",NA,NA,NA,287.4,293.1,301.9,305.2,311.3,319.7,322.6,329.8,335.2,340.1,341.6,347,354.2,359.9,365.5,369.6,374.1,372.9,370.6,364.3,357.6,352.6,350.4,352.4,354.2,353.7
+"31","22","    Merchant wholesale trade","N802RX",NA,NA,NA,245.1,250.3,257.7,261.1,266.9,274.4,277.1,283.7,288,292.1,293.2,297.9,305,309.7,314.9,317.9,321.8,320.4,318.8,314.3,308.5,304.4,302.3,303.5,304.5,304.8
+"32","23","      Durable goods industries","N803RX",NA,NA,NA,153.3,156.6,162.9,164.6,167.5,174,175.4,180.1,183.7,186.4,188.2,190.7,196.1,198.7,203.8,204.7,206.4,205.3,199.4,194.2,187.7,184,182.1,183.1,183.6,184.8
+"33","24","      Nondurable goods industries","N804RX",NA,NA,NA,91.8,93.7,94.8,96.4,99.4,100.4,101.7,103.6,104.3,105.7,105,107.2,108.9,111,111.2,113.2,115.4,115.1,118.9,119.5,119.9,119.4,119.2,119.4,120,119.1
+"34","25","    Nonmerchant wholesale trade","A805RX",NA,NA,NA,42.3,42.7,44.2,44.1,44.4,45.4,45.5,46.1,47.3,48,48.4,49,49.3,50.2,50.7,51.8,52.3,52.5,51.8,50,49.2,48.3,48.2,49,49.6,48.9
+"35","26","    Final sales of domestic business \2\","A809RX",NA,NA,NA,552.8,558.2,564,573.6,576.7,582.9,591.7,595.9,606.7,612,619,626.3,635.2,642.3,647.1,650.4,652.4,657,655.3,654.1,661.4,665.3,664.6,670.6,672,676.2
+"36","27","    Final sales of goods and structures of domestic business \2\","A810RX",NA,NA,NA,304.9,309.3,312.2,320.1,321.2,326.2,331.2,334,343,345,349.7,353.3,359.1,365.4,366.3,368,366.6,371.2,369.1,366.8,371.6,373.3,369.2,373.3,372,376.1
+"37",NA,"Ratios of private inventories to final sales of domestic business:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","28","  Private inventories to final sales","A811RX",NA,NA,NA,2.26,2.26,2.28,2.26,2.28,2.31,2.29,2.3,2.29,2.31,2.29,2.29,2.29,2.28,2.3,2.31,2.33,2.3,2.29,2.27,2.21,2.18,2.19,2.17,2.18,2.17
+"39","29","  Nonfarm inventories to final sales","A812RX",NA,NA,NA,2.08,2.08,2.1,2.08,2.1,2.12,2.11,2.12,2.12,2.13,2.11,2.11,2.12,2.12,2.14,2.15,2.17,2.14,2.13,2.11,2.04,2.02,2.02,2.01,2.02,2.01
+"40","30","  Nonfarm inventories to final sales of goods and structures","A813RX",NA,NA,NA,3.77,3.75,3.79,3.73,3.76,3.79,3.77,3.79,3.74,3.77,3.74,3.75,3.75,3.73,3.78,3.81,3.86,3.79,3.77,3.75,3.64,3.6,3.64,3.61,3.64,3.61
+"41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42"," 1. Inventories are as of the end of the quarter.  The quarter-to-quarter changes calculated from this table are at quarterly ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","rates, whereas the change in private inventories component of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","GDP is stated at annual rates.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45"," 2. Quarterly totals at monthly rates.  Final sales of domestic business equals final sales of domestic product less gross ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","product of households and institutions and of general government, and it includes a",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","small amount of final sales by farm and by government enterprises.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","  Note. Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","  Chained (1996) dollar inventory series are calculated to ensure that the chained",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","(1996) dollar change in inventories for 1996 equals the current-dollar change in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","inventories for 1996 and that the average of the 1995 and 1996 end-of-year chain-weighted",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","and fixed-weighted inventories are equal.  Chained (1996) dollar final sales are calculated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","as the product of the chain-type quantity index and the 1996 current-dollar value of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","corresponding series, divided by 100.  Because the formula for the chain-type quantity indexes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","uses weights of more than one period, the corresponding chained-dollar estimates are usually",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","not additive.  The residual line is the difference between the first line and the sum of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","most detailed lines for inventories.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

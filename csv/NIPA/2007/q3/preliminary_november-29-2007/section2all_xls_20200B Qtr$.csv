@@ -1,0 +1,24 @@
+"","Table 2#2B# Wage and Salary Disbursements by Industry           ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30"
+"1","[Billions of dollars]; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 2001 To 2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published November 29, 2007 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 11/29/2007 9:14:16 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2001,2001,2001,2001,2002,2002,2002,2002,2003,2003,2003,2003,2004,2004,2004,2004,2005,2005,2005,2005,2006,2006,2006,2006,2007,2007,2007
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3
+"9","1","    Wage and salary disbursements","A576RC1",4961.1,4951.4,4935.2,4923.5,4961.2,4989.4,4988.5,4984.5,5021,5085.1,5134.3,5210.4,5260.9,5351.2,5447.8,5518.1,5559.1,5614,5720.4,5777.9,5945.6,5958.4,6015.8,6153,6294.4,6318.9,6393.2
+"10","2","Private industries","A132RC1",4163,4142.2,4113,4089.4,4105.7,4125.7,4119.2,4109.1,4127.2,4180.6,4227.2,4298.2,4329.3,4408.9,4501.5,4565.9,4588.1,4636.8,4736.3,4786.6,4941.1,4944.6,4988.8,5115.7,5242.7,5256.9,5320.1
+"11","3","  Goods-producing industries","N231RC1",1077.9,1055.3,1031.3,1012.8,1015.8,1017.7,1009.5,999.9,999.9,1000.8,1001.7,1029.1,1017.9,1040.4,1065,1073.6,1075.6,1086.2,1113.2,1119.6,1161.3,1155.9,1158.5,1191.4,1208.9,1212.6,1217.7
+"12","4","    Manufacturing","N552RC1",747,719.3,692.9,675.8,676.1,683.1,675.5,667.1,665.9,664.5,662.9,682.2,668.6,681.4,698.4,699.3,698.3,699.8,709.9,708.4,732.9,723.3,724.3,743.3,755.4,754.1,756.1
+"13","5","  Services-producing industries","N233RC1",3085.1,3086.9,3081.8,3076.6,3089.9,3108,3109.8,3109.2,3127.3,3179.8,3225.5,3269,3311.4,3368.5,3436.5,3492.3,3512.5,3550.6,3623,3666.9,3779.9,3788.6,3830.3,3924.4,4033.9,4044.3,4102.4
+"14","6","    Trade, transportation, and utilities","N234RC1",855.5,848.1,840.4,834.6,839.2,845.1,846.1,842,849.5,853.2,859,871.6,877.5,892.4,906.4,918.1,921.2,931.5,944.6,950.9,971.7,980.9,985.8,1002.2,1020,1033.7,1050.2
+"15","7","    Other services-producing industries \1\","N235RC1",2229.6,2238.9,2241.4,2241.9,2250.7,2262.9,2263.7,2267.2,2277.8,2326.6,2366.6,2397.5,2433.9,2476.2,2530,2574.2,2591.4,2619.1,2678.4,2716,2808.1,2807.8,2844.5,2922.2,3013.8,3010.6,3052.2
+"16","8","Government","B202RC1",798,809.1,822.2,834.1,855.4,863.7,869.3,875.4,893.8,904.5,907.1,912.2,931.6,942.3,946.4,952.2,971,977.2,984.1,991.4,1004.4,1013.8,1027,1037.2,1051.7,1061.9,1073.1
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","1. Other services-producing industries consists of information; finance and insurance; real estate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","and rental and leasing; professional, scientific, and technical services; management of companies",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","and enterprises, administrative and support and waste management and remediation services;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","educational services; health care and social assistance; arts, entertainment, and recreation;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","accommodation and food services; and other services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","Note. Estimates in this table are based on the 1997 North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

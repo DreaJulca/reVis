@@ -1,0 +1,42 @@
+"","Table 5#11B# Real Change in Private Inventories by Industry","F2","F3","F4","F5","F6","F7","F8","F9"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2002",NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 27, 2003    ",NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/26/2003 12:00:56 PM",NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,"Line",NA,1997,1998,1999,2000,2001,2002
+"8","    Change in private inventories","1","A014RX",63.8,76.7,62.8,65,-61.4,5.2
+"9","Farm","2","B018RX",3.2,1.6,-2,-2.5,2,1.1
+"10","Construction, mining, and utilities","3","N541RX",2.8,5.5,-1,-2.6,6.4,-0.7
+"11","Manufacturing","4","N150RX",14.8,27.2,14.4,17.5,-36.2,-11.5
+"12","  Durable goods industries","5","N624RX",9.4,21.1,7.7,16.3,-30.1,-11.4
+"13","  Nondurable goods industries","6","N625RX",5.3,6,6.6,1.4,-6.3,-0.1
+"14","Wholesale trade","7","N658RX",23.8,24,19,19.9,-16.5,-3.4
+"15","  Durable goods industries","8","N661RX",15.5,18.5,13.8,12.8,-21.8,-3.6
+"16","  Nondurable goods industries","9","N664RX",8.3,5.4,5.2,7.1,4.3,0
+"17","Retail trade","10","N153RX",12,14.5,25.6,21.6,-20.3,16.6
+"18","  Motor vehicle dealers","11","N631RX",4.8,2.2,13.5,11.7,-15.5,10.5
+"19","  Food and beverage stores","12","N542RX",0.3,1.1,1.6,-0.2,0.5,-0.1
+"20","  General merchandise stores","13","N543RX",0.3,0.8,2.5,1.1,-0.4,1.3
+"21","  Other retail stores","14","N558RX",6.4,10.3,8.1,9.2,-5.2,5.2
+"22","Other industries","15","N154RX",6.8,4.2,5.8,11.2,2.6,2.5
+"23","Residual","16","N969RX",0.7,0,1,-0.5,2.1,0.5
+"24","Addenda:",NA," ",NA,NA,NA,NA,NA,NA
+"25","  Change in private inventories","17","A014RX",63.8,76.7,62.8,65,-61.4,5.2
+"26","    Durable goods industries","18","N355RX",31.6,46.5,39.9,46,-67.9,1.4
+"27","    Nondurable goods industries","19","N357RX",31.6,29.6,22.8,19.5,4.8,3.8
+"28","  Nonfarm industries","20","B015RX",60.6,75,64.1,67.2,-63.2,4.1
+"29","  Wholesale trade","21","N658RX",23.8,24,19,19.9,-16.5,-3.4
+"30","    Merchant wholesale trade","22","N151RX",21.8,21.1,17,16.8,-13.3,-3.9
+"31","      Durable goods industries","23","N626RX",14.2,16.2,12.4,10.3,-18.7,-4.1
+"32","      Nondurable goods industries","24","N627RX",7.6,4.9,4.6,6.5,4.5,0
+"33","    Nonmerchant wholesale trade","25","A152RX",2.1,2.9,2,3.1,-3.2,0.5
+"34",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","  Note.  Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA
+"36","Chained (1996) dollar series for real change in private inventories are calculated as the period-to-period change in ",NA,NA,NA,NA,NA,NA,NA,NA
+"37","chained-dollar end-of-period inventories.",NA,NA,NA,NA,NA,NA,NA,NA
+"38","Quarterly changes in end-of-period inventories are stated at annual rates.",NA,NA,NA,NA,NA,NA,NA,NA
+"39","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA
+"40","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA
+"41","The residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA

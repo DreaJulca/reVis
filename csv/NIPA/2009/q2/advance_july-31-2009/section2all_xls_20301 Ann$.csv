@@ -1,0 +1,47 @@
+"","Table 2#3#1# Percent Change From Preceding Period in Real Person","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Percent]                                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:49:18 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Personal consumption expenditures","DPCERL1",2.7,3.5,3.7,5.2,5.5,5.1,2.7,2.7,2.8,3.5,3.4,2.9,2.6,-0.2
+"9","2","Goods","DGDSRL1",3,4.5,4.8,6.8,8,5.3,3.1,4.1,4.6,4.4,4,3.3,3.1,-2.1
+"10","3","  Durable goods","DDURRL1",3.9,7.5,8.2,12.2,13,8.8,5.4,7.6,6,6.6,5.2,4.1,4.3,-4.5
+"11","4","    Motor vehicles and parts","DMOTRL1",-1.6,4.8,6.8,10.5,9.2,3.2,5.1,5.3,2.9,1.5,-0.4,-3.2,1.4,-13.6
+"12","5","    Furnishings and durable household equipment","DFDHRL1",4.6,4.3,4.7,8.2,11.6,9.6,5.1,7.3,6.3,8.1,5.8,5.3,2,-2.9
+"13","6","    Recreational goods and vehicles","DREQRL1",14.3,15.5,15.6,20.1,21.3,17.4,9.9,12.1,11.3,13.7,12.6,13.1,11.4,5.4
+"14","7","    Other durable goods","DODGRL1",2.3,6.6,5,9.8,11.9,8.9,-2.1,6.6,5.2,5.4,5.7,3.7,0.8,-4.8
+"15","8","  Nondurable goods","DNDGRL1",2.5,2.9,2.9,3.8,5.1,3.2,1.8,2,3.7,3.2,3.4,2.8,2.5,-0.8
+"16","9","    Food and beverages purchased for off-premises consumption","DFXARL1",0.5,1,0.9,1.2,3.9,2.3,1.2,0.2,2.2,2.7,4,3.2,2.1,0
+"17","10","    Clothing and footwear","DCLORL1",4.1,4.8,3.3,6.1,6.6,4.8,0.9,3.1,5.6,4.9,6.1,5.1,4.4,-0.3
+"18","11","    Gasoline and other energy goods","DGOERL1",1.9,1.6,2,3.6,3.1,-1.8,0.7,1.7,2.8,1.4,-0.6,-2.1,0.8,-4.4
+"19","12","    Other nondurable goods","DONGRL1",4.1,4.4,5.5,5.4,6.2,5.1,3.2,3.3,4.5,3.5,3.1,3.7,3,-0.1
+"20","13","Services","DSERRL1",2.5,2.9,3.1,4.4,4.1,5,2.5,1.9,1.9,2.9,3,2.7,2.4,0.7
+"21","14","  Household consumption expenditures (for services)","DHCERL1",2.5,2.8,3.4,4.2,4,4.8,2.3,1.6,1.8,3.1,3.2,2.4,2.3,0.4
+"22","15","    Housing and utilities","DHUTRL1",2.7,2.2,2.3,3.1,3.2,3.1,2.7,0.7,1.2,2.2,4.6,2.1,0.9,0.9
+"23","16","    Health care","DHLCRL1",2.1,2.1,3.1,3.2,1.6,3.4,5,5.9,2.3,3.2,3.7,1.8,2.6,3
+"24","17","    Transportation services","DTRSRL1",7.5,8.2,7.5,4.2,5.5,4.7,-0.9,-2.7,0.3,2.3,0.9,-0.3,1.2,-5
+"25","18","    Recreation services","DRCARL1",7.6,4.5,3.2,3.3,4.9,3,-0.1,0.6,2.9,5,1.9,3.3,3.7,0
+"26","19","    Food services and accommodations","DFSARL1",0.2,0.7,2.2,2.6,2.5,4.6,-0.1,1.6,3.4,3.1,3.3,3.1,1.1,-0.4
+"27","20","    Financial services and insurance","DIFSRL1",0.5,3.7,3.4,6.4,8.4,9.9,-0.7,-0.4,-0.1,5.2,3,3.2,5,-1.6
+"28","21","    Other services","DOTSRL1",2,3.4,5.9,8.3,5.6,7.2,4,0.6,2.5,2.4,1.1,3.4,2.8,-0.6
+"29","22","  Final consumption expenditures of nonprofit institutions serving households (NPISHs) \1\","DNPIRL1",4.6,6.1,-6.9,9.5,7.2,7.8,7.6,9.2,4.9,-0.5,-1.9,10,4,8.9
+"30","23","    Gross output of nonprofit institutions \2\","DNPERL1",1.3,2.7,1.6,5,3.5,3.9,4.8,5.8,1.6,2,1.6,3,2.6,3.5
+"31","24","    Less: Receipts from sales of goods and services by nonprofit institutions \3\","DNPSRL1",0.4,1.7,4.2,3.6,2.3,2.6,3.9,4.6,0.3,2.8,2.8,0.8,2.1,1.6
+"32",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","25","  Energy goods and services \4\","DNRGRL1",1.4,2.4,0.6,3,2.1,0.4,-0.3,2.1,2.5,1.2,0.7,-2.5,1.3,-3.5
+"34","26","  Personal consumption expenditures excluding food and energy \5\","DPCCRL1",3,3.8,4.2,5.8,5.8,5.6,3,2.9,2.9,3.6,3.5,3.2,2.8,0
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","1. Net expenses of NPISHs, defined as their gross operating expenses less primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","sales to households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","2. Gross output is net of unrelated sales, secondary sales, and sales to business,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","to government, and to the rest of the world; excludes own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","3. Excludes unrelated sales, secondary sales, and sales to business, to government,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","and to the rest of the world; includes membership dues and fees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","4. Consists of gasoline and other energy goods and of electricity and gas.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","5. Food consists of food and beverages purchased for off-premises consumption;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","food services, which include purchased meals and beverages, are not classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","as food.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

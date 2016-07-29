@@ -1,0 +1,54 @@
+"","Table 2#3#6# Real Personal Consumption Expenditures by Major Typ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published January 29, 2010  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/29/2010 9:30:10 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
+"8","1","    Personal consumption expenditures","DPCERX1",6079,6291.2,6523.4,6865.5,7240.9,7608.1,7813.9,8021.9,8247.6,8532.7,8819,9073.5,9313.9,9290.9,9237.3
+"9","2","Goods","DGDSRX1",1898.6,1983.6,2078.2,2218.6,2395.3,2521.7,2600.9,2706.6,2829.9,2955.3,3073.9,3173.9,3273.7,3206,3143.7
+"10","3","  Durable goods","DDURRX1",511.6,549.8,594.7,667.2,753.8,819.9,864.4,930,986.1,1051,1105.5,1150.4,1199.9,1146.3,1100.5
+"11","4","    Motor vehicles and parts","DMOTRX1",255.6,268,286.1,316.1,345.1,356.1,374.3,394,405.3,411.3,409.6,396.6,402.4,347.5,316.8
+"12","5","    Furnishings and durable household equipment","DFDHRX1",133,138.8,145.3,157.3,175.5,192.4,202.2,217,230.6,249.3,263.9,277.9,283.6,275.5,259.1
+"13","6","    Recreational goods and vehicles","DREQRX1",75.6,87.3,100.9,121.2,147,172.7,189.8,212.9,237,269.4,303.4,343.2,382.4,403,411.5
+"14","7","    Other durable goods","DODGRX1",70.2,74.9,78.6,86.4,96.7,105.3,103,109.8,115.5,121.7,128.6,133.4,134.5,128,124.2
+"15","8","  Nondurable goods","DNDGRX1",1437.8,1479.4,1522.9,1580.3,1660.9,1714.7,1745.6,1780.2,1845.6,1904.6,1968.4,2023.6,2074.8,2057.3,2037.3
+"16","9","    Food and beverages purchased for off-premises consumption","DFXARX1",548.5,554,558.9,565.5,587.4,600.6,607.6,609,622.4,639.2,665,686.2,700.7,700.7,697.1
+"17","10","    Clothing and footwear","DCLORX1",201,210.8,217.7,231,246.2,258.1,260.5,268.5,283.4,297.3,315.5,331.5,345.9,345,330.1
+"18","11","    Gasoline and other energy goods","DGOERX1",264.3,268.5,273.9,283.8,292.5,287.1,289.2,294,302.2,306.5,304.8,298.4,300.7,287.4,292.7
+"19","12","    Other nondurable goods","DONGRX1",443,462.6,488.1,514.4,546.3,574.2,592.9,612.5,640.1,662.6,683,708.4,729.4,728.7,720.7
+"20","13","Services","DSERRX1",4208.2,4331.4,4465,4661.8,4852.8,5093.3,5218.7,5318.1,5418.4,5577.6,5745.1,5899.7,6040.8,6083.1,6090.5
+"21","14","  Household consumption expenditures (for services)","DHCERX1",4068.6,4183.3,4327.2,4510.6,4690.4,4917.8,5028.8,5109.3,5199,5359.3,5531,5664.4,5796.1,5817.6,5833.9
+"22","15","    Housing and utilities","DHUTRX1",1234.9,1261.7,1290.4,1329.8,1371.8,1413.7,1451.5,1462,1480.2,1512.8,1582.8,1616.7,1631.8,1647.2,1657.6
+"23","16","    Health care","DHLCRX1",947.5,967.1,997.1,1029.5,1045.6,1081.5,1135.4,1202.3,1229.4,1268.6,1316,1340,1375.5,1416.4,1446.2
+"24","17","    Transportation services","DTRSRX1",213.8,231.4,248.8,259.2,273.5,286.2,283.6,275.8,276.7,283.2,285.9,285,288.3,273.8,263.7
+"25","18","    Recreation services","DRCARX1",245.3,256.3,264.5,273.3,286.6,295.2,294.9,296.7,305.5,320.7,326.8,337.5,350,349.8,345.4
+"26","19","    Food services and accommodations","DFSARX1",416,418.8,428,439.2,450,470.5,469.9,477.2,493.6,508.8,525.3,541.6,547.7,545.4,529.8
+"27","20","    Financial services and insurance","DIFSRX1",489.4,507.8,525.2,558.6,605.6,665.4,660.7,658.3,657.8,691.8,712.6,735.4,772.3,759.8,758.7
+"28","21","    Other services","DOTSRX1",524.3,541.9,574.1,621.7,656.7,704.2,732.6,737,755.7,773.5,781.6,808.3,831,825.7,833.6
+"29","22","  Final consumption expenditures of nonprofit institutions serving households (NPISHs) \1\","DNPIRX1",142.3,150.9,140.6,153.9,165,177.8,191.4,209,219.3,218.3,214.1,235.4,244.9,266.6,256.9
+"30","23","    Gross output of nonprofit institutions \2\","DNPERX1",636.4,653.4,663.8,696.7,721,749,785.3,831.1,844,860.6,874.6,901,924.6,956.7,958.3
+"31","24","    Less: Receipts from sales of goods and services by nonprofit institutions \3\","DNPSRX1",497.1,505.4,526.8,546,558.6,573,595.2,622.5,624.5,642.3,660.6,665.8,680,691,701.5
+"32","25","Residual","D236RX1",-122.7,-106.7,-91.2,-72.2,-48,-31.1,-24.3,-13.7,-7.3,-2.3,0.2,-1.8,-6.9,-8.7,-6.7
+"33",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","26","  Energy goods and services \4\","DNRGRX1",428.3,438.4,441.1,454.2,463.6,465.6,464.1,473.8,485.7,491.7,495.2,482.7,488.9,471.6,474.5
+"35","27","  Personal consumption expenditures excluding food and energy \5\","DPCCRX1",5126.4,5321.9,5543.3,5862.9,6202.5,6548.6,6745.7,6941.9,7142,7402.6,7658.8,7905.7,8126.3,8123.6,8069.3
+"36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","1. Net expenses of NPISHs, defined as their gross operating expenses less primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","sales to households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","2. Gross output is net of unrelated sales, secondary sales, and sales to business,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","to government, and to the rest of the world; excludes own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","3. Excludes unrelated sales, secondary sales, and sales to business, to government,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","and to the rest of the world; includes membership dues and fees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","4. Consists of gasoline and other energy goods and of electricity and gas.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","5. Food consists of food and beverages purchased for off-premises consumption;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","food services, which include purchased meals and beverages, are not classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","as food.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Note. Chained (2005) dollar series are calculated as the product of the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","quantity index and the 2005 current-dollar value of the corresponding series, divided",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","by 100. Because the formula for the chain-type quantity indexes uses weights of more",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","than one period, the corresponding chained-dollar estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","The residual line is the difference between the first line and the sum of the most",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

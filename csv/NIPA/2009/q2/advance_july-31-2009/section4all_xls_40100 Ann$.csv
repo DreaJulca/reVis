@@ -1,0 +1,49 @@
+"","Table 4#1# Foreign Transactions in the National Income and Produ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:51:29 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Current receipts from the rest of the world","A120RC1",1041.1,1113.5,1233.9,1240.1,1308.8,1473.7,1350.8,1316.5,1394.4,1628.8,1878.1,2192.1,2517.7,2640.3
+"9","2","Exports of goods and services","B020RC1",811.9,867.7,954.4,953.9,989.3,1093.2,1027.7,1003,1041,1180.2,1305.1,1471,1655.9,1831.1
+"10","3","  Goods \1\","A253RC1",583.3,618.3,687.7,680.9,697.2,784.3,731.2,700.3,726.8,817,906.1,1024.4,1139.4,1266.9
+"11","4","    Durable","A332RC1",394,421.1,482.3,486.6,503.3,569.2,521.1,488.5,497.3,561.2,624.9,709.1,776.8,822.8
+"12","5","    Nondurable","A339RC1",189.3,197.2,205.4,194.3,193.9,215.1,210.1,211.8,229.5,255.8,281.2,315.3,362.6,444.1
+"13","6","  Services \1\","A646RC1",228.6,249.3,266.7,273,292.1,308.9,296.5,302.7,314.2,363.2,399,446.6,516.5,564.2
+"14","7","Income receipts","B645RC1",229.3,245.8,279.5,286.2,319.5,380.5,323,313.5,353.3,448.6,573,721.1,861.8,809.2
+"15","8","  Wage and salary receipts","B4188C1",2.2,2.2,2.3,2.4,2.7,2.8,2.9,2.8,2.8,2.8,2.9,2.9,3,3
+"16","9","  Income receipts on assets","W160RC1",227.1,243.7,277.2,283.8,316.7,377.7,320.1,310.7,350.5,445.7,570.1,718.2,858.8,806.2
+"17","10","    Interest","A2067C1",99.7,104.3,121.7,137,139.9,175.2,137.6,106.3,101.3,117.6,186.1,283.7,354.2,261.9
+"18","11","    Dividends","B3375C1",58.6,69.1,80,83.2,92.7,86.3,87.4,92.8,101,135.6,363.3,186,233.3,258.7
+"19","12","    Reinvested earnings on U.S. direct investment abroad","B3475C1",68.8,70.3,75.5,63.5,84.1,116.1,95.2,111.6,148.2,192.5,20.7,248.4,271.3,285.6
+"20","13","    Current payments to the rest of the world","W163RC1",1146.2,1227.6,1363.3,1444.6,1600.7,1884.1,1742.4,1768.1,1910.5,2253.4,2618.6,2990.5,3242.4,3347.6
+"21","14","Imports of goods and services","B021RC1",902.6,964,1055.8,1115.7,1251.4,1475.3,1398.7,1430.2,1545.1,1798.9,2027.8,2240.3,2369.7,2538.9
+"22","15","  Goods \1\","A255RC1",757.4,807.4,885.7,930.8,1047.7,1246.5,1171.7,1193.9,1289.3,1501.7,1708,1884.9,1987.7,2126.4
+"23","16","    Durable","A333RC1",510.8,533.4,588.5,637.7,716.7,823.6,758.3,774.5,806.6,936.3,1025.4,1130.2,1175.1,1160.9
+"24","17","    Nondurable","A340RC1",246.7,274.1,297.1,293,331,422.9,413.4,419.3,482.6,565.4,682.6,754.7,812.5,965.5
+"25","18","  Services \1\","B656RC1",145.1,156.5,170.1,184.9,203.7,228.8,227,236.3,255.9,297.3,319.8,355.4,382.1,412.4
+"26","19","Income payments","A655RC1",199.6,214.2,256.1,268.9,291.7,342.8,271.1,264.4,284.6,357.4,475.9,648.6,746,667.3
+"27","20","  Wage and salary payments","B4189C1",6.3,6.3,6.7,7,8,7.5,8.1,8.4,8.5,9,9.3,9.5,10.1,10.4
+"28","21","  Income payments on assets","W161RC1",193.3,207.9,249.4,261.9,283.7,335.2,263,256,276.1,348.4,466.6,639.1,736,656.9
+"29","22","    Interest","B1869C1",158.9,170.5,201.4,217.9,228.4,278.4,250.1,209.5,192.7,225.2,322,461.5,579.2,489.9
+"30","23","    Dividends","B3376C1",25.8,28.7,32.8,41,51,56.9,46.5,44.8,68.9,73.3,102.5,108.1,107.1,112.1
+"31","24","    Reinvested earnings on foreign direct investment in the United States","B3476C1",8.6,8.7,15.2,3,4.3,-0.1,-33.7,1.8,14.5,49.8,42.1,69.5,49.7,55
+"32","25","Current taxes and transfer payments to the rest of the world (net)","A123RC1",44.1,49.5,51.4,60,57.6,66.1,72.6,73.5,80.7,97.1,115,101.5,126.6,141.4
+"33","26","  From persons (net)","B070RC1",20.3,22.6,25.7,29.7,32.2,34.6,38.1,40.6,41.2,43.6,48.4,51.6,58.7,64.5
+"34","27","  From government (net)","B088RC1",15.6,20,16.7,17.4,18,20,16.2,21.6,25.8,27.2,35.3,28.8,36.5,40.8
+"35","28","  From business (net)","W164RC1",8.2,6.9,9.1,13,7.4,11.4,18.3,11.3,13.7,26.3,31.3,21.1,31.4,36.2
+"36","29","    Balance on current account, NIPAs","A124RC1",-105.1,-114.1,-129.3,-204.5,-291.9,-410.4,-391.6,-451.6,-516.1,-624.6,-740.5,-798.4,-724.7,-707.2
+"37",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","30","  Net lending or net borrowing (-), NIPAs \2\","W162RC1",-106.2,-115.1,-130.6,-205.5,-297.1,-411.7,-380,-453.4,-519.9,-623.5,-729.5,-802.6,-726.8,-706.8
+"39","31","    Balance on current account, NIPAs","A124RC1",-105.1,-114.1,-129.3,-204.5,-291.9,-410.4,-391.6,-451.6,-516.1,-624.6,-740.5,-798.4,-724.7,-707.2
+"40","32","    Less:Capital account transactions (net) \3\","W167RC1",1.1,0.9,1.2,1,5.2,1.4,-11.7,1.8,3.8,-1.1,-11.1,4.2,2.2,-0.4
+"41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","1. Exports and imports of certain goods, primarily military equipment purchased",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","and sold by the federal government, are included in services.  Beginning with 1986,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","2. Prior to 1982, equals the balance on current account, NIPAs (line 31); estimates of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","capital account transactions (line 32) are not available.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","3. Consists of capital transfers and the acquisition and disposal of nonproduced",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","nonfinancial assets.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

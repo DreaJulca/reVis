@@ -1,0 +1,41 @@
+"","Table 7#2#5A# Auto Output","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23"
+"1","[Millions of dollars]                                                           ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1947 To 1966",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 17, 2009   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 12/21/2011 10:47:48 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1947","1948","1949","1950","1951","1952","1953","1954","1955","1956","1957","1958","1959","1960","1961","1962","1963","1964","1965","1966"
+"19","1","      Auto output","A133RC1","7,189.0","8,790.0","11,881.0","15,402.0","13,282.0","11,966.0","16,113.0","14,702.0","21,209.0","16,890.0","19,374.0","14,448.0","19,388.0","21,367.0","17,676.0","22,416.0","25,059.0","25,914.0","31,295.0","30,296.0"
+"20","2","Final sales","A134RC1","7,057.0","8,553.0","11,766.0","15,179.0","13,163.0","11,928.0","15,612.0","14,807.0","20,107.0","17,047.0","18,821.0","15,028.0","19,243.0","20,354.0","18,487.0","22,332.0","24,682.0","26,036.0","30,382.0","29,477.0"
+"21","3","  Personal consumption expenditures","A135RC1","4,790.0","6,208.0","8,967.0","11,696.0","10,140.0","9,350.0","12,022.0","11,087.0","15,604.0","13,476.0","15,022.0","12,478.0","15,888.0","16,571.0","14,727.0","17,927.0","20,469.0","21,725.0","25,191.0","24,977.0"
+"22","4","    New autos","A136RC1","4,027.0","5,000.0","7,705.0","10,304.0","8,613.0","7,965.0","11,099.0","10,840.0","13,817.0","11,553.0","12,588.0","9,726.0","13,178.0","14,017.0","12,084.0","15,015.0","17,230.0","18,277.0","21,354.0","21,029.0"
+"23","5","    Net purchases of used autos","A137RC1","763.0","1,208.0","1,262.0","1,392.0","1,527.0","1,385.0","923.0","247.0","1,787.0","1,923.0","2,434.0","2,752.0","2,710.0","2,554.0","2,643.0","2,912.0","3,239.0","3,448.0","3,837.0","3,948.0"
+"24","6","  Private fixed investment","A138RC1","1,822.0","1,997.0","2,508.0","3,209.0","2,563.0","2,211.0","3,188.0","3,294.0","4,006.0","3,154.0","3,579.0","2,556.0","3,661.0","3,821.0","3,547.0","4,251.0","4,009.0","4,179.0","5,079.0","4,768.0"
+"25","7","    New autos","B139RC1","1,904.0","2,253.0","2,994.0","3,808.0","3,361.0","3,082.0","4,117.0","4,128.0","4,799.0","3,988.0","4,510.0","3,570.0","4,666.0","4,758.0","4,597.0","5,477.0","5,355.0","5,533.0","6,611.0","6,550.0"
+"26","8","    Net purchases of used autos","B140RC1","-82.0","-256.0","-486.0","-599.0","-798.0","-871.0","-929.0","-834.0","-793.0","-834.0","-931.0","-1,014.0","-1,005.0","-937.0","-1,050.0","-1,226.0","-1,346.0","-1,354.0","-1,532.0","-1,782.0"
+"27","9","  Net exports","A141RC1","350.0","258.0","202.0","166.0","321.0","205.0","239.0","261.0","318.0","211.0","0.0","-237.0","-537.0","-301.0","-82.0","-161.0","-172.0","-236.0","-267.0","-669.0"
+"28","10","    Exports","B142RC1","352.0","289.0","211.0","187.0","348.0","250.0","282.0","307.0","388.0","340.0","308.0","267.0","230.0","243.0","236.0","272.0","295.0","357.0","403.0","575.0"
+"29","11","    Imports","B143RC1","2.0","31.0","9.0","21.0","27.0","45.0","43.0","46.0","70.0","129.0","308.0","504.0","767.0","544.0","318.0","433.0","467.0","593.0","670.0","1,244.0"
+"30","12","  Gross government investment","B144RC1","95.0","90.0","89.0","108.0","139.0","162.0","163.0","165.0","179.0","206.0","220.0","231.0","231.0","263.0","295.0","315.0","376.0","368.0","379.0","401.0"
+"31","13","Change in private inventories of new and used autos","A145RC1","132.0","237.0","115.0","223.0","119.0","38.0","501.0","-105.0","1,102.0","-157.0","553.0","-580.0","145.0","1,013.0","-811.0","84.0","377.0","-122.0","913.0","819.0"
+"32","14","  New","B146RC1","95.0","197.0","64.0","142.0","-30.0","-70.0","428.0","-292.0","896.0","-328.0","648.0","-266.0","80.0","917.0","-578.0","97.0","405.0","-103.0","881.0","742.0"
+"33","15","  Used","B147RC1","37.0","40.0","51.0","81.0","149.0","108.0","73.0","187.0","206.0","171.0","-95.0","-314.0","65.0","96.0","-233.0","-13.0","-28.0","-19.0","32.0","77.0"
+"34",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","16","  Domestic output of new autos \1\","B148RC1","6,398.0","7,725.0","10,992.0","14,442.0","12,290.0","11,205.0","15,926.0","14,978.0","19,859.0","15,442.0","17,691.0","12,531.0","16,867.0","19,123.0","15,910.0","20,300.0","22,730.0","23,269.0","28,274.0","27,064.0"
+"36","17","  Sales of imported new autos \2\","B149RC1","2.0","32.0","29.0","30.0","44.0","73.0","82.0","78.0","125.0","199.0","397.0","788.0","1,273.0","1,031.0","767.0","678.0","775.0","994.0","1,295.0","1,893.0"
+"37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","1. Consists of final sales and change in private inventories of new autos assembled in the United States.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","2. Consists of sales of imported new autos in personal consumption expenditures, in private fixed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","investment, and in gross government investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

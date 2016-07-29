@@ -1,0 +1,34 @@
+"","Table 3#25U# Compensation of General Government Employees       ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 04, 2014   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/27/2015 11:01:28 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013
+"8","1","Compensation of general government employees","A194RC1",838.4,886.8,942.8,1005.6,1072.8,1143.4,1210.5,1268.7,1325.9,1395.1,1467.9,1517.4,1572.2,1585,1591.8,1609.2
+"9","2","  Wages and salaries","W881RC1",628,657.8,698.2,737.8,785.3,823.6,857.8,895,935.1,985,1037.8,1069.8,1086.5,1090,1094.3,1105.4
+"10","3","  Supplements to wages and salaries","W882RC1",210.4,229,244.6,267.7,287.4,319.9,352.7,373.7,390.8,410,430.1,447.6,485.6,495,497.5,503.8
+"11","4","    Employer contributions for employee pension and insurance funds","W883RC1",170.4,187.1,200.5,220.8,237.6,266.9,297.3,316,329.9,346.8,364,377.8,414,423,425.2,432.6
+"12","5","      Government employee pension plans \1\","W884RC1",111.6,118.1,126.5,135.6,146,157.5,177.7,184,192.5,202.6,211.9,220.6,244.4,245.7,246.3,247.3
+"13","6","      Other","W885RC1",58.8,69,73.9,85.2,91.6,109.4,119.6,132,137.4,144.2,152.2,157.2,169.6,177.3,179,185.2
+"14","7","    Employer contributions for government social insurance","W886RC1",40,41.9,44.1,46.9,49.8,53,55.4,57.7,60.9,63.2,66.1,69.8,71.6,72.1,72.3,71.3
+"15","8","Compensation of federal general government employees","B568RC1",185.8,191.7,202.4,211.2,236.4,266.9,284.2,303.7,314.8,329.6,350.2,375.5,404.8,413.6,411.1,402.8
+"16","9","  Wages and salaries","A4178C1",141.9,145.8,154.2,159.5,176.9,195,207.8,221.1,228.3,239.6,253.8,271.1,288.3,291.9,287.9,282.3
+"17","10","  Supplements to wages and salaries","W887RC1",43.9,45.9,48.2,51.7,59.5,72,76.5,82.5,86.5,90,96.4,104.4,116.4,121.7,123.2,120.5
+"18","11","    Employer contributions for employee pension and insurance funds","W888RC1",33.7,35.2,36.9,39.6,46,56.7,60,65,67.7,70.4,75.2,81,91,95.4,96.7,94.9
+"19","12","      Government employee pension plans \1\","W889RC1",23.3,23.8,24.5,26,31.1,34,35.5,37.3,37.9,40.3,44.6,49.4,57.3,59.5,60.7,60.8
+"20","13","        Civilian","W890RC1",11.9,12.2,12.4,13.1,16.8,18,18.9,20.2,21,22.2,24.1,26,30.5,32,32.9,33.1
+"21","14","        Military","W891RC1",11.4,11.6,12.1,12.8,14.3,16,16.6,17.1,16.9,18,20.5,23.4,26.8,27.6,27.8,27.6
+"22","15","      Other","W892RC1",10.4,11.4,12.4,13.6,14.9,22.7,24.5,27.7,29.8,30.2,30.6,31.6,33.7,35.9,36,34.2
+"23","16","    Employer contributions for government social insurance","W893RC1",10.2,10.7,11.3,12.1,13.5,15.2,16.5,17.5,18.8,19.6,21.2,23.4,25.4,26.4,26.5,25.6
+"24","17","Compensation of state and local general government employees","B251RC1",652.5,695.1,740.4,794.4,836.4,876.5,926.3,965,1011.1,1065.5,1117.7,1141.9,1167.4,1171.4,1180.7,1206.4
+"25","18","  Wages and salaries","A4183C1",486.1,512,544,578.3,608.5,628.6,650.1,673.8,706.7,745.5,784,798.7,798.2,798.1,806.5,823
+"26","19","  Supplements to wages and salaries","W894RC1",166.4,183.1,196.4,216.1,227.9,247.9,276.2,291.1,304.4,320,333.7,343.1,369.2,373.3,374.3,383.3
+"27","20","    Employer contributions for employee pension and insurance funds","W895RC1",136.7,151.8,163.6,181.3,191.6,210.1,237.3,251,262.3,276.4,288.9,296.8,323,327.6,328.5,337.7
+"28","21","      Government employee pension plans \1\","W896RC1",88.3,94.3,102,109.7,114.9,123.4,142.2,146.7,154.6,162.4,167.3,171.1,187.1,186.2,185.5,186.6
+"29","22","      Other","W897RC1",48.4,57.6,61.6,71.6,76.6,86.7,95.2,104.3,107.7,114,121.6,125.6,135.9,141.5,143,151.1
+"30","23","    Employer contributions for government social insurance","W898RC1",29.8,31.3,32.8,34.8,36.4,37.8,38.9,40.2,42.1,43.6,44.8,46.4,46.2,45.7,45.8,45.7
+"31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","1. Includes defined benefit and defined contribution plans. Additional detail",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","is available in tables 7.20-7.23.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

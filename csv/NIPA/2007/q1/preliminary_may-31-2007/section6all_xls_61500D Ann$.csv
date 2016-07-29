@@ -1,0 +1,37 @@
+"","Table 6#15D# Net Interest by Industry","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11"
+"1","[Millions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 02, 2006   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/30/2007 10:12:16 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005
+"8","1","      Net interest","B060RC0",478653,486783,547616,553354,509470,510357,469770,466830
+"9","2","Domestic industries","A1850C0",555710,569310,649797,674245,629210,613277,593703,625660
+"10","3","  Agriculture, forestry, fishing, and hunting","N1851C0",10184,10499,11486,10561,10389,9944,10011,11592
+"11","4","  Mining","N1852C0",4167,4572,5999,6570,5791,5727,5815,6658
+"12","5","  Utilities","N1853C0",19433,19871,23954,27192,26400,25419,25042,27141
+"13","6","  Construction","N1854C0",5825,5762,7558,7690,6001,6295,5914,6517
+"14","7","  Manufacturing","N1855C0",47844,56569,65295,61434,44106,36417,29269,35790
+"15","8","    Durable goods","N1856C0",14327,19515,24891,21968,10584,7136,2265,4373
+"16","9","    Nondurable goods","N1857C0",33517,37054,40404,39465,33522,29281,27004,31417
+"17","10","  Wholesale trade","N1858C0",14826,15571,17972,15346,11066,8367,7960,9267
+"18","11","  Retail trade","N1859C0",14794,13770,20184,17504,13100,13187,11353,13205
+"19","12","  Transportation and warehousing","N1860C0",6653,8611,9440,9288,9001,8597,7311,8682
+"20","13","  Information","N1861C0",20839,24273,28245,36391,33326,28167,26541,28557
+"21","14","  Finance, insurance, real estate, rental, and leasing","N1862C0",375988,364165,420994,457681,431387,429109,456165,435198
+"22","15","    Finance and insurance","N1863C0",126,-37377,-23059,-19873,-52726,-59197,-61272,-142583
+"23","16","    Real estate and rental and leasing","N1864C0",375862,401541,444053,477554,484113,488306,517438,577781
+"24","17","  Professional and business services","N1865C0",14223,22468,12151,-1521,15538,20077,-12766,20098
+"25","18","    Professional, scientific, and technical services","N1866C0",728,1582,1124,883,1734,2134,1829,2045
+"26","19","    Management of companies and enterprises","N1867C0",11566,18079,6504,-6947,10183,14621,-17427,14975
+"27","20","    Administrative and waste management services","N1868C0",1929,2807,4524,4543,3621,3322,2832,3079
+"28","21","  Educational services, health care, and social assistance","N1869C0",5597,6117,6794,6494,5521,5347,5478,6093
+"29","22","  Arts, entertainment, recreation, accommodation, and food services","N1870C0",13486,14837,17253,17163,15476,14568,13660,14662
+"30","23","  Other services, except government","N1871C0",1851,2224,2471,2453,2107,2055,1949,2199
+"31","24","Rest of the world","A1627C0",-77058,-82526,-102182,-120892,-119740,-102920,-123933,-158830
+"32","25","  Receipts from the rest of the world","A2067C0",137719,141262,177245,136923,98291,84898,105276,172401
+"33","26","  Less: Payments to the rest of the world","B1869C0",214777,223789,279427,257815,218031,187818,229209,331231
+"34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Note.  Estimates in this table are based on the 1997 North American Industry",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

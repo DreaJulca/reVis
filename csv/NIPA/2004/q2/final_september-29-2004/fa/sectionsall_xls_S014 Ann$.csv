@@ -1,0 +1,37 @@
+"","Table 14# Chain-Type Quantity Indexes for Net Stock of Consumer ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Index numbers, 2000=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1993 To 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published September 23, 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 9/23/2004 8:08:27 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003
+"8",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","      Consumer durable goods","kcctotl1eq000",68.112,70.996,73.985,77.473,81.589,86.764,93.202,100,106.517,113.404,120.725
+"10",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","2","Motor vehicles and parts","kcctotl1cdmv0",73.875,76.03,77.513,79.465,82.455,87.262,93.705,100,106.791,114.123,121.3
+"12","3","  Autos","kcctotl1cdm10",91.694,91.756,91.269,90.866,91.218,92.835,96.209,100,102.979,105.1,105.529
+"13","4","  Trucks","kcctotl1cdm50",54.883,59.139,62.606,67.009,72.828,81.095,90.895,100,111.434,124.919,139.716
+"14","5","  Other \1\","kcctotl1cdau0",66.185,71.244,75.019,78.653,82.689,88.229,94.673,100,101.793,104.669,110.288
+"15",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","6","Furniture and household equipment","kcctotl1cdf00",63.692,67.152,71.136,75.621,80.549,86.127,92.744,100,106.808,113.95,121.624
+"17","7","  Furniture, including mattresses and bedsprings","kcctotl1cdf10",73.658,76.185,78.981,82.178,86.026,90.2,94.846,100,104.727,109.517,114.278
+"18","8","  Kitchen and other household appliances \2\","kcctotl1cdf20",81.593,83.874,86.344,88.59,90.407,92.776,96.197,100,103.613,107.373,112.167
+"19","9","  China, glassware, tableware, and utensils","kcctotl1cdf30",70.243,73.237,76.729,80.587,84.572,88.759,94.11,100,105.535,111.571,117.856
+"20","10","  Video and audio goods, including musical instruments and computer goods","kcctotl1cdf50",40.019,44.778,50.564,57.49,65.361,74.962,86.696,100,113.207,127.977,143.932
+"21","11","    Video and audio goods, including musical instruments","kcctotl1cdf70",56.348,61.011,66.233,71.531,76.59,82.759,90.599,100,109.382,119.333,129.601
+"22","12","    Computers, peripherals, and software","kcctotl1cdf90",4.461,6.674,10.17,16.644,27.94,45.52,70.403,100,132.8,177.096,231.795
+"23","13","  Other durable house furnishings \3\","kcctotl1cdf40",70.005,72.86,76.13,79.83,83.977,88.512,94.043,100,105.386,110.783,117.169
+"24",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","14","Other","kcctotl1cdo00",68.056,70.819,74.078,77.956,82.228,87.187,93.259,100,105.518,111.21,118.137
+"26","15","  Ophthalmic products and orthopedic appliances","kcctotl1cdo20",73.513,75.914,77.658,81.108,86.066,91.126,95.726,100,100.323,101.569,103.395
+"27","16","  Wheel goods, sports and photographic equipment, boats, and pleasure aircraft","kcctotl1cdo40",66.49,69.325,72.847,76.762,81.099,86.239,92.545,100,107.074,113.984,123.145
+"28","17","  Jewelry and watches","kcctotl1cdo10",67.619,70.171,73.204,77.126,81.151,86.347,92.883,100,105.473,111.496,118.539
+"29","18","  Books and maps","kcctotl1cdo30",68.934,72.116,75.949,79.842,84.131,88.354,93.929,100,105.417,110.706,116.328
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31"," 1. Consists of recreational vehicles and accessories and parts.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32"," 2. Consists of refrigerators and freezers, cooking ranges, dishwashers, laundry equipment, stoves, room air conditioners, sewing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33"," machines, vacuum cleaners, and other appliances except built-in appliances, which are classified as part of residential ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35"," 3. Includes floor coverings, picture frames, mirrors, art products, portable lamps, clocks, blinds, shades, drapery hardware, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36"," telephone equipment.  Also includes writing equipment and hand, power, and garden tools.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

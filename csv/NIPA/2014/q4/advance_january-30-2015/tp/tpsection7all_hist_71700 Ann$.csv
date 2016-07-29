@@ -1,0 +1,63 @@
+"","Table 7#17# Relation of Monetary Interest Paid and Received in t","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27"
+"1","[Millions of dollars]                                                           ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1946 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2014   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/28/2014 2:40:34 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1946","1947","1948","1949","1950","1951","1952","1953","1954","1955","1956","1957","1958","1959","1960","1961","1962","1963","1964","1965","1966","1967","1968","1969"
+"19",NA,"      Corporations"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","1","Interest paid, IRS","B2642C1","2,251.0","2,501.0","2,759.0","3,045.0","3,212.0","3,701.0","5,013.0","5,681.0","6,271.0","7,058.0","8,281.0","10,005.0","11,070.0","12,558.0","14,622.0","15,646.0","18,435.0","20,712.0","23,246.0","26,425.0","31,348.0","35,370.0","41,206.0","51,717.0"
+"21","2","Less: Interest paid by foreign branches of commercial banks","B2643C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"22",NA,"Plus:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","3","  Interest paid by organizations not filing corporation income tax returns","B2644C1","30.0","35.0","43.0","50.0","57.0","73.0","85.0","106.0","130.0","151.0","184.0","252.0","275.0","350.0","447.0","460.0","540.0","635.0","777.0","911.0","1,144.0","1,296.0","1,398.0","1,759.0"
+"24","4","    Federally sponsored credit agencies","B2645C1","23.0","25.0","29.0","32.0","34.0","45.0","50.0","58.0","69.0","76.0","92.0","131.0","137.0","185.0","244.0","225.0","268.0","326.0","421.0","497.0","678.0","771.0","809.0","1,080.0"
+"25","5","    Other \1\","B2646C1","7.0","10.0","14.0","18.0","23.0","28.0","35.0","48.0","61.0","75.0","92.0","121.0","138.0","165.0","203.0","235.0","272.0","309.0","356.0","414.0","466.0","525.0","589.0","679.0"
+"26","6","  Interest paid by regulated investment companies reported as distributions to stockholders","B2647C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","52.0","237.0"
+"27","7","  Adjustment for mutual savings banks and savings and loan associations","B2648C1","431.0","491.0","547.0","642.0","711.0","798.0","165.0","90.0","54.0","93.0","90.0","73.0","59.0","107.0","51.0","138.0","-4.0","224.0","67.0","107.0","180.0","369.0","475.0","644.0"
+"28","8","  Other \2\","B2649C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"29","9","Equals: Monetary interest paid by corporations, NIPAs","A2063C1","2,712.0","3,027.0","3,349.0","3,737.0","3,980.0","4,571.0","5,262.0","5,899.0","6,454.0","7,302.0","8,554.0","10,329.0","11,403.0","13,015.0","15,120.0","16,244.0","18,971.0","21,571.0","24,090.0","27,443.0","32,672.0","37,035.0","43,131.0","54,357.0"
+"30",NA,"       Nonfarm proprietorships and partnerships"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","10","Interest paid, IRS","B2650C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","1,418.0","1,515.0","1,693.0","1,896.0","2,171.0","2,492.0","2,718.0","3,040.0","3,418.0","3,924.0","5,015.0"
+"32",NA,"Plus:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","11","  Interest reported on rental expense schedule","B2651C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"34","12","  Interest passed through to partners","B2652C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"35","13","  Interest capitalized on tax returns","B2653C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"36","14","Less: Adjustment for misreporting on income tax returns","B2654C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","5.0","11.0","18.0","27.0","38.0","43.0","45.0","52.0","58.0","65.0","70.0"
+"37","15","Equals: Monetary interest paid, NIPAs","B1102C1","314.0","396.0","460.0","495.0","558.0","661.0","696.0","749.0","816.0","950.0","1,080.0","1,209.0","1,286.0","1,413.0","1,504.0","1,675.0","1,869.0","2,133.0","2,449.0","2,673.0","2,988.0","3,360.0","3,859.0","4,945.0"
+"38",NA,"       Corporations"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","16","Interest received, IRS","B2655C1","4,707.0","4,958.0","5,427.0","5,917.0","6,505.0","7,223.0","9,481.0","10,801.0","11,618.0","13,207.0","15,058.0","16,893.0","17,938.0","20,893.0","23,577.0","24,873.0","27,748.0","30,859.0","33,877.0","37,215.0","41,892.0","45,359.0","52,283.0","62,212.0"
+"40","17","Less: Interest received by foreign branches of commercial banks","B2656C1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"41",NA,"Plus:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","18","  Interest received by organizations not filing corporation income tax returns","B2657C1","240.0","258.0","421.0","448.0","429.0","576.0","666.0","762.0","725.0","750.0","1,014.0","1,259.0","1,296.0","1,550.0","1,901.0","1,805.0","2,029.0","2,277.0","2,666.0","3,081.0","3,744.0","4,200.0","5,046.0","6,164.0"
+"43","19","    Federal Reserve banks","B2658C1","150.0","159.0","304.0","317.0","276.0","395.0","456.0","513.0","439.0","413.0","596.0","763.0","742.0","886.0","1,103.0","942.0","1,049.0","1,151.0","1,344.0","1,559.0","1,908.0","2,190.0","2,764.0","3,373.0"
+"44","20","    Federally sponsored credit agencies","B2659C1","69.0","70.0","77.0","81.0","88.0","104.0","116.0","124.0","129.0","147.0","187.0","213.0","230.0","288.0","350.0","359.0","410.0","480.0","586.0","683.0","890.0","965.0","993.0","1,260.0"
+"45","21","    Other \3\","B2660C1","21.0","29.0","40.0","50.0","65.0","77.0","94.0","125.0","157.0","190.0","231.0","283.0","324.0","376.0","448.0","504.0","570.0","646.0","736.0","839.0","946.0","1,045.0","1,289.0","1,531.0"
+"46","22","  Adjustment for mutual savings banks and savings and loan associations","B2661C1","869.0","975.0","1,076.0","1,185.0","1,319.0","1,462.0","277.0","45.0","69.0","36.0","15.0","125.0","108.0","156.0","210.0","0.0","0.0","272.0","329.0","402.0","0.0","650.0","768.0","959.0"
+"47","23","  Other \4\","B2662C1","345.0","390.0","462.0","532.0","646.0","742.0","849.0","970.0","1,053.0","1,178.0","1,312.0","1,479.0","1,657.0","1,831.0","2,109.0","2,626.0","2,907.0","2,927.0","3,331.0","3,644.0","4,726.0","4,962.0","5,384.0","6,140.0"
+"48","24","Equals: Monetary interest received by corporations, NIPAs","A2070C1","6,161.0","6,581.0","7,386.0","8,082.0","8,899.0","10,003.0","11,273.0","12,578.0","13,465.0","15,171.0","17,399.0","19,756.0","20,999.0","24,430.0","27,797.0","29,304.0","32,684.0","36,335.0","40,203.0","44,342.0","50,362.0","55,171.0","63,482.0","75,475.0"
+"49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","1. Consists of interest paid by nonprofit organizations serving business and by credit unions.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","2. Consists of construction interest capitalized on tax returns, interest reported on tax",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","returns in cost of goods sold, and interest passed through to shareholders by small business",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","corporations.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","3. Consists of nonprofit organizations serving business, of credit unions, and of other",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","tax-exempt interest received by commercial banks and nonlife insurance carriers.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","4. Consists of interest received by credit agencies and finance companies reported as business",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","receipts on tax returns, of interest passed through to shareholders by small business",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","corporations, and of interest received by defined benefit pension plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","Note.  Total interest received by financial proprietorships and partnerships is not separately",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","identified by the IRS.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","IRS Internal Revenue Service",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","NIPAs National income and product accounts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

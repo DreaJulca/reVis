@@ -1,0 +1,44 @@
+"","Table 4BU3# Real Manufacturing Inventories, by Stage of Fabricat","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Millions of chained (2005) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2011",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published December 21, 2012 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 12/20/2012 5:03:58 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011
+"8",NA,"    Finished goods"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","53","Manufacturing industries","KS30F0",170196,176184,183233,190488,184527,182331,179790,183029,190204,197697,199312,192055,181609,186736,194142
+"10","54","  Durable goods industries","KS30DF0",77600,82569,85424,89520,85814,83814,82548,84502,89309,94184,94234,91989,83656,86334,92847
+"11","55","    Wood product manufacturing","KS321F0",3495,3718,3982,4273,3977,4128,3924,4106,4474,4586,4386,3878,3174,3357,3474
+"12","56","    Nonmetallic mineral product manufacturing","KS327F0",5843,5878,6025,6071,5760,5892,5804,5978,6050,6315,6450,6121,5231,5161,5260
+"13","57","    Primary metal manufacturing","KS331F0",8341,8804,8808,8894,8204,8105,7856,8431,8997,9066,9274,8325,6687,7178,7686
+"14","58","    Fabricated metal product manufacturing","KS332F0",11751,12508,12869,13330,13015,12958,12739,12609,13062,13455,13666,13845,12853,13115,12939
+"15","59","    Machinery manufacturing","KS333F0",12297,13409,13421,13977,12691,12626,11922,12091,12873,13881,14106,14186,12981,13166,15134
+"16","60","    Computer and electronic product manufacturing","KS334F0",11627,12206,13203,14667,13720,12270,12571,12974,13715,14583,14835,15545,15064,16347,16956
+"17","61","    Electrical equipment, appliance, and component manufacturing","KS335F0",3881,4270,4141,4316,3953,3844,3735,3530,3441,3831,4131,3984,3304,3317,2908
+"18","62","    Transportation equipment manufacturing","KS336F0",12120,13403,13731,13722,14210,13654,12998,13688,14494,15747,14695,13288,11908,11300,15138
+"19","63","      Motor vehicle and parts manufacturing","KS3MVF0",5799,6172,6550,6987,6534,6749,6857,6976,7192,7202,7293,6840,6176,6575,8046
+"20","64","      Other transportation equipment manufacturing","KS3OTF0",6320,7248,7188,6727,7693,6907,6142,6712,7302,8544,7398,6441,5726,4756,7103
+"21","65","    Furniture and related product manufacturing","KS337F0",2626,2660,2840,2938,2845,3094,2928,3081,3238,3170,3047,2830,2445,2506,2377
+"22","66","    Miscellaneous durable goods manufacturing","KS339F0",5845,5997,6448,7128,7264,7322,8079,8014,8965,9575,9603,10107,10321,11261,11532
+"23","67","  Nondurable goods industries","KS30NF0",92794,93439,97691,100766,98615,98525,97256,98527,100895,103532,105051,100119,97836,100310,101612
+"24","68","    Food manufacturing","KS311F0",20180,20230,20867,21855,21860,22479,21787,21282,21800,21734,21636,22023,22669,22417,22589
+"25","69","    Beverage and tobacco product manufacturing","KS312F0",3924,3807,4008,4085,4321,4332,4425,4684,4627,4661,4709,4554,4835,5042,5321
+"26","70","    Textile mills","KS313F0",2718,2958,3072,2872,2737,2609,2501,2433,2421,2353,2315,2144,1879,1929,1979
+"27","71","    Textile product mills","KS314F0",1593,1485,1666,1848,2053,1520,1658,1619,1728,1801,1706,1612,1348,1495,1517
+"28","72","    Apparel manufacturing","KS315F0",4285,4537,4966,4925,4127,3840,3971,3802,3775,3809,3705,3601,3375,3383,3474
+"29","73","    Leather and allied product manufacturing","KS316F0",913,972,999,944,851,765,727,713,757,853,836,857,839,770,779
+"30","74","    Paper manufacturing","KS322F0",7145,7190,7319,7187,7378,7771,7529,7616,7559,7495,7392,7223,6735,6664,6314
+"31","75","    Printing and related support activities","KS323F0",2992,3006,3116,3112,3011,3047,2913,2936,2956,3011,3106,2967,2748,2721,2671
+"32","76","    Petroleum and coal product manufacturing","KS324F0",11711,11057,10945,11737,11678,11473,11309,11673,11837,12426,13480,13929,14790,15124,15692
+"33","77","    Chemical manufacturing","KS325F0",29272,29287,30993,32216,30857,30716,30577,32026,33589,34822,35107,30777,29252,30978,31137
+"34","78","    Plastics and rubber product manufacturing","KS326F0",8451,8872,9397,9852,9624,9882,9762,9742,9845,10537,10774,10079,9069,9494,9725
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Note.  Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Chained (2005) dollar inventory series are calculated to ensure that the chained (2005) dollar change in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","inventories for 2005 equals the current-dollar change in inventories for 2005 and that the average of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","2004 and 2005 end-of-year chain-weighted and fixed-weighted inventories are equal.  Chained (2005) dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","final sales series are calculated as the product of the chain-type quantity index and the 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","current-dollar value of the corresponding series, divided by 100.  Because the formula for the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,45 @@
+"","Table 4BU3# Real Manufacturing Inventories, by Stage of Fabricat","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15"
+"1","[Millions of chained (2000) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published June 01, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/29/2009 10:38:20 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8",NA,"  Finished goods"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","55","A Manufacturing industries","KS30F0",150171,156615,163684,169981,165408,162926,160058,162173,167097,172481,169042,158961
+"10","56","A   Durable goods industries","KS30DF0",72831,77926,81039,84881,81721,79396,77868,79298,83269,86210,84777,80371
+"11","57","A     Wood product manufacturing","KS321F0",3303,3512,3736,4049,3820,3964,3780,3972,4336,4484,4167,3689
+"12","58","A     Nonmetallic mineral product manufacturing","KS327F0",5117,5188,5359,5388,5103,5133,4979,5046,5040,5280,5016,4754
+"13","59","A     Primary metal manufacturing","KS331F0",6592,7052,7125,7242,6775,6631,6228,6321,6770,6741,6169,5520
+"14","60","A     Fabricated metal product manufacturing","KS332F0",10233,11021,11385,11701,11449,11409,11152,11045,11298,11399,10797,10103
+"15","61","A     Machinery manufacturing","KS333F0",11359,12403,12514,13047,11899,11438,10814,11013,11658,12412,12807,12143
+"16","62","A     Computer and electronic product manufacturing","KS334F0",13501,14152,15408,17105,16125,14781,15105,15699,16457,17020,17245,17392
+"17","63","A     Electrical equipment, appliance, and component manufacturing","KS335F0",3347,3713,3608,3770,3467,3414,3300,3111,3019,3298,3405,3312
+"18","64","A     Transportation equipment manufacturing","KS336F0",11387,12715,13033,13081,13462,12780,12104,12798,13483,14194,13990,12982
+"19","65","D       Motor vehicle and parts manufacturing","KS3MVF0",5539,5992,6359,6791,6342,6498,6503,6634,6776,6704,6598,5086
+"20","66","D       Other transportation equipment manufacturing","KS3OTF0",5845,6725,6674,6290,7117,6281,5604,6158,6697,7475,7378,7912
+"21","67","A     Furniture and related product manufacturing","KS337F0",2454,2503,2683,2759,2667,2828,2735,2848,2986,2875,2623,2261
+"22","68","A     Miscellaneous durable goods manufacturing","KS339F0",5552,5708,6184,6735,6949,6986,7755,7591,8408,8797,9197,9229
+"23","69","A   Nondurable goods industries","KS30NF0",77430,78672,82644,85099,83685,83526,82180,82894,84011,86488,84521,78898
+"24","70","A     Food manufacturing","KS311F0",16906,17132,17853,18631,18628,19032,18223,17841,17833,18088,17855,17418
+"25","71","A     Beverage and tobacco product manufacturing","KS312F0",3565,3427,3622,3677,3896,3924,3953,4265,4165,4185,4667,4939
+"26","72","A     Textile mills","KS313F0",2708,2981,3102,2907,2695,2577,2521,2415,2382,2302,2240,2221
+"27","73","A     Textile product mills","KS314F0",1705,1591,1783,1967,2172,1592,1738,1681,1779,1864,1833,1728
+"28","74","A     Apparel manufacturing","KS315F0",3978,4177,4582,4574,3857,3743,3901,3814,3794,3852,4057,4077
+"29","75","A     Leather and allied product manufacturing","KS316F0",789,851,879,830,738,723,685,663,700,788,717,741
+"30","76","A     Paper manufacturing","KS322F0",6594,6695,6847,6726,6847,7312,7108,7164,7076,7062,7099,6445
+"31","77","A     Printing and related support activities","KS323F0",2818,2841,2956,2944,2852,2923,2801,2792,2801,2864,2994,2805
+"32","78","A     Petroleum and coal product manufacturing","KS324F0",7330,7077,6885,7211,7383,7253,7213,7475,7664,7959,7286,6108
+"33","79","A     Chemical manufacturing","KS325F0",23895,24174,25818,26927,26095,25534,25282,25978,26893,27899,26526,24294
+"34","80","A     Plastics and rubber product manufacturing","KS326F0",7423,7867,8320,8708,8535,8888,8766,8718,8714,9306,9670,8927
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Note.  Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Chained (2000) dollar inventory series are calculated to ensure that the chained (2000) dollar change in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","inventories for 2000 equals the current-dollar change in inventories for 1996 and that the average of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","1999 and 2000 end-of-year chain-weighted and fixed-weighted inventories are equal.  Chained (2000) dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","final sales series are calculated as the product of the chain-type quantity index and the 2000",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","current-dollar value of the corresponding series, divided by 100.  Because the formula for the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","usually not additive.  The residual line is the difference between the first line and the sum of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","most detailed lines for inventories.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

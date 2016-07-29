@@ -1,0 +1,41 @@
+"","Table 6#9D# Hours Worked by Full-Time and Part-Time Employees by","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16"
+"1","[Millions of hours]                                                                                                                                                                                                                                       ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 2000 To 2012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published November 1, 2013  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/29/2014 12:02:22 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012
+"8","1","      Hours worked by full-time and part-time employees","B4701C0",230609,227725,225628,224465,227051,230289,234691,237050,234722,222492,222194,226049,230299
+"9","2","Domestic industries","B4702C0",231552,229013,226934,225873,228569,231845,236324,238773,237335,224396,224146,228014,232308
+"10","3","  Private industries","B4703C0",197180,194341,191503,190231,192990,196226,200571,202677,200796,187748,187495,192019,196480
+"11","4","    Agriculture, forestry, fishing, and hunting","N4704C0",2498,2468,2481,2357,2178,2162,2358,2514,2435,2317,2490,2433,2437
+"12","5","      Farms \1\","N4705C0",1654,1668,1691,1601,1448,1402,1381,1504,1441,1397,1494,1465,1463
+"13","6","      Forestry, fishing, and related activities","N4706C0",844,800,790,756,730,760,977,1010,994,920,996,968,974
+"14","7","    Mining","N4707C0",1119,1151,1041,1054,1151,1248,1398,1486,1580,1378,1428,1659,1810
+"15","8","    Utilities","N4708C0",1181,1166,1127,1092,1072,1060,1065,1098,1120,1107,1087,1086,1060
+"16","9","    Construction","N4709C0",13799,14018,13814,13831,14349,15058,15964,15810,14757,12098,11239,11368,11719
+"17","10","    Manufacturing","N4710C0",34014,31729,29495,28005,27842,27534,27743,27240,26224,22672,22666,23250,23770
+"18","11","      Durable goods","N4711C0",21540,20003,18357,17357,17436,17400,17600,17266,16575,13906,13875,14464,14914
+"19","12","      Nondurable goods","N4712C0",12474,11726,11138,10649,10406,10134,10144,9975,9649,8766,8792,8787,8856
+"20","13","    Wholesale trade","N4713C0",10708,10688,10391,10280,10396,10585,10867,11084,11098,10213,10083,10399,10571
+"21","14","    Retail trade","N4714C0",22679,22546,22554,22394,22545,22662,22780,22833,22486,21306,21344,21798,22092
+"22","15","    Transportation and warehousing","N4715C0",7966,7725,7501,7417,7644,7770,7892,8030,7925,7366,7415,7815,8018
+"23","16","    Information","N4716C0",7014,6863,6266,5894,5771,5682,5610,5538,5509,5133,4937,4891,4870
+"24","17","    Finance and insurance, real estate, rental, and leasing","N4717C0",13655,14024,13970,14133,14199,14599,14740,14686,14437,13845,13646,13836,14057
+"25","18","    Professional and business services \2\","N4718C0",28254,27801,27171,27035,27842,28883,30188,31106,31108,29009,29574,30720,31681
+"26","19","    Educational services, health care and social assistance","N4719C0",25327,26130,27139,27967,28761,29449,30107,31057,31955,32306,32863,33504,34216
+"27","20","    Arts, entertainment, recreation, accommodation, and food services","N4729C0",18468,17650,17898,18230,18731,19143,19412,19595,19565,18801,18772,19166,19989
+"28","21","    Other services, except government","N4730C0",10498,10382,10655,10542,10509,10391,10447,10600,10597,10197,9951,10094,10190
+"29","22","  Government","B4720C0",34372,34672,35431,35642,35579,35619,35753,36096,36539,36648,36651,35995,35828
+"30","23","    General government","B4721C0",30888,31135,31831,32077,32069,32124,32269,32559,32999,33189,33101,32533,32411
+"31","24","    Government enterprises","B4722C0",3484,3537,3600,3565,3510,3495,3484,3537,3540,3459,3550,3462,3417
+"32","25","Rest of the world \3\","B4723C0",-943,-1288,-1306,-1408,-1518,-1556,-1633,-1723,-2613,-1904,-1952,-1965,-2009
+"33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","1. NAICS crop and animal production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","2. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","3. Includes estimates of foreign professional workers and undocumented Mexican migratory",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","workers employed temporarily in the United States.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Note.  Estimates in this table are based on the 2002 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

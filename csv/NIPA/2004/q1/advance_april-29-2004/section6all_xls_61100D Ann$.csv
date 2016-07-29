@@ -1,0 +1,71 @@
+"","Table 6#11D# Employer Contributions for Employee Pension and Ins","F2","F3","F4","F5","F6","F7","F8"
+"1","[Millions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2002",NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 19, 2004    ",NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/28/2004 3:10:01 PM",NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002
+"8","1","      Employer contributions for employee pension and insurance funds","B040RC0",529695,562362,609908,642637,680430
+"9",NA,"          By industry"," ",NA,NA,NA,NA,NA
+"10","2","Domestic industries","B040RC0",529695,562362,609908,642637,680430
+"11","3","  Private industries","B4903C0",355349,383133,423075,446674,470507
+"12","4","    Agriculture, forestry, fishing, and hunting","N4904C0",1689,1906,2018,2172,2246
+"13","5","    Mining","N4905C0",3387,3349,3745,4074,4143
+"14","6","    Utilities","N4906C0",4895,5032,5568,5971,6338
+"15","7","    Construction","N4907C0",26434,29130,32061,34682,36158
+"16","8","    Manufacturing","N4908C0",95801,100346,110975,110704,114048
+"17","9","      Durable goods","N4909C0",66583,70116,78444,76778,78334
+"18","10","      Nondurable goods","N4910C0",29218,30230,32531,33926,35714
+"19","11","    Wholesale trade","N4911C0",22668,25259,27091,28718,30751
+"20","12","    Retail trade","N4912C0",21763,23007,25314,27676,30150
+"21","13","    Transportation and warehousing","N4913C0",19483,20342,22334,23800,24986
+"22","14","    Information","N4914C0",16247,18618,21567,22380,22229
+"23","15","    Finance, insurance, real estate, rental, and leasing","N4915C0",34520,37270,41141,44863,47366
+"24","16","    Professional and business services \1\","N4916C0",51843,57778,64473,67785,70456
+"25","17","    Educational services, health care, and social assistance","N4918C0",36978,39961,43611,48396,53315
+"26","18","    Arts, entertainment, recreation, accommodation, and food services","N4919C0",10825,11593,12872,14162,15657
+"27","19","    Other services, except government","N4929C0",8818,9540,10302,11291,12664
+"28","20","  Government","B4918C0",174346,179229,186834,195963,209924
+"29","21","Rest of the world","ZZZZZZ0",NA,NA,NA,NA,NA
+"30",NA,"          By type"," ",NA,NA,NA,NA,NA
+"31","22","Employer contributions for employee pension and insurance funds","B040RC0",529695,562362,609908,642637,680430
+"32","23","  Pension and profit-sharing","B4934C0",210434,215965,222553,230546,237879
+"33","24","    Private pension and profit-sharing","B4921C0",102911,107878,113451,120238,124109
+"34","25","      Defined benefit pension and profit-sharing","W350RC0",33464,32828,34301,36016,39617
+"35","26","      Defined contribution pension and profit-sharing","W351RC0",69447,75050,79150,84222,84492
+"36","27","    Publicly administered government employee retirement plans","B4935C0",107523,108087,109102,110308,113770
+"37","28","      Federal civilian \2\","B4945C0",39079,39996,41260,42332,43887
+"38","29","      Federal military \3\","B1583C0",26298,26574,28222,29408,31834
+"39","30","      State and local","S251100",42146,41517,39620,38568,38049
+"40","31","  Private insurance funds","B4936C0",319261,346396,387356,412090,442546
+"41","32","    Group insurance","B4922C0",279075,305688,343779,366333,393020
+"42","33","      Group health insurance","B4923C0",267633,294125,331416,353291,379261
+"43","34","      Group life insurance","B4924C0",11442,11563,12363,13042,13759
+"44","35","    Workers' compensation","B4925C0",38106,38768,41734,43834,47565
+"45","36","    Supplemental unemployment","B4926C0",2080,1940,1843,1923,1961
+"46",NA,"Addenda:"," ",NA,NA,NA,NA,NA
+"47","37","  Benefits paid by pension and insurance funds","B4928C0",760699,816319,885442,942221,1006808
+"48","38","    Pension and profit-sharing","B4937C0",397546,424466,453414,484755,517181
+"49","39","      Private pension and profit-sharing","B4929C0",236428,252896,270135,288675,308808
+"50","40","      Publicly administered government employee retirement plans","B4938C0",161118,171570,183279,196080,208373
+"51","41","        Federal civilian \2\","B4946C0",45871,47274,49779,51867,53285
+"52","42","        Federal military \3\","B1593C0",31452,32172,33220,34645,35429
+"53","43","        State and local","S121000",83795,92124,100280,109568,119659
+"54","44","    Private insurance funds","B4939C0",363153,391853,432028,457466,489627
+"55","45","      Group insurance","B4940C0",327878,354899,392980,417274,448247
+"56","46","        Group health insurance","B4930C0",309610,334755,375962,400409,430467
+"57","47","        Group life insurance","B4931C0",18268,20144,17018,16865,17780
+"58","48","      Workers' compensation","B4932C0",33246,35071,37282,38350,39501
+"59","49","      Supplemental unemployment","B4933C0",2029,1883,1766,1842,1879
+"60","50","  Employee contributions for publicly administered government employee retirement plans","B4941C0",32391,34722,36755,38826,42274
+"61","51","    Federal civilian","B4947C0",9547,10254,10934,11526,13458
+"62","52","    State and local","S251200",22844,24468,25821,27300,28816
+"63",NA,NA,NA,NA,NA,NA,NA,NA
+"64","1. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA,NA,NA
+"65","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA
+"66","2. Consists of civil service, foreign service, Public Health Service officers, Tennessee",NA,NA,NA,NA,NA,NA,NA
+"67","Valley Authority, Thrift Savings Fund, and several small retirement programs.",NA,NA,NA,NA,NA,NA,NA
+"68","3. Includes the Coast Guard.",NA,NA,NA,NA,NA,NA,NA
+"69","Note.  Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA
+"70","System (NAICS).",NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,85 @@
+"","Table 4#2#6# Real Exports and Imports of Goods and Services by T","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 28, 2013    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/27/2013 7:43:21 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012
+"8","1","    Exports of goods and services","A020RX1",845.1,915.3,1024.3,1047.7,1093.4,1187.4,1120.8,1098.3,1116,1222.5,1305.1,1422.1,1554.4,1649.3,1498.7,1665.6,1776.9,1837.3
+"9","2","Exports of goods \1\","A253RX1",574.8,625.5,715.4,731.4,759.2,843.4,791.2,762.7,776.4,842.6,906.1,991.5,1088.1,1157,1018.6,1164.1,1247.6,1300.4
+"10","3","  Foods, feeds, and beverages","B638RX1",54.5,53.6,54,53.4,55,58.2,59.8,58.5,59.5,55.9,59,63.6,69.2,73.8,70.5,77.7,77.3,77.9
+"11","4","  Industrial supplies and materials","A639RX1",168.5,177,192.4,190.3,192,210.8,202.4,203,208.1,221.6,227.5,244.6,269.2,298.5,277.9,321.1,341.8,349
+"12","5","    Durable goods","B686RX1",57.7,61.1,66.7,67.9,70.1,80.6,73.5,68.7,70.5,76.4,82.2,90,95.1,105.1,91,106.3,110.1,110
+"13","6","    Nondurable goods","B687RX1",111.1,116.1,126,122.6,121.8,130.1,128.8,134.3,137.7,145.3,145.3,154.5,174.2,193.5,186.8,214.6,231.2,238.3
+"14","7","  Capital goods, except automotive","A640RX1",193.3,224,274.6,286.3,302.2,348.2,313.8,286.5,293.3,328.3,358.4,401.2,433.6,459.6,393.4,447.1,488.6,517.5
+"15","8","    Civilian aircraft, engines, and parts","B688RX1",37,42,54.5,69.7,67.3,58.4,60.4,56.4,50.5,48.1,55.9,62,67.1,64.9,62.5,58.6,63,71.8
+"16","9","    Computers, peripherals, and parts \2\","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","10","    Other","B689RX1",142.7,161.1,192.2,191,202.7,244.2,214.6,197.1,206.9,240.8,257,289.4,314.7,340.9,280.8,332.1,361.2,378.3
+"18","11","  Automotive vehicles, engines, and parts","B641RX1",65.8,68.2,77.2,76.2,78.6,83.2,77.8,81,82.2,90.2,98.4,106,118.4,117.2,78.4,106.9,125,134.9
+"19","12","  Consumer goods, except automotive","A642RX1",66.7,71.1,78.4,80.8,82.7,91,90.2,86.6,91.8,104.4,115.3,127.5,141.2,152.7,141.2,154.4,161.3,164.8
+"20","13","    Durable goods","B690RX1",33.7,35.8,40.1,41.5,42.8,47.5,47.1,44.7,46.7,54.5,62.1,70.4,81.1,87.2,72,84.7,92.8,92.9
+"21","14","    Nondurable goods","B691RX1",33,35.3,38.3,39.3,39.9,43.5,43.1,41.9,45.1,49.9,53.2,57,60.1,65.5,69,69.7,68.9,72.2
+"22","15","  Other","A643RX1",34.3,36.4,40.1,44,46.9,47.9,45.7,48.5,42.7,42.6,47.5,48.8,56.6,53.3,50.3,50.2,50.4,56.2
+"23","16","Exports of services \1\","A646RX1",272.6,291.7,308.9,316.4,334.6,343.5,329.3,335.6,339.6,380,399,430.6,466.3,492.3,479.6,501.9,529.8,537.5
+"24","17","  Transfers under U.S. military agency sales contracts","B267RX1",14.4,16.2,17,18,15.7,13.4,12.5,12,13.2,15.3,18.1,22.1,15,12.2,13.4,11.7,14.7,15
+"25","18","  Travel","B493RX1",79.4,85.4,87.9,84.4,86.2,90.7,78.7,73.5,69.6,77.9,81.8,82.2,89.6,97.7,87,92.8,99.1,104
+"26","19","  Passenger fares","B533RX1",27.1,29.2,31.4,30.7,28.1,28.6,24.5,22.7,18.9,20.3,21,21.9,23.4,25.8,24.8,25.4,27,27.6
+"27","20","  Other transportation","B683RX1",33.2,32.3,33.3,32.7,34.1,34.3,33.1,34.4,35.8,40.6,41.3,43.9,37.9,38.2,33.1,36.1,35.7,35.2
+"28","21","  Royalties and license fees","B684RX1",37.4,39.3,39.5,42,46.1,49,45.2,48.7,50.2,58.8,64.4,68.4,79.5,93.1,89.7,96.3,105.9,107.7
+"29","22","  Other private services","B720RX1",71.2,78.7,88.9,97.4,112.2,116,122.9,132,139.7,154.5,160,179.3,207.5,210.5,216.9,228.1,234.8,234.8
+"30","23","  Other","B980RX1",14.9,15.4,15.3,14.3,14.1,13.7,13.5,13,12.2,12.6,12.4,12.9,13.3,14.7,14.6,11.9,12.9,13.6
+"31","24","Residual","A977RX1",-19.8,-13.8,-8.3,-8.9,-4,3.3,0,-3.3,-1.7,-0.7,0,-0.1,0.1,1.4,7.9,2.9,-2.6,-3.6
+"32","25","    Imports of goods and services","A021RX1",943.9,1026,1164.1,1300.2,1449.9,1638.7,1592.6,1646.8,1719.7,1910.4,2027.8,2151.5,2203.2,2144,1853.8,2085.2,2184.9,2238
+"33","26","Imports of goods \1\","A255RX1",765.5,837.2,957.9,1071.4,1205,1366.7,1323.1,1372.2,1439.9,1599.3,1708,1809.1,1856.1,1784.8,1506.4,1730.3,1820,1858.2
+"34","27","  Foods, feeds, and beverages","B647RX1",34.5,38,41.8,44.9,49,52.4,54.8,57.7,62.1,65.7,68.1,72.2,73.1,73.3,69.2,70.8,72.2,75
+"35","28","  Industrial supplies and materials, except petroleum and products","A649RX1",150.5,159,172.1,191.2,200.5,214,206.6,212.5,215.9,249.5,266,277.4,266.5,248.4,188,215.2,229.3,235.9
+"36","29","    Durable goods","A820RX1",71.5,76.5,82.4,95.1,99,105.5,99.4,104.5,105.6,127.1,136,148.7,134.3,124,86.9,99.6,108.4,114.3
+"37","30","    Nondurable goods","B696RX1",79.5,82.9,90.2,96.1,101.6,108.7,107.6,108.1,110.5,122.4,130,128.3,133,125.2,102.2,116.8,121.7,121.9
+"38","31","  Petroleum and products","B648RX1",168.1,182.3,189.9,202.9,204.6,215.9,222.3,217.1,231.6,246.9,251.9,247.1,253.9,244.1,226.4,227.5,223.2,204.9
+"39","32","  Capital goods, except automotive","A650RX1",134.8,158.4,198.8,228.7,262.2,314.9,279,274.5,290.5,342,380.7,423.3,451.5,462.4,384.3,466.2,530.1,567.8
+"40","33","    Civilian aircraft, engines, and parts","B932RX1",14.4,16.4,20.7,26.7,28.6,30.7,35.2,28,25.8,25.2,25.8,27.3,31.5,30.6,25.1,24.9,27.2,29
+"41","34","    Computers, peripherals, and parts \2\","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","35","    Other","B853RX1",109.2,124.9,153.4,168.4,185.3,227.9,193.1,187.4,199.5,235.4,261.7,287.1,300.5,310,243.4,296.8,345.9,374.1
+"43","36","  Automotive vehicles, engines, and parts","B651RX1",131.2,135.7,146.6,156.1,186.7,202.9,196.7,210.5,216,230.6,239.4,255.6,253.1,224.3,151.9,213.9,234.8,269.5
+"44","37","  Consumer goods, except automotive","A652RX1",152.9,164.6,188.6,214,240.2,282.3,286.9,314.5,342.6,380.6,411.5,444.4,470.1,466.8,415.2,468.3,489.4,484.2
+"45","38","    Durable goods","B697RX1",75.2,81.7,92.7,107.2,122.2,146.2,144.9,162,174.7,202.2,224,242.3,259,257.6,220.5,256.6,266.3,269
+"46","39","    Nondurable goods","B698RX1",78.1,83.2,96.4,107.1,118.2,136.2,142.3,152.6,168.1,178.4,187.5,202.1,211,209.1,194.6,211.8,223.1,215.6
+"47","40","  Other","A653RX1",46.4,48.1,55.5,64.6,76.1,85.6,87.4,90.1,85.9,85.8,90.3,91.3,91.8,71.9,67.4,77.1,66.7,71.6
+"48","41","Imports of services \1\","B656RX1",180.9,190.3,206.9,229.4,244.9,271.7,269.6,274.5,279.8,311,319.8,342.4,347.1,359.8,347.8,356.6,366.6,381.9
+"49","42","  Direct defense expenditures","B752RX1",13,14.4,16.6,17.8,19.1,20,21.9,27.1,30.8,32.2,30.1,29.5,24,23.1,25.3,26.4,23.6,22.7
+"50","43","  Travel","B768RX1",55.8,58,62.9,71.2,72.5,80.8,76.9,72.2,65.8,70.2,69,69.4,67.9,66.9,64.2,64.2,65.1,68.6
+"51","44","  Passenger fares","B769RX1",20.8,22.1,23.9,26,27.1,29.1,24.9,20.9,21.5,25.7,26.1,26.1,25.1,24.5,20.9,19.9,21.2,21.8
+"52","45","  Other transportation","B770RX1",40.3,39.7,42.8,45.8,46,51.1,48.4,50,51.8,57.9,61.9,65.7,55.6,54.3,44.2,49.5,50.3,52.2
+"53","46","  Royalties and license fees","B908RX1",8.6,9.5,10.9,13.2,15.2,18.6,18.4,21.2,20.3,24.1,24.6,22.8,23.5,27,28.5,30,32.1,36.2
+"54","47","  Other private services","B909RX1",37.3,40.9,43.9,49,57.3,63.7,69.9,74.4,80.3,90.7,97.8,118.8,140,154,153.8,156.6,164.6,171.3
+"55","48","  Other","B910RX1",8,8.2,8.5,8.8,8.8,9.3,9.7,9.6,9.7,10.3,10.2,10.1,10.2,9.4,9.6,9.4,9,8.7
+"56","49","Residual","A978RX1",-67.1,-60.8,-47,-40.6,-18.9,-6.2,-16,-7,-6.2,-2,0.1,-2.1,-4.3,-7.7,-1,-19.8,-34.9,-59.4
+"57",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","50","  Exports of durable goods","A332RX1",363,404.8,478,493.4,517,583.7,535.1,504.8,513.7,570.7,624.9,692,756.1,795.8,660.4,770.8,841.1,881.7
+"59","51","  Exports of nondurable goods","A339RX1",216.2,223.4,237.9,237.6,240.8,256.5,255.2,259.1,263.8,272.2,281.2,299.6,331.9,359.8,351.1,387.2,403,416.1
+"60","52","  Exports of agricultural goods \3\","B181RX1",59,57.6,58.8,58.8,59.2,64,66,64.4,65.2,61.7,64.9,70.4,75.3,80.2,77.7,86,84.7,86.5
+"61","53","  Exports of nonagricultural goods","A182RX1",514.8,566.9,655.9,671.9,699.2,778.3,724.8,698.1,710.9,780.9,841.2,921.1,1013,1077,938.9,1076.6,1164.1,1215.8
+"62","54","  Imports of durable goods","A333RX1",422.3,467.5,544.6,616.4,706.2,813.7,763.4,795.4,829.7,944.6,1025.4,1115.6,1141.2,1099.3,870.9,1066.6,1161.7,1244.7
+"63","55","  Imports of nondurable goods","A340RX1",360,384.1,424.1,462.9,500.2,549.2,564.2,580.2,615.2,655.8,682.6,694.5,715.7,686.6,626.4,662,666.2,639.8
+"64","56","  Imports of nonpetroleum goods","A187RX1",629.5,689,795.2,892.3,1010.6,1153.6,1109.8,1157.7,1212.6,1353.9,1456.1,1564,1604.2,1542.7,1272.5,1503.8,1608.7,1688
+"65",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal government, are included ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","in services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","Beginning with 1986, repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","2. The quantity index for computers can be used to accurately measure the real growth of this component. However, because ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","computers exhibit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","rapid changes in prices relative to other prices in the economy, the chained-dollar estimates should not be used to measure the ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","component's",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","relative importance or its contribution to the growth rate of more aggregate series; accurate estimates of these contributions ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","are shown in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","table 4.2.2 and real growth rates are shown in table 4.2.1.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","3. Includes parts of foods, feeds, and beverages, of nondurable industrial supplies and materials, and of nondurable ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","nonautomotive consumer goods.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Note. Chained (2005) dollar series are calculated as the product of the chain-type quantity index and the 2005 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","value of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","period, the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","chained-dollar estimates are usually not additive. For exports and for imports, the residual line is the difference between the ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","aggregate line and the sum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

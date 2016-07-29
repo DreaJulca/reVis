@@ -1,0 +1,26 @@
+"","Table 6#7A# Self-Employed Persons by Industry                   ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23"
+"1","[Thousands]                                                                                                                                                                                                                                               ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1948",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published February  13, 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/26/2007 9:03:43 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948
+"8","1","    Self-employed persons \1\","A4501C0",10320,10311,10352,10350,10371,10493,10645,10567,10495,10338,10266,10150,10090,9947,9431,9273,9349,9913,10199,10211
+"9","2","Agriculture, forestry, and fisheries","H4502C0",5675,5671,5773,5858,5952,6041,6150,5965,5810,5621,5442,5263,5186,5115,5033,4970,4897,4776,4650,4545
+"10","3","  Farms","B4503C0",5566,5566,5663,5760,5857,5954,6051,5871,5691,5511,5331,5153,5078,5003,4928,4853,4780,4649,4518,4410
+"11","4","  Agricultural services, forestry, and fisheries","H4504C0",109,105,110,98,95,87,99,94,119,110,111,110,108,112,105,117,117,127,132,135
+"12","5","Mining","H4505C0",24,24,26,29,31,35,36,37,38,38,38,38,40,36,32,26,26,30,35,38
+"13","6","Contract construction","B4506C0",822,817,785,737,680,654,648,659,656,631,645,656,675,728,606,536,565,812,945,984
+"14","7","Manufacturing","H4507C0",128,109,88,68,69,77,79,87,95,98,119,127,137,146,154,168,174,188,191,183
+"15","8","  Durable goods","H4508C0",44,34,24,18,19,23,26,28,28,28,39,45,52,56,60,65,75,84,92,88
+"16","9","  Nondurable goods","H4509C0",84,75,64,50,50,54,53,59,67,70,80,82,85,90,94,103,99,104,99,95
+"17","10","Transportation and public utilities","B4510C0",164,166,167,169,170,170,172,175,177,179,182,187,195,183,166,152,134,164,189,197
+"18","11","Wholesale trade","H4511C0",113,114,115,116,118,124,129,140,151,150,166,175,184,184,160,165,184,204,217,214
+"19","12","Retail trade and automobile services","H4512C0",1862,1859,1851,1841,1841,1855,1865,1915,1965,2002,2051,2082,2051,1950,1722,1702,1792,1962,2096,2162
+"20","13","Finance, insurance, and real estate","B4513C0",160,161,160,157,154,159,164,170,174,178,184,189,185,197,186,197,209,219,223,220
+"21","14","Services","H4514C0",1372,1390,1387,1375,1356,1378,1402,1419,1429,1441,1439,1433,1437,1408,1372,1357,1368,1558,1653,1668
+"22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","1. Consists of active proprietors or partners who devote a majority of their working hours to",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","their unincorporated businesses.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Note.  Estimates in this table are based on the 1942 Standard Industrial Classification (SIC).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,71 @@
+"","Table 1#14# Gross Value Added of Domestic Corporate Business in ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:49:03 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Gross value added of corporate business \1\","A451RC1",4357.5,4625,4978.9,5299.3,5624.5,6016.4,6034.7,6122.7,6360.7,6774.2,7297.9,7823.3,8026,8112.1
+"9","2","Consumption of fixed capital","A438RC1",476.8,506,540.9,578.3,625.8,685.1,730.3,755.9,775.5,809.2,862.9,925.9,981,1036.8
+"10","3","Net value added","A439RC1",3880.7,4119,4438.1,4720.9,4998.7,5331.4,5304.4,5366.8,5585.2,5965,6435,6897.4,7045,7075.2
+"11","4","  Compensation of employees","A442RC1",2776,2914.9,3123.9,3396.8,3628.6,3950.7,3986.2,3980.7,4105.5,4265.9,4498.5,4743.4,4948,5005.9
+"12","5","    Wage and salary accruals","A443RC1",2300.2,2438.6,2635.3,2868.6,3077.6,3344.4,3350.3,3294.4,3356.9,3507.8,3701.4,3930.9,4121.9,4162.9
+"13","6","    Supplements to wages and salaries","A444RC1",475.8,476.3,488.5,528.3,551,606.3,635.9,686.3,748.5,758,797.1,812.5,826.1,843
+"14","7","  Taxes on production and imports less subsidies","W321RC1",379.1,390.7,406.9,418.4,441.5,466.6,462.6,492.2,517.3,553.7,596.7,633.7,655.8,665.4
+"15","8","  Net operating surplus","W322RC1",725.6,813.4,907.3,905.7,928.6,914.1,855.7,893.9,962.4,1145.4,1339.8,1520.3,1441.2,1404
+"16","9","    Net interest and miscellaneous payments","A453RC1",64.7,69.3,94.8,142.2,139,166.6,154.2,116.2,99.4,48.6,61.6,120.4,174.8,334
+"17","10","    Business current transfer payments (net)","W323RC1",37.7,44.6,35.2,53.8,54.9,73.8,87,63.5,50.9,54.9,61.6,48.4,72.4,86.8
+"18","11","    Corporate profits with IVA and CCAdj","A445RC1",623.2,699.5,777.3,709.7,734.8,673.6,614.5,714.3,812,1041.9,1216.6,1351.5,1193.9,983.2
+"19","12","      Taxes on corporate income","A054RC1",217.8,231.5,245.4,248.4,258.8,265.1,203.3,192.3,243.8,306.1,412.4,473.3,451.5,292.2
+"20","13","      Profits after tax with IVA and CCAdj","W273RC1",405.4,468.1,531.9,461.3,476,408.5,411.2,522,568.3,735.8,804.3,878.2,742.4,691
+"21","14","        Net dividends","A449RC1",221.6,257.3,284,309.2,295.7,348.5,330.1,351.2,392.8,488,296.5,626.9,641.6,543.3
+"22","15","        Undistributed profits with IVA and CCAdj","W274RC1",183.8,210.7,247.9,152.1,180.3,60.1,81.1,170.8,175.5,247.8,507.8,251.3,100.8,147.7
+"23","16","    Gross value added of financial corporate business \1\","A454RC1",469.5,505.6,566.4,630.9,669,737,782.2,815,856.9,896.7,995.1,1083,1055.9,1140.6
+"24","17","    Gross value added of nonfinancial corporate business \1\","A455RC1",3888,4119.4,4412.5,4668.3,4955.5,5279.4,5252.5,5307.7,5503.7,5877.5,6302.8,6740.3,6970.1,6971.5
+"25","18","Consumption of fixed capital","B456RC1",408.3,435.1,466.9,499.9,539.3,590.1,632,654.5,669,695.6,743,800.9,849.4,898.4
+"26","19","Net value added","A457RC1",3479.7,3684.4,3945.6,4168.5,4416.3,4689.4,4620.5,4653.1,4834.7,5181.9,5559.8,5939.4,6120.6,6073
+"27","20","  Compensation of employees","A460RC1",2511.5,2631.3,2814.6,3049.7,3256.5,3541.8,3559.4,3544.2,3651.3,3786.7,3976.3,4182.3,4364.2,4427.9
+"28","21","    Wage and salary accruals","B461RC1",2077.5,2196.6,2369.3,2568.3,2755.6,2991.1,2989.9,2936.7,2979,3105.5,3267.5,3462.3,3627.3,3677.2
+"29","22","    Supplements to wages and salaries","B462RC1",433.9,434.7,445.3,481.4,501,550.7,569.5,607.5,672.3,681.2,708.8,720,736.9,750.7
+"30","23","  Taxes on production and imports less subsidies","W325RC1",354.2,365.6,381,393.1,414.6,439.4,434.5,461.9,484.2,517.7,558.4,593.3,612.8,621
+"31","24","  Net operating surplus","W326RC1",614,687.5,750,725.7,745.1,708.2,626.7,647.1,699.2,877.5,1025.1,1163.7,1143.7,1024.1
+"32","25","    Net interest and miscellaneous payments","B471RC1",112.7,112.1,124.7,146.8,164.5,192.8,197.7,163.7,147.9,134.4,148.2,164,228.1,242.1
+"33","26","    Business current transfer payments (net)","W327RC1",30.7,38,39.2,35.2,47.1,47.9,58.9,56.3,65.2,65.5,79.3,75.8,68.6,70.4
+"34","27","    Corporate profits with IVA and CCAdj","A463RC1",470.6,537.4,586.2,543.7,533.5,467.5,370.1,427.2,486.1,677.5,797.6,923.9,846.9,711.6
+"35","28","      Taxes on corporate income","B465RC1",140.3,152.9,161.4,158.7,171.4,170.2,111.2,97.1,132.9,187,271.9,307.6,299.3,237.8
+"36","29","      Profits after tax with IVA and CCAdj","W328RC1",330.3,384.5,424.8,385.1,362.1,297.3,258.8,330.1,353.2,490.6,525.8,616.2,547.6,473.8
+"37","30","        Net dividends","B467RC1",178,197.6,215.9,241,224.7,251.3,245.4,254.8,293.4,364.5,170.9,471.1,465.2,409.3
+"38","31","        Undistributed profits with IVA and CCAdj","W332RC1",152.2,186.9,208.9,144,137.4,46,13.4,75.3,59.8,126.1,354.9,145.1,82.4,64.5
+"39",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40",NA,"  Corporate business:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","32","    Profits before tax (without IVA and CCAdj)","A446RC1",591.3,638.8,694.2,620.1,659,626.8,543,607.5,737.7,1024.4,1400.7,1565.9,1426.6,1085.5
+"42","33","    Profits after tax (without IVA and CCAdj)","A448RC1",373.5,407.3,448.8,371.8,400.2,361.8,339.7,415.1,494,718.3,988.3,1092.6,975.1,793.4
+"43","34","    Inventory valuation adjustment","B058RC1",-18.3,3.1,14.1,15.7,-4,-16.8,8,-2.6,-11.3,-34.3,-30.7,-38,-44,-38.2
+"44","35","    Capital consumption adjustment","A059RC1",50.2,57.7,69,73.8,79.7,63.6,63.4,109.4,85.6,51.8,-153.4,-176.4,-188.7,-64.1
+"45",NA,"  Nonfinancial corporate business:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","36","    Profits before tax (without IVA and CCAdj)","A464RC1",431.2,471.3,506.8,460.5,468.6,432.5,315.1,342.3,425.9,662.1,957.1,1117.9,1058.9,806.7
+"47","37","    Profits after tax (without IVA and CCAdj)","A466RC1",290.9,318.4,345.4,301.8,297.2,262.3,203.8,245.2,293,475.1,685.3,810.3,759.5,568.8
+"48","38","    Inventory valuation adjustment","B058RC1",-18.3,3.1,14.1,15.7,-4,-16.8,8,-2.6,-11.3,-34.3,-30.7,-38,-44,-38.2
+"49","39","    Capital consumption adjustment","B470RC1",57.6,63,65.3,67.5,68.9,51.8,47,87.5,71.5,49.7,-128.8,-156,-167.9,-56.8
+"50",NA,"  Value added, in billions of chained (2005) dollars:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","40","    Gross value added of nonfinancial corporate business \2\","B455RX1",4309.4,4548,4843.8,5123.5,5422.5,5707.9,5604.6,5629.3,5767.4,6040.4,6302.8,6536.5,6649.4,6675.5
+"52","41","      Consumption of fixed capital \3\","N456RX1",413.6,443.1,478.4,519.3,565.2,616.3,659.2,683.3,698.4,717.4,743,773.7,808.3,837.3
+"53","42","      Net value added \4\","A457RX1",3895.8,4104.9,4365.4,4604.2,4857.4,5091.6,4945.4,4946,5069,5323,5559.8,5762.9,5841.2,5838.2
+"54",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","1. Estimates for financial corporate business and nonfinancial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","corporate business for 2000 and earlier periods are based on the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","1987 Standard Industrial Classification (SIC); later estimates for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","these industries are based on the North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","2. The current-dollar gross value added is deflated using the gross value",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","added chain-type price index for nonfinancial industries from the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","GDP-by-industry accounts.  For periods when this price index is not",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","available, the chain-type price index for GDP goods and structures is used.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","3. Chained-dollar consumption of fixed capital of nonfinancial corporate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","business is calculated as the product of the chain-type quantity index and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","the 2005 current-dollar value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","4. Chained-dollar net value added of nonfinancial corporate business is the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","difference between the gross product and the consumption of fixed capital.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","IVA Inventory valuation adjustment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","CCAdj Capital consumption adjustment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

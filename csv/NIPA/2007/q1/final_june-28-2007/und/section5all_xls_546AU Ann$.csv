@@ -1,0 +1,66 @@
+"","Table 5#4#6AU# Real Private Fixed Investment in Structures by Ty","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11"
+"1","[Millions of chained (2000) dollars; quarters seasonally adjusted at annual rates]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1990 To 1997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 26, 2004    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/28/2007 11:14:33 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1990,1991,1992,1993,1994,1995,1996,1997
+"8","1","    Private fixed investment in structures","A349RX0",567248,508128,531154,554843,591305,593969,636363,662633
+"9","2","Nonresidential","B009RX0",275185,244569,229949,228283,232320,247112,261051,280087
+"10","3","  Commercial and health care","W001RX0",119576,92876,86377,89885,94096,99672,107374,118602
+"11","4","    Commercial, including office","C308RX0",101937,76520,69306,71922,77110,84716,92061,101541
+"12","5","      Office, including medical buildings\1\","B346RX0",48496,38260,31935,31887,32567,36164,38505,45894
+"13","6","      Commercial\2\","B347RX0",53428,38283,37342,39982,44456,48464,53446,55590
+"14","7","    Hospitals and special care","C311RX0",17615,16315,17016,17904,16939,14933,15294,17039
+"15","8","  Manufacturing","C307RX0",45397,41809,38391,30150,35684,42077,44241,42255
+"16","9","  Power and communication","W003RX0",33362,39632,42016,39269,35596,36329,31258,30131
+"17","10","    Power","W028RX0",21647,29332,31752,28335,24224,24598,19159,17629
+"18","11","      Electric","C571RX0",14269,20467,21158,19445,17125,15891,12302,12139
+"19","12","      Other power","W029RX0",7456,8832,10672,8894,7097,8715,6865,5482
+"20","13","    Communication","C314RX0",11668,10573,10609,11163,11548,11907,12145,12491
+"21","14","  Mining exploration, shafts, and wells","E318RX0",26594,25996,21519,24794,23941,20286,21548,25273
+"22","15","    Petroleum and natural gas","C319RX0",25120,24297,19859,23119,21669,18760,19818,23691
+"23","16","    Mining","C320RX0",1533,1738,1668,1719,2210,1532,1724,1599
+"24","17","  Other structures","W004RX0",50391,43752,40605,43794,42806,47929,56354,63924
+"25","18","    Religious","C309RX0",5538,5049,4508,4865,4665,5016,5141,6346
+"26","19","    Educational","C310RX0",6508,6594,6821,6837,6811,7438,8900,11085
+"27","20","    Other buildings\3\","C312RX0",21858,16513,11582,14160,14812,17959,24943,28775
+"28","21","    Railroads","C573RX0",3428,3118,3760,3720,3879,3974,4774,5238
+"29","22","    Farm","C316RX0",3799,3681,3187,4362,3996,3590,4261,4306
+"30","23","    Other\4\","C317RX0",9233,8973,10796,9789,8379,9488,7517,6199
+"31","24","    Brokers' commissions on sale of structures","C321RX0",1794,1548,1493,1483,1595,1763,1936,2098
+"32","25","    Net purchases of used structures","E322RX0",-1859,-1839,-1797,-1598,-1514,-1484,-1232,-160
+"33","26","Residential","A012RX0",292591,264016,301364,326444,358584,346760,375141,382446
+"34","27","  Permanent site","A943RX0",181345,156107,182045,194322,217577,203233,222308,223511
+"35","28","    Single-family structures","A944RX0",154210,135139,164127,179738,198906,180565,197262,196629
+"36","29","    Multifamily structures","C292RX0",26739,20606,17511,14118,18241,22610,24998,26932
+"37","30","  Other structures","A863RX0",111632,107812,119470,132102,141186,143439,152831,158826
+"38","31","    Manufactured homes","A945RX0",6752,5879,7339,9313,11281,12857,14206,14690
+"39","32","    Dormitories","C295RX0",1026,357,464,686,397,576,663,887
+"40","33","    Improvements","A946RX0",74798,71579,79181,89182,94313,94247,98315,100124
+"41","34","    Brokers' commissions on sale of structures","A758RX0",31195,31986,34517,35521,36817,37275,41564,45719
+"42","35","    Net purchases of used structures","A759RX0",-2139,-2035,-2032,-2594,-1541,-1468,-1938,-2644
+"43","36","Residual","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA
+"44",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA
+"45","37","  Private fixed investment in new structures\5\","W040RX0",538547,478600,499089,522178,556157,558067,596151,617658
+"46","38","    Nonresidential structures","A771RX0",275306,244919,230305,228444,232271,246857,260364,278156
+"47","39","    Residential structures","A756RX0",263668,234065,268946,293644,323559,311119,335652,339417
+"48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","1. Consists of office buildings, except those constructed at manufacturing sites and those constructed by power utilities for ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","their own use.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","Also includes medical buildings; in table 5.4.6B, these buildings are included in health care.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","2. Consists of stores, restaurants, garages, service stations, warehouses, beauty and trade schools, mobile structures, and other",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","buildings used for commercial purposes.  Also includes financial buidings of two stories or less.  In table 5.4.6B, financial ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","buildings",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","of two stories or less are included in office; bus or truck garages are included in transportation; and beauty and trade schools ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","included in educational and vocational structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","3. Consists of hotels and motels, buildings used primarily for social and recreational activities, and buildings not elsewhere",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","classified, such as passenger terminals, greenhouses, and animal hospitals.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","4. Consists primarily of streets, dams and reservoirs, sewer and water facilities, parks, and airfields.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","5. Excludes net purchases of used structures and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","NOTE. Chained (2000) dollar series are calculated as the product of the chain-type quantity index and the 2000 current-dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","more than one period, the corresponding chained-dollar estimates are usually not additive. The residual line is the difference",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,42 @@
+"","Table 1#9#6# Real Net Value Added by Sector, Chained Dollars    ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Millions of chained (2009) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2014   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/26/2015 4:55:47 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013"
+"19","1","    Net domestic product","A362RX1","10,423,493.0","10,813,435.0","10,845,755.0","11,007,958.0","11,311,506.0","11,745,400.0","12,127,767.0","12,423,246.0","12,601,804.0","12,492,876.0","12,050,358.0","12,401,084.0","12,607,185.0","12,912,307.0","13,203,217.0"
+"20","2","Business \1\","A363RX1","7,773,666.0","8,088,479.0","8,079,417.0","8,203,154.0","8,470,704.0","8,870,479.0","9,209,481.0","9,490,172.0","9,664,634.0","9,487,768.0","9,022,645.0","9,355,202.0","9,559,154.0","9,869,047.0","10,141,302.0"
+"21","3","  Nonfarm \2\","A364RX1","7,736,470.0","8,036,973.0","8,034,837.0","8,155,382.0","8,414,006.0","8,808,043.0","9,142,265.0","9,423,207.0","9,617,217.0","9,429,085.0","8,947,022.0","9,278,945.0","9,490,701.0","9,812,801.0","10,065,229.0"
+"22","4","  Farm","A365RX1","43,636.0","56,081.0","50,239.0","53,109.0","61,082.0","66,148.0","70,548.0","70,594.0","54,757.0","61,786.0","75,623.0","76,426.0","71,729.0","65,999.0","77,778.0"
+"23","5","Households and institutions","W503RX1","1,308,067.0","1,356,141.0","1,379,811.0","1,392,221.0","1,409,614.0","1,433,756.0","1,467,456.0","1,474,323.0","1,462,031.0","1,508,680.0","1,510,348.0","1,526,762.0","1,545,735.0","1,554,015.0","1,578,944.0"
+"24","6","  Households","W504RX1","662,453.0","693,311.0","715,706.0","714,134.0","728,623.0","753,873.0","790,513.0","803,153.0","785,812.0","816,133.0","812,705.0","820,662.0","828,428.0","825,827.0","842,263.0"
+"25","7","  Nonprofit institutions serving households \3\","W505RX1","648,054.0","664,454.0","664,457.0","679,383.0","681,787.0","680,077.0","676,999.0","671,420.0","676,164.0","692,585.0","697,643.0","706,097.0","717,279.0","728,068.0","736,617.0"
+"26","8","General government \4\","A194RX1","1,357,861.0","1,379,372.0","1,403,641.0","1,429,746.0","1,443,649.0","1,446,632.0","1,452,314.0","1,455,765.0","1,469,202.0","1,494,645.0","1,517,365.0","1,519,385.0","1,503,252.0","1,490,479.0","1,484,541.0"
+"27","9","  Federal","B568RX1","319,902.0","322,600.0","323,714.0","331,208.0","341,353.0","343,830.0","344,315.0","341,190.0","341,289.0","354,082.0","375,491.0","389,196.0","389,851.0","385,930.0","372,536.0"
+"28","10","  State and local","B251RX1","1,038,331.0","1,056,902.0","1,079,563.0","1,098,297.0","1,102,328.0","1,102,863.0","1,108,059.0","1,114,694.0","1,128,094.0","1,140,637.0","1,141,874.0","1,130,146.0","1,113,321.0","1,104,471.0","1,111,886.0"
+"29","11","Residual","A966RX1","-25,400.0","-17,000.0","-22,700.0","-23,500.0","-17,700.0","-9,400.0","-4,900.0","-1,100.0","-1,600.0","-1,400.0","100.0","-300.0","-4,100.0","-10,800.0","-3,100.0"
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","1. Equals net domestic product excluding net value added of households and institutions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","and of general government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","2. Equals net domestic business value added excluding net farm value added.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","3. Equals gross value added of nonprofit institutions excluding consumption of fixed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","capital on fixed assets owned and used by nonprofit instututions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","4. Equals compensation of general government employees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","Note. Chained (2009) dollar series are calculated as the product of the chain-type",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","quantity index and the 2009 current-dollar value of the corresponding series, divided by",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","100. Because the formula for the chain-type quantity indexes uses weights of more than",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","one period, the corresponding chained-dollar estimates are usually not additive. The",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

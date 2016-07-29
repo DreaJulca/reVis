@@ -1,0 +1,65 @@
+"","Table 7#21# Transactions of Private Defined Benefit Pension Plan","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1984 To 2012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 07, 2013   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/28/2013 6:25:12 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012
+"8","1","Current receipts, accrual basis","Y237RC1",129.2,125.9,136.6,150.5,156,160.1,179.7,172.8,183.1,174.3,176.9,167.9,169.9,160.9,161,156.8,174.2,210.9,230,190.7,196.1,197,196.6,223.3,322.3,294.7,277.1,270.5,268.1
+"9","2","  Output \1\","Y257RC1",2.6,3.1,3.3,3.3,3.4,3.4,3.7,4,4,4.3,4.7,5,5.9,6.3,6.7,6.7,7.3,7.1,7.1,7.2,7.9,8.2,9.2,9.8,9.6,9,9.8,9.9,10.1
+"10","3","  Contributions","Y238RC1",78.2,76.6,82.1,89.9,93.1,98.5,108.6,105.5,115.7,111.8,113.4,108.4,109.8,106.2,108.4,107.8,116.3,136.8,147.4,128.8,131.9,132.4,132.6,147.5,196.4,182.2,173.4,168.6,167.2
+"11","4","    Claims to benefits accrued through service to employers","Y248RC1",29.7,30.4,31,32.6,33.6,40.3,41.1,42.1,52.4,53.7,54.5,53.8,55.6,57.8,62.5,65.5,65.8,69.8,71.8,74,75.6,76.1,77.9,81.4,80,78.7,79.4,76.6,76.4
+"12","5","      Actual employer contributions","W350RC1",42.7,38,30,26.9,23.3,22.3,20.9,27.2,32.1,37.1,43.1,44.2,33.4,27.3,33.5,28.6,32.4,47.5,83.5,117.2,92.8,89.8,88.4,67.1,104,112.1,127.4,132.9,148
+"13","6","      Imputed employer contributions","Y240RC1",-12.9,-6.6,2.9,7.7,12.7,20.5,23.2,18.1,23.5,20,15.4,13.8,27.3,36.1,35,43,40,28.7,-5.4,-36.8,-10.1,-6.3,-2.2,23.3,-15.3,-25.3,-39,-47.3,-62.4
+"14","7","      Actual household contributions","Y241RC1",2.4,2,1.5,1.2,1,0.8,0.7,0.8,0.8,0.9,0.6,0.8,0.8,0.6,0.7,0.7,0.6,0.6,0.7,0.8,0.8,0.8,0.9,0.8,1,1,0.8,0.9,1
+"15","8","      Less: Pension service charges \1\","Y257RC1",2.6,3.1,3.3,3.3,3.4,3.4,3.7,4,4,4.3,4.7,5,5.9,6.3,6.7,6.7,7.3,7.1,7.1,7.2,7.9,8.2,9.2,9.8,9.6,9,9.8,9.9,10.1
+"16","9","    Household pension contribution supplements \2\","Y242RC1",48.4,46.2,51.1,57.3,59.5,58.2,67.4,63.3,63.3,58.2,58.9,54.6,54.2,48.4,45.9,42.3,50.5,67,75.6,54.8,56.3,56.3,54.8,66.1,116.3,103.5,94,92,90.8
+"17","10","  Income receipts on assets (including plans' claims on employers)","Y242RC1",48.4,46.2,51.1,57.3,59.5,58.2,67.4,63.3,63.3,58.2,58.9,54.6,54.2,48.4,45.9,42.3,50.5,67,75.6,54.8,56.3,56.3,54.8,66.1,116.3,103.5,94,92,90.8
+"18","11","    Interest","Y243RC1",38,34.6,39.3,45.4,48.4,46.8,55.6,50.4,49.7,43.7,43.3,38.1,37.3,32,30.4,27.6,35.8,51.3,57.9,35.3,34.1,31.2,26,33.9,82.9,73.5,66.2,65.6,61.8
+"19","12","      Monetary interest","Y244RC1",30,34.6,36.1,36.2,35,38.3,41.3,42.5,40.8,38,38.8,41.3,44.2,45.6,45,46.8,45,41.8,35,31.2,29.9,30.7,33,37.6,41.4,44.7,42.1,41.3,39.6
+"20","13","      Imputed interest on plans' claims on employers \3\","Y245RC1",8,0,3.3,9.2,13.4,8.4,14.3,8,8.8,5.6,4.5,-3.2,-7,-13.6,-14.6,-19.1,-9.2,9.5,22.9,4.2,4.1,0.5,-7,-3.7,41.5,28.8,24.1,24.3,22.2
+"21","14","    Dividends","Y246RC1",10.5,11.6,11.8,11.9,11.1,11.4,11.8,12.9,13.7,14.5,15.5,16.5,16.9,16.5,15.5,14.6,14.7,15.7,17.6,19.4,22.2,25.2,28.8,32.2,33.4,30,27.8,26.4,29
+"22","15","Current expenditures, accrual basis","Y237RC1",129.2,125.9,136.6,150.5,156,160.1,179.7,172.8,183.1,174.3,176.9,167.9,169.9,160.9,161,156.8,174.2,210.9,230,190.7,196.1,197,196.6,223.3,322.3,294.7,277.1,270.5,268.1
+"23","16","  Administrative expenses","Y257RC1",2.6,3.1,3.3,3.3,3.4,3.4,3.7,4,4,4.3,4.7,5,5.9,6.3,6.7,6.7,7.3,7.1,7.1,7.2,7.9,8.2,9.2,9.8,9.6,9,9.8,9.9,10.1
+"24","17","  Imputed income payments on assets to persons","Y249RC1",48.4,46.2,51.1,57.3,59.5,58.2,67.4,63.3,63.3,58.2,58.9,54.6,54.2,48.4,45.9,42.3,50.5,67,75.6,54.8,56.3,56.3,54.8,66.1,116.3,103.5,94,92,90.8
+"25","18","    Interest","Y250RC1",38,34.6,39.3,45.4,48.4,46.8,55.6,50.4,49.7,43.7,43.3,38.1,37.3,32,30.4,27.6,35.8,51.3,57.9,35.3,34.1,31.2,26,33.9,82.9,73.5,66.2,65.6,61.8
+"26","19","    Dividends","Y251RC1",10.5,11.6,11.8,11.9,11.1,11.4,11.8,12.9,13.7,14.5,15.5,16.5,16.9,16.5,15.5,14.6,14.7,15.7,17.6,19.4,22.2,25.2,28.8,32.2,33.4,30,27.8,26.4,29
+"27","20","  Benefit payments and withdrawals","Y256RC1",46.5,54.5,68,66.2,60.5,66.7,66.4,71.5,77.9,79.1,82.6,85.1,96.9,97.2,111.2,119.4,127.5,129.4,135.8,134.9,140.4,136.6,150.6,158.7,166,167.8,169.6,173.4,178.4
+"28","21","  Net change in benefit entitlements \4\","Y252RC1",31.6,22.1,14.2,23.7,32.7,31.8,42.2,34,37.9,32.7,30.7,23.2,12.9,9,-2.9,-11.6,-11.2,7.4,11.5,-6.2,-8.5,-4.1,-18,-11.3,30.4,14.4,3.7,-4.8,-11.2
+"29","22","Cash flow","Y253RC1",36.5,28.7,8,6.7,6.6,2.8,4.7,7.9,5.5,7.1,10.8,12.7,-7.4,-13.5,-23.3,-35.4,-42,-30.9,-6,26.4,-2.6,1.7,-8.8,-30.9,4.2,10.9,18.6,18.1,29
+"30","23","  Actual employer and household contributions (5+7)","Y254RC1",45.2,40,31.5,28.1,24.3,23.2,21.6,28,32.9,38,43.7,44.9,34.2,27.9,34.1,29.3,33.1,48.2,84.3,118,93.6,90.6,89.3,67.9,105,113,128.2,133.8,148.9
+"31","24","  Monetary income receipts on assets (12+14)","Y255RC1",40.5,46.2,47.9,48.1,46.1,49.8,53.2,55.4,54.5,52.5,54.4,57.8,61.2,62.1,60.5,61.4,59.7,57.5,52.7,50.6,52.2,55.8,61.8,69.7,74.8,74.7,69.8,67.7,68.6
+"32","25","  Less: Benefit payments and withdrawals","Y256RC1",46.5,54.5,68,66.2,60.5,66.7,66.4,71.5,77.9,79.1,82.6,85.1,96.9,97.2,111.2,119.4,127.5,129.4,135.8,134.9,140.4,136.6,150.6,158.7,166,167.8,169.6,173.4,178.4
+"33","26","  Less: Administrative expenses","Y257RC1",2.6,3.1,3.3,3.3,3.4,3.4,3.7,4,4,4.3,4.7,5,5.9,6.3,6.7,6.7,7.3,7.1,7.1,7.2,7.9,8.2,9.2,9.8,9.6,9,9.8,9.9,10.1
+"34",NA,"Effect of participation in defined benefit plans on personal income, saving, and wealth:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","27","  Effect on personal income (1-7-9 or 15-7-9)","Y258RC1",78.3,77.7,84,92,95.5,101.1,111.6,108.6,118.9,115.3,117.4,112.5,114.9,111.8,114.4,113.8,123,143.2,153.7,135.1,139,139.8,141,156.5,205,190.2,182.4,177.7,176.3
+"36","28","  Less: Effect on personal consumption expenditures (2)","Y257RC1",2.6,3.1,3.3,3.3,3.4,3.4,3.7,4,4,4.3,4.7,5,5.9,6.3,6.7,6.7,7.3,7.1,7.1,7.2,7.9,8.2,9.2,9.8,9.6,9,9.8,9.9,10.1
+"37","29","  Equals: Effect on personal saving","Y260RC1",75.7,74.6,80.7,88.7,92.1,97.7,107.9,104.7,114.9,110.9,112.7,107.6,109,105.6,107.7,107.1,115.7,136.1,146.6,127.9,131.1,131.6,131.8,146.7,195.4,181.2,172.6,167.7,166.2
+"38","30","  Plus: Implied funding of benefits from holding gains on assets","Y261RC1",8,17.4,17.4,16.2,18.9,14.7,9.8,18.2,10.3,19.2,22.2,30.2,34.3,43.7,54,63.1,59,51.1,45.7,69.1,65.1,69.6,77.3,73,27.1,43,49.6,55.7,61.9
+"39","31","    Interest accrued on benefit entitlements","Y262RC1",56.5,63.6,68.6,73.5,78.4,72.9,77.3,81.6,73.6,77.3,81,84.8,88.5,92.2,99.9,105.3,109.6,118.1,121.3,123.9,121.4,126,132.1,139.1,143.5,146.4,143.6,147.7,152.7
+"40","32","    Less: Interest and dividend income received by plans (10)","Y242RC1",48.4,46.2,51.1,57.3,59.5,58.2,67.4,63.3,63.3,58.2,58.9,54.6,54.2,48.4,45.9,42.3,50.5,67,75.6,54.8,56.3,56.3,54.8,66.1,116.3,103.5,94,92,90.8
+"41","33","  Equals: Change in personal wealth \5\","Y264RC1",83.8,92,98.1,104.9,111,112.4,117.7,122.9,125.2,130.1,134.9,137.7,143.3,149.3,161.6,170.2,174.7,187.3,192.3,197,196.2,201.3,209.1,219.7,222.5,224.2,222.3,223.4,228.1
+"42","34","  Less: Benefit payments and withdrawals (20)","Y256RC1",46.5,54.5,68,66.2,60.5,66.7,66.4,71.5,77.9,79.1,82.6,85.1,96.9,97.2,111.2,119.4,127.5,129.4,135.8,134.9,140.4,136.6,150.6,158.7,166,167.8,169.6,173.4,178.4
+"43","35","  Plus: Household actual contributions (7)","Y241RC1",2.4,2,1.5,1.2,1,0.8,0.7,0.8,0.8,0.9,0.6,0.8,0.8,0.6,0.7,0.7,0.6,0.6,0.7,0.8,0.8,0.8,0.9,0.8,1,1,0.8,0.9,1
+"44","36","  Equals: Change in benefit entitlements including implied funding of benefits from holding gains on assets \5\","Y267RC1",39.7,39.5,31.6,39.8,51.6,46.6,52,52.2,48.2,51.9,52.9,53.4,47.2,52.7,51.1,51.5,47.9,58.5,57.2,62.9,56.6,65.5,59.4,61.8,57.5,57.3,53.4,50.8,50.7
+"45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","1. Included in personal consumption expenditures as part of financial services furnished without",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","payment; the value is equal to administrative expenses (line 16).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","2. Imputed income payments received by persons from the pension plans (line 17) are reinvested",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","as household pension contribution supplements.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","3. Plans' claims on employers is the difference between actuarial liabilities and financial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","assets held by plans.  When actuarial liabilities exceed plan assets, imputed interest is",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","positive; when plan assets exceed actuarial liabilities, imputed interest is negative.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","4. Excludes implied funding of benefits from holding gains on assets and excludes effects on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","change in the estimated value of benefit entitlements that come from differences between actual",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","experience and previous actuarial assumptions, changes in actuarial assumptions, and changes in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","plan provisions.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","5. Excludes effects on change in the estimated value of benefit entitlements that come from",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","differences between actual experience and previous actuarial assumptions, changes in actuarial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","assumptions, and changes in plan provisions.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Note. In the NIPAs, pension plans are treated as ""pass-through"" institutions that hold financial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","assets on behalf of households, which are the effective owners.  Pension plans are classified as",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","financial corporations that receive contributions and property income on behalf of plan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","participants but do not have saving or net worth of their own.  Tables 7.20, 7.21, 7.22, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","7.23 show the transactions of the private and government defined-benefit pension subsectors.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

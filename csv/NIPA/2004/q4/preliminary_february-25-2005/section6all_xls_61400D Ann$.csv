@@ -1,0 +1,43 @@
+"","Table 6#14D# Inventory Valuation Adjustment to Nonfarm Incomes b","F2","F3","F4","F5","F6","F7","F8","F9"
+"1","[Millions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2003",NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2004   ",NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/24/2005 10:41:32 AM",NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003
+"8","1","      Inventory valuation adjustment to nonfarm incomes","A1830C0",21810,474,-15684,12732,-1875,-15962
+"9","2","Corporate business","B058RC0",20203,950,-14077,11317,-1240,-14112
+"10","3","  Mining","N1831C0",180,-138,-172,53,-231,-261
+"11","4","  Utilities","N530RC0",137,-152,-469,593,-345,-133
+"12","5","  Construction","N1832C0",55,-176,71,46,-197,-439
+"13","6","  Manufacturing","N672RC0",10360,2453,-9037,4947,1372,-8207
+"14","7","    Durable goods","N674RC0",7052,2376,-3073,3618,1367,-2301
+"15","8","    Nondurable goods","N673RC0",3308,77,-5964,1329,5,-5906
+"16","9","  Wholesale trade","N526RC0",7344,400,-1979,3978,-2741,-4877
+"17","10","  Retail trade","N527RC0",1470,-1070,-1741,1033,631,-232
+"18","11","  Transportation and warehousing","N676RC0",222,-393,-249,483,-330,-141
+"19","12","  Information","N529RC0",119,299,137,451,711,711
+"20","13","  Other \1\","N1833C0",316,-273,-638,-267,-110,-533
+"21","14","Noncorporate business","B179RC0",1607,-476,-1607,1415,-635,-1850
+"22","15","  Mining","N1834C0",27,-84,-134,157,-246,-174
+"23","16","  Construction","N1835C0",29,-79,31,20,-88,-203
+"24","17","  Manufacturing","N1836C0",538,-45,-784,391,-94,-962
+"25","18","    Durable goods","N1837C0",245,58,-187,189,11,-230
+"26","19","    Nondurable goods","N1838C0",293,-103,-597,202,-105,-732
+"27","20","  Wholesale trade","N1839C0",475,1,-162,264,-236,-395
+"28","21","  Retail trade","N1840C0",333,-138,-264,270,66,-43
+"29","22","  Other \2\","N1841C0",203,-130,-293,313,-37,-73
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","1. Consists of forestry, fishing, and related activities; finance and insurance; real estate",NA,NA,NA,NA,NA,NA,NA,NA
+"32","and rental and leasing; professional, scientific, and technical services; management of",NA,NA,NA,NA,NA,NA,NA,NA
+"33","companies and enterprises; administrative and waste management services; educational services;",NA,NA,NA,NA,NA,NA,NA,NA
+"34","health care and social assistance; arts, entertainment, and recreation; accommodation and food",NA,NA,NA,NA,NA,NA,NA,NA
+"35","services; and other services, except government.",NA,NA,NA,NA,NA,NA,NA,NA
+"36","2. Consists of forestry, fishing, and related activities; utilities; transportation and warehousing; information;",NA,NA,NA,NA,NA,NA,NA,NA
+"37","finance and insurance; real estate and rental and leasing; professional, scientific, and technical",NA,NA,NA,NA,NA,NA,NA,NA
+"38","services; management of companies and enterprises; administrative and waste management",NA,NA,NA,NA,NA,NA,NA,NA
+"39","services; educational services; health care and social assistance; arts, entertainment, and",NA,NA,NA,NA,NA,NA,NA,NA
+"40","recreation; accommodation and food services; and other services, except government.",NA,NA,NA,NA,NA,NA,NA,NA
+"41","Note.  Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA
+"42","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA

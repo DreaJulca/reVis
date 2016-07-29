@@ -1,0 +1,27 @@
+"","Table 6#16A# Corporate Profits by Industry Group","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 28, 2000     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/26/2003 12:04:34 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,"Line",NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947
+"8","    Corporate profits with inventory valuation and capital consumption adjustments","1","A051RC1A",10.6,7.3,2.8,-0.4,-0.3,2.3,3.8,5.9,6.7,4.6,6.2,9.5,15,20,24.5,24.6,20.1,17.4,23.5
+"9","Domestic industries","2","A445RC1A",10.4,7.1,2.8,-0.4,-0.3,2.2,3.6,5.8,6.5,4.3,5.9,9.2,14.6,19.7,24.1,24.2,19.8,16.7,22.5
+"10","  Financial","3","A587RC1A",1.5,0.7,0.5,0.6,0.7,0.7,0.7,1,1,1,1,1.1,1.1,1.2,1.4,1.6,1.7,2,1.7
+"11","  Nonfinancial","4","A463RC1A",8.8,6.5,2.3,-0.9,-1,1.5,2.9,4.8,5.5,3.3,4.9,8.1,13.4,18.5,22.8,22.6,18.1,14.6,20.9
+"12","Rest of the world","5","B394RC1A",0.2,0.1,0,0,0,0.1,0.2,0.1,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.3,0.7,1
+"13","Domestic industries","6","A390RC1A",10.8,7.4,2.8,-0.4,-0.4,2.4,3.8,6.1,7.1,5.1,6.6,10,15.5,20.5,24.4,23.7,19.1,19,25.1
+"14","  Financial","7","A392RC1A",1.6,0.7,0.5,0.6,0.7,0.7,0.7,1.1,1,1,1,1.1,1.2,1.3,1.4,1.7,1.7,2.1,1.8
+"15","    Federal Reserve banks","8","B397RC1A",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1
+"16","    Other","9","B398RC1A",1.5,0.7,0.5,0.6,0.7,0.7,0.7,1.1,1,1,1,1.1,1.2,1.3,1.4,1.6,1.6,2,1.7
+"17","  Nonfinancial","10","A399RC1A",9.2,6.7,2.3,-1,-1.1,1.7,3.1,5,6.1,4.1,5.6,8.8,14.3,19.1,23,22,17.4,16.9,23.3
+"18","    Manufacturing","11","A400RC1A",5.2,3.9,1.3,-0.6,-0.4,1,2,3.1,3.8,2.3,3.3,5.5,9.5,11.8,13.8,13.2,9.7,9,13.5
+"19","      Durable goods","12","A406RC1A",2.6,1.4,-0.1,-1.1,-0.6,0.2,0.8,1.6,1.6,0.7,1.6,3,6.3,7.1,8,7.3,4.5,2.4,5.7
+"20","      Nondurable goods","13","A401RC1A",2.6,2.5,1.4,0.6,0.1,0.8,1.2,1.5,2.1,1.6,1.7,2.5,3.1,4.7,5.7,5.9,5.2,6.6,7.8
+"21","    Transportation and public utilities","14","A416RC1A",1.9,1.2,0.6,0.2,0.1,0.4,0.5,0.7,0.8,0.6,1,1.3,2,3.5,4.4,3.9,2.8,1.9,2.2
+"22","    Wholesale trade and retail trade and automobile services","15","A414RC1A",0.5,0.5,0.2,0,-0.1,0.2,0.3,0.4,0.6,0.4,0.3,0.6,0.6,1,1.2,1.3,1.2,1.6,1.9
+"23","    Other","16","A420RC1A",1,0.6,-0.1,-0.5,-0.5,-0.3,-0.1,0.2,0.5,0.3,0.4,0.7,1.2,1.5,1.7,1.7,1.6,2.2,2.9
+"24","Rest of the world","17","B394RC1A",0.2,0.1,0,0,0,0.1,0.2,0.1,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.3,0.7,1
+"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","  Note.  Estimates in this table are based on the 1942 Standard Industrial Classification (SIC).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

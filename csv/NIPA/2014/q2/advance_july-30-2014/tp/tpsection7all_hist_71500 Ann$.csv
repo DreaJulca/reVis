@@ -1,0 +1,41 @@
+"","Table 7#15# Relation of Net Farm Income in the National Income a","F2","F3","F4","F5","F6"
+"1","[Millions of dollars]                                                           ",NA,NA,NA,NA,NA
+"2","Annual data from 1967 To 1969",NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA
+"4","Data published August 05, 2014   ",NA,NA,NA,NA,NA
+"5","File created 8/6/2014 10:02:20 AM",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1967","1968","1969"
+"19","1","Net farm income, USDA","B1448C1","12,339.0","12,322.0","14,293.0"
+"20",NA,"Plus:"," ",NA,NA,NA
+"21","2","  Depreciation and other consumption of farm capital, USDA","B1449C1","5,465.0","5,871.0","6,197.0"
+"22","3","  Farm housing expenses excluding depreciation","B1007C1","977.0","1,021.0","1,095.0"
+"23","4","  Monetary interest received by farm corporations","B1450C1","35.0","29.0","47.0"
+"24","5","  Valuation adjustment, Commodity Credit Corporation loans","B2637C1","9.0","-22.0","-61.0"
+"25","6","  Change in farm materials and supplies inventories","W250RC1",".....",".....","....."
+"26",NA,"Less:"," ",NA,NA,NA
+"27","7","  Consumption of fixed capital, NIPAs","B366RC1","4,191.0","4,474.0","4,766.0"
+"28","8","  Gross rental value of farm housing, USDA","B2638C1","2,747.0","2,838.0","3,046.0"
+"29","9","  Patronage dividends received from cooperatives","B2639C1","0.0","0.0","0.0"
+"30","10","  Other \1\","B1451C1",".....",".....","....."
+"31","11","  Statistical differences \2\","W713RC1",".....",".....","....."
+"32","12","Equals: Farm proprietors' income and corporate profits with inventory valuation and capital consumption adjustments","A1024C1","11,719.0","11,762.0","13,567.0"
+"33","13","  Proprietors' income","B042RC1","11,642.0","11,660.0","12,833.0"
+"34","14","  Corporate profits","B1023C1","77.0","101.0","733.0"
+"35",NA,NA,NA,NA,NA,NA
+"36","1. Consists largely of salaries paid to certain farm operators.",NA,NA,NA,NA,NA
+"37","2. Statistical differences result from updates to the USDA farm income estimates that have not yet been incorporated",NA,NA,NA,NA,NA
+"38","into the NIPAs.",NA,NA,NA,NA,NA
+"39","USDA U.S. Department of Agriculture",NA,NA,NA,NA,NA
+"40","NIPAs National income and product accounts",NA,NA,NA,NA,NA

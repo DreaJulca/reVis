@@ -1,0 +1,46 @@
+"","Table 1#2#6# Real Gross Domestic Product by Major Type of Produc","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:47:25 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Gross domestic product","A191RX1",9093.7,9433.9,9854.3,10283.5,10779.8,11226,11347.2,11553,11840.7,12263.8,12638.4,12976.2,13254.1,13312.2
+"9","2","       Final sales of domestic product","A190RX1",9073.2,9412.5,9782.6,10217.1,10715.7,11167.5,11391.7,11543.5,11824.8,12198.2,12588.4,12917.1,13234.3,13341.2
+"10","3","       Change in private inventories","A014RX1",32.1,31.2,77.4,71.6,68.5,60.2,-41.8,12.8,17.3,66.3,50,59.4,19.5,-25.9
+"11","4","       Residual","A958RX1",-11.6,-9.8,-5.7,-5.2,-4.4,-1.7,-2.7,-3.3,-1.4,-0.7,0,-0.3,0.3,-3.1
+"12","5","Goods","A353RX1",2264,2387.7,2573.9,2723,2914,3056.3,3006.9,3059.2,3164,3326.2,3472.9,3652.7,3789.7,3805.1
+"13","6","    Final sales","A325RX1",2241.1,2363.9,2509.8,2663,2855.8,3002.8,3043.6,3047.4,3146.1,3260.9,3422.9,3593.5,3771.6,3839.5
+"14","7","    Change in private inventories","A014RX1",32.1,31.2,77.4,71.6,68.5,60.2,-41.8,12.8,17.3,66.3,50,59.4,19.5,-25.9
+"15","8","  Durable goods","A354RX1",1049,1125.1,1257.2,1377.3,1511.9,1625.1,1574.9,1614.5,1670.5,1778.4,1891.1,1989.4,2087.2,2115.9
+"16","9","    Final sales","A326RX1",1023,1110.9,1222.7,1341.5,1476.4,1590.5,1614.7,1596.7,1656.3,1740.4,1855.9,1964.4,2080.7,2106.7
+"17","10","    Change in private inventories \1\","A355RX1",31.4,17.9,40.2,40.6,39.5,37.7,-46.4,18.1,13.5,38.1,35.2,25.2,7.6,9.4
+"18","11","  Nondurable goods","A356RX1",1252.5,1295.9,1339.5,1357.7,1407,1429.8,1433.7,1445.3,1494.1,1547.9,1581.8,1663.3,1703.3,1691.2
+"19","12","    Final sales","A334RX1",1260,1286.7,1309.9,1334.3,1385,1411.8,1428.2,1451.9,1490.5,1520.6,1567,1629.2,1691.7,1732.9
+"20","13","    Change in private inventories \1\","A357RX1",-3.3,12.5,36.1,29.5,27.7,21.4,7.3,-6.4,3.6,28.1,14.7,34.1,11.8,-33.7
+"21","14","Services \2\","A341RX1",5902.5,6045.3,6208.3,6421.7,6663.6,6918.7,7095.4,7275.6,7416,7613.1,7802.1,7985,8192.7,8314.8
+"22","15","Structures","A755RX1",988.9,1053.1,1097.8,1155.1,1202.2,1245.3,1254.1,1223.2,1263.6,1325.6,1363.4,1341.1,1281.4,1205.4
+"23","16","Residual","A959RX1",-108.8,-92.5,-60.7,-39.2,-14.6,0.6,-6.1,-6.1,-2.8,-2.1,0.1,-2.8,-11.8,-23.3
+"24",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","17","  Motor vehicle output","A953RX1",279.1,284,307.8,333.1,365.1,359.7,343.8,383.3,387.3,403,418.9,414,408.4,333.1
+"26","18","  Gross domestic product excluding motor vehicle output","A962RX1",8818.2,9154.9,9549.1,9950.5,10411.7,10866.8,11006.8,11169.4,11453.5,11860.9,12219.4,12562,12844.6,12970.8
+"27","19","  Final sales of computers \3\","BB01RX1",7.3,11.5,17.6,25.1,36,47,53.1,54.7,63.6,66.7,79,98.9,120.8,146.6
+"28","20","  Gross domestic product excluding final sales of computers","BB00RX1",9237.6,9539.8,9921.5,10315.3,10775,11192.6,11300,11503.6,11778.5,12198.3,12559.4,12878.9,13139.9,13182.1
+"29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","1. Prior to 1959, inventories held by construction establishments are included in nondurable",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","goods. Beginning with 1959, these inventories are included in durable goods.  Estimates for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","durable goods and nondurable goods for 1996 and earlier periods are based on the 1987",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Standard Industrial Classification (SIC); later estimates for these industries are based on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","2. Includes government consumption expenditures, which are for services (such as education",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","and national defense) produced by government. In current dollars, these services are valued",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","at their cost of production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","3. Some components of final sales of computers include computer parts.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Note. Chained (2005) dollar series are calculated as the product of the chain-type quantity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","index and the 2005 current-dollar value of the corresponding series, divided by 100. Because",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","chained-dollar estimates are usually not additive. The residual line following change in private inventories",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","is the difference between gross domestic product and the sum of final sales of domestic product and of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","change in private inventories; the residual line following structures is the difference between gross",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","domestic product and the sum of the detailed lines of goods, of services, and of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

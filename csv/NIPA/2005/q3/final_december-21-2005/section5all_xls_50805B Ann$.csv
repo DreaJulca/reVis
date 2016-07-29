@@ -1,0 +1,80 @@
+"","Table 5#8#5B# Gross Government Fixed Investment by Type         ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 04, 2005   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 12/20/2005 11:45:37 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004
+"8","1","      Gross government fixed investment \1\","A782RC1",252.2,262.4,286.8,304.5,324,344.3,355.3,372.5
+"9","2","        Federal","A787RC1",73.2,75.8,80.7,79.5,81,88.1,92.9,101.9
+"10","3","          National defense","A788RC1",44.9,45,47.7,48.8,50.2,55.4,60.1,68.5
+"11","4","          Nondefense","A798RC1",28.3,30.8,33,30.7,30.8,32.7,32.8,33.4
+"12","5","        State and local","A799RC1",178.9,186.5,206,225,243,256.1,262.3,270.6
+"13","6","Structures \2\","A760RC1",155,159.3,175.3,189.3,205.3,220.2,226.9,232
+"14","7","  Federal","A801RC1",15.5,15.7,15.6,13.3,12.9,14.3,15.4,14.5
+"15","8","    National defense","A808RC1",5.7,5.1,5,5,4.6,4.4,5.1,5.1
+"16","9","      New","A814RC1",5.7,5.1,5,5,4.6,4.4,5.1,5.1
+"17","10","        Residential","B816RC1",1.4,1.4,1.3,1.3,1.5,1.5,1.6,1.6
+"18","11","        Industrial","B817RC1",0.5,0.2,0.2,0.3,0.4,0.3,0.7,0.6
+"19","12","        Military facilities \3\","B818RC1",3.9,3.5,3.4,3.4,2.7,2.6,2.9,2.9
+"20","13","      Net purchases of used structures","B819RC1",0,0,0,0,0,0,0,0
+"21","14","    Nondefense","A830RC1",9.8,10.6,10.6,8.3,8.3,9.9,10.3,9.4
+"22","15","      New","A831RC1",10.2,9.9,9.8,9.5,9.2,9.9,10.5,10.8
+"23","16","        Residential","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA
+"24","17","        Office","W182RC1",1.9,1.9,1.8,1.6,1.5,1.4,1.8,2.3
+"25","18","        Commercial","W183RC1",0.7,0.8,0.9,0.8,0.7,0.5,0.8,1.4
+"26","19","        Health care","W184RC1",1.3,1,0.9,0.8,0.7,0.9,0.7,0.7
+"27","20","        Educational","W185RC1",0.4,0.3,0.3,0.4,0.5,0.8,0.7,0.6
+"28","21","        Public safety","W186RC1",2,2,1.9,1.7,1.2,1.3,0.8,0.5
+"29","22","        Amusement and recreation","W187RC1",0.6,0.6,0.6,0.6,0.4,0.4,0.4,0.2
+"30","23","        Transportation","W188RC1",0.4,0.4,0.4,0.4,0.4,0.6,0.3,0.4
+"31","24","        Power","W189RC1",0.1,0.1,0.1,0.1,0.2,0.3,0.9,0.9
+"32","25","        Highways and streets","W190RC1",0.5,0.5,0.4,0.6,0.5,0.6,0.6,0.7
+"33","26","        Conservation and development","W191RC1",1.7,1.8,2,2,2.3,2.5,2.6,2.3
+"34","27","        Other \4\","W192RC1",0.6,0.6,0.6,0.7,0.7,0.7,0.8,0.7
+"35","28","      Net purchases of used structures","B841RC1",-0.4,0.7,0.8,-1.2,-0.9,-0.1,-0.3,-1.4
+"36","29","  State and local","A842RC1",139.5,143.6,159.7,176,192.4,205.9,211.6,217.6
+"37","30","    New","A843RC1",136.6,140,155.7,172,191.3,200.9,205.8,211.6
+"38","31","      Residential","W147RC1",4.3,4.3,4.6,4.2,5.1,5.4,5,5.3
+"39","32","      Office","W193RC1",11,12.1,13.6,15.4,17.7,19.6,19.9,19.7
+"40","33","      Commercial","W194RC1",0.2,0.2,0.3,0.2,0.3,0.3,0.3,0.3
+"41","34","      Health care","W195RC1",3.2,3.2,3,3,3.3,4.1,5.1,6
+"42","35","      Educational","W148RC1",33.8,35,41.1,45.7,51.1,54.4,54.8,57.7
+"43","36","      Public safety","W196RC1",3.9,4.2,4.5,4.6,4.6,4.4,4.1,3.9
+"44","37","      Amusement and recreation","W197RC1",4.6,4.7,5,6.2,7.1,7.2,6.7,6.2
+"45","38","      Transportation","W198RC1",10.3,10.1,11.4,15.1,16.3,17.3,18.2,18.4
+"46","39","      Power","W199RC1",3.1,2.4,3.2,3.9,4.1,4.3,6.3,5.9
+"47","40","      Highways and streets","W149RC1",43,44.8,49.2,53.1,58.8,58,58.1,58.9
+"48","41","      Sewer systems","W150RC1",9.5,8.8,9,8.9,10.6,11.6,12.1,13.1
+"49","42","      Water systems","W168RC1",7.6,7.8,8.5,8.5,9.7,11.3,12,12.2
+"50","43","      Conservation and development","W169RC1",1.9,1.9,2.2,2.8,2.5,2.2,2.3,3.5
+"51","44","      Other \5\","W200RC1",0.3,0.4,0.2,0.3,0.2,0.6,1,0.4
+"52","45","    Net purchases of used structures","B870RC1",2.9,3.6,4,4.1,1.1,5.1,5.7,6
+"53","46","Equipment and software \2\","A871RC1",97.1,103.1,111.5,115.2,118.7,124,128.3,140.5
+"54","47","  Federal","A872RC1",57.7,60.1,65.1,66.2,68.1,73.8,77.6,87.4
+"55","48","    National defense","A873RC1",39.2,39.9,42.8,43.8,45.6,51,55,63.4
+"56","49","      Aircraft","B874RC1",5.8,5.8,7,7.8,8.5,9.4,9.2,12.6
+"57","50","      Missiles","B875RC1",2.9,3.3,2.8,2.7,3.3,3.1,3.3,3.8
+"58","51","      Ships","B876RC1",6.1,6.4,6.8,6.6,7.2,8.7,9.5,10.1
+"59","52","      Vehicles","B877RC1",1.4,1.5,1.7,1.8,1.8,2.5,3,2.7
+"60","53","      Electronics and software","B878RC1",9,9.1,9.8,10.1,9.8,9.9,10.4,11.3
+"61","54","      Other equipment","B879RC1",14,13.8,14.7,14.9,15,17.5,19.6,22.9
+"62","55","    Nondefense","B880RC1",18.5,20.2,22.4,22.3,22.5,22.8,22.6,24
+"63","56","  State and local","B881RC1",39.4,43,46.4,49,50.6,50.2,50.8,53
+"64",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA
+"65","57","  Government enterprise gross fixed investment","A882RC1",48.6,50.4,56.1,59.7,64.7,71.6,78.1,79.4
+"66","58","    Federal","A883RC1",5.8,7.1,7.7,6.9,5.8,5.6,6.5,6.5
+"67","59","      Structures","B884RC1",2.2,2.4,2.8,2.5,2.4,1.9,2.3,2.4
+"68","60","      Equipment and software","B885RC1",3.6,4.6,4.9,4.4,3.4,3.7,4.1,4.1
+"69","61","    State and local","A886RC1",42.9,43.3,48.4,52.8,58.9,66,71.6,72.9
+"70","62","      Structures","B887RC1",37.5,36.9,41,45.5,51.1,56.5,61.2,62
+"71","63","      Equipment and software","B888RC1",5.4,6.5,7.5,7.3,7.7,9.5,10.4,10.8
+"72",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","1. Consists of general government and government enterprise expenditures for fixed assets.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","2. Structures and software include compensation of government employees engaged in new",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","own-account investment and related expenditures for goods and services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","3. Consists of Department of Defense new structures, except family housing.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","4. Consists of lodging, religious, communication, sewage and waste disposal, water supply",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","structures, and manufacturing.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","5. Consists of lodging, communication, and manufacturing.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

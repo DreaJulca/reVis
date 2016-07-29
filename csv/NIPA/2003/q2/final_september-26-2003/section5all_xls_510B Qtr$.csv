@@ -1,0 +1,44 @@
+"","Table 5#10B# Change in Private Inventories by Industry","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29"
+"1","[Billions of dollars]; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1997 To 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published September 26, 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 9/25/2003 2:12:46 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1997,1997,1997,1998,1998,1998,1998,1999,1999,1999,1999,2000,2000,2000,2000,2001,2001,2001,2001,2002,2002,2002,2002,2003,2003
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2
+"9","1","    Change in private inventories","A014RC",48.8,87.7,49.9,65.1,106.7,40.9,69.5,75.4,74.7,27.7,46.8,88.9,46.8,89.2,61.1,57.1,-27.2,-57.1,-60.6,-96.5,-29.9,3.4,17.6,24.5,0.4,-18.5
+"10","2","Farm","B018RC",-1.3,0.2,8.1,4.6,5.3,-5.4,0.1,3.6,7.1,0.8,-9.6,-4.3,-11.9,2.3,-1.9,2.6,4.7,-3,1.8,3,5.3,0.4,-2.3,-1.5,0.5,-0.6
+"11","3","Construction, mining, and utilities","N541RC",4.8,3.4,2.6,0.6,4.8,5.8,4.4,6.2,3.1,-0.8,-3.7,-3.1,2.1,-4.4,-0.8,-10.4,7.4,12.3,6.1,4.7,1.6,-1.1,-2.5,-1.7,-14.2,-4.6
+"12","4","Manufacturing","N150RC",16.8,22.7,9.3,10.8,36.6,26.2,20.6,21.8,13.4,0.9,13.4,26.9,14.1,24,13.3,14.9,-18.7,-41.8,-43.3,-39.6,-31.1,-14.2,-2.7,2.8,-6.1,-14.5
+"13","5","  Durable goods industries","N624RC",12.3,16.7,4.7,3.3,27.9,21.4,16.1,17,9.5,-3.9,7.9,15.2,10.4,18.7,11.2,21,-12.7,-30.8,-39.6,-34.3,-25.4,-14.9,-10.2,5.4,-9.6,-15.4
+"14","6","  Nondurable goods industries","N625RC",4.5,6,4.5,7.5,8.7,4.8,4.5,4.8,3.9,4.8,5.6,11.7,3.7,5.3,2.1,-6.1,-6,-11,-3.7,-5.3,-5.8,0.6,7.6,-2.6,3.5,0.9
+"15","7","Wholesale trade","N658RC",22.2,35.2,12.2,24.3,30.5,11.1,27.6,19.8,18,4.2,20.5,26.3,23.1,21.7,15,17.2,-4.7,-8.5,-24,-25.4,-19.5,-9,7.1,6.6,-3.1,-7.6
+"16","8","  Durable goods industries","N661RC",14.2,29.7,5.4,11.8,26.7,5.1,20.2,16.9,12.6,7.2,10.3,19.2,14.1,20.3,6,8.2,-3.5,-23.6,-24.9,-26.6,-16.2,-7.4,6.1,3.7,1.7,-6.7
+"17","9","  Nondurable goods industries","N664RC",8,5.5,6.8,12.5,3.8,6.1,7.5,2.9,5.4,-3,10.2,7.1,9,1.4,9,9.1,-1.2,15.1,0.9,1.3,-3.3,-1.6,0.9,2.9,-4.7,-0.9
+"18","10","Retail trade","N153RC",-3.8,19.9,13.6,18.3,28.2,0.1,12.9,16.3,26.9,15.6,20.8,39.1,7.6,33,19.2,27.9,-20.5,-17.5,-3.4,-41.5,13.8,22.2,15.6,15.7,21.9,6.1
+"19","11","  Motor vehicle dealers","N631RC",-2.3,4.6,4.7,11.7,5.8,-7.5,1,9.5,17.7,5.9,13.6,16.2,4.4,19.5,11,11.9,-20.7,-5.5,-1.1,-34.7,13.9,15.4,4.6,7.8,15.6,5.8
+"20","12","  Food and beverage stores","N542RC",0,0.3,1.6,-0.8,2.3,2.1,0,0.2,1.5,0.7,2.6,1.8,0.2,-1.9,0.6,0.5,1.2,0.2,-0.4,1.3,-2.2,0.1,1.7,-0.1,0.5,-0.8
+"21","13","  General merchandise stores","N543RC",-2.7,3.1,-0.9,1.7,1.2,0.5,3.2,-1.6,1.8,0.3,2.1,5.9,-0.3,1.6,-1.1,4.1,5.6,-1.9,-2.2,-3.3,-4.5,0,2.6,7.1,1.1,-0.1
+"22","14","  Other retail stores","N558RC",1.2,11.8,8.2,5.7,18.9,5.1,8.8,8.2,6,8.6,2.4,15.1,3.3,13.8,8.8,11.4,-6.6,-10.3,0.4,-4.7,6.7,6.8,6.6,1,4.7,1.2
+"23","15","Other industries","N154RC",10.1,6.2,4.1,6.6,1.4,3.2,3.9,7.8,6.3,7,5.4,4,11.9,12.6,16.3,4.8,4.6,1.4,2.2,2.3,0,5.1,2.3,2.5,1.4,2.6
+"24",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","16","  Change in private inventories","A014RC",48.8,87.7,49.9,65.1,106.7,40.9,69.5,75.4,74.7,27.7,46.8,88.9,46.8,89.2,61.1,57.1,-27.2,-57.1,-60.6,-96.5,-29.9,3.4,17.6,24.5,0.4,-18.5
+"26","17","    Durable goods industries","N355RC",25.5,54.3,18.4,28.4,66.2,22,40.8,49.6,44.6,12.2,35.4,57.8,35.7,63.6,33.2,44,-37.2,-62.8,-65.2,-95,-20.3,-4.8,4.8,24.5,11.6,-14.3
+"27","18","    Nondurable goods industries","N357RC",23.2,33.4,31.5,36.8,40.5,19,28.7,25.8,30.1,15.5,11.4,31.1,11.1,25.6,28,13.1,10,5.6,4.7,-1.5,-9.7,8.2,12.7,-0.1,-11.2,-4.1
+"28","19","  Nonfarm industries","A015RC",50.1,87.4,41.8,60.5,101.4,46.3,69.4,71.8,67.7,27,56.4,93.2,58.7,86.9,63,54.4,-31.9,-54.1,-62.3,-99.5,-35.3,3,19.8,26,-0.1,-17.9
+"29","20","    Nonfarm change in book value \1\","B016RC",31.2,71.3,35.1,52.8,72.3,31.7,41.5,44.1,47.1,35.8,77.6,112.8,85.4,113.1,74.6,79.9,-27.1,-57.8,-83.9,-133.4,-37.1,13.4,38.1,41.9,45.4,-21.2
+"30","21","    Nonfarm inventory valuation adjustment \2\","B017RC",18.8,16.2,6.6,7.7,29.2,14.6,28,27.7,20.6,-8.9,-21.1,-19.5,-26.7,-26.2,-11.6,-25.5,-4.7,3.7,21.5,33.9,1.8,-10.4,-18.2,-15.9,-45.5,3.3
+"31","22","  Wholesale trade","N658RC",22.2,35.2,12.2,24.3,30.5,11.1,27.6,19.8,18,4.2,20.5,26.3,23.1,21.7,15,17.2,-4.7,-8.5,-24,-25.4,-19.5,-9,7.1,6.6,-3.1,-7.6
+"32","23","    Merchant wholesale trade","N151RC",20.4,29.4,12.5,23.2,26.8,10.6,25.4,15.4,15.4,2.6,18,25.4,19.3,19.9,10.7,15.1,-5.5,-5.8,-17.1,-21.9,-16.2,-8.4,3.9,4,0.7,-7.1
+"33","24","      Durable goods industries","N626RC",12.9,25.1,6.4,11.5,23.2,5.5,18.1,13.1,10.2,5.5,9.4,19.1,10.9,19.4,2.6,6.3,-4.1,-21.1,-18.8,-23.2,-14.2,-7.1,3.8,1.9,4.8,-5.6
+"34","25","      Nondurable goods industries","N627RC",7.4,4.4,6.1,11.8,3.6,5.1,7.4,2.3,5.2,-2.9,8.6,6.4,8.4,0.5,8.2,8.8,-1.4,15.3,1.7,1.3,-2.1,-1.3,0.1,2,-4,-1.5
+"35","26","    Nonmerchant wholesale trade","A152RC",1.8,5.8,-0.3,1,3.7,0.5,2.2,4.4,2.6,1.6,2.4,0.9,3.8,1.9,4.3,2.2,0.8,-2.7,-6.9,-3.5,-3.3,-0.6,3.2,2.7,-3.8,-0.5
+"36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37"," 1. This series is derived from the Census Bureau series ``current cost inventories.''",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38"," 2. The inventory valuation adjustment (IVA) shown in this table differs from the IVA that adjusts business incomes.  The IVA in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","this table reflects the mix of methods (such as first-in, first-out and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","last-in, first-out) underlying inventories derived primarily from Census Bureau statistics (see footnote 1).  This mix differs ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","from that underlying business income derived primarily from Internal Revenue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Service statistics.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","  Note.  Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

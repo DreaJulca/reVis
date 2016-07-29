@@ -1,0 +1,95 @@
+"","Table 3# Current-Cost Net Stock of Private Fixed Assets, Equipme","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Billions of dollars; yearend estimates]                                                                                                                                                                                                                  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1993 To 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published September 23, 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 9/23/2004 8:08:02 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003
+"8",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","       Private fixed assets","k1ptotl1es000",14173.9,15063.7,15794.2,16615.4,17550.6,18631.2,19874.3,21228.3,22519.1,23581.9,24902.2
+"10",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","2","Equipment and software","k1ptotl1eq000",2787.9,2941.1,3121.8,3286.2,3450,3648,3901.5,4169.2,4291.7,4391.1,4568.7
+"12",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","3","  Nonresidential equipment and software","k1ntotl1eq000",2754.1,2906.1,3086.1,3249.6,3413.6,3611.2,3864.1,4130.3,4251.9,4350.8,4528.3
+"14",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","4","    Information processing equipment and software","k1ntotl1ep000",690.5,725,762.6,813.4,874.6,942.3,1047.2,1172.2,1223.6,1265.8,1333.8
+"16","5","      Computers and peripheral equipment","k1ntotl1ep110",85.9,90.9,97.2,105.8,114.2,123.2,148,162.1,157.8,161.2,178.5
+"17","6","      Software \1\","k1ntotl1ens00",117.3,127.9,140.7,154.7,180.3,212.8,260.2,310.9,333.8,345.1,360.9
+"18","7","      Communication equipment","k1ntotl1ep200",287.4,293.6,305.4,328.7,355.3,375.7,405.8,458.5,485,501.1,517.5
+"19","8","      Medical equipment and instruments","k1ntotl1ep330",49.9,52.3,55.1,57.7,61.2,66.2,70.5,76.4,83.3,91.4,101.6
+"20","9","      Nonmedical instruments","k1ntotl1ep360",78.2,83,89.1,95.5,99.6,102.9,105.3,108.8,112.2,117.3,124.6
+"21","10","      Photocopy and related equipment","k1ntotl1ep310",56.2,61.6,59.4,55.5,48.4,46.6,43.6,43,39.7,37.5,36.7
+"22","11","      Office and accounting equipment","k1ntotl1ep120",15.6,15.6,15.6,15.5,15.6,14.9,13.7,12.7,11.8,12.2,14.1
+"23","12","    Industrial equipment","k1ntotl1ei000",955.9,1002.8,1067.4,1112,1150,1192.1,1230,1277.3,1306.3,1321.2,1342.7
+"24","13","      Fabricated metal products","k1ntotl1ei100",82.7,85.1,89.7,92,91.4,91.6,92,94.4,99,101.8,99.3
+"25","14","      Engines and turbines","k1ntotl1ei200",51.9,54.4,54.7,55.8,56.7,57.7,59.7,62.7,68.9,72.7,71.5
+"26","15","      Metalworking machinery","k1ntotl1ei300",178.3,184.9,196.7,203.7,210.7,217.7,222.5,228.5,226.9,225,222.5
+"27","16","      Special industry machinery, n.e.c.","k1ntotl1ei400",210.6,220.3,234.6,246,253.3,262,267.8,275,275.6,274.4,281.6
+"28","17","      General industrial, including materials handling, equipment","k1ntotl1ei500",210.1,226.9,247.6,265.6,282.1,300.9,315.1,331.2,342.8,350.5,363
+"29","18","      Electrical transmission, distribution, and industrial apparatus","k1ntotl1ei600",222.4,231.1,244.1,249,255.7,262.2,272.8,285.5,293.2,296.7,304.8
+"30","19","    Transportation equipment","k1ntotl1et000",582,631.5,680.3,722.5,757.1,811.1,889.2,950.2,967.7,987.6,1047.9
+"31","20","      Trucks, buses, and truck trailers","k1ntotl1et100",188.9,215.3,242.1,270.1,298.7,341.5,393.1,422.1,422.3,439.9,493.9
+"32","21","        Light trucks (including utility vehicles)","k1ntotl1et110",123.3,135.9,149.9,172.5,197.2,229.2,268,292,297.4,312.4,366.4
+"33","22","        Other trucks, buses, and truck trailers","k1ntotl1et120",65.5,79.4,92.2,97.6,101.5,112.3,125.1,130.1,124.9,127.5,127.6
+"34","23","      Autos","k1ntotl1et200",115.7,132.3,141.1,150.1,153.2,154,156.9,158.9,154.3,146.1,136.4
+"35","24","      Aircraft","k1ntotl1et300",161.5,165.5,173.7,177.9,180.1,188.4,208.6,235.1,257.4,266.1,277.9
+"36","25","      Ships and boats","k1ntotl1et400",46.7,46.3,46,46.8,47.2,47.5,48.2,49.8,50.5,52.5,54.5
+"37","26","      Railroad equipment","k1ntotl1et500",69.2,72.1,77.3,77.6,77.9,79.7,82.4,84.3,83.2,83.1,85.1
+"38","27","    Other equipment","k1ntotl1eo000",525.7,546.8,575.9,601.7,631.9,665.7,697.7,730.6,754.3,776.3,803.9
+"39","28","      Furniture and fixtures","k1ntotl1eo100",149,155.4,164.8,171.9,181.5,190.7,202.2,214.4,221,226.5,231.9
+"40","29","      Agricultural machinery","k1ntotl1eo330",92.8,94.7,97.3,98.5,101.4,104.6,103,102.7,104,106.9,111.2
+"41","30","      Construction machinery","k1ntotl1eo430",75.2,77.9,81.7,86.9,92.3,99.5,105.9,110.9,112.7,115.4,119.8
+"42","31","      Mining and oilfield machinery","k1ntotl1eo500",15.9,16.1,16.5,16.8,18.7,19.5,21.5,23.5,25.9,26.4,28.8
+"43","32","      Service industry machinery","k1ntotl1eo600",55.6,59.5,64.6,69.4,73.2,77.9,82.5,86.6,89.6,91.7,93.5
+"44","33","      Electrical equipment, n.e.c.","k1ntotl1eo700",27.6,25.4,24,22.4,21.4,21.4,21.2,21.3,21.9,22.4,23.2
+"45","34","      Other nonresidential equipment","k1ntotl1eo800",109.5,117.8,126.9,135.8,143.4,152.1,161.5,171.3,179.3,186.9,195.6
+"46",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","35","  Residential equipment","k1rtotl1eq000",33.8,35,35.6,36.6,36.5,36.8,37.4,38.8,39.8,40.3,40.4
+"48",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","36","Structures","k1ptotl1st000",11386,12122.6,12672.4,13329.2,14100.6,14983.3,15972.8,17059.1,18227.4,19190.8,20333.5
+"50",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","37","  Nonresidential structures","k1ntotl1st000",4414.9,4652.2,4868.2,5095.2,5406.5,5720,6023.5,6422.3,6802.4,7035.1,7248.6
+"52",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","38","    Commercial and health care","k1ntotl1schc0",1624.4,1726.6,1806.9,1901.5,2037.1,2198.6,2355.7,2523.1,2680.7,2804.8,2917.9
+"54","39","      Commercial, including office","k1ntotl1sc0x0",1347.4,1428.5,1494.8,1573.7,1688.5,1827.4,1959.7,2100.1,2232.9,2336.7,2425.6
+"55","40","        Office, including medical buildings \2\","k1ntotl1soo10",646.9,682.8,711.5,743.8,798.8,867.2,937.2,1004.5,1067.3,1112.7,1152.6
+"56","41","        Commercial \3\","k1ntotl1scxx0",700.5,745.7,783.3,829.9,889.7,960.2,1022.4,1095.6,1165.7,1224.1,1273.1
+"57","42","      Hospitals and special care","k1ntotl1sb300",277,298.1,312,327.8,348.5,371.2,396.1,423,447.7,468,492.3
+"58","43","    Manufacturing","k1ntotl1si000",651.7,688.9,718.3,753.2,793.6,843,878.7,912.2,945.5,954.3,955
+"59","44","    Power and communication","k1ntotl1suxx0",841.4,879.2,920.8,946.4,975.8,992.2,1032.2,1091,1139.7,1193,1241.2
+"60","45","      Power","k1ntotl1su6x0",638.1,662.8,685.5,696.2,718.5,730.4,758.6,797.2,827.4,864.6,895.1
+"61","46","        Electric","k1ntotl1su300",445.4,459.6,477.9,485.1,501.3,507.5,524.9,555.8,583.5,609.8,629.7
+"62","47","        Other power","k1ntotl1su4x0",192.7,203.1,207.5,211.1,217.3,222.9,233.7,241.4,243.9,254.8,265.4
+"63","48","      Communication","k1ntotl1su200",203.4,216.4,235.3,250.2,257.2,261.8,273.6,293.8,312.3,328.4,346.1
+"64","49","    Mining exploration, shafts, and wells","k1ntotl1sm000",245.8,253.4,273.3,289.4,329.7,340.5,328.3,373.8,432,422.8,411.9
+"65","50","      Petroleum and natural gas","k1ntotl1sm010",215.6,221.4,240.7,256,295.3,305.3,292.2,336.4,393.8,384.5,373.1
+"66","51","      Mining","k1ntotl1sm020",30.2,32,32.5,33.4,34.5,35.3,36.1,37.3,38.2,38.2,38.8
+"67","52","    Other structures","k1ntotl1sb0x0",1051.6,1104,1149,1204.7,1270.3,1345.6,1428.5,1522.1,1604.6,1660.3,1722.6
+"68","53","      Religious","k1ntotl1sb100",128,135.2,140,145.6,153.7,163.3,174.3,186.5,197.9,206.3,216.1
+"69","54","      Educational","k1ntotl1sb200",113.9,122.5,129.3,138.1,150.5,165.1,179.4,195.6,214,230.3,245.7
+"70","55","      Other buildings \4\","k1ntotl1sb400",289.5,306.2,319.9,341.1,369.1,402.6,440.2,479.3,511.3,530.3,551.7
+"71","56","      Railroads","k1ntotl1su100",195.5,198.6,203.4,211.6,213.6,219.4,222.5,228.1,235.2,238.9,245
+"72","57","      Farm","k1ntotl1sn000",202.6,210.6,214.1,219.1,226.5,235.5,245.9,258,266.6,271.9,278.4
+"73","58","      Other \5\","k1ntotl1so000",122.1,131,142.3,149.3,156.9,159.7,166.1,174.7,179.7,182.6,185.6
+"74",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","59","  Residential structures","k1rtotl1st000",6971,7470.5,7804.2,8234,8694.2,9263.3,9949.3,10636.8,11425,12155.6,13085
+"76",NA,NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","60","    Housing units","k1rtotl1hh000",5677.1,6100.1,6354,6691.4,7072.5,7545.6,8106.3,8662.5,9319.6,9924.6,10679.1
+"78","61","      Permanent site","k1rtotl1ps000",5567,5976.7,6220.1,6547.9,6920.1,7382.3,7931.7,8482.3,9134.6,9738.5,10488
+"79","62","        1-to-4-unit","k1rtotl1sf000",4843.4,5237.9,5463.3,5755.8,6067,6458,6968.2,7472.4,8074.8,8624.5,9319.6
+"80","63","        5-or-more-unit","k1rtotl1mf000",723.6,738.8,756.8,792.1,853.1,924.3,963.5,1009.9,1059.7,1114,1168.4
+"81","64","      Manufactured homes","k1rtotl1mh000",110.1,123.5,133.9,143.4,152.3,163.3,174.6,180.2,185,186.1,191.1
+"82","65","    Improvements","k1rtotl1im000",1266.6,1341.9,1421.4,1513.2,1591.3,1686,1809.3,1938.6,2067.1,2190.7,2362.8
+"83","66","    Other residential \6\","k1rtotl1os000",27.3,28.5,28.8,29.5,30.4,31.7,33.8,35.7,38.3,40.3,43
+"84",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85"," 1. Excludes software ""embedded"" or bundled in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86"," 2. Consists of office buildings, except those constructed at manufacturing sites and those constructed by power utilities",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87"," for their own use. Also includes medical buildings.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88"," 3. Consists of stores, restaurants, garages, service stations, warehouses, beauty and trade schools, mobile structures, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89"," other buildings used for commercial purposes.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90"," 4. Consists of hotels and motels, buildings used primarily for social and recreational activities, and buildings not elsewhere",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91"," classified, such as passenger terminals, greenhouses, and animal hospitals.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92"," 5. Consists primarily of streets, dams and reservoirs, sewer and water facilities, parks, and airfields.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93"," 6. Consists primarily of dormitories and of fraternity and sorority houses.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94"," n.e.c. Not elsewhere classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

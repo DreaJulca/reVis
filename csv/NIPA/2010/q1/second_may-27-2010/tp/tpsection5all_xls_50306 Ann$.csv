@@ -1,0 +1,68 @@
+"","Table 5#3#6# Real Private Fixed Investment by Type, Chained Doll","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Millions of chained (2005) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2009",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published May 27, 2010      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/26/2010 11:05:54 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009"
+"19","1","    Private fixed investment","A007RX1","1,235,714.0","1,346,547.0","1,470,775.0","1,630,377.0","1,782,057.0","1,913,823.0","1,877,578.0","1,798,123.0","1,856,231.0","1,992,481.0","2,122,275.0","2,171,281.0","2,126,279.0","2,018,406.0","1,648,163.0"
+"20","2","Nonresidential","A008RX1","792,235.0","866,231.0","970,789.0","1,087,379.0","1,200,860.0","1,318,543.0","1,281,798.0","1,180,161.0","1,191,004.0","1,263,018.0","1,347,325.0","1,453,944.0","1,544,262.0","1,569,657.0","1,290,998.0"
+"21","3","  Structures","B009RX1","342,027.0","361,407.0","387,913.0","407,721.0","408,207.0","440,048.0","433,329.0","356,596.0","343,011.0","346,728.0","351,754.0","384,046.0","441,435.0","486,799.0","390,328.0"
+"22","4","    Commercial and health care","W001RX1","126,713.0","136,491.0","150,831.0","160,220.0","166,060.0","177,186.0","168,601.0","142,792.0","133,791.0","137,114.0","135,923.0","144,163.0","158,496.0","155,582.0","115,210.0"
+"23","5","    Manufacturing","C307RX1","51,727.0","54,388.0","51,947.0","53,695.0","44,788.0","46,192.0","44,910.0","26,221.0","24,294.0","25,488.0","29,887.0","32,952.0","40,355.0","50,601.0","61,491.0"
+"24","6","    Power and communication","W003RX1","45,366.0","39,034.0","37,626.0","44,170.0","52,104.0","60,084.0","61,977.0","60,477.0","55,690.0","46,211.0","45,152.0","48,690.0","65,256.0","77,256.0","76,714.0"
+"25","7","    Mining exploration, shafts, and wells","E318RX1","52,641.0","56,098.0","65,987.0","57,714.0","48,840.0","60,958.0","71,874.0","52,571.0","60,003.0","69,857.0","77,064.0","88,270.0","97,096.0","112,739.0","65,935.0"
+"26","8","    Other structures \1\","W004RX1","59,185.0","69,603.0","78,951.0","83,168.0","83,284.0","85,760.0","81,731.0","68,924.0","66,549.0","67,449.0","63,728.0","69,589.0","80,835.0","89,824.0","73,184.0"
+"27","9","  Equipment and software","B010RX1","492,998.0","545,397.0","620,394.0","710,415.0","810,901.0","895,779.0","866,873.0","830,279.0","851,369.0","917,328.0","995,571.0","1,069,585.0","1,096,964.0","1,068,566.0","890,660.0"
+"28","10","    Information processing equipment and software","A679RX1","149,493.0","179,102.0","220,818.0","271,067.0","332,020.0","391,857.0","390,151.0","379,346.0","404,989.0","443,084.0","475,269.0","514,765.0","555,706.0","588,785.0","556,708.0"
+"29","11","      Computers and peripheral equipment \2\","ZZZZZZ1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"30","12","      Software \3\","B985RX1","66,916.0","78,510.0","101,659.0","122,834.0","151,497.0","172,441.0","173,681.0","173,445.0","185,576.0","204,620.0","218,004.0","227,127.0","241,506.0","257,018.0","240,593.0"
+"31","13","      Other \4\","A937RX1","93,699.0","102,652.0","111,480.0","125,506.0","139,923.0","168,389.0","163,236.0","148,396.0","156,433.0","168,083.0","178,376.0","191,236.0","202,285.0","211,101.0","202,395.0"
+"32","14","    Industrial equipment","A680RX1","145,468.0","150,866.0","154,122.0","160,830.0","161,822.0","175,799.0","162,836.0","151,898.0","151,638.0","147,385.0","159,643.0","172,900.0","180,941.0","174,691.0","133,580.0"
+"33","15","    Transportation equipment","A681RX1","131,532.0","136,815.0","148,216.0","162,024.0","190,298.0","186,197.0","169,559.0","154,206.0","140,429.0","162,347.0","181,716.0","196,497.0","177,400.0","128,903.0","66,137.0"
+"34","16","    Other equipment \5\","A862RX1","110,581.0","114,795.0","125,890.0","138,761.0","142,418.0","150,422.0","149,274.0","148,157.0","155,037.0","164,425.0","178,943.0","185,491.0","184,082.0","180,284.0","145,104.0"
+"35","17","Residential","A011RX1","456,087.0","492,511.0","501,824.0","540,427.0","574,219.0","579,963.0","583,250.0","613,836.0","664,316.0","729,509.0","774,950.0","718,214.0","585,012.0","451,118.0","358,706.0"
+"36","18","  Structures","A012RX1","450,068.0","486,818.0","496,277.0","534,482.0","567,471.0","572,561.0","575,605.0","605,911.0","655,877.0","720,140.0","765,166.0","708,085.0","574,980.0","441,451.0","349,609.0"
+"37","19","    Permanent site","A943RX1","268,679.0","293,896.0","295,489.0","323,544.0","347,586.0","350,399.0","352,455.0","366,648.0","402,518.0","449,108.0","480,808.0","438,819.0","327,129.0","217,419.0","135,807.0"
+"38","20","      Single family","A944RX1","240,190.0","262,402.0","261,560.0","290,125.0","311,507.0","314,980.0","315,436.0","327,656.0","362,590.0","406,099.0","433,510.0","391,116.0","283,891.0","179,740.0","108,943.0"
+"39","21","      Multifamily","C292RX1","28,325.0","31,317.0","33,739.0","33,362.0","36,007.0","35,402.0","36,935.0","38,885.0","39,910.0","43,008.0","47,298.0","47,608.0","42,776.0","36,426.0","25,578.0"
+"40","22","    Other structures \6\","A863RX1","180,886.0","192,642.0","200,182.0","210,640.0","219,793.0","222,055.0","223,051.0","238,979.0","253,233.0","271,019.0","284,358.0","269,320.0","248,396.0","224,742.0","214,320.0"
+"41","23","  Equipment","B013RX1","5,889.0","5,861.0","5,812.0","6,239.0","6,923.0","7,411.0","7,604.0","7,908.0","8,445.0","9,365.0","9,784.0","10,150.0","10,132.0","9,830.0","9,237.0"
+"42","24","Residual","A972RX1","-113,700.0","-99,900.0","-78,800.0","-50,200.0","-17,700.0","-3,700.0","-8,600.0","-700.0","-600.0","-500.0","0.0","-1,000.0","-1,500.0","5,900.0","-7,300.0"
+"43",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","25","  Private fixed investment in structures","A349RX1","787,766.0","843,983.0","878,945.0","936,943.0","970,982.0","1,006,745.0","1,003,406.0","960,032.0","997,628.0","1,066,571.0","1,116,920.0","1,093,379.0","1,025,356.0","948,719.0","756,526.0"
+"45","26","  Private fixed investment in equipment and software","A327RX1","498,733.0","551,159.0","626,164.0","716,630.0","817,802.0","903,169.0","874,458.0","838,181.0","859,812.0","926,689.0","1,005,355.0","1,079,732.0","1,107,089.0","1,078,389.0","899,887.0"
+"46","27","  Private fixed investment in new structures \7\","W040RX1","744,450.0","795,392.0","824,285.0","875,621.0","905,102.0","938,343.0","930,649.0","885,077.0","913,393.0","966,021.0","1,007,228.0","996,446.0","943,230.0","882,076.0","695,800.0"
+"47","28","    Nonresidential structures","A771RX1","342,180.0","361,040.0","385,922.0","407,209.0","407,729.0","439,370.0","428,774.0","356,868.0","343,408.0","346,230.0","350,339.0","382,973.0","440,652.0","485,479.0","389,404.0"
+"48","29","    Residential structures","A756RX1","405,700.0","437,688.0","442,599.0","472,767.0","501,220.0","503,903.0","506,371.0","530,278.0","571,056.0","620,072.0","656,889.0","612,405.0","494,522.0","378,317.0","290,864.0"
+"49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","1. Consists primarily of religious, educational, vocational, lodging, railroads, farm, and amusement and recreational",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","structures, net purchases of used structures, and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","2. The quantity index for computers can be used to accurately measure the real growth rate of this component.  However,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","because computers exhibit rapid changes in prices relative to other prices in the economy, the chained-dollar estimates",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","should not be used to measure the component's relative importance or its contribution to the growth rate of more aggregate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","series; accurate estimates of these contributions are shown in table 5.3.2 and real growth rates are shown in table 5.3.1.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","3. Excludes software ""embedded,"" or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","4. Includes communication equipment, nonmedical instruments, medical equipment and instruments, photocopy and related",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","equipment, and office and accounting equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","5. Consists primarily of furniture and fixtures, agricultural machinery, construction machinery, mining and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","oilfield machinery, service industry machinery, and electrical equipment not elsewhere classified.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","6. Consists primarily of manufactured homes, improvements, dormitories, net purchases",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","of used structures, and brokers' commissions on the sale of residential structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","7. Excludes net purchases of used structures and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","Note. Chained (2005) dollar series are calculated as the product of the chain-type quantity index and the 2005 current-dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","more than one period, the corresponding chained-dollar estimates are usually not additive. The residual line is the difference",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

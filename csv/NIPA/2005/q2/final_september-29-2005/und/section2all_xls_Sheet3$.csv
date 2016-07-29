@@ -1,0 +1,3 @@
+"","x"
+"1","42000 -1002 [Microsoft][ODBC Excel Driver] ''Sheet3$'' is not a valid name. Make sure that it does not include invalid characters or punctuation and that it is not too long."
+"2","[RODBC] ERROR: Could not SQLExecDirect 'select * from ['Sheet3$']'"

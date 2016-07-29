@@ -1,0 +1,70 @@
+"","Table 3BU# Real Inventory-Sales Ratios for Manufacturing and Tra","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+"1","[Ratio, based on chained (2000) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published June 30, 2006     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/29/2006 12:41:15 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005
+"8","1","A       Manufacturing and trade industries","RMT3",1.391,1.396,1.396,1.407,1.375,1.383,1.368,1.338,1.312
+"9","2","A Manufacturing industries","R303",1.329,1.339,1.347,1.354,1.367,1.364,1.338,1.287,1.273
+"10","3","A   Durable goods manufacturing industries","R30D3",1.498,1.519,1.487,1.497,1.521,1.503,1.46,1.391,1.365
+"11","4","A     Wood product manufacturing","R3213",1.211,1.211,1.248,1.293,1.315,1.341,1.295,1.209,1.278
+"12","5","A     Nonmetallic mineral product manufacturing","R3273",1.281,1.221,1.244,1.268,1.252,1.363,1.353,1.331,1.25
+"13","6","A     Primary metal manufacturing","R3313",1.517,1.593,1.646,1.678,1.684,1.684,1.582,1.629,1.643
+"14","7","A     Fabricated metal product manufacturing","R3323",1.486,1.495,1.526,1.509,1.556,1.555,1.567,1.533,1.513
+"15","8","A     Machinery manufacturing","R3333",1.582,1.597,1.654,1.689,1.666,1.665,1.648,1.529,1.526
+"16","9","A     Computer and electronic product manufacturing","R3343",1.623,1.525,1.496,1.585,1.618,1.619,1.477,1.311,1.198
+"17","10","A     Electrical equipment, appliance, and component manufacturing","R3353",1.417,1.416,1.384,1.397,1.434,1.537,1.505,1.455,1.451
+"18","11","A     Transportation equipment manufacturing","R3363",1.44,1.581,1.43,1.357,1.408,1.315,1.3,1.256,1.291
+"19","12","D       Motor vehicle and parts manufacturing","R336MV3",0.648,0.653,0.615,0.65,0.643,0.63,0.651,0.641,0.662
+"20","13","D       Other transportation equipment manufacturing","R336OT3",3.546,3.87,3.662,3.331,3.329,3.174,3.063,2.917,2.851
+"21","14","A     Furniture and related product manufacturing","R3373",1.295,1.234,1.255,1.275,1.271,1.379,1.359,1.384,1.311
+"22","15","A     Miscellaneous durable goods manufacturing","R3393",1.709,1.685,1.732,1.733,1.746,1.683,1.676,1.607,1.497
+"23","16","A   Nondurable goods manufacturing industries","R30N3",1.128,1.116,1.167,1.169,1.179,1.195,1.187,1.151,1.147
+"24","17","A     Food manufacturing","R3113",0.936,0.901,0.938,0.944,0.93,0.935,0.937,0.922,0.886
+"25","18","A     Beverage and tobacco product manufacturing","R3123",1.219,1.204,1.277,1.269,1.329,1.478,1.481,1.45,1.496
+"26","19","A     Textile mills","R3133",1.421,1.471,1.555,1.519,1.557,1.543,1.662,1.558,1.516
+"27","20","A     Textile product mills","R3143",1.449,1.369,1.425,1.552,1.712,1.216,1.263,1.199,1.213
+"28","21","A     Apparel manufacturing","R3153",1.485,1.553,1.744,1.751,1.574,1.582,1.616,1.517,1.668
+"29","22","A     Leather and allied product manufacturing","R3163",1.819,1.956,2.077,1.988,1.992,1.612,1.485,1.531,1.48
+"30","23","A     Paper manufacturing","R3223",1.179,1.14,1.199,1.182,1.24,1.358,1.244,1.162,1.144
+"31","24","A     Printing and related support activities","R3233",0.79,0.724,0.798,0.753,0.758,0.834,0.826,0.882,0.831
+"32","25","A     Petroleum and coal product manufacturing","R3243",0.851,0.808,0.782,0.777,0.831,0.799,0.864,0.787,0.86
+"33","26","A     Chemical manufacturing","R3253",1.323,1.36,1.442,1.467,1.482,1.529,1.469,1.439,1.419
+"34","27","A     Plastics and rubber product manufacturing","R3263",1.239,1.247,1.256,1.238,1.26,1.231,1.208,1.204,1.196
+"35","28","A Merchant wholesale industries","R42W3",1.336,1.35,1.334,1.342,1.306,1.29,1.281,1.281,1.282
+"36","29","A   Durable goods merchant wholesale industries","R42WD3",1.665,1.683,1.631,1.625,1.539,1.538,1.52,1.5,1.493
+"37","30","D     Motor vehicles, parts, and supplies wholesalers","R42113",1.619,1.574,1.544,1.563,1.404,1.463,1.502,1.46,1.491
+"38","31","D     Furniture and home furnishings wholesalers","R42123",1.542,1.54,1.539,1.534,1.472,1.571,1.621,1.556,1.54
+"39","32","D     Lumber and other construction materials wholesalers","R42133",1.106,1.02,1.008,1.078,1.05,1.071,1.093,1.161,1.227
+"40","33","D     Professional and commercial equipment wholesalers","R42143",1.411,1.225,1.147,1.127,1.012,1.005,0.994,1.052,1.039
+"41","34","D       Computers and software wholesalers","R42433",1.495,1.259,1.111,1.011,0.93,0.927,0.989,1.028,1.009
+"42","35","D       Other professional and commercial equipment wholesalers","R424X3",1.281,1.162,1.192,1.275,1.109,1.103,1.038,1.124,1.126
+"43","36","D     Metal and mineral (except petroleum) wholesalers","R42153",1.688,1.85,1.826,1.797,1.774,1.91,1.984,2.111,1.992
+"44","37","D     Electrical goods wholesalers","R42163",1.419,1.481,1.503,1.456,1.351,1.351,1.284,1.231,1.212
+"45","38","D     Hardware and plumbing and heating equipment wholesalers","R42173",1.969,2.037,1.995,2.074,2.062,2.042,2.02,2.098,2.156
+"46","39","D     Machinery, equipment, and supplies wholesalers","R42183",2.322,2.438,2.484,2.466,2.448,2.518,2.4,2.264,2.256
+"47","40","D     Miscellaneous durable goods wholesalers","R42193",1.268,1.481,1.391,1.454,1.412,1.336,1.434,1.334,1.318
+"48","41","A   Nondurable goods merchant wholesale industries","R42WN3",1.012,1.016,1.022,1.038,1.064,1.043,1.038,1.035,1.033
+"49","42","D     Paper and paper products wholesalers","R42213",1.326,1.312,1.229,1.34,1.324,1.278,1.291,1.34,1.359
+"50","43","D     Drugs and druggists' sundries wholesalers","R42223",1.564,1.525,1.587,1.704,1.832,1.643,1.513,1.365,1.176
+"51","44","D     Apparel, piece goods, and notions wholesalers","R42233",1.837,1.85,1.69,1.627,1.586,1.545,1.484,1.516,1.543
+"52","45","D     Grocery and related products wholesalers","R42243",0.64,0.613,0.657,0.636,0.606,0.638,0.616,0.632,0.65
+"53","46","D     Farm product raw material wholesalers","R42253",1.371,1.586,1.565,1.588,1.644,1.582,1.722,1.489,1.693
+"54","47","D     Chemical and allied products wholesalers","R42263",1.017,1.105,1.127,1.008,1.045,1.062,1.058,0.983,0.945
+"55","48","D     Petroleum and petroleum products wholesalers","R42273",0.418,0.407,0.336,0.351,0.41,0.372,0.381,0.414,0.451
+"56","49","D     Beer, wine, and distilled alcoholic beverages wholesalers","R42283",1.082,1.06,1.044,1.048,1.004,1.025,1.02,1.075,1.07
+"57","50","D     Miscellaneous nondurable goods wholesalers","R42293",1.294,1.299,1.317,1.231,1.231,1.252,1.276,1.419,1.372
+"58","51","A Retail trade industries","R443",1.55,1.528,1.52,1.531,1.446,1.478,1.466,1.427,1.362
+"59","52","A   Motor vehicle and parts dealers","R4413",1.866,1.79,1.806,1.913,1.741,1.951,2.019,1.956,1.857
+"60","53","A   Furniture, furnishings, electronics, and appliance stores","R44233",1.944,1.856,1.747,1.685,1.539,1.465,1.389,1.323,1.22
+"61","54","A   Building material and garden equipment and supplies dealers","R4443",1.734,1.717,1.694,1.656,1.575,1.558,1.518,1.527,1.483
+"62","55","A   Food and beverage stores","R4453",0.766,0.792,0.822,0.807,0.814,0.829,0.798,0.797,0.772
+"63","56","A   Clothing and clothing accessories stores","R4483",2.349,2.257,2.164,2.204,2.111,2.11,1.994,1.868,1.816
+"64","57","A   General merchandise stores","R4523",2.024,1.926,1.851,1.773,1.672,1.61,1.528,1.506,1.472
+"65","58","D     Department stores","R45213",2.239,2.144,2.084,2.02,1.928,1.878,1.833,1.805,1.785
+"66","59","D     Other general merchandise stores","R45293",1.632,1.565,1.5,1.437,1.369,1.338,1.258,1.268,1.247
+"67","60","A   Other retail stores","R44X3",1.178,1.223,1.209,1.192,1.157,1.1,1.081,1.028,0.966
+"68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Note. Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,60 @@
+"","Table 3#9#6# Real Government Consumption Expenditures and Gross ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2009) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published January 30, 2015  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/29/2015 3:39:34 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+"8","1","    Government consumption expenditures and gross investment","A822RX1",2451.7,2498.2,2592.4,2705.8,2764.3,2808.2,2826.2,2869.3,2914.4,2994.8,3089.1,3091.4,2997.4,2953.9,2894.5,2889.3
+"9","2","      Consumption expenditures \1\","A955RX1",1968.2,1998.4,2069.1,2149.2,2187.8,2221.7,2239.5,2264.1,2295.7,2353.9,2442.1,2444.9,2380,2365.9,2335.2,2344.1
+"10","3","      Gross investment \2\","A782RX1",484.9,500.6,523.8,556.7,576.4,586.5,586.6,605.2,618.7,641,647,646.5,617.1,587.3,558.2,543.8
+"11","4","        Structures","A760RX1",295.4,305.3,320,335.9,337.8,329.5,314,315.1,314.5,316.6,318.9,312.3,290.3,263.9,248.3,246.7
+"12","5","        Equipment","Y054RX1",77.3,79.8,83.1,92.5,98,105.4,111.4,122.5,131,147.2,148.3,151,143.4,140.3,132.9,127.3
+"13","6","        Intellectual property products","Y055RX1",123.3,127.2,133.5,140.4,150.4,157.9,164.1,168.7,173.6,177.2,179.8,183.2,183.3,183.1,177.2,169.9
+"14","7","          Software","Y056RX1",26.2,27.6,28.1,26.5,27,28.3,29.8,31.1,32.7,34.3,34.1,35.7,37.5,38.5,39,39.9
+"15","8","          Research and development","Y057RX1",96.6,99.1,105,113.8,123.5,129.7,134.3,137.6,140.9,142.9,145.8,147.6,145.9,144.8,138.5,130.4
+"16","9","Federal","A823RX1",815.3,817.7,849.8,910.8,973,1017.1,1034.8,1060.9,1078.7,1152.3,1217.7,1270.7,1236.4,1214.4,1145.3,1123.4
+"17","10","    Consumption expenditures","A957RX1",643.1,645.9,670.8,712.3,758.7,790.3,799.7,813.5,821.8,876.5,933.7,975.2,949.7,938.9,890,883.5
+"18","11","    Gross investment","A787RX1",173.8,173.7,180.9,199.5,215,227.4,235.4,247.5,257,275.9,284,295.4,286.7,275.4,255.1,239.2
+"19","12","      Structures","A801RX1",25.3,20.8,19.6,22.8,24,21.7,18.2,19,22.1,24.9,29.1,32.8,29.4,21.3,16.5,15.4
+"20","13","      Equipment","Y058RX1",46.8,47.3,49.7,58.6,63.7,71.1,76.6,84.9,87.7,101.7,103.7,108.8,103.4,100.9,92.2,85.7
+"21","14","      Intellectual property products","Y059RX1",105.4,108,113.4,119.9,129.1,135.6,140.8,143.7,147.2,149.3,151.1,153.9,153.8,153,146.3,138
+"22","15","        Software","Y060RX1",17.7,18.4,18.7,17.3,17.2,17.9,19,19.8,21,22.1,21.8,23.4,24.6,25.1,25,25.3
+"23","16","        Research and development","Y061RX1",87.3,89.2,94.4,102.5,111.9,117.7,121.8,123.9,126.2,127.3,129.3,130.5,129.3,128.1,121.4,113
+"24","17","  National defense","A824RX1",516.9,512.3,530,567.3,615.4,652.7,665.5,678.8,695.6,748.1,788.3,813.5,795,768.7,717.7,702.2
+"25","18","    Consumption expenditures","A997RX1",429.4,423.3,435.3,459,494.6,519.9,525.7,531,539.5,576.7,613.3,636,626.2,608.6,571.8,567.6
+"26","19","    Gross investment","A788RX1",90.5,91.4,96.7,109.4,121.6,133.2,140,147.9,156.2,171.4,175,177.5,168.7,160,145.7,134.2
+"27","20","      Structures","A808RX1",8.5,8.2,7.8,8.7,9.8,9.1,8.5,8.5,10.3,13.5,17.1,16.7,13,7.7,6,4.7
+"28","21","      Equipment","Y050RX1",37,38.3,41.4,48,52.6,59,62.7,68.6,72.3,84.4,86,89.7,85.3,82.6,76.1,70.1
+"29","22","      Intellectual property products","Y052RX1",46,45.7,48,53.1,59.8,65.3,68.9,70.8,73.6,73.6,71.8,71.1,70.3,69.6,63.6,59.3
+"30","23","        Software","Y053RX1",6.3,6.2,5.9,5.8,5.6,5.9,6.1,6.3,6.6,6.9,6.8,7.3,7.7,7.7,7.7,7.8
+"31","24","        Research and development","Y076RX1",39.4,39.2,42,47.2,54.1,59.4,62.8,64.4,67,66.7,65,63.8,62.6,61.9,56,51.7
+"32","25","  Nondefense","A825RX1",298.5,305.4,319.7,343.3,357.5,364.5,369.4,382.1,383.1,404.2,429.4,457.1,441.4,445.7,427.5,421
+"33","26","    Consumption expenditures","A542RX1",214.1,222.7,235.4,253.3,264.1,270.4,274,282.5,282.3,299.8,320.4,339.2,323.5,330.3,318.2,315.8
+"34","27","    Gross investment","A798RX1",83.3,82.2,84.1,90,93.3,94.1,95.4,99.6,100.8,104.5,109,117.9,118,115.3,109.3,105.1
+"35","28","      Structures","A830RX1",16.8,12.6,11.8,14.2,14.3,12.7,9.7,10.5,11.9,11.4,12,16.1,16.4,13.6,10.5,10.6
+"36","29","      Equipment","Y066RX1",9.4,8.8,8.4,10.5,11.1,12.1,13.9,16.1,15.4,17.3,17.7,19.1,18.2,18.3,16,15.6
+"37","30","      Intellectual property products","Y067RX1",59.3,62.3,65.4,66.8,69.3,70.2,71.9,72.9,73.6,75.7,79.3,82.8,83.5,83.4,82.8,78.8
+"38","31","        Software","Y068RX1",11.4,12.2,12.8,11.5,11.6,12,12.9,13.5,14.4,15.2,15,16,16.9,17.3,17.3,17.5
+"39","32","        Research and development","Y069RX1",47.9,50,52.5,55.3,57.8,58.3,59.1,59.5,59.2,60.5,64.3,66.7,66.7,66.2,65.5,61.3
+"40","33","State and local","A829RX1",1643.6,1689.1,1751.5,1802.4,1795.3,1792.8,1792.3,1808.8,1836.1,1842.4,1871.4,1820.8,1761,1739.5,1748.4,1764.9
+"41","34","  Consumption expenditures","A991RX1",1327.6,1355.5,1401.3,1439.5,1430.3,1431.7,1440,1450.7,1474.1,1477.4,1508.4,1469.7,1430.4,1427,1444.7,1460
+"42","35","  Gross investment","A799RX1",316.2,334,350.6,363.5,365.8,361.6,352.3,358.2,362.1,365.2,363,351,330.3,311.8,302.8,304.1
+"43","36","    Structures","A842RX1",269.9,284.7,300.8,313.2,313.9,308,296.2,296.5,292.5,291.9,289.8,279.5,260.9,242.5,231.6,231.1
+"44","37","    Equipment","Y070RX1",30.9,32.6,33.3,34,34.3,34.2,34.8,37.8,43.3,45.5,44.5,42.2,39.9,39.3,40.7,41.6
+"45","38","    Intellectual property products","Y071RX1",17.9,19.2,20,20.5,21.4,22.4,23.3,25,26.4,27.8,28.7,29.3,29.5,30.1,31,32
+"46","39","      Software","Y072RX1",8.6,9.2,9.4,9.2,9.7,10.4,10.9,11.3,11.7,12.2,12.2,12.3,12.9,13.5,14,14.5
+"47","40","      Research and development","Y073RX1",9.3,9.9,10.5,11.3,11.7,12,12.4,13.7,14.7,15.6,16.5,17.1,16.6,16.7,17.1,17.5
+"48","41","Residual","A979RX1",-14.8,-15.2,-16.2,-14.9,-11.2,-6.9,-3.5,-1.6,-0.8,-0.2,0.1,0,0.2,0.7,1.3,1.9
+"49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","1. Government consumption expenditures are services (such as education and national defense) produced by government that",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","are valued at their cost of production.  Excludes government sales to other sectors and government own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","(construction, software, and research and development).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","2. Gross government investment consists of general government and government enterprise expenditures for fixed assets; inventory",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","investment is included in government consumption expenditures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Note. Chained (2009) dollar series are calculated as the product of the chain-type quantity index and the 2009 current-dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","than one period, the corresponding chained-dollar estimates are usually not additive. The residual line is the difference between ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

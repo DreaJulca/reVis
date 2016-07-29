@@ -1,0 +1,31 @@
+"","Table 3#23U# Compensation of General Government Employees","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 31, 2007   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/29/2007 5:17:51 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006
+"8","1"," Compensation of general government employees","A194RC1",818.4,854.3,903.2,953.7,1023.6,1096.9,1156,1218.4,1277.9
+"9","2","   Wage and salary accruals","W881RC1",625.5,655.1,695.2,734.1,781,818.1,852.2,888.1,924.7
+"10","3","   Supplements to wages and salaries","W882RC1",192.9,199.3,208.1,219.6,242.5,278.8,303.8,330.3,353.2
+"11","4","     Employer contributions for employee pension and insurance funds","W883RC1",152.8,157.3,163.8,172.2,192.1,225.4,248,272.3,292.5
+"12","5","       Publicly administered government employee retirement plans","W884RC1",93.1,93.8,94.5,95.8,104.5,126.4,135.8,147.3,156
+"13","6","       Other","W885RC1",59.6,63.5,69.3,76.4,87.6,99,112.2,125,136.5
+"14","7","     Employer contributions for government social insurance","W886RC1",40.1,42,44.2,47.4,50.4,53.4,55.7,58,60.7
+"15","8","Compensation of Federal general government employees","B568RC1",215.1,221.3,233.8,242.9,269.4,298.9,324.1,345.7,359.2
+"16","9","  Wage and salary accruals","A4178C1",142.8,146.5,155.1,160.4,177.9,196.2,208.9,222.2,226.8
+"17","10","  Supplements to wages and salaries","W887RC1",72.3,74.7,78.7,82.5,91.5,102.7,115.1,123.6,132.4
+"18","11","    Employer contributions for employee pension and insurance funds","W888RC1",62.1,64.1,67.4,70.5,78.1,88,99.1,106.7,114.6
+"19","12","      Publicly administered government employee retirement plans","W889RC1",53.4,54.6,57.1,59.1,65,73.4,83.4,89.8,96.3
+"20","13","        Civilian","W890RC1",27.1,28,28.9,29.7,31.3,32.3,36.6,38,41
+"21","14","        Military","W891RC1",26.3,26.6,28.2,29.4,33.7,41.2,46.8,51.9,55.3
+"22","15","      Other","W892RC1",8.7,9.5,10.3,11.4,13.1,14.5,15.7,16.9,18.3
+"23","16","    Employer contributions for government social insurance","W893RC1",10.3,10.6,11.3,12,13.4,14.7,16,16.9,17.8
+"24","17","Compensation of state and local general government employees","B251RC1",603.3,633.1,669.4,710.8,754.2,798,831.9,872.7,918.7
+"25","18","  Wage and salary accruals","A4183C1",482.8,508.5,540.1,573.7,603.1,621.9,643.3,665.9,697.8
+"26","19","  Supplements to wages and salaries","W894RC1",120.5,124.5,129.4,137.2,151,176.1,188.7,206.7,220.9
+"27","20","    Employer contributions for employee pension and insurance funds","W895RC1",90.7,93.1,96.4,101.7,114,137.4,148.9,165.6,177.9
+"28","21","      Publicly administered government employee retirement plans","W896RC1",39.8,39.2,37.4,36.7,39.5,53,52.4,57.5,59.6
+"29","22","      Other","W897RC1",50.9,53.9,59,65,74.6,84.4,96.5,108.2,118.3
+"30","23","    Employer contributions for government social insurance","W898RC1",29.8,31.4,32.9,35.5,37,38.6,39.7,41.1,43

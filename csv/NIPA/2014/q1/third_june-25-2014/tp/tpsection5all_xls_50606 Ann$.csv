@@ -1,0 +1,59 @@
+"","Table 5#6#6# Real Private Fixed Investment in Intellectual Prope","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2012",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 07, 2013   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/24/2014 4:08:51 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012"
+"19","1","      Private fixed investment in intellectual property products","Y001RX1","391,133.0","426,053.0","427,987.0","425,913.0","442,175.0","464,888.0","494,997.0","517,462.0","542,355.0","558,803.0","550,922.0","561,320.0","586,113.0","605,803.0"
+"20","2","Software","B985RX1","154,497.0","175,856.0","177,120.0","176,879.0","188,952.0","207,914.0","221,187.0","230,339.0","244,182.0","256,226.0","256,776.0","254,236.0","269,826.0","285,860.0"
+"21","3","  Prepackaged \1\","Y003RX1","35,094.0","38,601.0","40,404.0","45,456.0","51,798.0","59,081.0","63,645.0","64,199.0","66,922.0","70,573.0","71,285.0","64,120.0","71,074.0","78,586.0"
+"22","4","  Custom","Y004RX1","61,110.0","69,858.0","68,201.0","61,134.0","60,356.0","62,986.0","69,526.0","75,609.0","83,315.0","88,477.0","86,490.0","93,704.0","99,174.0","104,854.0"
+"23","5","  Own account","Y005RX1","61,617.0","71,962.0","72,323.0","71,740.0","77,135.0","85,662.0","87,671.0","90,454.0","93,971.0","97,185.0","99,001.0","96,306.0","99,617.0","102,723.0"
+"24","6","Research and development \2,3\","Y006RX1","183,887.0","193,039.0","195,584.0","190,467.0","189,091.0","191,031.0","202,292.0","214,998.0","227,876.0","235,519.0","229,018.0","234,403.0","241,831.0","245,667.0"
+"25","7","  Business","Y007RX1","172,692.0","181,856.0","184,154.0","178,172.0","176,653.0","178,571.0","189,770.0","202,315.0","215,018.0","222,368.0","213,951.0","218,131.0","222,847.0","226,903.0"
+"26","8","    Manufacturing","Y027RX1","134,860.0","143,693.0","150,358.0","142,771.0","143,817.0","148,189.0","155,606.0","167,754.0","178,930.0","182,195.0","177,465.0","180,493.0","183,327.0","184,509.0"
+"27","9","      Pharmaceutical and medicine manufacturing","Y009RX1","28,623.0","31,946.0","33,625.0","37,224.0","37,931.0","41,282.0","43,556.0","47,888.0","57,899.0","60,653.0","56,903.0","62,025.0","58,281.0","57,625.0"
+"28","10","      Chemical manufacturing, excluding pharmaceutical and medicine","Y010RX1","9,389.0","9,387.0","9,242.0","7,762.0","8,360.0","8,349.0","8,643.0","8,912.0","9,100.0","11,185.0","10,412.0","11,201.0","10,450.0","11,535.0"
+"29","11","      Semiconductor and other electronic component manufacturing","Y012RX1","13,492.0","14,355.0","16,875.0","16,624.0","17,022.0","18,792.0","19,654.0","18,951.0","19,286.0","22,213.0","20,941.0","22,379.0","24,080.0","26,291.0"
+"30","12","      Other computer and electronic product manufacturing","Y013RX1","24,662.0","30,734.0","36,001.0","26,599.0","23,989.0","22,875.0","23,379.0","28,416.0","28,448.0","30,337.0","27,879.0","27,531.0","28,451.0","28,669.0"
+"31","13","      Motor vehicles, bodies and trailers, and parts manufacturing","Y014RX1","19,342.0","18,633.0","17,917.0","17,881.0","18,442.0","18,296.0","18,271.0","18,349.0","17,252.0","13,832.0","12,153.0","11,979.0","13,383.0","13,100.0"
+"32","14","      Aerospace products and parts manufacturing","Y015RX1","8,172.0","7,642.0","8,162.0","7,705.0","7,304.0","8,447.0","9,121.0","10,266.0","10,957.0","11,014.0","11,741.0","8,973.0","7,379.0","6,786.0"
+"33","15","      Other manufacturing","Y016RX1","31,180.0","30,997.0","28,535.0","28,975.0","30,769.0","30,147.0","32,982.0","34,972.0","35,988.0","32,961.0","37,436.0","36,405.0","41,303.0","40,503.0"
+"34","16","    Nonmanufacturing","Y028RX1","37,833.0","38,163.0","33,796.0","35,400.0","32,836.0","30,382.0","34,164.0","34,560.0","36,088.0","40,173.0","36,485.0","37,638.0","39,521.0","42,394.0"
+"35","17","      Scientific research and development services","Y029RX1","4,765.0","5,828.0","6,033.0","5,388.0","4,894.0","5,825.0","6,122.0","6,588.0","7,402.0","9,113.0","9,068.0","7,508.0","8,061.0","8,260.0"
+"36","18","      All other nonmanufacturing","Y008RX1","33,067.0","32,335.0","27,763.0","30,012.0","27,942.0","24,557.0","28,042.0","27,972.0","28,686.0","31,060.0","27,417.0","30,130.0","31,459.0","34,133.0"
+"37","19","  Nonprofit institutions serving households","Y017RX1","11,199.0","11,186.0","11,434.0","12,296.0","12,438.0","12,460.0","12,523.0","12,682.0","12,854.0","13,146.0","15,068.0","16,274.0","18,997.0","18,773.0"
+"38","20","    Universities and colleges \4\","Y018RX1","1,116.0","1,205.0","1,296.0","1,447.0","1,552.0","1,619.0","1,797.0","2,013.0","2,174.0","2,274.0","2,534.0","2,752.0","2,751.0","2,800.0"
+"39","21","    Other nonprofit institutions","Y019RX1","10,082.0","9,981.0","10,137.0","10,848.0","10,884.0","10,838.0","10,722.0","10,666.0","10,679.0","10,873.0","12,534.0","13,522.0","16,239.0","15,968.0"
+"40","22","Entertainment, literary, and artistic originals","Y020RX1","55,936.0","59,250.0","57,452.0","60,313.0","64,844.0","65,815.0","71,315.0","72,071.0","70,310.0","67,062.0","65,128.0","72,652.0","74,570.0","74,777.0"
+"41","23","  Theatrical movies","Y021RX1","13,637.0","16,569.0","15,757.0","16,221.0","17,968.0","18,198.0","19,174.0","20,155.0","19,757.0","18,177.0","17,037.0","21,206.0","21,504.0","21,650.0"
+"42","24","  Long-lived television programs","Y022RX1","20,487.0","20,696.0","20,618.0","23,094.0","25,473.0","25,715.0","30,198.0","30,710.0","29,758.0","28,277.0","28,352.0","31,241.0","33,351.0","33,771.0"
+"43","25","  Books","Y023RX1","9,781.0","9,840.0","9,690.0","9,823.0","9,783.0","9,850.0","10,135.0","9,679.0","9,824.0","9,559.0","8,878.0","10,000.0","9,762.0","9,140.0"
+"44","26","  Music","Y024RX1","9,162.0","9,090.0","8,332.0","8,094.0","8,393.0","8,748.0","8,326.0","8,053.0","7,698.0","7,761.0","7,865.0","7,722.0","7,415.0","7,723.0"
+"45","27","  Other","Y025RX1","3,503.0","3,595.0","3,577.0","3,430.0","3,389.0","3,461.0","3,511.0","3,435.0","3,271.0","3,302.0","2,996.0","2,466.0","2,571.0","2,590.0"
+"46","28","Residual","Y026RX1","-7,300.0","-7,100.0","-6,400.0","-3,400.0","-1,300.0","200.0","600.0","0.0","-200.0","-300.0","0.0","200.0","-600.0","-1,000.0"
+"47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","1. Excludes software ""embedded,"" or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","2. Research and development (R&D) asset types are defined by the type of funder.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","3. R&D investment excludes expenditures for software development. Software development",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","expenditures are included in software investment on line 2.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","4. Includes R&D investment by private universities and colleges. R&D investment by public universities",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","and colleges is included in state and local government investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","Note. Chained (2009) dollar series are calculated as the product of the chain-type quantity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","index and the 2009 current-dollar value of the corresponding series, divided by 100. Because",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","the formula for the chain-type quantity indexes uses weights of more than one period, the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","corresponding chained-dollar estimates are usually not additive. The residual line is the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

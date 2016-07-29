@@ -1,0 +1,68 @@
+"","Table 4#2#2# Contributions to Percent Change in Real Exports and","F2","F3","F4","F5"
+"1","",NA,NA,NA,NA
+"2","Annual data from 1968 To 1969",NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA
+"4","Data published July 30, 2015     ",NA,NA,NA,NA
+"5","File created 8/13/2015 8:35:24 AM",NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA
+"7","Line",NA,NA,1968,1969
+"8",NA,"Percent change at annual rate:"," ",NA,NA
+"9","1","    Exports of goods and services","A020RL1",7.9,4.9
+"10",NA,"Percentage points at annual rates:"," ",NA,NA
+"11","2","Exports of goods \1\","A253RZ2",6.04,3.87
+"12","3","  Foods, feeds, and beverages","B638RZ2",-0.18,-0.21
+"13","4","  Industrial supplies and materials","A639RZ2",3.09,1.04
+"14","5","    Durable goods","B686RZ2",1.46,0.91
+"15","6","    Nondurable goods","B687RZ2",1.62,0.13
+"16","7","      Petroleum and products","CB0000062",NA,NA
+"17","8","      Nondurable goods, excluding petroleum and products","CB0000052",NA,NA
+"18","9","  Capital goods, except automotive","A640RZ2",0.72,1.37
+"19","10","    Civilian aircraft, engines, and parts","B688RZ2",1.32,-0.39
+"20","11","    Computers, peripherals, and parts","B850RZ2",0.09,0.43
+"21","12","    Other","B689RZ2",-0.69,1.33
+"22","13","  Automotive vehicles, engines, and parts","B641RZ2",1.48,0.59
+"23","14","  Consumer goods, except food and automotive","A642RZ2",0.42,0.35
+"24","15","    Durable goods","B690RZ2",0.22,0.35
+"25","16","    Nondurable goods","B691RZ2",0.2,0
+"26","17","  Other \2\","A643RZ2",0.52,0.73
+"27","18","Exports of services \1\","A646RZ2",1.85,1
+"28","19","  Transport","Y800RZ2",0.22,0.47
+"29","20","  Travel (for all purposes including education)","Y801RZ2",0.13,0.34
+"30","21","  Charges for the use of intellectual property n.e.c.","B684RZ2",0.08,0.12
+"31","22","  Other business services \3\","Y802RZ2",0.06,0.16
+"32","23","  Government goods and services n.e.c.","Y803RZ2",1.21,-0.2
+"33","24","  Other","B980RZ2",0.14,0.11
+"34",NA,"Percent change at annual rate:"," ",NA,NA
+"35","25","    Imports of goods and services","A021RL1",14.9,5.7
+"36",NA,"Percentage points at annual rates:"," ",NA,NA
+"37","26","Imports of goods \1\","A255RZ2",14.35,3.99
+"38","27","  Foods, feeds, and beverages","B647RZ2",1.55,-0.6
+"39","28","  Industrial supplies and materials","CB0000042",5.53,-0.8
+"40","29","    Durable goods","A820RZ2",3.81,-1.45
+"41","30","    Nondurable goods","CB0000072",1.72,0.65
+"42","31","      Petroleum and products","B648RZ2",0.78,0.58
+"43","32","      Nondurable goods, excluding petroleum and products","B696RZ2",0.94,0.06
+"44","33","  Capital goods, except automotive","A650RZ2",0.89,1.04
+"45","34","    Civilian aircraft, engines, and parts","B932RZ2",0.13,-0.04
+"46","35","    Computers, peripherals, and parts","B852RZ2",NA,NA
+"47","36","    Other","B853RZ2",0.7,1
+"48","37","  Automotive vehicles, engines, and parts","B651RZ2",3.44,1.9
+"49","38","  Consumer goods, except food and automotive","A652RZ2",2.76,2.08
+"50","39","    Durable goods","B697RZ2",1.74,1.11
+"51","40","    Nondurable goods","B698RZ2",1.02,0.97
+"52","41","  Other","A653RZ2",0.19,0.38
+"53","42","Imports of services \1\","B656RZ2",0.55,1.7
+"54","43","  Transport","Y804RZ2",0.63,0.5
+"55","44","  Travel (for all purposes including education)","Y805RZ2",-0.76,0.55
+"56","45","  Charges for the use of intellectual property n.e.c.","B908RZ2",0.03,0.06
+"57","46","  Other business services \3\","Y806RZ2",0.14,0.12
+"58","47","  Government goods and services n.e.c.","Y807RZ2",0.45,0.43
+"59","48","  Other","B910RZ2",0.07,0.04
+"60",NA,NA,NA,NA,NA
+"61","n.e.c. Not elsewhere classified",NA,NA,NA,NA
+"62","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal",NA,NA,NA,NA
+"63","government, are included in services.",NA,NA,NA,NA
+"64","2. Includes net exports of goods under merchanting, beginning in 1999, reclassified from services to",NA,NA,NA,NA
+"65","goods.",NA,NA,NA,NA
+"66","3. Includes maintenance and repair services, insurance services, financial services, telecommunication,",NA,NA,NA,NA
+"67","computer and information services and other other business services.",NA,NA,NA,NA

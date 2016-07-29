@@ -1,0 +1,80 @@
+"","Table 3#10#5# Government Consumption Expenditures and General Go","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:50:51 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","      Government consumption expenditures \1\","A955RC1",1141.4,1176.7,1222.1,1263.2,1343.9,1426.6,1524.4,1639.9,1756.8,1860.4,1977.9,2093.3,2214.9,2386.9
+"9","2","        Gross output of general government","W101RC1",1327.7,1372,1426.5,1477.8,1567.8,1669.5,1786.5,1913.5,2044,2164.5,2299.4,2431.3,2575.2,2772.5
+"10","3","          Value added","W102RC1",884.8,911.3,940.3,972.5,1021.6,1078.8,1139.6,1211.4,1292.2,1359.3,1436.5,1512,1601.8,1688.4
+"11","4","            Compensation of general government employees","A194RC1",743.5,766.8,792.2,820.7,863.1,912,967.1,1034.1,1109.4,1165.9,1227.8,1287.3,1359.4,1428.9
+"12","5","            Consumption of general government fixed capital \2\","A265RC1",141.2,144.5,148.1,151.9,158.5,166.8,172.5,177.3,182.8,193.4,208.7,224.7,242.4,259.5
+"13","6","          Intermediate goods and services purchased \3\","W104RC1",443,460.7,486.2,505.2,546.2,590.7,646.8,702.1,751.8,805.2,863,919.4,973.5,1084.1
+"14","7","            Durable goods","W105RC1",38.1,38.5,39.5,41.1,43.9,45,46.4,47.8,49.5,53.1,54.6,58.7,63,71.2
+"15","8","            Nondurable goods","W106RC1",99.4,106.1,111.6,114.4,123.2,144.9,155.4,159.7,171.2,189.3,217.6,233.7,252.5,296.5
+"16","9","            Services","W107RC1",305.5,316.1,335,349.7,379.1,400.8,445,494.7,531,562.8,590.8,627,658,716.3
+"17","10","        Less: Own-account investment \4\","W108RC1",14.8,15,16.2,16.7,17.3,18.1,20.8,21.5,21.6,22.6,23.8,25.3,27,29
+"18","11","              Sales to other sectors","W109RC1",171.5,180.3,188.3,197.8,206.5,224.8,241.3,252.2,265.6,281.5,297.8,312.7,333.3,356.6
+"19","12","Federal consumption expenditures \1\","A957RC1",440.1,446.5,457.5,454.6,473.3,496,530.2,590.5,660.3,721.4,765.8,811,848.8,934.4
+"20","13","      Gross output of general government","W110RC1",450.8,457.7,466.6,464.7,481.8,505.8,539.3,599.8,670.1,732,779.6,823.8,861.7,947.7
+"21","14","        Value added","W111RC1",283.6,287.6,290,292.2,300.4,315.1,324.9,351.8,382.9,412,438.7,460.6,485.7,515.2
+"22","15","          Compensation of general government employees","B568RC1",205.8,209.7,212.1,214.3,220.6,233,242.1,268.4,297.8,323,344.4,360.1,379.5,402
+"23","16","          Consumption of general government fixed capital \2\","B995RC1",77.8,77.9,77.9,78,79.8,82.1,82.8,83.5,85.2,89,94.3,100.5,106.3,113.2
+"24","17","        Intermediate goods and services purchased \3\","W113RC1",167.2,170.1,176.6,172.4,181.4,190.7,214.4,248,287.2,320,340.8,363.2,376,432.5
+"25","18","          Durable goods","W114RC1",22.5,22.5,22.6,22.6,24,24,24.2,25.5,27.9,31.2,32.3,35.7,39,46.3
+"26","19","          Nondurable goods","W115RC1",14.9,15.5,17.3,17.8,16,20.1,23,24.5,28.3,33.8,40.6,41.8,43.4,53.5
+"27","20","          Services","W116RC1",129.8,132.1,136.7,132,141.4,146.6,167.2,198,231.1,254.9,267.9,285.7,293.5,332.7
+"28","21","      Less: Own-account investment \4\","W117RC1",4.1,4,4,4.1,3.8,3.2,4.1,4.5,4.4,4.5,4.6,4.7,4.7,5.2
+"29","22","            Sales to other sectors","W118RC1",6.5,7.1,5.1,6,4.7,6.6,5,4.9,5.5,6.1,9.1,8.1,8.2,8.1
+"30","23","    Defense consumption expenditures \1\","A997RC1",297,303.2,304.5,300.3,313,321.8,342,380.7,435.2,481.2,514.8,543.9,574.9,634
+"31","24","      Gross output of general government","W085RC1",300.7,307.2,308,303.5,316,324.9,345.6,384.9,439.7,485.8,520.2,549.6,581,639.3
+"32","25","        Value added","W086RC1",191.5,193.5,192.2,190.4,192.7,198.8,205.2,222.5,243.8,264.2,284.4,298.8,315.6,335.7
+"33","26","          Compensation of general government employees","B237RC1",129.8,132.3,131.9,130.8,132.7,138.1,144.8,162,182.1,199.4,215.7,225.6,238.2,252.9
+"34","27","          Consumption of general government fixed capital \2\","B432RC1",61.7,61.2,60.4,59.7,60,60.7,60.5,60.5,61.7,64.8,68.7,73.2,77.4,82.9
+"35","28","        Intermediate goods and services purchased \3\","W087RC1",109.2,113.7,115.8,113,123.3,126.2,140.3,162.4,195.9,221.6,235.8,250.9,265.4,303.5
+"36","29","          Durable goods","A998RC1",20.9,20.8,20.9,20.9,22.2,22.1,22.3,23.2,25.7,28.8,29.5,32.8,36.1,43.1
+"37","30","          Nondurable goods","A725RC1",6.3,7.6,7.6,7,8.2,10.4,10.3,11.5,13.4,17.1,20.9,22.1,24.1,30.8
+"38","31","          Services","A489RC1",81.9,85.2,87.3,85.1,92.9,93.6,107.8,127.7,156.8,175.8,185.4,196,205.3,229.6
+"39","32","      Less: Own-account investment \4\","W088RC1",1.6,1.5,1.5,1.4,1.3,1.1,1.5,2.1,2.1,2.1,2.1,2.1,2.1,2.2
+"40","33","            Sales to other sectors","W089RC1",2.1,2.6,2,1.7,1.7,1.9,2,2.2,2.4,2.5,3.3,3.6,4.1,3
+"41","34","    Nondefense consumption expenditures \1\","A542RC1",143.2,143.4,153,154.3,160.3,174.2,188.1,209.8,225.1,240.2,251,267.1,273.9,300.4
+"42","35","      Gross output of general government","W128RC1",150.1,150.5,158.6,161.2,165.8,180.9,193.7,214.9,230.4,246.2,259.4,274.2,280.6,308.5
+"43","36","        Value added","W129RC1",92.1,94,97.8,101.8,107.7,116.3,119.7,129.3,139.1,147.8,154.4,161.9,170.1,179.4
+"44","37","          Compensation of general government employees","W130RC1",76.1,77.4,80.2,83.5,87.9,94.9,97.3,106.4,115.6,123.6,128.7,134.5,141.3,149.1
+"45","38","          Consumption of general government fixed capital \2\","B546RC1",16,16.6,17.6,18.3,19.8,21.5,22.4,23,23.5,24.2,25.6,27.4,28.8,30.4
+"46","39","        Intermediate goods and services purchased \3\","W131RC1",58,56.4,60.8,59.4,58.1,64.6,74,85.5,91.3,98.3,105,112.3,110.5,129
+"47","40","          Durable goods","A543RC1",1.5,1.7,1.7,1.7,1.8,1.8,1.9,2.3,2.2,2.4,2.8,2.9,2.9,3.2
+"48","41","          Nondurable goods","A729RC1",8.6,7.9,9.7,10.8,7.9,9.7,12.7,13,14.9,16.7,19.7,19.7,19.3,22.7
+"49","42","            Commodity Credit Corporation inventory change","B826RC1",-0.2,-0.3,-0.1,0.2,0.1,0.8,0.8,0.1,-0.1,-1,-0.5,-0.1,-0.1,-0.4
+"50","43","            Other nondurable goods","B828RC1",8.8,8.2,9.8,10.6,7.8,8.9,11.9,12.9,15,17.7,20.3,19.7,19.4,23.1
+"51","44","          Services","A544RC1",47.9,46.9,49.4,46.9,48.5,53,59.4,70.3,74.3,79.1,82.5,89.7,88.3,103
+"52","45","      Less: Own-account investment \4\","W136RC1",2.6,2.5,2.5,2.7,2.5,2.1,2.6,2.4,2.3,2.4,2.6,2.6,2.6,3
+"53","46","            Sales to other sectors","W137RC1",4.4,4.6,3.1,4.3,3,4.6,3,2.7,3.1,3.6,5.8,4.4,4.1,5.1
+"54","47","State and local consumption expenditures \1\","A991RC1",701.3,730.2,764.5,808.6,870.6,930.6,994.2,1049.4,1096.5,1139.1,1212,1282.3,1366.1,1452.4
+"55","48","      Gross output of general government","W138RC1",876.9,914.3,959.9,1013.1,1086,1163.7,1247.2,1313.7,1373.8,1432.6,1519.9,1607.5,1713.6,1824.7
+"56","49","        Value added","W139RC1",601.2,623.7,650.3,680.3,721.2,763.7,814.7,859.6,909.3,947.3,997.7,1051.3,1116,1173.2
+"57","50","          Compensation of general government employees","B251RC1",537.7,557.1,580.1,606.4,642.5,679,725,765.8,811.7,842.9,883.3,927.1,979.9,1026.9
+"58","51","          Consumption of general government fixed capital \2\","B986RC1",63.4,66.7,70.2,73.9,78.7,84.7,89.7,93.8,97.6,104.4,114.4,124.2,136.1,146.3
+"59","52","        Intermediate goods and services purchased \3\","W140RC1",275.8,290.6,309.6,332.8,364.8,400,432.5,454.1,464.6,485.2,522.1,556.2,597.5,651.5
+"60","53","          Durable goods","B989RC1",15.6,16,17,18.5,19.9,21.1,22.2,22.3,21.7,21.9,22.3,23,24,24.9
+"61","54","          Nondurable goods","B337RC1",84.5,90.6,94.3,96.6,107.2,124.8,132.4,135.2,142.9,155.4,176.9,191.9,209,243
+"62","55","          Services","A988RC1",175.7,184,198.3,217.6,237.8,254.2,277.8,296.7,300,307.9,322.9,341.3,364.5,383.6
+"63","56","      Less: Own-account investment \4\","W144RC1",10.6,11,12.2,12.6,13.5,14.9,16.7,17,17.2,18.1,19.1,20.5,22.3,23.8
+"64","57","            Sales to other sectors","W145RC1",165,173.2,183.2,191.9,201.8,218.2,236.3,247.3,260.1,275.4,288.7,304.7,325.1,348.5
+"65","58","              Tuition and related educational charges","B1065C1",31.2,33,35.5,38,40.6,43.7,46.2,49.4,53.6,56.9,61.2,65.8,70.8,76.2
+"66","59","              Health and hospital charges","B1066C1",85,86.6,89.9,93.5,96.7,104,116.2,120.8,124.8,130.9,132.3,137.8,146.1,157
+"67","60","              Other sales","W146RC1",48.8,53.5,57.8,60.4,64.5,70.5,73.9,77.1,81.7,87.6,95.2,101,108.2,115.4
+"68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","1. Government consumption expenditures are services (such as education and national defense) produced by government that",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","are valued at their cost of production. Excludes government sales to other sectors and government own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","2. Consumption of fixed capital, or depreciation, is included in government gross output as",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","a partial measure of the services of general government fixed assets; the use of depreciation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","assumes a zero net return on these assets.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","3. Includes general government intermediate inputs for goods and services sold to other sectors and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","for own-account investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","4. Own-account investment is measured in current dollars by compensation of general government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","employees and related expenditures for goods and services and is classified as investment in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","structures and in software in table 3.9.5.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

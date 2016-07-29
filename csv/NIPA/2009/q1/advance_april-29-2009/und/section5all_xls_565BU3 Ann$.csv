@@ -1,0 +1,93 @@
+"","Table 5#6#5BU3# Inventory Valuation Adjustment by Industry      ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15"
+"1","[Millions of dollars; quarters seasonally adjusted at annual rates]                                                                                                                                                                                       ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published April 30, 2009    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/29/2009 10:39:17 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","B     Nonfarm industries","INF0",19725,27103,-1959,-21115,21437,-4961,-18930,-56978,-57054,-37721,-59620,-55162
+"9","2","D Mining, utilities, and construction","ICMU0",887,1804,-2170,-5246,6742,-4340,-2386,-8931,-14898,9543,-4758,-6445
+"10","3","D Manufacturing industries","I300",7613,12816,2508,-9429,7349,627,-9710,-28033,-21258,-22498,-23154,-24527
+"11",NA,"    By type of industry:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","4","D     Durable goods industries","I30D0",5196,8585,2700,-2638,4433,1301,-2385,-16832,-7049,-17535,-10400,-16488
+"13","5","D       Wood product manufacturing","I3210",-256,229,-80,248,306,99,-217,-515,-122,-109,-270,-141
+"14","6","D       Nonmetallic mineral product manufacturing","I3270",-31,14,-84,-371,-127,-127,-257,-402,-739,-612,-614,-870
+"15","7","D       Primary metal manufacturing","I3310",58,2040,451,-299,957,-332,-1288,-4389,-756,-3917,-3819,-335
+"16","8","D       Fabricated metal product manufacturing","I3320",0,807,339,-651,873,-129,-486,-4154,-1325,-3498,-1914,-4181
+"17","9","D       Machinery manufacturing","I3330",54,-81,122,-466,455,313,-664,-2838,-1159,-2573,-1623,-4011
+"18","10","D       Computer and electronic product manufacturing","I3340",5151,3830,2061,979,1407,1915,1838,427,85,-1220,920,-1007
+"19","11","D       Electrical equipment, appliance, and component manufacturing","I3350",-15,503,-10,-185,86,242,-93,-917,-564,-1242,-424,-484
+"20","12","D       Transportation equipment manufacturing","I3360",296,866,15,-1544,194,-903,-789,-2451,-1518,-2945,-1802,-3935
+"21","13","D         Motor vehicle and parts manufacturing","I336MV0",285,659,275,-362,193,-8,-193,-1142,-890,-1087,-665,-1596
+"22","14","D         Other transportation equipment manufacturing","I336OT0",11,207,-260,-1182,1,-895,-596,-1309,-628,-1858,-1137,-2339
+"23","15","D       Furniture and related product manufacturing","I3370",-26,80,-49,-45,96,0,-237,-443,-207,-263,-219,-445
+"24","16","D       Miscellaneous durable goods manufacturing","I3390",-35,297,-65,-304,186,223,-192,-1150,-744,-1156,-635,-1079
+"25","17","D     Nondurable goods industries","I30N0",2417,4231,-192,-6791,2916,-674,-7325,-11201,-14209,-4963,-12754,-8039
+"26","18","D       Food manufacturing","I3110",128,834,355,-753,-319,-336,-2464,-1471,-1307,-678,-3344,-2208
+"27","19","D       Beverage and tobacco product manufacturing","I3120",-185,-188,-32,-274,53,-128,-218,-453,1012,-205,-425,-292
+"28","20","D       Textile mills","I3130",63,88,217,-18,223,126,89,-56,-170,-66,-72,-120
+"29","21","D       Textile product mills","I3140",18,74,147,-63,208,24,75,-66,-94,-44,-65,-74
+"30","22","D       Apparel manufacturing","I3150",32,91,294,1,208,212,76,-28,-53,-83,-44,-35
+"31","23","D       Leather and allied product manufacturing","I3160",4,76,0,-61,-27,33,-28,-21,-3,-27,-33,-53
+"32","24","D       Paper manufacturing","I3220",416,-25,647,-717,-6,1050,-381,-715,-657,-556,-40,-1506
+"33","25","D       Printing and related support activities","I3230",-3,-112,482,-411,105,432,-151,-322,-335,-209,355,-873
+"34","26","D       Petroleum and coal product manufacturing","I3240",1483,1878,-2277,-1772,1405,-2114,-1848,-2869,-6758,-1115,-3691,3276
+"35","27","D       Chemical manufacturing","I3250",333,852,112,-1964,411,-77,-1871,-3774,-4201,-1819,-4987,-4533
+"36","28","D       Plastics and rubber product manufacturing","I3260",128,663,-137,-759,655,104,-604,-1426,-1643,-161,-408,-1621
+"37",NA,"    By stage of fabrication:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","29","D     Materials and supplies","I30M0",2838,5267,1617,-2663,3217,240,-4233,-11847,-8537,-7895,-8163,-8989
+"39","30","D       Durable goods industries","I30DM0",1861,3599,1339,-447,2309,160,-1260,-7551,-3195,-6459,-3940,-5910
+"40","31","D       Nondurable goods industries","I30NM0",977,1668,278,-2216,908,80,-2973,-4296,-5342,-1436,-4223,-3079
+"41","32","D     Work-in-process","I30W0",2595,3724,719,-2389,1843,-154,-1454,-6374,-4568,-6954,-5933,-6277
+"42","33","D       Durable goods industries","I30DW0",2253,2902,934,-1291,1228,209,-529,-4657,-1951,-5687,-2972,-5209
+"43","34","D       Nondurable goods industries","I30NW0",342,822,-215,-1098,615,-363,-925,-1717,-2617,-1267,-2961,-1068
+"44","35","D     Finished goods","I30F0",2180,3825,172,-4377,2289,541,-4023,-9812,-8153,-7649,-9058,-9261
+"45","36","D       Durable goods industries","I30DF0",1082,2084,427,-900,896,932,-596,-4624,-1903,-5389,-3488,-5369
+"46","37","D       Nondurable goods industries","I30NF0",1098,1741,-255,-3477,1393,-391,-3427,-5188,-6250,-2260,-5570,-3892
+"47","38","D Wholesale trade industries","IWT0",6553,8559,116,-3787,5493,-2380,-6093,-12187,-11776,-16964,-20842,-13754
+"48",NA,"    By type of industry:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","39","D     Durable goods industries","IWTD0",5086,6313,1802,607,3988,1143,-1008,-7703,-3992,-10428,-5507,-9457
+"50","40","D     Nondurable goods industries","IWTN0",1467,2246,-1686,-4394,1505,-3523,-5085,-4484,-7784,-6536,-15335,-4297
+"51",NA,"    By type of wholesaler:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","41","D     Merchant wholesale industries","I42W0",5121,7229,176,-2637,4685,-2176,-5037,-8878,-7718,-13522,-16588,-9404
+"53","42","D       Durable goods industries","I42WD0",3993,5513,1508,883,3636,749,-912,-6023,-3076,-8077,-4021,-6370
+"54","43","D         Motor vehicles, parts, and supplies wholesalers","I42110",652,-127,-201,-308,348,642,177,440,200,-209,-159,-322
+"55","44","D         Furniture and home furnishings wholesalers","I42120",42,-54,-19,-55,-13,-67,-65,-96,-190,-202,-141,-310
+"56","45","D         Lumber and other construction materials wholesalers","I42130",-42,196,-289,209,16,12,-272,-710,-304,56,88,-823
+"57","46","D         Professional and commercial equipment wholesalers","I42140",2866,3788,2307,1335,1922,994,806,877,985,792,729,433
+"58","47","D           Computers and software wholesalers","I421430",2967,3808,2343,1441,2038,1188,991,968,1124,949,892,727
+"59","48","D           Other professional and commercial equipment wholesalers","I4214X0",-101,-20,-36,-106,-116,-194,-185,-91,-139,-157,-163,-294
+"60","49","D         Metal and mineral (except petroleum) wholesalers","I42150",16,704,301,-188,589,-460,-405,-3718,-333,-2636,-924,-1926
+"61","50","D         Electrical goods wholesalers","I42160",454,320,319,183,461,403,331,472,-104,-645,-51,-525
+"62","51","D         Hardware and plumbing and heating equipment wholesalers","I42170",-55,2,-75,-68,-142,-36,-75,-430,-515,-288,-336,-582
+"63","52","D         Machinery, equipment, and supplies wholesalers","I42180",87,-430,-258,-379,-435,-228,-434,-1342,-2162,-2844,-1520,-3137
+"64","53","D         Miscellaneous durable goods wholesalers","I42190",-27,1114,-577,154,890,-511,-975,-1516,-653,-2101,-1707,822
+"65","54","D       Nondurable goods industries","I42WN0",1128,1716,-1332,-3520,1049,-2925,-4125,-2855,-4642,-5445,-12567,-3034
+"66","55","D         Paper and paper products wholesalers","I42210",11,82,-186,-430,206,86,-5,-235,-164,-416,-167,-489
+"67","56","D         Drugs and druggists' sundries wholesalers","I42220",-66,-1102,-119,-165,82,-226,-381,-238,-407,-267,-407,-534
+"68","57","D         Apparel, piece goods, and notions wholesalers","I42230",-111,-1,106,19,0,189,-31,125,-30,-33,-126,-135
+"69","58","D         Grocery and related products wholesalers","I42240",157,-214,-160,-183,-416,144,-1034,-690,-347,-211,-1254,-765
+"70","59","D         Farm product raw material wholesalers","I42250",733,1953,1230,-669,301,-1506,-1340,1277,247,-3298,-5900,-1697
+"71","60","D         Chemical and allied products wholesalers","I42260",31,141,-79,-270,139,-211,-262,-918,-779,-245,-682,-610
+"72","61","D         Petroleum amd petroleum products wholesalers","I42270",579,1031,-1419,-1059,1302,-1005,-701,-1757,-2340,-603,-2654,3962
+"73","62","D         Beer, wine, and distilled alcoholic beverages wholesalers","I42280",-49,-117,-27,-181,-63,-99,-20,-59,-145,13,-51,-189
+"74","63","D         Miscellaneous nondurable goods wholesalers","I42290",-157,-57,-678,-582,-502,-297,-351,-360,-677,-385,-1326,-2577
+"75","64","D     Nonmerchant wholesale industries","I42N0",1432,1330,-60,-1150,808,-204,-1056,-3309,-4058,-3442,-4254,-4350
+"76","65","D       Durable goods industries","I42ND0",1093,800,294,-276,352,394,-96,-1680,-916,-2351,-1486,-3087
+"77","66","D       Nondurable goods industries","I42NN0",339,530,-354,-874,456,-598,-960,-1629,-3142,-1091,-2768,-1263
+"78","67","D Retail trade industries","I440",4204,3077,-1934,-1649,929,875,-345,-6692,-6576,-5699,-7244,-7521
+"79","68","D   Motor vehicle and parts dealers","I4410",938,323,-1072,-1101,286,1240,1714,-1470,-1097,-1325,-554,-485
+"80","69","D   Furniture, furnishings, electronics, and appliance stores","I44230",1462,1564,839,669,769,389,319,227,134,76,213,-888
+"81","70","D   Building material and garden equipment and supplies dealers","I4440",-92,-10,-164,-258,-27,-531,-369,-2131,-1337,-1440,-807,-2908
+"82","71","D   Food and beverage stores","I4450",126,-36,-288,-5,-638,483,-656,-551,-491,-68,-771,-707
+"83","72","D   Clothing and clothing accessories stores","I4480",-56,-10,81,-102,109,180,-353,-217,-337,-964,-1293,-1438
+"84","73","D   General merchandise stores","I4520",56,-15,-18,278,-219,-130,-71,-21,-224,-435,-718,-1101
+"85","74","D     Department stores","I45210",87,66,186,354,-158,-48,-45,53,-116,-141,-122,-176
+"86","75","D     Other general merchandise stores","I45290",-31,-81,-204,-76,-61,-82,-26,-74,-108,-294,-596,-925
+"87","76","D   Other retail stores","I44X0",1770,1261,-1312,-1130,649,-756,-929,-2529,-3224,-1543,-3314,6
+"88","77","D Other industries","IOTH0",468,847,-479,-1004,924,257,-396,-1135,-2546,-2103,-3622,-2915
+"89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","B=Quarterly data published in the Survey of Current Business monthly (NIPA table 5.6.5B).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","D=Detail underlying published data.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","Note. Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

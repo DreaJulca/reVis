@@ -1,0 +1,47 @@
+"","Table 2#3#3# Real Personal Consumption Expenditures by Major Typ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Index numbers, 2005=100]                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:49:24 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Personal consumption expenditures","DPCERA3",68.931,71.336,73.97,77.849,82.106,86.27,88.603,90.962,93.52,96.754,100,102.886,105.612,105.351
+"9","2","Goods","DGDSRA3",61.765,64.53,67.607,72.175,77.924,82.034,84.611,88.05,92.06,96.141,100,103.251,106.499,104.296
+"10","3","  Durable goods","DDURRA3",46.282,49.736,53.797,60.352,68.185,74.167,78.193,84.13,89.203,95.073,100,104.064,108.543,103.692
+"11","4","    Motor vehicles and parts","DMOTRA3",62.398,65.424,69.849,77.153,84.254,86.935,91.378,96.189,98.934,100.408,100,96.823,98.225,84.82
+"12","5","    Furnishings and durable household equipment","DFDHRA3",50.412,52.596,55.06,59.601,66.511,72.925,76.633,82.219,87.394,94.474,100,105.326,107.476,104.398
+"13","6","    Recreational goods and vehicles","DREQRA3",24.923,28.78,33.256,39.949,48.473,56.916,62.571,70.173,78.114,88.819,100,113.145,126.07,132.849
+"14","7","    Other durable goods","DODGRA3",54.604,58.232,61.147,67.153,75.167,81.846,80.088,85.383,89.825,94.638,100,103.712,104.591,99.569
+"15","8","  Nondurable goods","DNDGRA3",73.044,75.155,77.366,80.285,84.375,87.111,88.681,90.44,93.763,96.756,100,102.805,105.405,104.513
+"16","9","    Food and beverages purchased for off-premises consumption","DFXARA3",82.482,83.31,84.036,85.043,88.326,90.314,91.368,91.581,93.593,96.122,100,103.192,105.363,105.371
+"17","10","    Clothing and footwear","DCLORA3",63.714,66.804,69.001,73.207,78.014,81.789,82.563,85.091,89.82,94.21,100,105.05,109.63,109.341
+"18","11","    Gasoline and other energy goods","DGOERA3",86.714,88.086,89.863,93.093,95.943,94.194,94.874,96.444,99.124,100.559,100,97.885,98.643,94.298
+"19","12","    Other nondurable goods","DONGRA3",64.855,67.732,71.457,75.305,79.975,84.071,86.802,89.666,93.711,97.012,100,103.714,106.788,106.686
+"20","13","Services","DSERRA3",73.249,75.394,77.719,81.145,84.469,88.654,90.837,92.568,94.314,97.084,100,102.692,105.147,105.883
+"21","14","  Household consumption expenditures (for services)","DHCERA3",73.559,75.633,78.236,81.552,84.802,88.914,90.921,92.376,93.997,96.896,100,102.412,104.793,105.181
+"22","15","    Housing and utilities","DHUTRA3",78.016,79.71,81.524,84.011,86.665,89.312,91.702,92.366,93.515,95.573,100,102.14,103.093,104.069
+"23","16","    Health care","DHLCRA3",72.001,73.49,75.771,78.233,79.455,82.186,86.283,91.365,93.424,96.405,100,101.828,104.524,107.635
+"24","17","    Transportation services","DTRSRA3",74.795,80.925,87.03,90.652,95.659,100.113,99.191,96.482,96.794,99.065,100,99.68,100.853,95.765
+"25","18","    Recreation services","DRCARA3",75.05,78.442,80.933,83.629,87.709,90.342,90.24,90.806,93.478,98.141,100,103.264,107.094,107.045
+"26","19","    Food services and accommodations","DFSARA3",79.198,79.721,81.484,83.607,85.67,89.575,89.45,90.847,93.957,96.848,100,103.102,104.253,103.825
+"27","20","    Financial services and insurance","DIFSRA3",68.679,71.253,73.704,78.392,84.985,93.371,92.719,92.382,92.307,97.075,100,103.202,108.372,106.615
+"28","21","    Other services","DOTSRA3",67.076,69.338,73.446,79.537,84.024,90.091,93.733,94.298,96.685,98.958,100,103.416,106.326,105.64
+"29","22","  Final consumption expenditures of nonprofit institutions serving households (NPISHs) \1\","DNPIRA3",66.469,70.503,65.658,71.902,77.072,83.075,89.411,97.652,102.462,101.98,100,109.96,114.383,124.554
+"30","23","    Gross output of nonprofit institutions \2\","DNPERA3",72.766,74.708,75.894,79.659,82.431,85.635,89.787,95.024,96.499,98.396,100,103.016,105.709,109.383
+"31","24","    Less: Receipts from sales of goods and services by nonprofit institutions \3\","DNPSRA3",75.262,76.504,79.747,82.653,84.566,86.752,90.099,94.24,94.547,97.235,100,100.789,102.937,104.611
+"32",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","25","  Energy goods and services \4\","DNRGRA3",86.485,88.531,89.086,91.716,93.622,94.024,93.724,95.679,98.082,99.305,100,97.48,98.731,95.235
+"34","26","  Personal consumption expenditures excluding food and energy \5\","DPCCRA3",66.934,69.488,72.378,76.551,80.985,85.504,88.078,90.64,93.252,96.654,100,103.224,106.104,106.069
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","1. Net expenses of NPISHs, defined as their gross operating expenses less primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","sales to households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","2. Gross output is net of unrelated sales, secondary sales, and sales to business,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","to government, and to the rest of the world; excludes own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","3. Excludes unrelated sales, secondary sales, and sales to business, to government,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","and to the rest of the world; includes membership dues and fees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","4. Consists of gasoline and other energy goods and of electricity and gas.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","5. Food consists of food and beverages purchased for off-premises consumption;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","food services, which include purchased meals and beverages, are not classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","as food.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

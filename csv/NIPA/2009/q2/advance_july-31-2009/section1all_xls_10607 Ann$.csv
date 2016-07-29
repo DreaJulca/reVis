@@ -1,0 +1,76 @@
+"","Table 1#6#7# Percent Change From Preceding Period in Prices for ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Percent]                                                                                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:48:28 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","  Gross domestic purchases","A712RV1",2.1,1.8,1.5,0.7,1.6,2.5,1.9,1.4,2.3,3,3.7,3.4,2.9,3.2
+"9","2","Personal consumption expenditures","DPCERV1",2.2,2.2,1.9,1,1.6,2.5,1.9,1.4,2,2.6,3,2.7,2.7,3.3
+"10","3","  Goods","DGDSRV1",0.9,1.1,-0.1,-1.5,0.5,2,-0.1,-1,-0.1,1.5,2.2,1.5,1.3,3.3
+"11","4","    Durable goods","DDURRV1",0.7,-1,-2.2,-2.8,-2.7,-1.8,-2,-2.6,-3.5,-1.8,-1,-1.5,-1.8,-1.2
+"12","5","      Motor vehicles and parts","DMOTRV1",4,2,0.4,-1.1,0.3,0.4,0.4,-0.5,-2.7,-0.7,1.6,0.1,-0.6,-1
+"13","6","      Furnishings and durable household equipment","DFDHRV1",-0.2,0.3,-0.1,-0.1,-1.3,-0.7,-1.7,-2.1,-2.8,-1.2,0.1,-0.5,-0.8,-0.6
+"14","7","      Recreational goods and vehicles","DREQRV1",-4.2,-7.1,-8.4,-8.4,-8.7,-6.3,-6.8,-6.5,-6.2,-4.8,-5.2,-5.8,-6.3,-4.5
+"15","8","      Other durable goods","DODGRV1",1.7,-0.6,-1.4,-1.8,-2.5,-1.3,0.3,-1.8,-1.6,-0.2,-1.4,1.9,4.1,5.1
+"16","9","    Nondurable goods","DNDGRV1",1,2.3,1,-0.7,2.5,4.3,1.1,-0.1,2.1,3.6,4,3.2,2.9,5.6
+"17","10","      Food and beverages purchased for off-premises consumption","DFXARV1",2.2,3.1,1.9,1.3,1.6,2.3,2.9,1.5,1.9,3.1,1.8,1.7,3.8,6
+"18","11","      Clothing and footwear","DCLORV1",-2.3,-1.2,0,-1.8,-1.3,-1.2,-2,-2.6,-2.5,-0.3,-0.9,-0.4,-0.9,-0.8
+"19","12","      Gasoline and other energy goods","DGOERV1",1.3,6.8,0,-12.8,8.3,29.3,-3.5,-6.5,16.8,17.5,22.6,12.9,8.4,17.4
+"20","13","      Other nondurable goods","DONGRV1",1.8,1.9,1,1.9,3.9,2.2,2.3,1.7,0.2,1.2,1.5,2.2,1.3,2.5
+"21","14","  Services","DSERRV1",3,2.8,3,2.4,2.2,2.8,3,2.7,3.2,3.2,3.4,3.4,3.4,3.4
+"22","15","    Household consumption expenditures","DHCERV1",3.1,2.8,3,2.2,2.2,2.7,3,2.8,3.4,3.4,3.4,3.5,3.5,3.5
+"23","16","      Housing and utilities","DHUTRV1",2.7,3,2.7,2.4,2.4,3.4,4.6,2.9,3.1,2.7,3.5,4.3,3.6,3.6
+"24","17","      Health care","DHLCRV1",3.6,2.4,2,1.9,2.2,2.8,3.4,2.6,3.8,3.7,3.2,3,3.7,2.7
+"25","18","      Transportation services","DTRSRV1",2.2,1.3,2.2,1.8,1.5,3,1.1,0.5,2.1,1.5,3.7,4.2,2.3,5.4
+"26","19","      Recreation services","DRCARV1",2.2,3.3,3.2,2.5,3.2,3.9,3.3,2.9,3.1,2.6,2.8,3.4,2.8,3.1
+"27","20","      Food services and accommodations","DFSARV1",2.4,2.7,3,2.7,2.6,2.8,2.8,2.4,2.1,3.3,3.2,3.4,3.9,4
+"28","21","      Financial services and insurance","DIFSRV1",4,4,5.9,2.4,1,0.9,-0.6,2.7,4.5,5.5,3.6,2.3,4.3,3.1
+"29","22","      Other services","DOTSRV1",3.3,2.9,2.8,2,2.4,1.9,3.1,3.9,3.7,3.4,3.8,3.4,2.9,4.2
+"30","23","    Final consumption expenditures of nonprofit institutions serving households (NPISHs)","DNPIRV1",0.1,1.8,4.2,6.6,3.6,5.5,4.6,0.8,-1.5,-0.4,4,2.1,1.4,1
+"31","24","Gross private domestic investment","A006RV1",1.1,-0.4,-0.4,-1.1,-0.1,1.1,0.9,0.4,1.4,3.5,4.6,4.4,2.2,0.6
+"32","25","  Fixed investment","A007RV1",1.2,-0.3,-0.3,-0.9,-0.1,1.2,0.9,0.4,1.5,3.5,4.7,4.4,2.2,0.8
+"33","26","    Nonresidential","A008RV1",0.2,-1.2,-1.3,-2.2,-1.4,0,-0.4,-0.4,0,1.6,3.3,3.5,2.6,1.6
+"34","27","      Structures","A009RV1",4.3,2.5,3.8,4.6,3.1,3.9,5.2,4.2,3.6,7.6,13.1,12.9,7.4,3.2
+"35","28","      Equipment and software","A010RV1",-1.2,-2.4,-3,-4.4,-2.9,-1.2,-2.4,-2,-1.2,-0.4,0.1,0.2,0.5,0.7
+"36","29","        Information processing equipment and software","A679RV1",-4.7,-7.9,-7.7,-9.7,-7,-2.8,-5,-4.6,-3.8,-3.4,-2.7,-1.9,-1.5,-1.1
+"37","30","          Computers and peripheral equipment","B935RV1",-16.3,-23.7,-22.9,-25.7,-22.1,-12.5,-17.2,-13.1,-10.6,-7.3,-12,-12.6,-10.7,-10.4
+"38","31","          Software \1\","B985RV1",-0.6,-2.4,-2.9,-3,1.2,3,0.4,-1.8,-2.3,-2.5,-0.5,1.2,0.5,1
+"39","32","          Other","A937RV1",-0.9,-1.5,-1.3,-4.4,-4.2,-2.5,-3.5,-3.2,-2.1,-2.7,-0.8,-0.4,0.5,0.4
+"40","33","        Industrial equipment","A680RV1",3.4,2.1,0.7,0.6,0.6,0.6,0.7,0,0.8,2.5,3.8,3.2,3.5,3.9
+"41","34","        Transportation equipment","A681RV1",-0.4,2,1.6,-0.7,0.9,0.1,-0.8,0.9,3.1,4.9,0.8,0.9,1.5,0.2
+"42","35","        Other equipment","A862RV1",2.1,2.7,1.3,1.5,1.3,0.6,1.4,0.8,0.9,1,4.1,2.3,2.2,3.5
+"43","36","    Residential","A011RV1",3.6,2.1,2.5,2.7,3.8,4.4,4.6,2.5,4.8,7.3,7.2,6.1,1.3,-1.6
+"44","37","  Change in private inventories","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","38","    Farm","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","39","    Nonfarm","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","40","Government consumption expenditures and gross investment","A822RV1",2.7,2.4,1.8,1.4,3.2,4,2.7,2.6,4.2,4.3,5.8,4.8,4.5,4.5
+"48","41","  Federal","A823RV1",2.8,2.8,1.7,1.1,2.5,3.3,2,3.7,4.2,4.7,4.9,4.1,3.5,3
+"49","42","    National defense","A824RV1",2.4,3.1,1.4,1.1,2.5,3.3,2,3.8,4.7,4.7,5.4,4.4,3.7,3.3
+"50","43","      Consumption expenditures","A997RV1",2.4,3.5,2,1.3,2.6,3.8,2.5,4.5,5.3,5.1,5.8,4.8,4,3.6
+"51","44","      Gross investment","A788RV1",2.5,0.6,-1.9,-0.7,1.6,0.1,-1.3,-1,0.5,1.8,2.2,2,1.5,2
+"52","45","    Nondefense","A825RV1",3.5,2.1,2.2,1.3,2.6,3.3,2,3.6,3.5,4.9,3.9,3.5,3.1,2.1
+"53","46","      Consumption expenditures","A542RV1",3.9,2.7,2.9,1.8,3.1,3.7,2.4,4.3,4,5.4,4.2,3.7,3.5,2.3
+"54","47","      Gross investment","A798RV1",1.7,-0.8,-1.2,-1.1,0.3,1.4,0.1,-0.8,-0.1,1.1,2.2,1.6,0.7,0.6
+"55","48","  State and local","A829RV1",2.7,2.2,1.9,1.5,3.6,4.4,3.1,2.1,4.2,4,6.3,5.3,5.1,5.4
+"56","49","      Consumption expenditures","A991RV1",2.6,2.2,2,1.5,3.9,4.6,3.3,2.2,4.8,3.9,6,5,4.7,5.6
+"57","50","      Gross investment","A799RV1",3.1,1.7,1.6,1.3,2.1,3.3,2.2,1.8,1.5,4.6,7.7,6.3,6.8,5
+"58",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","51","  Final sales of computers to domestic purchasers \2\","W489RV1",-17.2,-25.3,-25,-27.8,-24.5,-15,-20.1,-16.3,-13.7,-9,-13.3,-13.7,-10.9,-11.2
+"60","52","  Gross domestic purchases excluding final sales of computers to domestic purchasers","BB05RV1",2.4,2.2,1.9,1.2,2,2.8,2.2,1.7,2.5,3.2,3.9,3.6,3.1,3.3
+"61","53","  Food \3\","B981RV1",2.1,2.9,1.7,1.1,1.6,2.3,2.9,1.5,1.8,3.2,1.6,1.7,3.9,5.8
+"62","54","  Energy goods and services","B982RV1",0.8,4.6,1,-8.5,4.1,18.3,2.4,-5.8,12.7,11.7,17.7,11.3,6.2,14.1
+"63","55","  Gross domestic purchases excluding food and energy","B983RV1",2.2,1.6,1.5,1,1.5,2,1.8,1.7,2,2.7,3.3,3.2,2.7,2.6
+"64","56","  Gross domestic product","A191RV1",2.1,1.9,1.8,1.1,1.5,2.2,2.3,1.6,2.2,2.8,3.3,3.3,2.9,2.1
+"65","57","      Gross domestic product excluding final sales of computers","BB00RV1",2.3,2.3,2.2,1.5,1.8,2.4,2.5,1.8,2.3,2.9,3.5,3.4,3,2.2
+"66","58","      Food \3\","BB10RV1",2.6,4.2,0.6,0.4,1.4,2.3,3.2,1.6,2.2,3.5,1,1.6,4.8,7
+"67","59","      Energy goods and services","BB11RV1",-1,0.3,2.9,0,-2.6,0.4,12.6,-8.2,6,3.3,1.6,4.9,0.9,-20.1
+"68","60","      Gross domestic product excluding food and energy","BB03RV1",2.1,1.8,1.8,1.2,1.6,2.2,2,1.8,2.1,2.8,3.5,3.3,2.8,2.3
+"69","61","  Final sales of domestic product","A190RV1",2.1,1.9,1.8,1.2,1.5,2.2,2.3,1.6,2.2,2.8,3.3,3.3,2.9,2.1
+"70","62","  Final sales to domestic purchasers","A713RV1",2.2,1.8,1.5,0.7,1.6,2.5,1.9,1.4,2.3,3,3.7,3.4,2.9,3.2
+"71",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","1. Excludes software ""embedded,"" or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","2. Some components of final sales of computers include computer parts.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","3. Food excludes personal consumption expenditures for purchased meals and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","beverages, which are classified in food services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,41 @@
+"","Table 1#2A# Real Gross Domestic Product, Chained (1937) Dollars","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22"
+"1","[Billions of chained (1937) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 28, 2000     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/31/2002 7:49:43 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,"Line",NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947
+"8","    Gross domestic product","1","A191AX1A",87.2,79.7,74.7,64.9,64,70.9,77.3,87.3,91.9,88.7,95.9,104.1,121.9,144.3,168.1,181.9,179.7,159.8,158.7
+"9","Personal consumption expenditures","2","A002AX1A",63,59.7,57.8,52.7,51.5,55.1,58.5,64.4,66.8,65.7,69.4,73,78.2,76.4,78.5,80.8,85.8,96.4,98.3
+"10","  Durable goods","3","B003AX1A",7.3,6.1,5.2,3.9,3.8,4.4,5.4,6.6,6.9,5.7,6.7,7.8,9,5.5,4.8,4.4,4.9,9.4,11.2
+"11","  Nondurable goods","4","B004AX1A",30.8,29.4,29.2,26.9,26.4,28.7,30.4,34,35.2,35.7,37.6,39.2,41.9,42.6,44,45.8,49.1,51.8,50.4
+"12","  Services","5","B005AX1A",24.8,24.2,23.4,21.9,21.2,22,22.7,23.8,24.7,24.4,25.1,26,27.4,28.5,30,31,32.1,35.1,36.8
+"13","Gross private domestic investment","6","A006AX1A",12.2,8.1,5.1,1.5,2.3,4.1,7.6,9.7,12.2,8,10.3,14.4,17.6,9.3,5.5,6.8,9,22.7,21.9
+"14","  Fixed investment","7","A007AX1A",13.3,10.2,7.1,4.1,3.6,4.7,6.1,8.1,9.5,7.6,9.1,10.9,12.4,7,5.4,6.7,9.1,16.6,20
+"15","    Nonresidential","8","A008AX1A",9.8,8.1,5.3,3.2,2.9,3.6,4.6,6.2,7.5,5.5,6.1,7.6,8.9,5.3,4.4,5.8,8.2,11.9,13.8
+"16","      Structures","9","B009AX1A",5,4.3,2.7,1.7,1.3,1.5,1.6,2.1,2.7,2.2,2.3,2.6,3.1,1.9,1.4,1.8,2.4,4.8,4.4
+"17","      Equipment and software","10","B010AX1A",5,4,2.6,1.5,1.6,2.2,3,4.1,4.8,3.3,3.8,5,5.8,3.3,3,4,5.8,7,9.5
+"18","    Residential","11","A011AX1A",3.5,2.2,1.8,1,0.8,1.1,1.5,1.9,2.1,2.1,2.9,3.3,3.5,1.8,1.1,0.9,1.1,4.5,5.8
+"19","  Change in private inventories","12","A014AX1A",1.6,-0.9,-1.7,-4,-2.1,-1.1,1.6,1.2,2.6,-0.4,0.1,3,4.7,1.9,-0.8,-0.7,-1.7,4.7,-0.9
+"20","Net exports of goods and services","13","A019AX1A",0.7,0.4,0.2,0,-0.1,0.1,-0.5,-0.3,0,0.9,0.9,1.4,0.8,-0.5,-2,-2,-1.1,4.5,6
+"21","  Exports","14","A020AX1A",4.8,3.9,3.3,2.6,2.6,2.9,3,3.2,4,4,4.2,4.7,4.9,3.2,2.7,2.9,4.1,8.8,10.1
+"22","    Goods","15","A253AX1A",4.3,3.5,2.9,2.3,2.3,2.5,2.6,2.7,3.5,3.5,3.7,4.3,4.4,2.7,2.1,2.2,3.4,7.8,9
+"23","    Services","16","A646AX1A",0.5,0.4,0.4,0.3,0.3,0.4,0.4,0.4,0.6,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.6,1,1.1
+"24","  Imports","17","A021AX1A",4.1,3.5,3.1,2.6,2.7,2.7,3.6,3.5,4,3.1,3.2,3.3,4.1,3.7,4.7,4.9,5.2,4.3,4.1
+"25","    Goods","18","A255AX1A",3.1,2.7,2.3,1.9,2.1,2.1,3,2.8,3.2,2.4,2.6,2.8,3.3,2.3,2.6,2.7,2.7,3.1,3
+"26","    Services","19","B656AX1A",0.9,0.9,0.7,0.7,0.6,0.6,0.6,0.7,0.8,0.7,0.6,0.6,0.8,1.3,1.9,2,2.3,1.1,1
+"27","Government consumption expenditures and gross investment","20","A822AX1A",9.2,10.2,10.6,10.3,9.9,11.2,11.5,13.3,12.8,13.8,15.1,15.3,25.4,59.6,88.9,100.2,87.3,30.2,25.8
+"28","  Federal","21","A823AX1A",1.8,2,2.1,2.1,2.6,3.6,3.6,5.5,5,5.5,6,6.5,17.2,52.7,83.6,95.6,81.9,22.1,16.5
+"29","    National defense","22","A824AX1A",1,1,1,1,1,0.9,1.1,1.3,1.3,1.3,1.5,2.6,13.8,50.5,82.5,94.5,81.2,19.5,13.2
+"30","    Nondefense","23","A825AX1A",0.9,1,1.1,1.1,1.6,2.7,2.5,4.3,3.7,4.2,4.5,3.9,3.5,2.7,2.1,2.4,1.8,2.7,3.3
+"31","  State and local","24","A829AX1A",7.3,8.1,8.4,8,7.2,7.6,7.8,7.8,7.8,8.3,9.1,8.8,8.3,7.5,6.9,6.6,6.8,7.5,8.6
+"32","Residual","25","A960AX1A",-0.8,0,0.7,1.9,1.3,0.7,0.3,0.6,0,1,1.3,0.5,0.1,-1.5,-5,-6.8,-2.8,8.2,10.3
+"33","  Note.  Chained (1937) dollar series are calculated as the product of the chain-type quantity index and the 1937 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","The residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","  Percent changes from preceding period for selected items in this table are shown in table 8.1;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","contributions to the percent change in real gross domestic product are shown in table 8.2.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","  Chain-type quantity indexes for the series in this table are shown in table 7.1.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

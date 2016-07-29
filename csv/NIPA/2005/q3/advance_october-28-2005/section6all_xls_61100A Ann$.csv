@@ -1,0 +1,66 @@
+"","Table 6#11A# Employer Contributions for Employee Pension and Ins","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22"
+"1","[Millions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published April 2, 2004     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/27/2005 1:41:49 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947
+"8","1","      Employer contributions for employee pension and insurance funds","B040RC0",650,646,613,568,541,590,642,752,800,822,860,934,1024,1190,1468,1966,2296,2543,3038
+"9",NA,"        By industry"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","2","Domestic industries","B040RC0",650,646,613,568,541,590,642,752,800,822,860,934,1024,1190,1468,1966,2296,2543,3038
+"11","3","  Private industries","B4903C0",519,507,466,408,372,406,434,522,539,538,560,616,695,844,1063,1501,1766,1927,2341
+"12","4","    Agriculture, forestry, and fisheries","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","5","    Mining","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","6","    Contract construction","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","7","    Manufacturing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","8","      Durable goods","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","9","      Nondurable goods","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","10","    Transportation and public utilities","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","11","      Transportation","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","12","      Communication","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","13","      Electric, gas, and sanitary services","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","14","    Wholesale trade","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","15","    Retail trade and automobile services","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","16","    Finance, insurance, and real estate","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","17","    Services","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","18","  Government","B4918C0",131,139,147,160,169,184,208,230,261,284,300,318,329,346,405,465,530,616,697
+"27","19","Rest of the world","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28",NA,"        By type"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","20","Employer contributions for employee pension and insurance funds","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","21","  Pension and profit-sharing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","22","    Private pension and profit-sharing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","23","      Defined benefit pension and profit-sharing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","24","      Defined contribution pension and profit-sharing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","25","    Publicly administered government employee retirement plans","B4935C0",131,139,147,160,169,184,208,230,261,284,300,318,329,346,405,465,530,616,697
+"35","26","      Federal civilian \1\","B4945C0",21,21,22,22,22,22,32,45,63,77,84,93,102,109,147,192,227,241,241
+"36","27","      Federal military \2\","B1583C0",38,40,41,42,40,44,49,54,57,60,64,70,62,52,56,61,78,125,166
+"37","28","      State and local","S251100",72,78,84,96,107,118,127,131,141,147,152,155,165,185,202,212,225,250,290
+"38","29","  Private insurance funds","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","30","    Group insurance","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","31","      Group health insurance","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","32","      Group life insurance","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","33","    Workers' compensation","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","34","    Supplemental unemployment","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","35","  Benefits paid by pension and insurance funds","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","36","    Pension and profit-sharing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","37","      Private pension and profit-sharing","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","38","      Publicly administered government employee retirement plans","B4938C0",128,140,154,169,192,215,233,251,264,276,289,306,315,329,359,409,496,726,722
+"49","39","        Federal civilian \1\","B4946C0",18,22,27,32,42,52,57,60,63,65,68,73,78,83,93,130,183,348,281
+"50","40","        Federal military \2\","B1593C0",38,40,41,42,40,44,49,54,57,60,64,70,62,52,56,61,78,123,166
+"51","41","        State and local","S121000",72,78,86,95,110,119,127,137,144,151,157,163,175,194,210,218,235,255,275
+"52","42","    Private insurance funds","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","43","      Group insurance","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","44","        Group health insurance","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","45","        Group life insurance","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","46","      Workers' compensation","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","47","      Supplemental unemployment","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","48","  Employee contributions for publicly administered government employee retirement plans","B4941C0",76,81,86,89,93,95,102,110,123,135,147,162,181,279,385,421,450,452,476
+"59","49","    Federal civilian","B4947C0",29,30,31,32,30,30,32,34,37,39,42,50,66,159,257,282,295,262,246
+"60","50","    State and local","S251200",47,51,55,57,63,65,70,76,86,96,105,112,115,120,128,139,155,190,230
+"61",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","1. Consists of civil service, foreign service, Public Health Service officers, Tennessee",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Valley Authority, and several small retirement programs.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","2. Includes the Coast Guard.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Note. Estimates in this table are based on the 1942 Standard Industrial Classification (SIC).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

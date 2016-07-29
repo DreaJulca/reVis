@@ -1,0 +1,70 @@
+"","Table 3#21# Local Government Current Receipts and Expenditures","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14"
+"1","[Millions of Dollars]                                                           ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1959 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 07, 2010  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/8/2011 9:37:54 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1959","1960","1961","1962","1963","1964","1965","1966","1967","1968","1969"
+"19","1","    Current receipts","W830RC1","26,903.0","29,860.0","32,576.0","35,214.0","38,197.0","41,763.0","45,473.0","49,864.0","55,844.0","61,663.0","69,219.0"
+"20","2","Current tax receipts","W831RC1","17,128.0","18,825.0","20,326.0","21,827.0","23,381.0","25,320.0","26,974.0","28,534.0","31,261.0","34,812.0","38,431.0"
+"21","3","  Personal current taxes","W832RC1","751.0","824.0","863.0","986.0","1,085.0","1,188.0","1,222.0","1,381.0","1,571.0","1,733.0","2,025.0"
+"22","4","    Income taxes","W833RC1","230.0","254.0","258.0","338.0","354.0","455.0","470.0","639.0","797.0","927.0","1,149.0"
+"23","5","    Other","W834RC1","521.0","570.0","605.0","648.0","731.0","733.0","752.0","742.0","774.0","806.0","876.0"
+"24","6","  Taxes on production and imports","W8735C1","16,352.0","17,972.0","19,434.0","20,812.0","22,258.0","24,098.0","25,715.0","27,111.0","29,519.0","32,821.0","36,148.0"
+"25","7","    Sales taxes","W836RC1","1,150.0","1,339.0","1,432.0","1,456.0","1,562.0","1,932.0","2,050.0","1,998.0","1,944.0","2,287.0","2,869.0"
+"26","8","    Property taxes","W837RC1","14,319.0","15,718.0","17,046.0","18,400.0","19,657.0","21,071.0","22,530.0","23,829.0","26,232.0","29,102.0","31,899.0"
+"27","9","    Other","W838RC1","883.0","915.0","956.0","956.0","1,039.0","1,095.0","1,135.0","1,284.0","1,343.0","1,432.0","1,380.0"
+"28","10","  Taxes on corporate income","W839RC1","25.0","29.0","29.0","29.0","38.0","34.0","37.0","42.0","171.0","258.0","258.0"
+"29","11","Contributions for government social insurance","ZZZZZZ1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"30","12","Income receipts on assets","W841RC1","655.0","780.0","860.0","968.0","1,037.0","1,256.0","1,430.0","1,694.0","1,953.0","1,735.0","2,201.0"
+"31","13","  Interest receipts","W842RC1","537.0","674.0","697.0","762.0","870.0","1,060.0","1,242.0","1,444.0","1,620.0","1,354.0","1,776.0"
+"32","14","  Dividends","ZZZZZZ1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"33","15","  Rents and royalties","W844RC1","118.0","106.0","163.0","206.0","167.0","196.0","188.0","250.0","333.0","381.0","425.0"
+"34","16","Current transfer receipts","W845RC1","8,324.0","9,366.0","10,440.0","11,452.0","12,586.0","13,999.0","15,875.0","18,563.0","21,641.0","24,180.0","27,705.0"
+"35","17","  Federal grants-in-aid","W846RC1","396.0","523.0","557.0","634.0","763.0","1,082.0","1,076.0","1,214.0","1,487.0","1,118.0","1,252.0"
+"36","18","  State government grants-in-aid","W847RC1","7,708.0","8,556.0","9,421.0","10,313.0","11,342.0","12,398.0","14,269.0","16,670.0","19,145.0","22,025.0","25,360.0"
+"37","19","  From business (net)","W848RC1","71.0","122.0","180.0","176.0","195.0","196.0","258.0","240.0","376.0","387.0","415.0"
+"38","20","  From persons","W849RC1","149.0","165.0","282.0","329.0","286.0","323.0","272.0","439.0","633.0","650.0","678.0"
+"39","21","Current surplus of government enterprises","W850RC1","796.0","889.0","950.0","967.0","1,192.0","1,188.0","1,194.0","1,073.0","989.0","936.0","882.0"
+"40","22","    Current expenditures","W851RC1","24,137.0","26,447.0","29,075.0","30,870.0","33,167.0","36,291.0","39,579.0","44,196.0","48,873.0","55,207.0","62,369.0"
+"41","23","Consumption expenditures","W852RC1","22,121.0","24,234.0","26,624.0","28,267.0","30,380.0","33,261.0","36,304.0","40,549.0","44,699.0","50,213.0","56,644.0"
+"42","24","Current transfer payments","W853RC1","984.0","1,025.0","1,155.0","1,194.0","1,236.0","1,336.0","1,453.0","1,656.0","2,028.0","2,574.0","3,182.0"
+"43","25","  Government social benefit payments to persons","W854RC1","740.0","776.0","898.0","922.0","950.0","1,039.0","1,127.0","1,266.0","1,555.0","1,968.0","2,419.0"
+"44","26","  Grants-in-aid to state governments","W855RC1","244.0","249.0","257.0","272.0","286.0","297.0","326.0","390.0","473.0","606.0","763.0"
+"45","27","Interest payments","W856RC1","1,032.0","1,188.0","1,296.0","1,409.0","1,548.0","1,691.0","1,818.0","1,986.0","2,141.0","2,415.0","2,538.0"
+"46","28","Subsidies","W857RC1","0.0","0.0","0.0","0.0","3.0","3.0","4.0","5.0","5.0","5.0","5.0"
+"47","29","Less: Wage accruals less disbursements","W858RC1","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0"
+"48","30","    Net local government saving","W859RC1","2,766.0","3,413.0","3,501.0","4,344.0","5,030.0","5,473.0","5,893.0","5,668.0","6,970.0","6,456.0","6,850.0"
+"49","31","Social insurance funds","ZZZZZZ1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"50","32","Other","W861RC1","2,766.0","3,413.0","3,501.0","4,344.0","5,030.0","5,473.0","5,893.0","5,668.0","6,970.0","6,456.0","6,850.0"
+"51",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","33","  Total receipts","W862RC1","28,076.0","31,074.0","33,861.0","36,556.0","39,644.0","43,322.0","47,141.0","51,635.0","57,842.0","64,516.0","72,390.0"
+"53","34","    Current receipts","W830RC1","26,903.0","29,860.0","32,576.0","35,214.0","38,197.0","41,763.0","45,473.0","49,864.0","55,844.0","61,663.0","69,219.0"
+"54","35","    Capital transfer receipts","W864RC1","1,173.0","1,214.0","1,285.0","1,342.0","1,447.0","1,559.0","1,668.0","1,771.0","1,998.0","2,853.0","3,171.0"
+"55","36","  Total expenditures","W865RC1","29,631.0","32,431.0","35,243.0","37,341.0","40,111.0","44,135.0","48,516.0","53,754.0","59,576.0","67,383.0","73,853.0"
+"56","37","    Current expenditures","W851RC1","24,137.0","26,447.0","29,075.0","30,870.0","33,167.0","36,291.0","39,579.0","44,196.0","48,873.0","55,207.0","62,369.0"
+"57","38","    Gross government investment","W867RC1","7,554.0","8,193.0","8,440.0","8,848.0","9,480.0","10,488.0","11,787.0","12,747.0","14,197.0","16,076.0","15,948.0"
+"58","39","    Capital transfer payments","ZZZZZZ1",".....",".....",".....",".....",".....",".....",".....",".....",".....",".....","....."
+"59","40","    Net purchases of nonproduced assets","W868RC1","379.0","362.0","447.0","515.0","539.0","648.0","712.0","713.0","758.0","789.0","798.0"
+"60","41","    Less: Consumption of fixed capital","W869RC1","2,438.0","2,570.0","2,719.0","2,892.0","3,075.0","3,292.0","3,562.0","3,902.0","4,253.0","4,689.0","5,262.0"
+"61","42","  Net lending or net borrowing (-)","W870RC1","-1,555.0","-1,357.0","-1,382.0","-785.0","-467.0","-813.0","-1,376.0","-2,119.0","-1,734.0","-2,867.0","-1,463.0"
+"62",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","Note. State receipts plus local receipts and state expenditures plus local expenditures do not sum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","to the consolidated state and local government account totals because grants-in-aid from states",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","to local governments and from local to state governments are netted in the consolidated account",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","totals. In addition, the receipt category ""surplus of government enterprises"" and the expenditure",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","category ""subsidies"" do not sum to the consolidated account totals because the level of government",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","making subsidy payments accounts for them as subsidies while recipient governments account for",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","them as surpluses of government enterprises.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

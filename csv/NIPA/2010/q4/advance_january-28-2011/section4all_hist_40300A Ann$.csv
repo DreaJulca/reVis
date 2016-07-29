@@ -1,0 +1,88 @@
+"","Table 4#3A# Relation of Foreign Transactions in the National Inc","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1946 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 20, 2009   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/27/2011 11:59:32 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","Exports of goods and services and income receipts, ITAs","B1229C1",15.1,20.2,17.5,16.3,14.4,19.7,19.1,18,18.7,21,25,28.1,24.2,26.7,30.6,31.4,33.3,35.8,40.2,42.7,46.5,49.4,54.9,60.1
+"9","2","Less: Gold, ITAs \1\","B1087C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
+"10","3","      Capital gains, net of losses, in direct investment income receipts, ITAs \2\","B1086C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","4","      Statistical differences \3\","B1085C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"12","5","Plus: Adjustment for U.S. territories and Puerto Rico \4\","B920RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.1,1.2,1.4,1.5,1.7,1.9,2.1,2.4,2.6,2.9
+"13","6","      Financial services furnished without payment","B1607C1",0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.5,0.5
+"14","7","      Imputed interest received from the rest of the world","W320RC1",0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.2,-0.2
+"15","8","      Adjustment for grossing of parent/affiliate transactions \5\","B2628C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","9","      Other items \6\","B2629C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2
+"17","10","Equals: Exports of goods and services and income receipts, NIPAs","A1073C1",15.2,20.3,17.6,16.4,14.5,19.9,19.3,18.2,18.9,21.2,25.2,28.3,24.4,27,31.9,32.9,35,37.6,42.3,45,49,52.1,58,63.7
+"18","11","Imports of goods and services and income payments, ITAs","B1231C1",7,8.3,10.5,9.8,12.2,15.3,16,16.8,16.2,18.1,19.9,21,21.1,23.6,23.7,23.5,25.7,27,29.1,32.7,38.5,41.5,48.7,54
+"19","12","Less: Gold, ITAs \1\","B1095C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.2,0.2
+"20","13","      Capital gains, net of losses, in direct investment income payments, ITAs \2\","B1094C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","14","      Statistical differences \3\","B1093C1",0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0
+"22","15","Plus: Gold, NIPAs \1\","B1091C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.2,0.2
+"23","16","      Adjustment for U.S. territories and Puerto Rico \4\","B921RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7,0.8,0.9,1,1,1.1,1.3,1.4,1.5,1.6
+"24","17","      Imputed interest paid to the rest of the world","W370RC1",0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.4
+"25","18","      Adjustment for grossing of parent/affiliate transactions \5\","B2628C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","19","      Other items \6\","B1092C1",0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1
+"27","20","Equals: Imports of goods and services and income payments, NIPAs","A1074C1",7.4,8.4,10.6,9.9,12.4,15.5,16.2,17,16.4,18.3,20.1,21.2,21.3,23.8,24.6,24.5,26.8,28.2,30.4,34.1,40.1,43.2,50.6,56.2
+"28","21","Balance on goods and services and income, ITAs (1-11)","A2030C1",8.1,11.9,6.9,6.5,2.2,4.4,3.1,1.2,2.5,2.9,5.2,7.1,3.2,3.2,6.9,7.9,7.7,8.8,11.1,10,8,7.9,6.2,6.1
+"29","22","Less: Gold (2-12+15)","A2031C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
+"30","23","      Capital gains, net of losses, in direct investment income, ITAs (3-13)","A2032C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","24","      Statistical differences (4-14)","A2033C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"32","25","Plus: Adjustment for U.S. territories and Puerto Rico (5-16)","A1608C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,0.4,0.5,0.6,0.7,0.8,0.9,1,1.1,1.3
+"33","26","      Other items (9-19)","A2034C1",-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"34","27","Equals: Net exports of goods and services and net receipts of income, NIPAs (10-20)","A1072C1",7.8,11.9,6.9,6.5,2.2,4.4,3.1,1.2,2.5,2.9,5.2,7.1,3.2,3.2,7.3,8.4,8.2,9.4,11.8,10.9,8.9,8.9,7.4,7.5
+"35","28","Unilateral current transfers, net, ITAs","B1089C1",2.9,2.6,4.5,5.6,4,3.5,2.5,2.5,2.3,2.5,2.4,2.3,2.3,4.4,4.1,4.1,4.3,4.4,4.2,4.6,5,5.3,5.6,5.7
+"36","29","      Statistical differences \3\","B1098C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0
+"37","30","Plus: Adjustment for U.S. territories and Puerto Rico \4\","B1655C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.2
+"38","31","      Other items \7\","B1097C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"39","32","Equals: Current taxes and transfer payments to the rest of the world, net, NIPAs","A123RC1",2.9,2.6,4.5,5.6,4,3.5,2.6,2.5,2.3,2.6,2.5,2.4,2.4,4.4,4.1,4.2,4.4,4.5,4.4,4.7,5.1,5.5,5.9,5.9
+"40","33","Balance on current account, ITAs (21-28)","A2035C1",5.2,9.3,2.4,0.9,-1.8,0.9,0.6,-1.3,0.2,0.4,2.8,4.8,0.9,-1.3,2.8,3.8,3.4,4.4,6.8,5.4,3,2.6,0.6,0.4
+"41","34","Less: Gold (22)","A2031C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0
+"42","35","      Capital gains, net of losses, in direct investment income, ITAs (23)","A2032C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","36","      Statistical differences (24-29)","A2036C1",0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0
+"44","37","      Other items (-26+31)","A2037C1",0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,-0.1,0,-0.1,-0.1,-0.1,-0.1
+"45","38","Plus: Adjustment for U.S. territories and Puerto Rico (25-30)","A1610C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.4,0.4,0.6,0.7,0.7,0.8,0.8,1.1
+"46","39","Equals: Balance on current account, NIPAs (27-32)","A124RC1",4.9,9.3,2.4,0.9,-1.8,0.9,0.6,-1.3,0.2,0.4,2.7,4.7,0.8,-1.3,3.2,4.2,3.8,4.9,7.5,6.2,3.8,3.5,1.5,1.6
+"47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","1. Beginning with 1967, exports and imports of gold in the NIPAs differ from those in the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","ITAs.  ITA gold exports (line 2) and imports (line 12) are excluded from the NIPAs; imports",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","of gold in the NIPAs (line 15) is the excess of the value of gold in gross domestic purchases",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","over the value of U.S. production of gold.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","2. ITA capital gains and losses included in U.S. direct investment income abroad (line 3) and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","in foreign direct investment income in the United States (line 13) are removed from the NIPAs",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","beginning with 1974 for imports and with 1977 for exports.  Beginning with 1982, U.S. direct",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","investment income abroad in the ITAs excludes capital gains and losses associated with currency",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","translation adjustments.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","3. Consists of statistical revisions to the ITAs that have not yet been incorporated into the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","NIPAs and statistical revisions to the NIPAs that have not yet been incorporated into the ITAs.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","4. Consists of transactions between the United States and its territories, Puerto Rico, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","the Northern Mariana Islands.  The treatment of U.S. territories, Puerto Rico, and the Northern",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Mariana Islands in the NIPAs differs from that in the ITAs.  In the NIPAs, they are included in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","the rest of the world; in the ITAs, they are treated as part of the United States.  The",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","adjustments to exports and imports of goods and services and to receipts and payments of income",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","are shown in lines 5 and 16, respectively.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","5. In the ITAs, income transactions between parents and affiliates are recorded on a net basis.  In ITA exports, U.S.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","parents' receipts from foreign affiliates for interest are net of such payments by U.S. parents to foreign affiliates.  In ITA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","imports, U.S. affiliates' payments to foreign parents for interest are net of such receipts by U.S. affiliates from foreign",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","parents.  In the NIPAs, these transactions are recorded on a gross basis beginning with 1974.  The amount of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","adjustment is identical in income payments and in income receipts and, thus, does not affect NIPA net receipts of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","income or balance on current account.  In addition, for 1974 through 1981, royalties and license fees and other",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","private services are recorded on a net basis in the ITAs but on a gross basis in the NIPAs.  Beginning with 1982,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","these transactions are recorded on a gross basis in both the ITAs and the NIPAs.  The amount of adjustment is",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","identical in exports and in imports of services and, thus, does not affect NIPA net exports of goods and services",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","or balance on current account.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","6. For 1946 through 1959, includes shipments to the United States from Alaska and Hawaii.  These",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","are added to imports for 1946 to adjust the geographic coverage of imports to the 48-state coverage",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","used in the NIPAs  prior to 1960.  From 1947 through 1959, such shipments are negligible.  Beginning",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","with 1960, the adjustment is not required because Alaska and Hawaii gained statehood in 1959.  For",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","1959 through 1981, includes withheld nonresident taxes associated with royalties and license fees,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","other private services, and income transactions.  In the NIPAs, these transactions are recorded before",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","the deduction of nonresident taxes withheld beginning with 1959.  In the ITAs, the corresponding flows",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","are recorded before the deduction of nonresident taxes withheld beginning with 1982.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","7. Consists of a U.S. government payment to India under the Agricultural Trade Development and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Assistance Act. For 1959-81, includes withheld nonresident taxes associated with royalties and license",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","fees, other private services, and income transactions.  Beginning with 1982, these transactions are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","included in the ITA estimates for unilateral current transfers.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","ITAs International Transactions Accounts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

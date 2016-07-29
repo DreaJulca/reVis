@@ -1,0 +1,100 @@
+"","Table 3#18B# Relation of Federal Government Current Receipts and","F2","F3","F4","F5"
+"1","[Billions of dollars; quarterly totals not seasonally adjusted]",NA,NA,NA,NA
+"2","Annual data from 1968 To 1969",NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA
+"4","Data published October 07, 2010  ",NA,NA,NA,NA
+"5","File created 3/24/2011 12:32:29 PM",NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA
+"7","Line",NA,NA,1968,1969
+"8",NA,"      Current receipts"," ",NA,NA
+"9","1","Budget receipts","M318011",153.7,187.8
+"10","2","Less: Coverage differences","M318021",4.1,5.1
+"11","3","        Contributions received by federal employee retirement plans \1\","M318041",1.4,1.5
+"12","4","        Capital transfers received \2\","M318051",3,3.5
+"13","5","        Financial transactions","M318061",0.1,0
+"14","6","        Other \3\","M318071",-0.3,0.1
+"15","7","Less: Netting and grossing differences","M318081",-3.7,-4.6
+"16","8","        Supplementary medical insurance premiums","M318091",NA,NA
+"17","9","        Interest receipts","W704MC1",-2.5,-2.5
+"18","10","        Current surplus of government enterprises","W705MC1",0.5,0.4
+"19","11","        Other \4\","M318111",-1.7,-2.6
+"20","12","Plus: Timing differences","M318121",3.1,-1.2
+"21","13","        Taxes on corporate income","M318131",2.2,-2.4
+"22","14","        Federal and state unemployment insurance taxes","M318141",0,0
+"23","15","        Withheld personal income tax and social security contributions","M318151",0.9,1.1
+"24","16","        Excise taxes","M318161",0,0
+"25","17","        Other","M318171",0,0.1
+"26","18","Equals: Federal government current receipts, NIPAs","M318181",156.3,186.1
+"27",NA,"      Current expenditures"," ",NA,NA
+"28","19","Budget outlays","M318191",178.8,184.5
+"29","20","Less: Coverage differences","M318201",16,10.2
+"30","21","        Federal employee retirement plan transactions \1\","M318221",2.1,2.6
+"31","22","          Interest received","M318231",-0.7,-0.8
+"32","23","          Contributions received (employer)","M318241",-1.5,-1.5
+"33","24","          Benefits paid","M318251",4.3,4.9
+"34","25","          Administrative expenses","M318261",0,0
+"35","26","        Financing disbursements from credit programs \5\","M318271",NA,NA
+"36","27","        Other differences in funds covered \6\","M318281",-1.8,-2.2
+"37","28","        Net investment \7\","M318291",2.9,0.5
+"38","29","        Capital transfers paid \8\","M318301",5.2,6.1
+"39","30","        Financial transactions","M318311",8.2,3.2
+"40","31","          Loan disbursements less loan repayments and sales","M318321",7.7,3.2
+"41","32","          Deposit insurance","B1069C1",0,0
+"42","33","          Net purchases of foreign currency","M318341",0.7,0.3
+"43","34","          Other","M318351",-0.2,-0.3
+"44","35","        Net purchases of nonproduced assets","M318361",-0.6,-0.1
+"45","36","          Outer Continental Shelf","M318371",-0.9,-0.3
+"46","37","          Land and other \9\","M318381",0.3,0.2
+"47","38","        Other \10\","M318391",-0.1,0
+"48","39","Less: Netting and grossing differences","M318401",-3.7,-4.6
+"49","40","        Supplementary medical insurance premiums","M318411",NA,NA
+"50","41","        Interest receipts","W706MC1",-2.5,-2.5
+"51","42","        Current surplus of government enterprises","W707MC1",0.5,0.4
+"52","43","        Other \4\","M318431",-1.7,-2.6
+"53","44","Plus: Timing differences","M318441",-1.6,-0.8
+"54","45","        Purchases (increase in payables net of advances)","M318451",-2.5,-1.4
+"55","46","        Interest payments","M318461",0.2,0.1
+"56","47","        Current transfer payments","M318471",0.4,0.1
+"57","48","        Other \11\","W708MC1",0.2,0.3
+"58","49","Equals: Federal government current expenditures, NIPAs","M318491",164.9,178.2
+"59",NA,"      Net federal government saving"," ",NA,NA
+"60","50","Budget surplus or deficit (-) (1-19)","M318501",-25.2,3.2
+"61","51","Plus: Net investment (28)","M318511",2.9,0.5
+"62","52","Less: Net capital transfers received (4-29)","M318521",-2.1,-2.6
+"63","53","      Federal employee retirement plans (3-21)","M318531",-0.8,-1.2
+"64","54","      Other coverage differences (5+6-26-27-30-35-38)","M318541",-6.1,-0.8
+"65","55","      Timing differences (44-12)","M318551",-4.7,0.4
+"66","56","Equals: Federal government saving, national income and product accounts (18-49)","M318561",-8.6,7.9
+"67",NA,NA,NA,NA,NA
+"68","1. These transactions are included in the NIPA personal sector.  Beginning with October 2002, the",NA,NA,NA,NA
+"69","transactions include the Uniformed Services Retiree Health Care Fund.",NA,NA,NA,NA
+"70","2. Consists of estate and gift taxes.",NA,NA,NA,NA
+"71","3. Beginning with 1996, consists largely of Universal Service Fund receipts; prior to 1996 consisted",NA,NA,NA,NA
+"72","largely of U.S. Treasury receipts from sales of foreign currencies to government agencies. Includes",NA,NA,NA,NA
+"73","certain revenues collected from and repaid to U.S. territories and the Commonwealths of Puerto Rico",NA,NA,NA,NA
+"74","and Northern Mariana Islands.",NA,NA,NA,NA
+"75","4. Includes proprietary receipts that are netted against outlays in the budget and that are classified",NA,NA,NA,NA
+"76","as receipts in the NIPAs.  Also includes some transactions that are not reflected in the budget data but",NA,NA,NA,NA
+"77","that are added to both receipts and expenditures in the NIPAs.",NA,NA,NA,NA
+"78","5. Consists of transactions (not included in the budget totals) that record all cash flows arising from",NA,NA,NA,NA
+"79","post-1991 direct loan obligations and loan guarantee commitments.  Many of these flows are for new loans",NA,NA,NA,NA
+"80","or loan repayments; consequently, related entries are included in ""Loan disbursements less loan",NA,NA,NA,NA
+"81","repayments and sales.""",NA,NA,NA,NA
+"82","6. Consists largely of agencies or accounts such as the Postal Service and the Federal Financing Bank that",NA,NA,NA,NA
+"83","were not included in the budget in some time periods, and beginning with 1996, the Universal Service Fund.",NA,NA,NA,NA
+"84","Includes repayments of certain collections from the U.S. territories and the Commonwealths of Puerto Rico",NA,NA,NA,NA
+"85","and Northern Mariana Islands.",NA,NA,NA,NA
+"86","7. Net investment is gross investment less consumption of fixed capital for government enterprises and",NA,NA,NA,NA
+"87","general government.",NA,NA,NA,NA
+"88","8. Consists of investment grants to state and local governments and maritime construction subsidies.  Does",NA,NA,NA,NA
+"89","not include the forgiveness of debts owed by foreign governments to the U.S. government or payments to the",NA,NA,NA,NA
+"90","Uniformed Services Retiree Health Care Fund to amortize unfunded liability; both are classified as capital",NA,NA,NA,NA
+"91","transfers paid by the United States and are excluded from both budget outlays and NIPA current expenditures.",NA,NA,NA,NA
+"92","9. Consists of net sales of land other than the Outer Continental Shelf and, beginning with 1995, includes",NA,NA,NA,NA
+"93","the auction of the radio spectrum.",NA,NA,NA,NA
+"94","10. Consists largely of net expenditures of foreign currencies.",NA,NA,NA,NA
+"95","11. Primarily includes timing on subsidies and government enterprises.",NA,NA,NA,NA
+"96","Note. Through 1976, fiscal year estimates reflect a July 1-June 30 federal fiscal year.  Beginning with 1977,",NA,NA,NA,NA
+"97","fiscal year estimates reflect an October 1-September 30 federal fiscal year.  NIPA quarterly and fiscal year",NA,NA,NA,NA
+"98","estimates in this table are consistent with the not seasonally adjusted estimates in table 3.22.",NA,NA,NA,NA
+"99","NIPAs National income and product accounts",NA,NA,NA,NA

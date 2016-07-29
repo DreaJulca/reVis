@@ -1,0 +1,47 @@
+"","Table 2#3#5# Personal Consumption Expenditures by Major Type of ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:49:31 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Personal consumption expenditures","DPCERC1",4987.3,5273.6,5570.6,5918.5,6342.8,6830.4,7148.8,7439.2,7804,8285.1,8819,9322.7,9826.4,10129.9
+"9","2","Goods","DGDSRC1",1815.5,1917.7,2006.8,2110,2290,2459.1,2534,2610,2727.4,2892.3,3073.9,3221.7,3365,3403.2
+"10","3","  Durable goods","DDURRC1",635.7,676.3,715.5,780,857.4,915.8,946.3,992.1,1014.8,1061.6,1105.5,1133,1160.5,1095.2
+"11","4","    Motor vehicles and parts","DMOTRC1",255.7,273.5,293.1,320.2,350.7,363.2,383.3,401.3,401.5,404.7,409.6,397.1,400.3,342.3
+"12","5","    Furnishings and durable household equipment","DFDHRC1",146.7,153.5,160.5,173.6,191.2,208.1,214.9,225.9,233.3,249.2,263.9,276.5,279.8,270.1
+"13","6","    Recreational goods and vehicles","DREQRC1",153.7,164.9,174.6,192.1,212.7,234.1,239.8,251.5,262.6,284.3,303.4,323.4,337.7,339.9
+"14","7","    Other durable goods","DODGRC1",79.6,84.3,87.3,94.2,102.7,110.4,108.4,113.4,117.4,123.4,128.6,136,142.7,142.8
+"15","8","  Nondurable goods","DNDGRC1",1179.8,1241.4,1291.2,1330,1432.6,1543.4,1587.7,1617.9,1712.6,1830.7,1968.4,2088.7,2204.5,2308
+"16","9","    Food and beverages purchased for off-premises consumption","DFXARC1",443.7,461.9,474.8,486.5,513.6,537.5,559.7,569.6,593.1,628.2,665,698,740.1,784.3
+"17","10","    Clothing and footwear","DCLORC1",231.2,239.5,247.5,257.8,271.1,280.8,277.9,278.8,287,300,315.5,330.1,341.2,337.5
+"18","11","    Gasoline and other energy goods","DGOERC1",133.4,144.7,147.7,133.4,148.8,188.8,183.6,174.6,209.6,249.9,304.8,336.9,368,413
+"19","12","    Other nondurable goods","DONGRC1",371.4,395.2,421.3,452.3,499.2,536.2,566.5,594.9,622.9,652.6,683,723.7,755.2,773.2
+"20","13","Services","DSERRC1",3171.7,3355.9,3563.9,3808.5,4052.8,4371.2,4614.8,4829.2,5076.6,5392.8,5745.1,6100.9,6461.4,6726.8
+"21","14","  Household consumption expenditures (for services)","DHCERC1",3064.6,3240.2,3451.6,3677.5,3907.4,4205.9,4428.6,4624.2,4864.8,5182.8,5531,5860.6,6207.9,6448
+"22","15","    Housing and utilities","DHUTRC1",913.8,961.2,1009.9,1065.2,1125,1198.6,1287.7,1334.8,1393.8,1462.2,1582.8,1686,1763.1,1843.7
+"23","16","    Health care","DHLCRC1",719.9,752.1,790.9,832,863.6,918.4,996.6,1082.9,1149.3,1229.7,1316,1380.7,1469.6,1554.2
+"24","17","    Transportation services","DTRSRC1",177.9,195,214.3,227.2,243.3,262.3,262.7,256.7,263.1,273.2,285.9,297,307.4,307.8
+"25","18","    Recreation services","DRCARC1",181.1,195.6,208.3,220.6,238.8,255.5,263.6,272.8,289.5,312,326.8,348.8,371.7,383.1
+"26","19","    Food services and accommodations","DFSARC1",316.7,327.4,344.6,363,381.6,410.1,421.2,438.2,462.8,492.9,525.3,559.7,587.9,608.7
+"27","20","    Financial services and insurance","DIFSRC1",364.7,393.6,431.3,469.6,514.2,570,562.8,576.2,601.8,667.5,712.6,752.4,824.2,835.6
+"28","21","    Other services","DOTSRC1",390.5,415.3,452.3,499.8,540.9,591.1,634,662.7,704.6,745.3,781.6,836,884,915
+"29","22","  Final consumption expenditures of nonprofit institutions serving households (NPISHs) \1\","DNPIRC1",107.2,115.7,112.2,131,145.4,165.4,186.2,205,211.8,210,214.1,240.4,253.5,278.7
+"30","23","    Gross output of nonprofit institutions \2\","DNPERC1",463.4,488.8,509.3,550.5,585.3,632,688,749.7,785.8,827.7,874.6,933.6,987.5,1049.4
+"31","24","    Less: Receipts from sales of goods and services by nonprofit institutions \3\","DNPSRC1",356.2,373.1,397,419.6,439.9,466.6,501.8,544.7,574,617.7,660.6,693.3,734,770.7
+"32",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","25","  Energy goods and services \4\","DNRGRC1",251.7,269.7,274.2,258.5,274.6,326.5,333.2,320.2,370,418.1,495.2,537.8,578.2,636.6
+"34","26","  Personal consumption expenditures excluding food and energy \5\","DPCCRC1",4291.9,4542,4821.6,5173.5,5554.6,5966.4,6255.9,6549.4,6840.9,7238.8,7658.8,8086.9,8508.2,8709.1
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","1. Net expenses of NPISHs, defined as their gross operating expenses less primary",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","sales to households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","2. Gross output is net of unrelated sales, secondary sales, and sales to business,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","to government, and to the rest of the world; excludes own-account investment",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","(construction and software).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","3. Excludes unrelated sales, secondary sales, and sales to business, to government,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","and to the rest of the world; includes membership dues and fees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","4. Consists of gasoline and other energy goods and of electricity and gas.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","5. Food consists of food and beverages purchased for off-premises consumption;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","food services, which include purchased meals and beverages, are not classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","as food.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

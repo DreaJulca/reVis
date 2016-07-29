@@ -1,0 +1,91 @@
+"","Table 5#6#6BU# Change in Real Private Inventories by Industry   ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15"
+"1","[Millions of chained (2005) dollars; seasonally adjusted at annual rates]                                                                                                                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 28, 2009   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/27/2009 2:45:45 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Nonfarm industries","KCNF0",73564,69460,70789,61248,-41530,15572,17239,58344,49836,63180,20365,-20388
+"9","2","Construction, mining, and utilities","KCCMU0",2473,9007,-2027,-2797,10820,-4119,7195,1458,3748,16917,-354,-2392
+"10","3","Manufacturing industries","KC300",24374,17600,16211,8062,-26165,-5271,-8422,5939,21046,16991,4936,-3814
+"11",NA,"  By type of industry:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","4","    Durable goods industries","KC30D0",15307,17397,7174,7109,-20825,-5796,-5322,4015,16585,11653,186,11513
+"13","5","      Wood product manufacturing","KC3210",377,531,672,183,-552,325,-139,758,782,-37,-1151,-985
+"14","6","      Nonmetallic mineral product manufacturing","KC3270",216,-50,281,171,-557,173,-153,317,109,469,-284,-65
+"15","7","      Primary metal manufacturing","KC3310",542,1817,442,-749,-2734,-127,-2260,2731,1563,1197,-2304,94
+"16","8","      Fabricated metal product manufacturing","KC3320",1577,1067,877,981,-1421,-370,-770,-71,2288,1558,-880,-119
+"17","9","      Machinery manufacturing","KC3330",1618,1246,172,2900,-4765,-732,-2097,-84,2603,2500,847,793
+"18","10","      Computer and electronic product manufacturing","KC3340",6219,391,3562,9437,-6606,-3243,1736,2160,3135,477,-572,3391
+"19","11","      Electrical equipment, appliance, and component manufacturing","KC3350",563,466,-39,927,-1119,-442,-528,-367,18,645,-46,-405
+"20","12","      Transportation equipment manufacturing","KC3360",1591,12108,-693,-10236,-1844,-1233,-2201,-1497,4338,3884,5211,9620
+"21","13","        Motor vehicle and parts manufacturing","KC3MV0",636,718,1696,-270,-2761,1191,567,178,762,639,-1715,-3309
+"22","14","        Other transportation equipment manufacturing","KC3OT0",949,11437,-2391,-9945,907,-2412,-2742,-1665,3576,3247,6964,13061
+"23","15","      Furniture and related product manufacturing","KC3370",158,120,367,302,-479,441,-414,288,335,38,-559,-655
+"24","16","      Miscellaneous durable goods manufacturing","KC3390",272,475,722,1059,-128,-35,918,-149,1414,843,273,356
+"25","17","    Nondurable goods industries","KC30N0",8855,-1053,9394,660,-4695,830,-3075,1905,4461,5363,4518,-14184
+"26","18","      Food manufacturing","KC3110",974,-392,1549,500,-498,882,-958,-943,1382,223,-2486,86
+"27","19","      Beverage and tobacco product manufacturing","KC3120",801,-36,-200,-32,630,59,-225,-97,384,-2,-381,147
+"28","20","      Textile mills","KC3130",16,77,181,-453,-441,-302,-142,-73,-53,-151,-308,-104
+"29","21","      Textile product mills","KC3140",267,-215,328,422,183,-1016,132,-14,190,22,-180,-145
+"30","22","      Apparel manufacturing","KC3150",460,-9,643,-326,-1743,-337,-4,-270,-137,-8,267,-212
+"31","23","      Leather and allied product manufacturing","KC3160",54,12,0,-114,-177,-161,-56,-9,55,123,-59,29
+"32","24","      Paper manufacturing","KC3220",607,-526,1031,-641,-36,1160,-742,130,-24,-31,-92,-1034
+"33","25","      Printing and related support activities","KC3230",233,-595,689,-350,-303,364,-341,43,-19,105,623,-546
+"34","26","      Petroleum and coal product manufacturing","KC3240",2246,-1384,230,-53,1329,-1060,-41,974,989,1010,5945,-7654
+"35","27","      Chemical manufacturing","KC3250",3026,889,3328,1842,-2061,700,-376,2084,1439,2884,-900,-2715
+"36","28","      Plastics and rubber product manufacturing","KC3260",678,695,1078,4,-764,245,-187,365,255,1139,703,-1284
+"37",NA,"  By stage of fabrication:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","29","    Materials and supplies","KC30M0",11468,3914,9093,5790,-10399,-2321,-5208,4752,6363,5850,-3259,-6114
+"39","30","      Durable goods industries","KC30DM0",8394,4381,5556,7990,-8835,-2784,-3397,4469,5179,4885,-2920,1164
+"40","31","      Nondurable goods industries","KC30NM0",2707,-842,3479,-2759,-1259,608,-1791,230,1184,986,-410,-6884
+"41","32","    Work-in-process","KC30W0",3710,7598,258,-4751,-9774,-780,-752,-1992,7508,3648,7044,9970
+"42","33","      Durable goods industries","KC30DW0",1437,8016,-1156,-4813,-8336,-1041,-716,-2347,6599,1890,4788,12128
+"43","34","      Nondurable goods industries","KC30NW0",2538,-891,1667,241,-1286,328,-22,396,909,1739,2190,-1677
+"44","35","    Finished goods","KC30F0",9299,5988,7049,7255,-5961,-2196,-2541,3239,7175,7493,1226,-7395
+"45","36","      Durable goods industries","KC30DF0",5458,4969,2855,4096,-3706,-2000,-1266,1954,4807,4875,-1634,-1670
+"46","37","      Nondurable goods industries","KC30NF0",3624,645,4252,3075,-2151,-90,-1269,1271,2368,2637,2708,-5582
+"47","38","Wholesale trade industries","KCWT0",26918,23704,21084,20670,-13612,-69,-375,20496,18129,13356,6413,-5152
+"48",NA,"  By type of industry:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","39","    Durable goods industries","KCWTD0",16825,17238,14609,14047,-17678,415,820,18103,13370,9121,1910,6719
+"50","40","    Nondurable goods industries","KCWTN0",9805,5645,6010,6334,5213,-522,-1249,2182,4759,4269,4296,-10726
+"51",NA,"  By type of wholesaler:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","41","    Merchant wholesale industries","KC42W0",23890,21299,17998,16103,-8766,599,42,18420,14329,14743,7462,1212
+"53","42","      Durable goods industries","KC42WD0",14971,15379,12950,10869,-14146,-227,917,17118,10972,10200,796,9505
+"54","43","        Motor vehicles, parts, and supplies wholesalers","KC42110",1407,780,2780,1285,-1161,2464,902,1191,2834,967,222,3367
+"55","44","        Furniture and home furnishings wholesalers","KC42120",140,338,380,599,-457,222,223,135,241,237,-135,-243
+"56","45","        Lumber and other construction materials wholesalers","KC42130",732,-164,445,517,-65,471,1453,2095,692,330,-784,-1035
+"57","46","        Professional and commercial equipment wholesalers","KC42140",2936,1643,2461,667,-1117,1179,587,2192,1628,3631,2266,1260
+"58","47","          Computers and software wholesalers","K421430",1335,1109,1267,-27,-296,583,1075,1208,1179,1936,1260,947
+"59","48","          Other professional and commercial equipment wholesalers","K4214X0",784,-510,742,1014,-937,554,-731,945,449,1729,1054,426
+"60","49","        Metal and mineral (except petroleum) wholesalers","KC42150",1019,1696,73,230,-1441,-371,-550,3410,-317,2301,-1387,2085
+"61","50","        Electrical goods wholesalers","KC42160",459,1902,2979,3516,-4182,-976,-597,2161,1223,2218,1142,593
+"62","51","        Hardware and plumbing and heating equipment wholesalers","KC42170",178,899,168,970,-836,-46,-30,830,347,527,59,-1151
+"63","52","        Machinery, equipment, and supplies wholesalers","KC42180",5060,6233,2068,1149,-2599,-3036,-2247,3994,3389,1938,1598,3788
+"64","53","        Miscellaneous durable goods wholesalers","KC42190",1372,2075,26,1580,-2114,-640,998,1246,935,-1723,-1460,770
+"65","54","      Nondurable goods industries","KC42WN0",8759,5409,4687,5078,6168,867,-901,1181,3357,4578,6295,-7266
+"66","55","        Paper and paper products wholesalers","KC42210",763,26,-201,262,-671,-379,-27,493,310,-322,-29,-151
+"67","56","        Drugs and druggists' sundries wholesalers","KC42220",1939,1262,3826,5127,7840,1502,138,-347,-2150,752,697,-686
+"68","57","        Apparel, piece goods, and notions wholesalers","KC42230",1415,282,-658,116,-29,221,-978,51,619,1359,103,731
+"69","58","        Grocery and related products wholesalers","KC42240",1068,-225,1359,-101,-1797,1437,-1302,-257,1576,1776,810,408
+"70","59","        Farm product raw material wholesalers","KC42250",1142,1256,1090,405,154,-1193,1734,-1498,2137,1941,2128,-4999
+"71","60","        Chemical and allied products wholesalers","KC42260",385,664,342,-375,426,448,-404,-196,-3,-407,338,-311
+"72","61","        Petroleum amd petroleum products wholesalers","KC42270",122,1857,-2787,-690,3216,-1105,-679,1299,-38,-697,233,-211
+"73","62","        Beer, wine, and distilled alcoholic beverages wholesalers","KC42280",410,200,322,139,-276,463,147,295,396,664,692,784
+"74","63","        Miscellaneous nondurable goods wholesalers","KC42290",1007,897,-353,-369,-1278,-913,-147,1850,510,-536,626,-328
+"75","64","    Nonmerchant wholesale industries","KC42N0",2994,2329,3097,4650,-5039,-718,-441,2046,3800,-1374,-1033,-6427
+"76","65","      Durable goods industries","KC42ND0",1876,1878,1668,3134,-3504,633,-95,991,2398,-1092,1126,-2846
+"77","66","      Nondurable goods industries","KC42NN0",930,42,1405,1296,-1274,-1648,-373,1066,1402,-298,-1967,-3515
+"78","67","Retail trade industries","KC440",14200,15156,25833,20649,-10649,23717,17317,23671,4618,10760,5861,-11790
+"79","68","  Motor vehicle and parts dealers","KC4410",5144,1941,12336,11734,-8920,17173,12921,7627,-2788,-367,2966,-484
+"80","69","  Furniture, furnishings, electronics, and appliance stores","KC44230",549,1073,1491,1742,-316,1760,1823,3264,1258,1086,1570,-2369
+"81","70","  Building material and garden equipment and supplies dealers","KC4440",1468,2190,2204,1292,17,1643,1122,2412,2258,-26,63,-1786
+"82","71","  Food and beverage stores","KC4450",403,1102,1762,-638,453,173,-1279,406,-104,910,860,244
+"83","72","  Clothing and clothing accessories stores","KC4480",957,1344,1483,3063,-1153,1850,501,2442,1470,3321,-896,-1788
+"84","73","  General merchandise stores","KC4520",151,381,2812,1078,162,1466,1011,4525,2210,1639,-328,-3118
+"85","74","    Department stores","KC45210",247,-990,650,-644,-1924,-1528,-1662,717,49,-182,-446,-3285
+"86","75","    Other general merchandise stores","KC45290",-106,1439,2208,1767,2143,3057,2712,3819,2161,1816,112,97
+"87","76","  Other retail stores","KC44X0",5671,7565,3282,1551,-361,-1254,837,2874,314,4103,1781,-2452
+"88","77","Other industries","KCOTH0",5654,5792,7540,12739,-227,-1036,1593,6328,2295,4648,3473,2545
+"89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","Note. Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

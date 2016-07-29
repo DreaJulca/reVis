@@ -1,0 +1,56 @@
+"","Table 5#3# Real Gross and Net Investment by Major Type","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 09, 2002   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 11/25/2003 11:05:47 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001
+"8","1","Gross private domestic investment","A006RX",879.3,902.8,936.5,907.3,829.5,899.8,977.9,1107,1140.6,1242.7,1393.3,1558,1660.5,1762.9,1574.6
+"9","2","Less: Consumption of fixed capital","B024RX",547,568.2,599.1,612.6,633.2,667.9,677.7,724.3,742.6,781.9,831.8,894.7,962.2,1024,1110.7
+"10","3","Equals: Net private domestic investment","A557RX",332.2,334.6,337.4,294.7,196.3,231.9,300.2,382.8,398,460.8,561.5,663.3,698.4,738.9,463.9
+"11","4","  Fixed investment","A007RX",856,887.1,911.2,894.6,832.5,886.5,958.4,1045.9,1109.2,1212.7,1328.6,1480,1595.2,1691.9,1627.4
+"12","5","  Less: Consumption of fixed capital","B024RX",547,568.2,599.1,612.6,633.2,667.9,677.7,724.3,742.6,781.9,831.8,894.7,962.2,1024,1110.7
+"13","6","  Equals: Net fixed investment","A560RX",309,319,312.1,282,199.3,218.6,280.7,321.7,366.5,430.8,496.8,585.3,633,667.9,516.7
+"14","7","    Nonresidential","A008RX",572.5,603.6,637,641.7,610.1,630.6,683.6,744.6,817.5,899.4,1009.3,1135.9,1228.4,1324.2,1255.1
+"15","8","    Less: Consumption of fixed capital","A753RX",446.3,464.2,487.6,502.7,519.4,539.9,558.9,591,618.4,656.3,702.9,762.8,824.1,886.5,966.6
+"16","9","    Equals: Net nonresidential","A593RX",126.2,139.4,149.4,139,90.7,90.7,124.7,153.6,199.1,243.1,306.4,373.1,404.3,437.7,288.6
+"17","10","      Structures","B009RX",224.3,227.1,232.7,236.1,210.1,197.3,198.9,200.5,210.1,225,245.4,262.2,258.6,275.5,270.9
+"18","11","      Less: Consumption of fixed capital","B188RX",122.8,125.4,129.9,130.4,132.7,136.4,136.5,142.6,139,140.3,142.7,146.1,148.4,149.3,164.9
+"19","12","      Equals: Net structures","A594RX",101.5,101.8,102.8,105.7,77.4,60.9,62.4,58,71.1,84.6,102.7,116.1,110.2,126.3,106.1
+"20","13","      Equipment and software","B010RX",360,386.9,414,415.7,407.2,437.5,487.1,544.9,607.6,674.4,764.2,875.4,975.9,1056,988.2
+"21","14","      Less: Consumption of fixed capital","B189RX",326.1,341.2,359.9,374.1,388.3,404.9,423.3,449.2,479.5,516,560.5,617.8,678.3,742.2,806.6
+"22","15","      Equals: Net equipment and software","A747RX",33.9,45.8,54.1,41.6,18.9,32.5,63.8,95.6,128,158.5,203.7,257.6,297.6,313.8,181.6
+"23","16","    Residential","A011RX",290.7,289.2,277.3,253.5,221.1,257.2,276,302.7,291.7,313.3,319.7,345.1,368.3,372.4,373.5
+"24","17","    Less: Consumption of fixed capital","A754RX",101.3,104.4,112.2,110.1,114.1,129.2,119,133.8,124.3,125.6,128.9,132.3,138.9,139.6,147.3
+"25","18","    Equals: Net residential","A748RX",189.4,184.9,165.1,143.4,107,128,157,168.9,167.4,187.7,190.7,212.8,229.5,232.8,226.2
+"26","19","  Change in private inventories","A014RX",29.6,18.4,29.6,16.5,-1,17.1,20,66.8,30.4,30,63.8,76.7,62.8,65,-61.4
+"27","20","Gross government investment \1\","A782RX",217,215.8,224.1,238.9,239.8,242,235,234.5,240.8,250.1,262.7,274.3,296.8,303.8,313.8
+"28","21","Less: Consumption of fixed capital","A264RX",128.7,134.8,141.1,147.3,153,157.9,162,166.2,169.7,174.3,179.8,186.4,194.4,202.5,210.9
+"29","22","Equals: Net government investment","A889RX",88.3,80.9,82.9,91.6,86.7,84.2,72.9,68.3,71.2,75.9,82.9,87.9,102.4,101.3,102.9
+"30","23","          Federal","A890RX",30.2,19.3,17.7,19,14.1,12.5,5.1,-0.7,-2,1,-4.5,-0.3,3.7,2.5,4.1
+"31","24","            National defense","B891RX",22.6,13.9,11.7,11.9,6,2.6,-5.5,-8.5,-10.2,-8.4,-13.9,-11.5,-8.8,-7.7,-5.1
+"32","25","            Nondefense","B892RX",8,5.8,6.3,7.4,8.3,10.1,10.6,7.8,8.1,9.4,9,11.1,12.3,10.1,9
+"33","26","          State and local","B893RX",57.3,61.1,64.8,72.2,72.3,71.3,67.6,69,73.2,74.9,87.2,88.2,98.7,98.8,99
+"34","27","  Structures","A760RX",122.1,122.8,122.9,131.4,134.4,136.6,134.2,134.3,138.5,140.3,149.7,149.7,159.3,159.4,162.1
+"35","28","  Less: Consumption of fixed capital","B894RX",61.4,62.5,63.7,64.6,65.8,67.1,68.3,69.8,70.6,71.9,73.2,74.6,76.1,77.6,80.4
+"36","29","  Equals: Net structures","A895RX",60.7,60.3,59.2,66.8,68.6,69.6,66,64.6,67.9,68.4,76.4,75,83.2,81.8,81.8
+"37","30","            Federal","A896RX",8.4,4.3,2.1,2.5,1.8,3.5,3.7,2.9,3.1,3.3,0.3,1.1,0.9,-0.5,-1.1
+"38","31","              National defense","B897RX",2.3,1.5,-0.6,-1.1,-3.1,-2.4,-3,-2.4,-2.1,-1.8,-2.9,-3.3,-3.5,-3.6,-3.6
+"39","32","              Nondefense","B898RX",6.3,3.1,2.8,3.8,4.8,5.9,6.7,5.4,5.2,5.1,3.2,4.3,4.3,3.1,2.5
+"40","33","            State and local","B899RX",52.7,56.1,57.1,64.2,66.8,66,62.2,61.6,64.8,65.2,76.1,74,82.3,82.2,82.8
+"41","34","  Equipment and software","A871RX",94.8,93,100.6,106.9,105.1,105.3,100.8,100.2,102.4,109.8,112.9,125.2,138.5,146.1,154
+"42","35","  Less: Consumption of fixed capital","B900RX",68,72.9,77.8,82.9,87.4,90.9,93.8,96.4,99.1,102.4,106.6,111.9,118.7,125.4,131.2
+"43","36","  Equals: Net equipment and software","A901RX",26.7,20.1,22.8,24,17.7,14.4,6.9,3.8,3.3,7.4,6.3,13.3,19.9,20.7,22.8
+"44","37","            Federal","A902RX",22.1,14.9,15.2,16,11.9,8.9,1.4,-3.7,-5.1,-2.3,-4.7,-1.3,3,3.4,5.8
+"45","38","              National defense","B905RX",20.5,12.7,12.3,13,8.8,4.9,-2.6,-6.1,-8.1,-6.6,-10.6,-8.1,-5.2,-3.9,-1.3
+"46","39","              Nondefense","B906RX",2.2,2.6,3.3,3.5,3.4,4.1,4.1,2.5,2.9,4.3,5.9,6.8,8.1,7.2,6.9
+"47","40","            State and local","B907RX",5.1,5.5,7.9,8.2,6.1,5.8,5.7,7.5,8.5,9.7,11.1,14.6,16.8,17.2,16.9
+"48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49"," 1. Gross government investment consists of general government and government enterprise expenditures for fixed assets; change in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","inventories is included in government consumption expenditures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","  Chain-type quantity indexes for the series in this table are shown in table 7.19.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

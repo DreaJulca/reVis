@@ -1,0 +1,105 @@
+"","Table 2#9# Personal Income and Its Disposition by Households and","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1992 To 2005",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published November 21, 2006 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/27/2007 10:06:15 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005
+"8","1","Personal income","A065RC1",5362,5558.5,5842.5,6152.3,6520.6,6915.1,7423,7802.4,8429.7,8724.1,8881.9,9163.6,9731.4,10239.2
+"9","2","  Compensation of employees, received","W209RC1",3651.2,3794.9,3979.6,4177,4386.9,4664.6,5020.1,5352,5782.7,5942.1,6091.2,6310.4,6665.3,7030.3
+"10","3","  Proprietors' income with inventory valuation and capital consumption adjustments","A041RC1",427.6,453.8,473.3,492.1,543.2,576,627.8,678.3,728.4,771.9,768.4,811.3,911.1,970.7
+"11","4","  Rental income of persons with capital consumption adjustment","A048RC1",78,95.6,119.7,122.1,131.5,128.8,137.5,147.3,150.3,167.4,152.9,133,127,72.8
+"12","5","  Personal income receipts on assets","W210RC1",910.9,901.8,950.8,1016.4,1089.2,1181.7,1283.2,1264.2,1387,1380,1333.2,1336.6,1427.9,1519.4
+"13","6","    Personal interest income","A064RC1",723.4,699.6,716.8,763.2,793,848.7,933.2,928.6,1011,1011,936.1,914.1,890.8,945
+"14","7","    Personal dividend income","B703RC1",187.4,202.2,234,253.2,296.2,333,349.9,335.6,376.1,369,397.2,422.6,537.1,574.4
+"15","8","  Personal current transfer receipts","A577RC1",749.4,790.1,827.3,877.4,925,951.2,978.6,1022.1,1084,1193.9,1286.2,1351,1426.5,1526.6
+"16","9","    Government social benefits to persons","A063RC1",729.8,775.7,812.2,858.4,902.1,931.8,952.6,988,1041.6,1143.9,1248.9,1316.7,1398.4,1480.9
+"17","10","    Other current transfer receipts, from business (net)","B931RC1",19.6,14.4,15.1,19,22.9,19.4,26,34.1,42.4,50,37.3,34.3,28.1,45.7
+"18","11","  Less: Contributions for government social insurance","A061RC1",455,477.7,508.2,532.8,555.2,587.2,624.2,661.4,702.7,731.1,750,778.6,826.4,880.6
+"19","12","Less: Personal current taxes","W055RC1",610.6,646.6,690.7,744.1,832.1,926.3,1027,1107.5,1235.7,1237.3,1051.8,1001.1,1049.8,1203.1
+"20","13","Equals: Disposable personal income","A067RC1",4751.4,4911.9,5151.8,5408.2,5688.5,5988.8,6395.9,6695,7194,7486.8,7830.1,8162.5,8681.6,9036.1
+"21","14","Less: Personal outlays","A068RC1",4385.4,4627.9,4902.4,5157.3,5460,5770.5,6119.1,6536.4,7025.6,7354.5,7645.3,7987.7,8507.2,9070.9
+"22","15","      Personal consumption expenditures","A002RC1",4235.3,4477.9,4743.3,4975.8,5256.8,5547.4,5879.5,6282.5,6739.4,7055,7350.7,7703.6,8211.5,8742.4
+"23","16","      Personal interest payments \1\","B069RC1",111.8,107.3,112.8,132.7,150.3,163.9,174.5,181,204.7,212.2,196.4,182.5,186,209.4
+"24","17","      Personal current transfer payments","W211RC1",38.3,42.7,46.3,48.9,52.9,59.2,65.2,73,81.5,87.2,98.2,101.5,109.7,119.2
+"25","18","        To government","W062RC1",26,28.5,30.9,32.6,34.9,38.2,40.6,44.7,50,54.2,58.2,61.3,66.8,72
+"26","19","        To the rest of the world (net)","B070RC1",12.3,14.2,15.4,16.2,18,21,24.6,28.3,31.5,33,40,40.2,42.9,47.1
+"27","20","Equals: Personal saving","A071RC1",366,284,249.5,250.9,228.4,218.3,276.8,158.6,168.5,132.3,184.7,174.9,174.3,-34.8
+"28","21","    Personal saving as a percentage of disposable personal income","A072RC1",7.7,5.8,4.8,4.6,4,3.6,4.3,2.4,2.3,1.8,2.4,2.1,2,-0.4
+"29","22","Household income","W380RC1",5338.7,5536.7,5818.7,6121.7,6490.6,6882.9,7398.7,7776.5,8402.4,8707.8,8873.8,9157.8,9726,10234.8
+"30","23","  Compensation of employees, received","W209RC1",3651.2,3794.9,3979.6,4177,4386.9,4664.6,5020.1,5352,5782.7,5942.1,6091.2,6310.4,6665.3,7030.3
+"31","24","  Proprietors' income with inventory valuation and capital consumption adjustments","A041RC1",427.6,453.8,473.3,492.1,543.2,576,627.8,678.3,728.4,771.9,768.4,811.3,911.1,970.7
+"32","25","  Rental income of households with capital consumption adjustment","W381RC1",76.6,94.1,118,120.2,129.4,126.6,135.2,145.1,148.3,165.4,150.7,130.8,124.9,70.8
+"33","26","  Household income receipts on assets","W382RC1",879.1,869.8,915.8,976.2,1046.5,1135.9,1243.7,1221.9,1341.3,1341.4,1299.8,1303.2,1392.6,1484.5
+"34","27","    Household interest income","W383RC1",701.9,679,694.3,737.7,766.5,817.8,906.7,898,975.2,982.2,912.8,893.6,868.6,924.2
+"35","28","    Household dividend income","W384RC1",177.2,190.8,221.5,238.5,280,318,337,323.9,366.1,359.2,387,409.6,523.9,560.3
+"36","29","  Household current transfer receipts","W385RC1",759.2,801.7,840.2,889.1,939.8,966.9,996,1040.6,1104.4,1218.2,1313.8,1380.8,1458.5,1559.1
+"37","30","    Government social benefits","W401RC1",724.3,769.6,805.7,851.3,894.5,923.1,941.8,976.2,1029,1129.7,1233.1,1299.6,1380.3,1462.4
+"38","31","    From business (net)","W379RC1",13.7,8.3,8.5,11.9,15.2,11.5,17.1,22.9,31.3,37.3,26.5,24,17.9,32.7
+"39","32","    From nonprofit institutions \2\","W386RC1",21.2,23.8,26,25.9,30,32.3,37.2,41.5,44.1,51.2,54.2,57.2,60.4,64
+"40","33","  Less: Contributions for government social insurance","A061RC1",455,477.7,508.2,532.8,555.2,587.2,624.2,661.4,702.7,731.1,750,778.6,826.4,880.6
+"41","34","Less: Household current taxes","W055RC1",610.6,646.6,690.7,744.1,832.1,926.3,1027,1107.5,1235.7,1237.3,1051.8,1001.1,1049.8,1203.1
+"42","35","Equals: Disposable household income","W388RC1",4728.1,4890.1,5128,5377.6,5658.5,5956.6,6371.6,6669,7166.7,7470.5,7822,8156.7,8676.2,9031.7
+"43","36","Less: Household outlays","W389RC1",4375.5,4618.7,4889.2,5141.9,5451.6,5780.1,6131.3,6555,7050.2,7362.6,7653.4,7990.3,8513.6,9081.3
+"44","37","      Household consumption expenditures","W390RC1",4143.4,4385.3,4643.5,4872.2,5144.8,5440.1,5759.5,6153.7,6593.8,6899.3,7188,7534.3,8036.5,8567.6
+"45","38","        Purchases from business and government","W391RC1",3828.2,4047.6,4291.6,4505.4,4762.4,5032.7,5332,5706.1,6119.1,6389.2,6635.2,6946.7,7415.5,7901.9
+"46","39","        Purchases from nonprofit institutions \3\","W392RC1",315.3,337.6,351.9,366.9,382.5,407.4,427.5,447.6,474.7,510.1,552.8,587.5,621,665.7
+"47","40","      Household interest payments \1\","B069RC1",111.8,107.3,112.8,132.7,150.3,163.9,174.5,181,204.7,212.2,196.4,182.5,186,209.4
+"48","41","      Household transfer payments","W394RC1",120.3,126.1,132.9,137.1,156.4,176,197.3,220.3,251.7,251.1,269,273.5,291.1,304.2
+"49","42","        To government","W395RC1",25.8,28.3,30.7,32.3,34.5,37.7,40,44,49.4,53.9,58,61,66.5,71.7
+"50","43","        To the rest of the world (net)","W396RC1",10.1,11.4,12.5,13.2,14.4,16.5,18.2,21.1,23.9,25,31.7,31.3,33.8,36.7
+"51","44","        To nonprofit institutions \4\","W397RC1",84.4,86.3,89.7,91.5,107.5,121.8,139.1,155.2,178.4,172.2,179.3,181.3,190.8,195.9
+"52","45","Equals: Household saving","W398RC1",352.6,271.4,238.8,235.7,206.9,176.5,240.3,114,116.6,107.8,168.6,166.4,162.6,-49.6
+"53","46","    Household saving as a percentage of household disposable income","W399RC1",7.5,5.6,4.7,4.4,3.7,3,3.8,1.7,1.6,1.4,2.2,2,1.9,-0.5
+"54","47","Nonprofit institution income","W400RC1",128.9,132,139.5,147.9,167.5,186.3,200.6,222.7,249.8,239.7,241.5,244.3,256.6,264.2
+"55","48","  Rental income of nonprofit institutions with capital consumption adjustment","W159RC1",1.4,1.5,1.7,2,2,2.1,2.3,2.2,2,2,2.2,2.2,2.1,2
+"56","49","  Nonprofit institution income receipts on assets","W402RC1",31.8,32,35,40.2,42.7,45.8,39.5,42.3,45.7,38.6,33.4,33.4,35.3,34.9
+"57","50","    Nonprofit institution interest income","W403RC1",21.5,20.6,22.6,25.5,26.5,30.9,26.5,30.6,35.7,28.8,23.3,20.5,22.1,20.8
+"58","51","    Nonprofit institution dividend income","W404RC1",10.3,11.5,12.4,14.7,16.2,14.9,13,11.7,10,9.7,10.2,13,13.1,14.1
+"59","52","  Nonprofit institution transfer receipts","W405RC1",95.7,98.5,102.8,105.7,122.7,138.3,158.9,178.2,202.1,199.1,205.9,208.7,219.2,227.3
+"60","53","    From government","W406RC1",5.5,6.1,6.6,7.1,7.6,8.6,10.9,11.9,12.6,14.3,15.8,17.1,18.1,18.4
+"61","54","    From business (net)","W407RC1",5.8,6.1,6.6,7.1,7.7,7.9,8.9,11.1,11.1,12.7,10.8,10.3,10.3,13
+"62","55","    From households \4\","W397RC1",84.4,86.3,89.7,91.5,107.5,121.8,139.1,155.2,178.4,172.2,179.3,181.3,190.8,195.9
+"63","56","Less: Nonprofit institution outlays","W412RC1",115.4,119.3,128.8,132.7,145.9,144.4,164.1,178.1,197.9,215.2,225.4,235.9,244.8,249.5
+"64","57","      Final consumption expenditures of nonprofit institutions","W411RC1",91.8,92.6,99.8,103.6,112,107.3,120,128.7,145.6,155.8,162.7,169.4,175,174.7
+"65","58","        Nonprofit institution gross consumption expenditures \5\","W413RC1",407.1,430.3,451.7,470.4,494.5,514.7,547.5,576.3,620.3,665.8,715.5,756.9,796,840.5
+"66","59","          Medical care","W414RC1",235.3,251.3,261.7,272.1,282.8,297.1,312.9,330,350.3,376.7,407.9,436.5,461.2,493.6
+"67","60","          Recreation","W415RC1",20.3,21.3,21.7,21.9,21.3,20.8,21.6,22.6,24.5,25.9,27,27.9,28,29.8
+"68","61","          Education and research","W416RC1",58.3,61.8,64.9,68.7,73.5,76.3,82,86.9,93.7,100.4,107.6,114.7,120,126.2
+"69","62","          Religious and welfare activities","W417RC1",81.3,83.5,90.5,93.9,102.6,105.2,114.8,119.7,133.6,143.4,152.2,155.8,163.7,166.5
+"70","63","          Personal business","W418RC1",11.9,12.4,12.9,13.8,14.3,15.3,16.2,17.2,18.1,19.5,20.8,22,23.1,24.4
+"71","64","        Less: Receipts from sales of goods and services by nonprofit institutions \3\","W392RC1",315.3,337.6,351.9,366.9,382.5,407.4,427.5,447.6,474.7,510.1,552.8,587.5,621,665.7
+"72","65","          Medical care","W374RC1",235.2,252.2,261.5,270.4,279.9,297.5,311.1,324.6,342.5,368.3,403.1,430.1,455.3,491.6
+"73","66","          Recreation","W375RC1",12.6,13.6,14.2,15,15.2,15.7,16.7,17.6,18.5,19.5,20.1,20.9,22,23.5
+"74","67","          Education and research","W376RC1",32.3,34.4,36.4,38.6,41.8,44.8,47.2,49.6,52.7,56.2,60.6,64.6,68.6,73.3
+"75","68","          Religious and welfare activities","W377RC1",22.2,24.2,26.2,28.7,30.9,33.9,36.4,38.8,42.4,46.5,48.8,51.5,54,55.8
+"76","69","          Personal business","W378RC1",12.9,13.2,13.6,14.2,14.6,15.4,16.1,17,18.5,19.6,20.1,20.4,21.1,21.5
+"77","70","      Nonprofit institution current transfer payments","W419RC1",23.6,26.7,29,29.2,33.9,37.2,44.2,49.4,52.3,59.5,62.7,66.5,69.8,74.7
+"78","71","        To government \6\","W420RC1",0.2,0.2,0.2,0.3,0.4,0.5,0.5,0.7,0.6,0.3,0.2,0.3,0.3,0.3
+"79","72","        To the rest of the world (net)","W421RC1",2.2,2.7,2.9,3,3.5,4.4,6.4,7.2,7.6,8,8.2,9,9.1,10.4
+"80","73","        To households \2\","W386RC1",21.2,23.8,26,25.9,30,32.3,37.2,41.5,44.1,51.2,54.2,57.2,60.4,64
+"81","74","Equals: Nonprofit institution saving","W422RC1",13.5,12.6,10.6,15.2,21.6,41.8,36.5,44.6,51.9,24.5,16.2,8.5,11.8,14.8
+"82","75","    Nonprofit institution saving as a percentage of nonprofit income and receipts from sales","W423RC1",3,2.7,2.2,3,3.9,7,5.8,6.7,7.2,3.3,2,1,1.3,1.6
+"83",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","76","  Nonprofit institution income included in personal income \7\","W424RC1",44.5,45.7,49.8,56.4,60,64.5,61.5,67.5,71.4,67.6,62.3,63.1,65.8,68.4
+"85","77","  Transfer payments between nonprofit institutions \8\","W426RC1",25.4,26.8,26.2,27.7,32.1,35.6,41.8,47,54.5,58.5,59.4,61.7,65.3,68.9
+"86","78","  Nonprofit institution income and receipts from sales","W442RC1",444.2,469.6,491.4,514.8,550,593.7,628.1,670.3,724.4,749.8,794.3,831.9,877.6,930
+"87",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","1. Consists of nonmortgage interest paid by households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","2. Includes benefits paid to members, specific assistance to individuals,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","and grants and allocations.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","3. Excludes unrelated sales, secondary sales, and sales to business, government, and the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","rest of the world; includes membership dues and fees.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","4. Includes individual contributions and bequests from households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","5. Expenditures are net of unrelated sales, secondary sales, and sales to business,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","government, and the rest of the world.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","6. Consists of excise taxes paid by nonprofit institutions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","7. Consists of rental income of nonprofit institutions (line 48), income receipts on assets",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","(line 49), transfer receipts from government (line 53), and transfer receipts from business",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","(line 54).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","8. Includes grants and allocations made by nonprofit institutions that indirectly support",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","households through the support of other nonprofit institutions, plus their payments to",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","affiliates.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","Note. Estimates in this table exclude nonprofit institutions serving business and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

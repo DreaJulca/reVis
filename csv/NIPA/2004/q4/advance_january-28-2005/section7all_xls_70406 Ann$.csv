@@ -1,0 +1,28 @@
+"","Table 7#4#6# Real Housing Sector Output, Real Gross Value Added,","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of chained (2000) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1990 To 2003",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 05, 2004   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 1/27/2005 12:21:40 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003
+"8","1","Housing output \1\","A2007X1",761.1,778.7,788.8,798.3,824.3,841.9,853.4,871.1,896.7,925.3,950.4,981.7,1009.4,1023.3
+"9","2","  Nonfarm housing","A2008X1",751.5,769,779.2,788.7,814.6,832.2,843.7,861.1,886.5,914.9,939.8,970.9,998.2,1012
+"10","3","    Owner-occupied","AOWNRX1",551.6,567.4,575.5,583.9,604.8,615.9,626.7,642.4,663.7,688.2,712.2,740.2,759.4,776.4
+"11","4","    Tenant-occupied","ATENRX1",199.9,201.7,203.8,204.9,209.9,216.5,217.1,218.8,222.8,226.7,227.5,230.7,238.8,235.6
+"12","5","  Farm housing","BFARRX1",9.6,9.6,9.6,9.6,9.6,9.6,9.7,10,10.2,10.5,10.7,10.8,11.2,11.3
+"13","6","Less: Intermediate goods and services consumed","B1027X1",125.2,121.2,122.3,128.2,133.3,136,141.2,144.6,161.6,158.2,156.2,166.6,173,202.6
+"14","7","Equals: Gross housing value added","A2009X1",635.7,657.2,666.2,669.9,690.8,705.7,712.1,726.5,735.5,767.2,794.3,815.1,836.4,821
+"15","8","          Nonfarm housing","B499RX1",627.3,648.7,657.6,661.4,682.3,697.2,703.6,717.7,726.5,758,785,805.6,826.7,811.2
+"16","9","            Owner-occupied","B1300X1",464.9,480.4,484.3,489.3,505.9,515.1,521.9,535.3,543.3,571.8,596.4,616.8,632.3,625.9
+"17","10","            Tenant-occupied","B1301X1",162.4,168.3,173.3,172.2,176.5,182.2,181.8,182.5,183.3,186.2,188.6,188.8,194.4,185.3
+"18","11","          Farm housing","B1302X1",8.4,8.5,8.6,8.5,8.5,8.5,8.5,8.8,8.9,9.2,9.3,9.4,9.7,9.8
+"19","12","Less: Consumption of fixed capital","B1028X1",124.9,128,134.9,133.7,143.1,141,144.4,148.5,152.7,158.4,161.8,166.2,169.6,174.5
+"20","13","Equals: Net housing value added","B952RX1",510.7,529,531.3,536.1,547.7,564.6,567.6,578,582.9,608.8,632.5,648.9,666.9,646.9
+"21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","1. Equals personal consumption expenditures for housing excluding expenditures for other housing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","as shown in table 2.5.6.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Note. Chained (2000) dollar series are calculated as the product of the chain-type quantity index",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","and the 2000 current-dollar value of the corresponding series, divided by 100. Because the formula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","for the chain-type quantity indexes uses weights of more than one period, the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","chained-dollar estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

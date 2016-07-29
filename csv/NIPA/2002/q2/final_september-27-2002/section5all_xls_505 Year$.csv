@@ -1,0 +1,42 @@
+"","Table 5#5# Real Private Fixed Investment by Type","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published September 27, 2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 9/26/2002 4:31:37 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001
+"8","1","    Private fixed investment","A007RX",856,887.1,911.2,894.6,832.5,886.5,958.4,1045.9,1109.2,1212.7,1328.6,1480,1595.2,1691.9,1627.4
+"9","2","Nonresidential","A008RX",572.5,603.6,637,641.7,610.1,630.6,683.6,744.6,817.5,899.4,1009.3,1135.9,1228.4,1324.2,1255.1
+"10","3","  Structures","B009RX",224.3,227.1,232.7,236.1,210.1,197.3,198.9,200.5,210.1,225,245.4,262.2,258.6,275.5,270.9
+"11","4","    Nonresidential buildings, including farm","A941RX",162.6,166.5,171.4,173.6,142.7,129.2,131.7,137.2,147.6,161.7,177,188.3,185.5,192.3,178.7
+"12","5","    Utilities","E313RX",34.9,33.6,35.4,33,38.9,41.8,38.4,36.1,36.8,36,35.3,42.7,45.7,50.4,50.3
+"13","6","    Mining exploration, shafts, and wells","E318RX",18.6,20.4,18.4,21.3,20.8,17.2,20.5,19.8,18.2,21.1,26.2,25.1,21.6,27,34
+"14","7","    Other structures","A861RX",8.2,6.8,7.5,8.3,7.8,9.2,8.5,7.6,7.5,6.2,6.8,6.2,6.4,6.8,9.3
+"15","8","  Equipment and software","B010RX",360,386.9,414,415.7,407.2,437.5,487.1,544.9,607.6,674.4,764.2,875.4,975.9,1056,988.2
+"16","9","    Information processing equipment and software","A679RX",105.1,116.4,131.3,136.4,142.7,163,183.4,206.6,242.8,287.3,349.8,429.3,508.1,583.3,548.5
+"17","10","      Computers and peripheral equipment \1\","B935RX",10.3,11.8,14.4,14.2,15.4,20.8,26.4,32.6,49.2,70.9,102.9,147.7,207.4,246.4,239.9
+"18","11","      Software \2\","B985RX",27.9,32.4,40.1,45.9,51.4,58.7,66.8,74.3,82,95.1,119,147.1,169.3,184.4,182
+"19","12","      Other","A937RX",78,83.5,86.8,87.6,86.4,91.5,96.4,104.9,113.1,121.3,129.8,143.5,157.5,187.4,163.9
+"20","13","    Industrial equipment","A680RX",99.9,104.9,112.4,105.8,99,100.8,109.6,119.6,131.3,136.4,140,145.6,147.5,160.8,153.8
+"21","14","    Transportation equipment","A681RX",88,93.6,84.9,87.4,87.7,92.3,103.4,120.4,128.2,138.9,150.5,168.2,193.2,186.6,163.6
+"22","15","    Other","A862RX",83.8,87.7,98.1,96.2,83.6,84.1,93.3,100.6,106.2,111.8,124.7,136.5,137.7,144.5,140.7
+"23","16","Residential","A011RX",290.7,289.2,277.3,253.5,221.1,257.2,276,302.7,291.7,313.3,319.7,345.1,368.3,372.4,373.5
+"24","17","  Structures","A012RX",284.7,283,271,247.3,215.1,251,269.4,295.8,284.4,305.6,311.8,336.8,359.4,363,364
+"25","18","    Single family","A944RX",149.5,146.9,142,128.6,112.3,135.7,148,163.2,147.7,159.1,158.6,175.9,189,191,192.6
+"26","19","    Multifamily","C292RX",29.3,25,24.9,21.7,16.8,14.2,11.5,14.8,18.4,20.3,21.9,21.7,23.4,23,24.4
+"27","20","    Other structures","A863RX",104.9,110.5,103.4,96.4,85.6,100.9,109.9,117.7,118.3,126.2,131.3,139.3,147,149.1,146.9
+"28","21","  Equipment","B013RX",6.1,6.3,6.4,6.2,5.9,6.1,6.5,6.9,7.4,7.7,7.9,8.3,9,9.4,9.5
+"29","22","Residual","A972RX",-46,-42.8,-34.9,-31.6,-21.8,-16,-12.5,-9.8,-2.7,0,-3.3,-16.1,-45,-67.2,-62.2
+"30"," 1. Includes new computers and peripheral equipment only.  Because of rapid changes in relative prices, the chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31",NA,"estimates for computers are especially misleading",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32",NA,"as a measure of the contribution or relative importance of this component; accurate estimates of these contributions are shown in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33",NA,"table 8.4.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34"," 2. Excludes software ``embedded,'' or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36",NA,"value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37",NA,"Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38",NA,"estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39",NA,"The residual line is the difference between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","  Chain-type quantity indexes for the series in this table are shown in table 7.6.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","  Contributions to the percent change in real private fixed investment are shown in table 8.4.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

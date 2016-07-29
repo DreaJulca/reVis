@@ -1,0 +1,69 @@
+"","Table 4#2#1# Percent Change From Preceding Period in Real Export","F2","F3","F4","F5"
+"1","[Percent]                                                                                                                                                                                                                                                 ",NA,NA,NA,NA
+"2","Annual data from 1968 To 1969",NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA
+"4","Data published December 22, 2011 ",NA,NA,NA,NA
+"5","File created 12/21/2011 10:22:32 AM",NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA
+"7","Line",NA,NA,1968,1969
+"8","1","    Exports of goods and services","B020RL1",7.9,4.8
+"9","2","Exports of goods \1\","A253RL1",7.9,5.2
+"10","3","  Foods, feeds, and beverages","B638RL1",-1.6,-2.1
+"11","4","  Industrial supplies and materials","A639RL1",13.8,4.6
+"12","5","    Durable goods","B686RL1",17.9,10.6
+"13","6","    Nondurable goods","B687RL1",11.4,0.9
+"14","7","  Capital goods, except automotive","A640RL1",3.1,5.9
+"15","8","    Civilian aircraft, engines, and parts","B688RL1",72.3,-13.3
+"16","9","    Computers, peripherals, and parts","B850RL1",7.1,40
+"17","10","    Other","B689RL1",-3.4,6.9
+"18","11","  Automotive vehicles, engines, and parts","B641RL1",23.3,8.1
+"19","12","  Consumer goods, except automotive","A642RL1",8.6,7.1
+"20","13","    Durable goods","B690RL1",10.6,16.8
+"21","14","    Nondurable goods","B691RL1",7.2,0
+"22","15","  Other","A643RL1",6,13.5
+"23","16","Exports of services \1\","A646RL1",7.7,3.7
+"24","17","  Transfers under U.S. military agency sales contracts","B267RL1",18.5,-1.8
+"25","18","  Travel","B493RL1",3.3,9.2
+"26","19","  Passenger fares","B533RL1",10.4,8
+"27","20","  Other transportation","B683RL1",2.4,7.7
+"28","21","  Royalties and license fees","B684RL1",2,3.2
+"29","22","  Other private services","B720RL1",3.6,9.8
+"30","23","  Other","B980RL1",5.4,1.4
+"31","24","    Imports of goods and services","B021RL1",14.9,5.7
+"32","25","Imports of goods \1\","A255RL1",20.7,5.5
+"33","26","  Foods, feeds, and beverages","B647RL1",13.5,-5.2
+"34","27","  Industrial supplies and materials, except petroleum and products","A649RL1",19,-5.4
+"35","28","    Durable goods","A820RL1",25.3,-8.8
+"36","29","    Nondurable goods","B696RL1",9.5,0.7
+"37","30","  Petroleum and products","B648RL1",15.2,11.6
+"38","31","  Capital goods, except automotive","A650RL1",14.6,16.8
+"39","32","    Civilian aircraft, engines, and parts","B932RL1",40,-9.4
+"40","33","    Computers, peripherals, and parts","B852RL1",NA,NA
+"41","34","    Other","B853RL1",12.6,18.1
+"42","35","  Automotive vehicles, engines, and parts","B651RL1",55.5,22.1
+"43","36","  Consumer goods, except automotive","A652RL1",26.2,18
+"44","37","    Durable goods","B697RL1",26.5,15.4
+"45","38","    Nondurable goods","B698RL1",25.8,22.4
+"46","39","  Other","A653RL1",3.7,8.5
+"47","40","Imports of services \1\","B656RL1",1.8,6.3
+"48","41","  Direct defense expenditures","B752RL1",3.2,5.8
+"49","42","  Travel","B768RL1",-9.4,8.5
+"50","43","  Passenger fares","B769RL1",3.9,20.9
+"51","44","  Other transportation","B770RL1",10.2,2
+"52","45","  Royalties and license fees","B908RL1",6.4,14.3
+"53","46","  Other private services","B909RL1",13.2,11.1
+"54","47","  Other","B910RL1",6.9,-3.3
+"55",NA,"Addenda:"," ",NA,NA
+"56","48","  Exports of durable goods","A332RL1",9.4,8.1
+"57","49","  Exports of nondurable goods","A339RL1",5.8,0.9
+"58","50","  Exports of agricultural goods \2\","B181RL1",-0.3,-4.3
+"59","51","  Exports of nonagricultural goods","A182RL1",11,6.1
+"60","52","  Imports of durable goods","A333RL1",27.3,6.9
+"61","53","  Imports of nondurable goods","A340RL1",13.3,3.7
+"62","54","  Imports of nonpetroleum goods","A187RL1",21.1,5
+"63",NA,NA,NA,NA,NA
+"64","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal government, are included ",NA,NA,NA,NA
+"65","in services.",NA,NA,NA,NA
+"66","Beginning with 1986, repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA
+"67","2. Includes parts of foods, feeds, and beverages, of nondurable industrial supplies and materials, and of nondurable ",NA,NA,NA,NA
+"68","nonautomotive consumer goods.",NA,NA,NA,NA

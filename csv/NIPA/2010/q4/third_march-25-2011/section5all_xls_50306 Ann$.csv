@@ -1,0 +1,57 @@
+"","Table 5#3#6# Real Private Fixed Investment by Type, Chained Doll","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2010",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 25, 2011    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/24/2011 11:09:05 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010
+"8","1","    Private fixed investment","A007RX1",1235.7,1346.5,1470.8,1630.4,1782.1,1913.8,1877.6,1798.1,1856.2,1992.5,2122.3,2171.3,2132.7,1997,1630.7,1694.7
+"9","2","Nonresidential","A008RX1",792.2,866.2,970.8,1087.4,1200.9,1318.5,1281.8,1180.2,1191,1263,1347.3,1453.9,1552,1556.6,1290.8,1364.9
+"10","3","  Structures","B009RX1",342,361.4,387.9,407.7,408.2,440,433.3,356.6,343,346.7,351.8,384,438.2,464.2,369.6,319
+"11","4","    Commercial and health care","W001RX1",126.7,136.5,150.8,160.2,166.1,177.2,168.6,142.8,133.8,137.1,135.9,144.2,158.6,152.8,107,80.3
+"12","5","    Manufacturing","C307RX1",51.7,54.4,51.9,53.7,44.8,46.2,44.9,26.2,24.3,25.5,29.9,33,39,48.5,52.2,35.4
+"13","6","    Power and communication","W003RX1",45.4,39,37.6,44.2,52.1,60.1,62,60.5,55.7,46.2,45.2,48.7,67.8,74,75.8,68.8
+"14","7","    Mining exploration, shafts, and wells","E318RX1",52.6,56.1,66,57.7,48.8,61,71.9,52.6,60,69.9,77.1,88.3,93.6,99.7,64.3,81.4
+"15","8","    Other structures \1\","W004RX1",59.2,69.6,79,83.2,83.3,85.8,81.7,68.9,66.5,67.4,63.7,69.6,80.3,90.4,73.5,53.3
+"16","9","  Equipment and software","B010RX1",493,545.4,620.4,710.4,810.9,895.8,866.9,830.3,851.4,917.3,995.6,1069.6,1109,1082,916.3,1056.1
+"17","10","    Information processing equipment and software","A679RX1",149.5,179.1,220.8,271.1,332,391.9,390.2,379.3,405,443.1,475.3,514.8,560.5,594.7,595.8,676.2
+"18","11","      Computers and peripheral equipment \2\","ZZZZZZ1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","12","      Software \3\","B985RX1",66.9,78.5,101.7,122.8,151.5,172.4,173.7,173.4,185.6,204.6,218,227.1,240.9,254.9,259.3,284.8
+"20","13","      Other \4\","A937RX1",93.7,102.7,111.5,125.5,139.9,168.4,163.2,148.4,156.4,168.1,178.4,191.2,210.6,217.9,215.5,243
+"21","14","    Industrial equipment","A680RX1",145.5,150.9,154.1,160.8,161.8,175.8,162.8,151.9,151.6,147.4,159.6,172.9,179.9,172.2,132.2,139.7
+"22","15","    Transportation equipment","A681RX1",131.5,136.8,148.2,162,190.3,186.2,169.6,154.2,140.4,162.3,181.7,196.5,185.8,143,69.4,112.1
+"23","16","    Other equipment \5\","A862RX1",110.6,114.8,125.9,138.8,142.4,150.4,149.3,148.2,155,164.4,178.9,185.5,184.2,177.5,137.8,150.4
+"24","17","Residential","A011RX1",456.1,492.5,501.8,540.4,574.2,580,583.3,613.8,664.3,729.5,775,718.2,584.2,444.2,342.7,332.5
+"25","18","  Structures","A012RX1",450.1,486.8,496.3,534.5,567.5,572.6,575.6,605.9,655.9,720.1,765.2,708.1,574.2,434.7,333.9,323
+"26","19","    Permanent site","A943RX1",268.7,293.9,295.5,323.5,347.6,350.4,352.5,366.6,402.5,449.1,480.8,438.8,326.6,216.7,129.9,125.1
+"27","20","      Single family","A944RX1",240.2,262.4,261.6,290.1,311.5,315,315.4,327.7,362.6,406.1,433.5,391.1,284,178.2,105.4,114.6
+"28","21","      Multifamily","C292RX1",28.3,31.3,33.7,33.4,36,35.4,36.9,38.9,39.9,43,47.3,47.6,42.2,37.1,23.5,11.7
+"29","22","    Other structures \6\","A863RX1",180.9,192.6,200.2,210.6,219.8,222.1,223.1,239,253.2,271,284.4,269.3,248.2,218.8,204.5,198.4
+"30","23","  Equipment","B013RX1",5.9,5.9,5.8,6.2,6.9,7.4,7.6,7.9,8.4,9.4,9.8,10.2,10,9.7,9,9.7
+"31","24","Residual","A972RX1",-113.7,-99.9,-78.8,-50.2,-17.7,-3.7,-8.6,-0.7,-0.6,-0.5,0,-1,-3.2,-3.2,-22.3,-46.2
+"32",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","25","  Private fixed investment in structures","A349RX1",787.8,844,878.9,936.9,971,1006.7,1003.4,960,997.6,1066.6,1116.9,1093.4,1020.7,916.6,718.4,652.8
+"34","26","  Private fixed investment in equipment and software","A327RX1",498.7,551.2,626.2,716.6,817.8,903.2,874.5,838.2,859.8,926.7,1005.4,1079.7,1119,1091.6,925.2,1065.8
+"35","27","  Private fixed investment in new structures \7\","W040RX1",744.5,795.4,824.3,875.6,905.1,938.3,930.6,885.1,913.4,966,1007.2,996.4,938.9,850.9,659.4,597.2
+"36","28","    Nonresidential structures","A771RX1",342.2,361,385.9,407.2,407.7,439.4,428.8,356.9,343.4,346.2,350.3,383,437.6,463.2,368.9,319
+"37","29","    Residential structures","A756RX1",405.7,437.7,442.6,472.8,501.2,503.9,506.4,530.3,571.1,620.1,656.9,612.4,494,372,276.6,268
+"38",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","1. Consists primarily of religious, educational, vocational, lodging, railroads, farm, and amusement and recreational",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","structures, net purchases of used structures, and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","2. The quantity index for computers can be used to accurately measure the real growth rate of this component.  However,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","because computers exhibit rapid changes in prices relative to other prices in the economy, the chained-dollar estimates",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","should not be used to measure the component's relative importance or its contribution to the growth rate of more aggregate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","series; accurate estimates of these contributions are shown in table 5.3.2 and real growth rates are shown in table 5.3.1.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","3. Excludes software ""embedded,"" or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","4. Includes communication equipment, nonmedical instruments, medical equipment and instruments, photocopy and related",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","equipment, and office and accounting equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","5. Consists primarily of furniture and fixtures, agricultural machinery, construction machinery, mining and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","oilfield machinery, service industry machinery, and electrical equipment not elsewhere classified.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","6. Consists primarily of manufactured homes, improvements, dormitories, net purchases",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","of used structures, and brokers' commissions on the sale of residential structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","7. Excludes net purchases of used structures and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Note. Chained (2005) dollar series are calculated as the product of the chain-type quantity index and the 2005 current-dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","more than one period, the corresponding chained-dollar estimates are usually not additive. The residual line is the difference",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","between the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

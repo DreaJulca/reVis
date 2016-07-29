@@ -1,0 +1,71 @@
+"","Table 5#4#6# Real Private Fixed Investment in Structures by Type","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2010",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 08, 2011   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/30/2012 10:28:01 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010
+"8","1","    Private fixed investment in structures","A349RX1",787.8,844,878.9,936.9,971,1006.7,1003.4,960,997.6,1066.6,1116.9,1093.4,1020.7,919.3,718.8,640.2
+"9","2","Nonresidential","B009RX1",342,361.4,387.9,407.7,408.2,440,433.3,356.6,343,346.7,351.8,384,438.2,466.4,367.3,309.1
+"10","3","  Commercial and health care","W001RX1",126.7,136.5,150.8,160.2,166.1,177.2,168.6,142.8,133.8,137.1,135.9,144.2,158.6,152.7,105.9,80
+"11","4","    Office \1\","W031RX1",44.2,47.2,55.2,64.6,68.6,76.6,70.6,48.9,41.2,41.7,42.8,47.8,53,52.5,34.4,22.9
+"12","5","    Health care","W032RX1",23.7,24.5,27.8,27.4,27.2,27.6,26.5,29.8,31.3,32,32.1,33.2,35.2,37.3,35.7,32.1
+"13","6","      Hospitals and special care","C311RX1",18.8,19.3,21.5,21.1,20,20.4,20.2,23.3,23.5,22.8,23,25.8,27.3,28.3,28.1,26.5
+"14","7","        Hospitals","W033RX1",14.8,13.7,16,14.6,14.1,14.4,15.4,18.6,19.7,19.7,20.5,22.7,24.3,24.8,25,23.6
+"15","8","        Special care","W034RX1",4,5.5,5.5,6.5,5.9,6,4.8,4.7,3.8,3.1,2.5,3,3,3.5,3.1,2.9
+"16","9","      Medical buildings","W035RX1",4.9,5.3,6.4,6.3,7.3,7.2,6.3,6.6,7.8,9.3,9,7.4,7.9,9,7.6,5.6
+"17","10","    Multimerchandise shopping","W036RX1",17.1,18.9,16.8,17.7,19.7,18.8,20.1,18.7,18,20.7,22.8,27.2,30.5,26.9,15.1,10.6
+"18","11","    Food and beverage establishments","W037RX1",10.2,10.6,11.8,12.1,10.7,11.1,10.7,9.5,9.8,9,7.8,6.9,7.1,6.7,4,3.8
+"19","12","    Warehouses","W038RX1",13.1,16,17.1,16.7,17.5,18.4,19,14.1,14.2,13.1,12.8,13.5,14.9,14,8,4.7
+"20","13","    Other commercial \2\","W039RX1",18.5,19.5,22.3,22,22.5,25,22,21.9,19.3,20.6,17.6,15.6,17.9,15.3,9.3,6.8
+"21","14","  Manufacturing","C307RX1",51.7,54.4,51.9,53.7,44.8,46.2,44.9,26.2,24.3,25.5,29.9,33,39,48.6,50.8,34.6
+"22","15","  Power and communication","W003RX1",45.4,39,37.6,44.2,52.1,60.1,62,60.5,55.7,46.2,45.2,48.7,67.8,74,74.5,63.2
+"23","16","    Power","W028RX1",31.4,24.5,22.5,29.3,29.3,37.5,39.2,39.5,39.8,29.9,26.3,29.4,45.1,52.7,58.3,49.3
+"24","17","      Electric","C571RX1",19.3,15,14.8,16.6,19.6,28.4,29.8,28.7,28.8,21.8,19.2,21.3,29.2,31.2,33.8,29.6
+"25","18","      Other power","W029RX1",12.8,10.1,8.1,13.7,10.1,8.8,9,10.8,11,8.2,7.1,8,16.1,22.2,25.3,20.3
+"26","19","    Communication","C314RX1",14.3,14.5,15,15,22.5,22.5,22.8,21,16.1,16.4,18.8,19.4,23,21.8,16.6,14.3
+"27","20","  Mining exploration, shafts, and wells","E318RX1",52.6,56.1,66,57.7,48.8,61,71.9,52.6,60,69.9,77.1,88.3,93.6,101.5,65.8,76.7
+"28","21","    Petroleum and natural gas","C319RX1",50.6,53.7,64.4,56.9,48,59.8,71.4,49.7,58.1,66.8,73.5,83.5,89.6,97.6,62.6,73.5
+"29","22","    Mining","C320RX1",1.9,2.2,2,1.5,1.3,1.7,1.5,2.7,2.1,3,3.5,4.8,3.9,3.6,3.1,3.1
+"30","23","  Other structures","W004RX1",59.2,69.6,79,83.2,83.3,85.8,81.7,68.9,66.5,67.4,63.7,69.6,80.3,90.4,73.5,54.2
+"31","24","    Religious","C309RX1",6.3,6.5,8,8.8,9.5,10,10,9.8,9.8,8.8,7.7,7.1,6.6,6.2,5.5,4.8
+"32","25","    Educational and vocational","W044RX1",9.2,11,13.8,14.6,13.4,15.7,16.6,16.5,16.3,14.6,13.8,13.5,14.4,14.8,13.4,11
+"33","26","    Lodging","W045RX1",13.2,19.7,22.6,25.1,26,25.4,21.7,15.3,14.1,16,15.7,20.1,29.9,37.7,28.3,12.7
+"34","27","    Amusement and recreation","W046RX1",12.7,13.6,14.5,14.1,15,13.2,11.3,10.6,10.7,10.9,9,10.3,10.8,10.9,9.1,7.4
+"35","28","    Transportation","W047RX1",5.9,7,7.7,8.8,7.7,7.9,7.8,7.4,7,7,7.1,8.4,8.5,9.1,8.2,8.9
+"36","29","      Air","W048RX1",1.1,1.4,1.4,1.6,1.8,2.5,2.6,1.7,1.3,1.1,0.9,0.8,0.9,0.8,0.5,0.4
+"37","30","      Land \3\","W049RX1",4.7,5.6,6.2,7.2,6,5.6,5.4,5.7,5.7,5.9,6.2,7.6,7.6,8.3,7.7,8.5
+"38","31","    Farm","C316RX1",4.5,5.4,5.4,5.9,6.7,7.6,6.2,6.6,5.9,6,5.9,5.4,5.5,7.1,6,6.8
+"39","32","    Other \4\","W050RX1",7.3,6,5.2,5.2,4.6,5.3,3.9,2.8,3.1,3.6,3.1,3.7,3.8,3.6,2.4,2.5
+"40","33","    Brokers' commissions on sale of structures","C321RX1",1.9,2.1,2.3,2.4,2.5,2.6,2.4,2.1,2,2.1,2.2,2.6,3.2,3.7,3.2,2.5
+"41","34","    Net purchases of used structures","E322RX1",-1.9,-1.6,-0.3,-1.8,-1.9,-1.8,1.9,-2.3,-2.3,-1.6,-0.8,-1.5,-2.6,-2.6,-2.6,-2.7
+"42","35","Residential","A012RX1",450.1,486.8,496.3,534.5,567.5,572.6,575.6,605.9,655.9,720.1,765.2,708.1,574.2,434.9,336.9,321.5
+"43","36","  Permanent site","A943RX1",268.7,293.9,295.5,323.5,347.6,350.4,352.5,366.6,402.5,449.1,480.8,438.8,326.6,216.8,130.2,125.2
+"44","37","    Single-family structures","A944RX1",240.2,262.4,261.6,290.1,311.5,315,315.4,327.7,362.6,406.1,433.5,391.1,284,178.4,105.5,114.7
+"45","38","    Multifamily structures","C292RX1",28.3,31.3,33.7,33.4,36,35.4,36.9,38.9,39.9,43,47.3,47.6,42.2,37.1,23.6,12
+"46","39","  Other structures","A863RX1",180.9,192.6,200.2,210.6,219.8,222.1,223.1,239,253.2,271,284.4,269.3,248.2,218.8,207.3,196.8
+"47","40","    Manufactured homes","A945RX1",16,17.7,18.3,19.1,18.1,13.7,11,11.5,9.4,9.1,10.1,8,6.6,5.4,3.2,3.1
+"48","41","    Dormitories","C295RX1",0.8,0.9,1.2,1.4,1.8,1.8,2,1.9,2.1,1.8,1.5,1.9,2.7,3.6,2.5,1.7
+"49","42","    Improvements","A946RX1",119.1,124.3,126.6,128,133.4,137.8,140.8,150,157,160,164.4,163.7,158.2,145.8,142.2,136.7
+"50","43","    Brokers' commissions on sale of structures","A758RX1",47.1,52.5,57.8,66.5,71.3,70.8,71.9,80,89.3,102.7,109.9,98.3,84.1,68,62.9,60.3
+"51","44","    Net purchases of used structures","A759RX1",-1.9,-2.6,-3.6,-4.5,-4.7,-1.7,-2.3,-4.1,-4.4,-2.6,-1.6,-2.7,-3.7,-4.9,-4.5,-6
+"52","45","Residual","A971RX1",1.8,1.2,-3.1,1.9,7.4,2.9,-2.6,3.2,0.9,0.2,0.3,1.8,7.1,17.7,11.2,7.5
+"53",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","46","  Private fixed investment in new structures \5\","W040RX1",744.5,795.4,824.3,875.6,905.1,938.3,930.6,885.1,913.4,966,1007.2,996.4,938.9,853.5,660.1,586.8
+"55","47","    Nonresidential structures","A771RX1",342.2,361,385.9,407.2,407.7,439.4,428.8,356.9,343.4,346.2,350.3,383,437.6,465.3,366.8,309.3
+"56","48","    Residential structures","A756RX1",405.7,437.7,442.6,472.8,501.2,503.9,506.4,530.3,571.1,620.1,656.9,612.4,494,372.2,279.7,268.3
+"57",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","1. Consists of office buildings, except those constructed at manufacturing sites and those constructed by power utilities for ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","their own use.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","Includes all financial buildings.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","2. Includes buildings and structures used by the retail, wholesale and selected service industries.  Consists of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","auto dealerships, garages, service stations, drug stores, restaurants, mobile structures, and other structures used",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","for commercial purposes.  Bus or truck garages are included in transportation.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","3. Consists primarily of railroads.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","4. Includes water supply, sewage and waste disposal, public safety, highway and street, and conservation and development.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","5. Excludes net purchases of used structures and brokers' commissions on the sale of structures.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","Note. Chained (2005) dollar series are calculated as the product of the chain-type quantity index and the 2005 current-dollar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","than one period, the corresponding chained-dollar estimates are usually not additive. The residual line is the difference between",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

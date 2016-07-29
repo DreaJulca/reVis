@@ -1,0 +1,41 @@
+"","Table 6#9D# Hours Worked by Full-Time and Part-Time Employees by","F2","F3","F4","F5","F6"
+"1","[Millions of hours]",NA,NA,NA,NA,NA
+"2","Annual data from 2000 To 2002",NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA
+"4","Data published May 21, 2004      ",NA,NA,NA,NA,NA
+"5","File created 6/23/2004 4:11:43 PM",NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2000,2001,2002
+"8","1","      Hours worked by full-time and part-time employees","B4701C0",231510,228741,226287
+"9","2","Domestic industries","B4702C0",232433,229750,227343
+"10","3","  Private industries","B4703C0",198024,195060,192036
+"11","4","    Agriculture, forestry, fishing, and hunting","N4704C0",2631,2784,2819
+"12","5","      Farms \1\","N4705C0",1683,1638,1671
+"13","6","      Forestry, fishing, and related activities","N4706C0",948,1147,1148
+"14","7","    Mining","N4707C0",1110,1133,1026
+"15","8","    Utilities","N4708C0",1157,1136,1099
+"16","9","    Construction","N4709C0",14105,14049,13786
+"17","10","    Manufacturing","N4710C0",33769,31435,29209
+"18","11","      Durable goods","N4711C0",21344,19729,18107
+"19","12","      Nondurable goods","N4712C0",12425,11706,11102
+"20","13","    Wholesale trade","N4713C0",11400,11208,10889
+"21","14","    Retail trade","N4714C0",22356,22373,22349
+"22","15","    Transportation and warehousing","N4715C0",7905,7648,7397
+"23","16","    Information","N4716C0",6691,6659,6157
+"24","17","    Finance and insurance, real estate, rental, and leasing","N4717C0",13730,13611,13574
+"25","18","    Professional and business services \2\","N4718C0",30633,29384,28733
+"26","19","    Educational services, health care and social assistance","N4719C0",25505,26524,27470
+"27","20","    Arts, entertainment, recreation, accommodation, and food services","N4729C0",17313,17341,17562
+"28","21","    Other services, except government","N4730C0",9720,9777,9967
+"29","22","  Government","B4720C0",34409,34690,35307
+"30","23","    General government","B4721C0",30904,31166,31778
+"31","24","    Government enterprises","B4722C0",3505,3524,3529
+"32","25","Rest of the world \3\","B4723C0",-923,-1009,-1056
+"33",NA,NA,NA,NA,NA,NA
+"34","1. NAICS crop and animal production.",NA,NA,NA,NA,NA
+"35","2. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA
+"36","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA
+"37","3. Includes estimates of foreign professional workers and undocumented Mexican migratory",NA,NA,NA,NA,NA
+"38","workers employed temporarily in the United States.",NA,NA,NA,NA,NA
+"39","Note.  Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA
+"40","System (NAICS).",NA,NA,NA,NA,NA

@@ -1,0 +1,80 @@
+"","Table 5#8#3B# Real Gross Government Fixed Investment by Type, Qu","F2","F3","F4","F5","F6","F7","F8","F9"
+"1","[Index numbers, 2000=100]",NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2002",NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 12, 2004    ",NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/27/2004 11:15:05 AM",NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002
+"8","1","      Gross government fixed investment \1\","B782RA3",86.857,89.85,96.545,100,102.532,107.708
+"9","2","        Federal","B787RA3",92.233,96.6,101.917,100,102.493,112.661
+"10","3","          National defense","B788RA3",92.413,93.377,97.566,100,103.833,116.016
+"11","4","          Nondefense","B798RA3",92.017,101.779,108.898,100,100.373,107.396
+"12","5","        State and local","B799RA3",84.932,87.416,94.619,100,102.544,106.021
+"13","6","Structures \2\","B760RA3",91.423,91.199,96.817,100,101.518,105.335
+"14","7","  Federal","B801RA3",129.777,128.077,122.426,100,94.257,101.285
+"15","8","    National defense","B808RA3",127.983,110.854,103.727,100,88.386,83.881
+"16","9","      New","B814RA3",127.969,110.852,103.728,100,88.393,83.89
+"17","10","        Residential","B816RA3",124.976,119.221,110.656,100,113.33,115.161
+"18","11","        Industrial","B817RA3",184.953,96.094,88.017,100,124.503,79.459
+"19","12","        Military facilities \3\","B818RA3",124.468,109.02,102.491,100,76.368,72.81
+"20","13","      Net purchases of used structures","ZZZZZZ2",NA,NA,NA,NA,NA,NA
+"21","14","    Nondefense","B830RA3",130.868,138.383,133.615,100,97.762,111.691
+"22","15","      New","B831RA3",119.33,112.612,107.924,100,94.966,96.423
+"23","16","        Residential","ZZZZZZ2",NA,NA,NA,NA,NA,NA
+"24","17","        Office","W182RA3",132.397,128.461,115.813,100,77.3,89.993
+"25","18","        Commercial","W183RA3",100.529,113.479,117.947,100,79.799,53.393
+"26","19","        Health care","W184RA3",196.07,143.154,115.088,100,95.409,115.923
+"27","20","        Educational","W185RA3",109.816,90.659,78.831,100,113.328,132.269
+"28","21","        Public safety","W186RA3",138.644,133.894,119.827,100,82.188,76.31
+"29","22","        Amusement and recreation","W187RA3",115.253,111.775,109.662,100,85.206,85.624
+"30","23","        Transportation","W188RA3",109.061,104.409,106.465,100,88.673,79.685
+"31","24","        Power","W189RA3",99.736,90.312,83.49,100,129.721,176.803
+"32","25","        Highways and streets","W190RA3",95.029,86.855,80.33,100,109.946,76.117
+"33","26","        Conservation and development","W191RA3",91.151,91.45,102.581,100,112.857,125.869
+"34","27","        Other \4\","W192RA3",99.501,94.502,98.285,100,115.893,107.116
+"35","28","      Net purchases of used structures","ZZZZZZ2",NA,NA,NA,NA,NA,NA
+"36","29","  State and local","B842RA3",88.522,88.41,94.882,100,102.067,105.641
+"37","30","    New","B843RA3",88.708,88.236,94.713,100,104.048,105.987
+"38","31","      Residential","W147RA3",114.732,111.758,113.442,100,102.479,100.442
+"39","32","      Office","W193RA3",80.671,85.924,91.728,100,95.491,98.031
+"40","33","      Commercial","W194RA3",76.633,109.082,108.776,100,109.694,105.306
+"41","34","      Health care","W195RA3",119.868,114.079,102.13,100,94.293,101.579
+"42","35","      Educational","W148RA3",83.321,82.979,93.628,100,105.428,114.476
+"43","36","      Public safety","W196RA3",96.914,98.525,101.237,100,82.686,76.014
+"44","37","      Amusement and recreation","W197RA3",84.251,82.588,85.103,100,95.617,94.261
+"45","38","      Transportation","W198RA3",76.609,72.131,79.078,100,112.324,109.054
+"46","39","      Power","W199RA3",85.3,65.989,85.564,100,101.627,95.055
+"47","40","      Highways and streets","W149RA3",89.99,91.821,97.424,100,107.373,106.089
+"48","41","      Sewer systems","W150RA3",116.949,106.678,106.932,100,100.319,99.78
+"49","42","      Water systems","W168RA3",97.489,99.282,105.137,100,107.201,111.523
+"50","43","      Conservation and development","W169RA3",71.943,71.528,81.584,100,98.927,90.224
+"51","44","      Other \5\","W200RA3",113.545,130.694,58.373,100,53.479,182.764
+"52","45","    Net purchases of used structures","B870RA3",80.583,95.751,102.014,100,18.673,89.886
+"53","46","Equipment and software \2\","A871RA3",80.174,87.789,96.114,100,104.236,111.807
+"54","47","  Federal","B872RA3",85.094,90.535,97.902,100,104.186,115.019
+"55","48","    National defense","B873RA3",88.667,91.493,96.886,100,105.627,119.829
+"56","49","      Aircraft","B874RA3",81.555,82.053,85.436,100,116.354,132.957
+"57","50","      Missiles","B875RA3",104.178,117.725,105.662,100,127.596,127.372
+"58","51","      Ships","B876RA3",93.777,99.128,105.021,100,109.536,130.974
+"59","52","      Vehicles","B877RA3",73.647,80.257,89.378,100,102.418,136.566
+"60","53","      Electronics and software","B878RA3",80.932,86.515,95.741,100,97.864,100.852
+"61","54","      Other equipment","B879RA3",95.025,93.361,99.644,100,100.135,117.451
+"62","55","    Nondefense","B880RA3",78.331,88.711,99.903,100,101.367,105.662
+"63","56","  State and local","B881RA3",73.722,84.115,93.703,100,104.306,107.398
+"64",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA
+"65","57","  Government enterprise gross fixed investment","A882RA3",87.48,89.247,97.45,100,102.432,102.816
+"66","58","    Federal","A883RA3",81.194,101.899,111.618,100,81.541,80.868
+"67","59","      Structures","B884RA3",94.479,103.115,115.567,100,86.868,72.558
+"68","60","      Equipment and software","B885RA3",74.528,101.138,109.391,100,78.403,86.091
+"69","61","    State and local","A886RA3",88.518,87.555,95.552,100,105.153,105.67
+"70","62","      Structures","B887RA3",91.262,87.358,94.348,100,106.545,106.063
+"71","63","      Equipment and software","A888RA3",73.26,88.977,102.931,100,96.267,103.44
+"72",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","1. Consists of general government and government enterprise expenditures for fixed assets.",NA,NA,NA,NA,NA,NA,NA,NA
+"74","2. Structures and software include compensation of government employees engaged in new",NA,NA,NA,NA,NA,NA,NA,NA
+"75","own-account investment and related expenditures for goods and services.",NA,NA,NA,NA,NA,NA,NA,NA
+"76","3. Consists of Department of Defense new structures, except family housing.",NA,NA,NA,NA,NA,NA,NA,NA
+"77","4. Consists of lodging, religious, communication, sewage and waste disposal, water supply",NA,NA,NA,NA,NA,NA,NA,NA
+"78","structures, and manufacturing.",NA,NA,NA,NA,NA,NA,NA,NA
+"79","5. Consists of lodging, communication, and manufacturing.",NA,NA,NA,NA,NA,NA,NA,NA

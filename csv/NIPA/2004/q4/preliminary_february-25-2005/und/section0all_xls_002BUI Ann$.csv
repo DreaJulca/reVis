@@ -1,0 +1,70 @@
+"","Table 2BUI# Implicit Price Deflators for Manufacturing and Trade","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11"
+"1","[Index numbers, 2000=100]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published February 28, 2005 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/25/2005 12:43:52 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004
+"8","1","        Manufacturing and trade industries","PKMT3",99.368,97.104,97.247,100,99.428,98.462,100.068,103.852
+"9","2","  Manufacturing industries","PK303",98.63,96.818,97.039,100,100.018,99.111,101.455,106.082
+"10","3","    Durable goods manufacturing industries","PK30D3",102.341,100.845,99.977,100,99.462,98.85,98.609,101.276
+"11","4","      Wood product manufacturing","PK3213",101.421,99.399,103.085,100,98.185,97.462,101.191,112.805
+"12","5","      Nonmetallic mineral product manufacturing","PK3273",94.825,96.247,98.539,100,100.958,101.707,102.341,105.38
+"13","6","      Primary metal manufacturing","PK3313",105.318,101.062,96.52,100,96.709,96.936,99.363,120.045
+"14","7","      Fabricated metal product manufacturing","PK3323",97.536,98.531,98.947,100,100.765,101.256,101.799,107.457
+"15","8","      Machinery manufacturing","PK3333",97.053,98.14,99.159,100,100.999,101.629,102.426,104.733
+"16","9","      Computer and electronic product manufacturing","PK3343",117.25,109.762,103.94,100,96.763,93.052,88.172,84.945
+"17","10","      Electrical equipment, appliance, and component manufacturing","PK3353",99.408,99.133,98.867,100,99.855,99.418,99.28,102.544
+"18","11","      Transportation equipment manufacturing","PK3363",99.134,98.743,99.013,100,100.255,99.916,100.596,102.116
+"19","12","        Motor vehicle and parts manufacturing","PK3MV3",100.122,99.421,99.55,100,99.581,98.574,98.588,99.663
+"20","13","        Other transportation equipment manufacturing","PK3OT3",96.49,96.89,97.529,100,102.038,103.442,105.929,108.615
+"21","14","      Furniture and related product manufacturing","PK3373",96.06,97.193,98.385,100,101.291,102.294,103.249,105.085
+"22","15","      Miscellaneous durable goods manufacturing","PK3393",97.851,98.427,99.056,100,101.5,102.719,103.919,105.19
+"23","16","    Nondurable goods manufacturing industries","PK30N3",93.872,91.693,93.268,100,100.717,99.452,104.973,112.092
+"24","17","      Food manufacturing","PK3113",103.075,100.403,98.878,100,103.501,102.572,108.121,114.081
+"25","18","      Beverage and tobacco product manufacturing","PK3123",81.063,85.118,95.576,100,106.379,109.028,107.821,109.371
+"26","19","      Textile mills","PK3133",104.079,103.492,100.558,100,99.509,97.736,97.245,98.67
+"27","20","      Textile product mills","PK3143",98.873,99.444,99.036,100,101.269,101.227,102.054,102.65
+"28","21","      Apparel manufacturing","PK3153",98.928,99.64,99.794,100,99.746,99.002,98.656,98.425
+"29","22","      Leather and allied product manufacturing","PK3163",99.394,98.98,98.528,100,103.087,103.212,104.897,105.844
+"30","23","      Paper manufacturing","PK3223",91.59,93.507,93.314,100,100.177,98.162,98.754,100.764
+"31","24","      Printing and related support activities","PK3233",95.641,97.385,97.674,100,101.379,101.078,101.286,102.442
+"32","25","      Petroleum and coal product manufacturing","PK3243",75.793,58.928,68.047,100,92.605,87.298,108.481,134.223
+"33","26","      Chemical manufacturing","PK3253",94.215,94.736,95.379,100,101.001,100.158,104.799,110.914
+"34","27","      Plastics and rubber product manufacturing","PK3263",98.47,97.79,98.045,100,100.948,100.7,103.186,105.598
+"35","28","  Merchant wholesale industries","PK42W3",102.248,97.556,96.696,100,98.588,97.854,100.9,106.201
+"36","29","    Durable goods merchant wholesale industries","PK42WD3",108.84,103.882,100.582,100,97.092,95.766,95.842,99.782
+"37","30","      Motor vehicles, parts, and supplies wholesalers","PK42113",99.9,98.924,99.447,100,99.601,97.96,97.237,97.695
+"38","31","      Furniture and home furnishings wholesalers","PK42123",97.884,98.434,98.714,100,100.758,101.25,102.316,103.645
+"39","32","      Lumber and other construction materials wholesalers","PK42133",100.969,97.668,100.986,100,99.478,99.479,101.347,110.873
+"40","33","      Professional and commercial equipment wholesalers","PK42143",146.414,123.479,107.114,100,90.291,83.958,79.89,77.816
+"41","34","        Computers and software wholesalers","PK42433",193.089,144.92,113.418,100,81.777,69.532,61.237,56.239
+"42","35","        Other professional and commercial equipment wholesalers","PK424X3",98.487,98.614,99.2,100,100.667,101.322,102.486,104.608
+"43","36","      Metal and mineral (except petroleum) wholesalers","PK42153",106.142,101.59,96.009,100,95.444,97.684,103.088,131.6
+"44","37","      Electrical goods wholesalers","PK42163",105.055,102.711,101.377,100,98.371,97.176,95.719,94.809
+"45","38","      Hardware and plumbing and heating equipment wholesalers","PK42173",97.393,97.922,98.665,100,101.102,101.721,102.806,105.462
+"46","39","      Machinery, equipment, and supplies wholesalers","PK42183",97.565,98.367,99.14,100,100.948,101.724,103.114,106.105
+"47","40","      Miscellaneous durable goods wholesalers","PK42193",102.072,98.102,96.665,100,95.13,95.831,100.318,112.848
+"48","41","    Nondurable goods merchant wholesale industries","PK42WN3",95.342,90.934,92.574,100,100.165,100.028,106.044,112.779
+"49","42","      Paper and paper products wholesalers","PK42213",88.899,90.792,90.558,100,98.756,95.113,96.273,99.657
+"50","43","      Drugs and druggists' sundries wholesalers","PK42223",89.833,95.672,98.286,100,100.904,102.217,104.495,107.166
+"51","44","      Apparel, piece goods, and notions wholesalers","PK42233",100.519,100.851,100.172,100,99.881,98.479,98.831,98.619
+"52","45","      Grocery and related products wholesalers","PK42243",98.948,98.879,99.698,100,102.601,102.424,105.178,108.536
+"53","46","      Farm product raw material wholesalers","PK42253",132.908,112.625,97.932,100,101.264,107.305,119.188,123.81
+"54","47","      Chemical and allied products wholesalers","PK42263",96.591,95.156,94.475,100,100.407,99.768,106.91,116.252
+"55","48","      Petroleum and petroleum products wholesalers","PK42273",73.35,53.683,64,100,89.855,85.761,107.763,133.573
+"56","49","      Beer, wine, and distilled alcoholic beverages wholesalers","PK42283",96.137,96.224,97.241,100,103.416,104.585,105.885,105.239
+"57","50","      Miscellaneous nondurable goods wholesalers","PK42293",92.914,92.048,96.328,100,104.197,105.224,107.755,112.287
+"58","51","  Retail trade industries","PK443",99.322,97.854,98.253,100,99.772,98.309,97.847,98.921
+"59","52","    Motor vehicle and parts dealers","PK4413",99.248,98.675,99.034,100,100.911,99.514,97.498,95.834
+"60","53","    Furniture, furnishings, electronics, and appliance stores","PK44233",121.602,113.584,105.495,100,92.69,86.14,79.573,75.522
+"61","54","    Building material and garden equipment and supplies dealers","PK4443",102.144,100.404,100.702,100,99.44,98.967,99.623,105.162
+"62","55","    Food and beverage stores","PK4453",93.277,94.943,97.369,100,103.026,104.787,106.278,109.109
+"63","56","    Clothing and clothing accessories stores","PK4483",105.403,103.373,101.555,100,98.429,95.87,93.366,93.06
+"64","57","    General merchandise stores","PK4523",101.006,100.572,100.178,100,99.726,98.576,96.999,96.958
+"65","58","      Department stores","PK45213",103.445,102.356,101.12,100,98.644,96.584,93.87,92.756
+"66","59","      Other general merchandise stores","PK45293",97.158,97.882,98.83,100,101.098,100.944,100.449,101.318
+"67","60","    Other retail stores","PK44X3",95.227,91.71,93.625,100,98.795,96.405,98.907,102.854
+"68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Note. Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

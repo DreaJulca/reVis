@@ -1,0 +1,61 @@
+"","Table 7#2#5B# Motor Vehicle Output                              ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+"1","[Billions of dollars]; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1967 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published April 28, 2011    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 4/27/2011 10:05:40 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1967,1967,1967,1967,1968,1968,1968,1968,1969
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1
+"9","1","      Motor vehicle output","A953RC1",32.7,35.1,35.1,36,41.9,44.4,43.4,45.5,45.6
+"10","2","        Auto output","A133RC1",25.3,28.1,28.5,29,34.1,35.5,34.9,36.3,36.2
+"11","3","        Truck output","A716RC1",7.4,7,6.6,6.9,7.8,8.8,8.5,9.2,9.4
+"12","4","Final sales of domestic product","AB60RC1",33.8,36.7,36.4,35.3,40.5,40.9,43.3,43.5,45.2
+"13","5","  Personal consumption expenditures","AB61RC1",23.9,26.6,26.2,25.7,29.4,29.9,32.1,31.8,32.4
+"14","6","    New motor vehicles","AB67RC1",19.8,22.2,21.5,20.8,25,25.3,26.8,26.8,27.1
+"15","7","      Autos","A136RC1",18.8,21.2,20.4,19.8,23.6,23.9,25.4,25.2,25.4
+"16","8","      Light trucks (including utility vehicles)","B704RC1",1,1.1,1.1,1.1,1.3,1.4,1.5,1.7,1.8
+"17","9","    Net purchases of used autos and used light trucks","W240RC1",4.1,4.3,4.7,4.9,4.4,4.6,5.2,4.9,5.3
+"18","10","      Used autos","A137RC1",4,4.1,4.5,4.7,4.2,4.5,5.1,4.7,5.1
+"19","11","      Used light trucks (including utility vehicles)","W241RC1",0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+"20","12","  Private fixed investment","AB62RC1",9.2,9.4,9.7,9.4,11.1,11.4,12.1,12.9,13.2
+"21","13","    New motor vehicles","AB68RC1",11,11.6,11.8,11.4,13.2,13.6,14.4,15.1,15.5
+"22","14","      Autos","B139RC1",6.1,6.8,6.9,6.7,7.7,7.8,8.4,8.7,8.6
+"23","15","      Trucks","B705RC1",4.9,4.8,4.9,4.7,5.5,5.7,6,6.5,6.9
+"24","16","        Light trucks (including utility vehicles)","B196RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","17","        Other","B197RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","18","    Net purchases of used autos and used light trucks","W242RC1",-1.8,-2.2,-2.2,-2,-2.2,-2.1,-2.3,-2.2,-2.3
+"27","19","      Used autos","B140RC1",-1.8,-2.2,-2.2,-2,-2.1,-2.1,-2.2,-2.2,-2.3
+"28","20","      Used light trucks (including utility vehicles)","W243RC1",0,0,0,0,0,0,0,0,0
+"29","21","  Gross government investment","AB64RC1",1.3,1.3,1.3,1.3,1.2,1.2,1.2,1.2,1.2
+"30","22","    Autos","B144RC1",0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.5
+"31","23","    Trucks","B708RC1",0.9,0.9,0.9,0.9,0.8,0.8,0.8,0.7,0.8
+"32","24","  Net exports","AB63RC1",-0.6,-0.6,-0.7,-1.1,-1.3,-1.7,-2.2,-2.3,-1.7
+"33","25","    Exports","AB69RC1",1.2,1.3,1.3,1.2,1.5,1.4,1.3,1.5,1.5
+"34","26","      Autos","B142RC1",0.8,0.8,0.8,0.9,1.1,1,0.9,1,1.1
+"35","27","      Trucks","B706RC1",0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.5,0.4
+"36","28","    Imports","AB70RC1",1.8,1.9,2,2.3,2.7,3.1,3.5,3.8,3.2
+"37","29","      Autos","B143RC1",1.5,1.6,1.7,2,2.3,2.7,3,3.2,2.5
+"38","30","      Trucks","B707RC1",0.3,0.3,0.3,0.3,0.5,0.4,0.5,0.6,0.6
+"39","31","Change in private inventories","AB65RC1",-1.1,-1.6,-1.3,0.6,1.4,3.5,0.1,2,0.4
+"40","32","  Autos","A145RC1",-1.4,-1.5,-0.7,0.6,1.4,2.8,0,1.7,0.4
+"41","33","    New","B146RC1",-1.2,-1.6,-0.5,1,1,2.6,0.2,1.3,0.9
+"42","34","      Domestic","AB71RC1",-1.2,-1.2,0.1,0.9,0.8,2.5,0.1,0.9,1.1
+"43","35","      Foreign","AB72RC1",0.1,-0.3,-0.5,0.1,0.2,0.1,0,0.4,-0.3
+"44","36","    Used","B147RC1",-0.3,0.1,-0.2,-0.4,0.4,0.2,-0.2,0.5,-0.5
+"45","37","  Trucks","B709RC1",0.3,0,-0.6,0,0.1,0.7,0.2,0.2,0.1
+"46","38","    New","W244RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","39","      Domestic","AB73RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","40","      Foreign","AB74RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","41","    Used \1\","W245RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","42","  Final sales of motor vehicles to domestic purchasers","AB75RC1",34.4,37.3,37.2,36.4,41.7,42.6,45.4,45.8,46.9
+"52","43","  Private fixed investment in new autos and new light trucks","AB76RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","44","  Domestic output of new autos \2\","B148RC1",22.3,25.1,25.3,25.3,30,31.6,30.8,31.5,32.1
+"54","45","  Sales of imported new autos \3\","B149RC1",2.3,2.7,3,3.1,3.4,3.7,4.2,4.4,4.3
+"55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","1. Consists of used light trucks only.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","2. Consists of final sales and change in private inventories of new autos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","assembled in the United States.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","3. Consists of sales of imported new autos in personal consumption expenditures,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","in private fixed investment, and in gross government investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

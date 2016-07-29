@@ -1,0 +1,30 @@
+"","Table 1#3#5# Gross Value Added by Sector                        ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:47:32 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Gross domestic product","A191RC1",7414.7,7838.5,8332.4,8793.5,9353.5,9951.5,10286.2,10642.3,11142.1,11867.8,12638.4,13398.9,14077.6,14441.4
+"9","2","Business \1\","A195RC1",5677.8,6030.2,6442.8,6810.8,7249,7715.5,7913.6,8132.8,8502.8,9084.6,9695.5,10284.1,10789,10953.1
+"10","3","  Nonfarm \2\","A358RC1",5608.7,5936.9,6354.9,6731.6,7177.8,7641.9,7837.4,8060.5,8410.3,8966.4,9593.5,10191.1,10672.8,10821
+"11","4","  Farm","B359RC1",69.1,93.3,87.9,79.2,71.2,73.6,76.2,72.3,92.4,118.3,102,93.1,116.2,132.1
+"12","5","Households and institutions","A193RC1",852.1,897,949.2,1010.1,1082.9,1157.2,1232.9,1298,1347.2,1423.8,1506.4,1602.9,1686.9,1799.9
+"13","6","  Households","B701RC1",492.2,519.8,550.9,583.9,628.4,673.5,719.5,746,762.7,806,864.4,924.8,973.7,1048.7
+"14","7","  Nonprofit institutions serving households \3\","B702RC1",359.9,377.2,398.3,426.3,454.5,483.7,513.4,552.1,584.5,617.7,642,678.1,713.1,751.2
+"15","8","General government \4\","A765RC1",884.8,911.3,940.3,972.5,1021.6,1078.8,1139.6,1211.4,1292.2,1359.3,1436.5,1512,1601.8,1688.4
+"16","9","  Federal","A766RC1",283.6,287.6,290,292.2,300.4,315.1,324.9,351.8,382.9,412,438.7,460.6,485.7,515.2
+"17","10","  State and local","A767RC1",601.2,623.7,650.3,680.3,721.2,763.7,814.7,859.6,909.3,947.3,997.7,1051.3,1116,1173.2
+"18",NA,"Addendum:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","11","  Gross housing value added","A2009C1",640.7,671.3,708.6,745.3,798.3,849.9,904.4,932.5,938.2,988.7,1054,1130.8,1205.4,1306.5
+"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","1. Equals gross domestic product excluding gross value added of households and institutions",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","and of general government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","2. Equals gross domestic business value added excluding gross farm value added.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","3. Equals compensation of employees of nonprofit institutions, the rental value of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","nonresidential fixed assets owned and used by nonprofit institutions serving households,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","and rental income of persons for tenant-occupied housing owned by nonprofit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","institutions.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","4. Equals compensation of general government employees plus general government consumption",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","of fixed capital.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

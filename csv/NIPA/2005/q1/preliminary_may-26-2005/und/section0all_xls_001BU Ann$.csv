@@ -1,0 +1,78 @@
+"","Table 1BU# Real Manufacturing and Trade Inventories, Seasonally ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11"
+"1","[Millions of chained (2000) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published May 27, 2005      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 5/26/2005 3:23:12 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1997,1998,1999,2000,2001,2002,2003,2004
+"8","1","A       Manufacturing and trade industries","KSMT0",1025050,1081448,1143778,1188343,1147856,1166189,1165710,1203004
+"9","2","A Manufacturing industries","KS300",430680,449317,466269,474151,452827,445361,430188,436102
+"10","3","A   Durable goods manufacturing industries","KS30D0",261952,279874,288423,295680,277476,267999,256598,260405
+"11","4","A     Wood product manufacturing","KS3210",8805,9276,9810,10099,9725,9676,9472,9502
+"12","5","A     Nonmetallic mineral product manufacturing","KS3270",9736,9787,10121,10271,9801,9536,9100,9026
+"13","6","A     Primary metal manufacturing","KS3310",20205,21812,22273,21863,20047,19455,16804,17766
+"14","7","A     Fabricated metal product manufacturing","KS3320",30825,32087,33039,33675,32570,31446,30113,30586
+"15","8","A     Machinery manufacturing","KS3330",36794,37962,38416,41063,36873,34640,32500,34173
+"16","9","A     Computer and electronic product manufacturing","KS3340",50593,51323,56091,67266,60066,57395,55311,57046
+"17","10","A     Electrical equipment, appliance, and component manufacturing","KS3350",13305,13806,13796,14604,13661,12380,11937,11637
+"18","11","A     Transportation equipment manufacturing","KS3360",69798,81590,81363,72238,70419,68424,66661,65581
+"19","12","D       Motor vehicle and parts manufacturing","KS3MV0",22823,23981,25635,25455,22983,23656,22707,22906
+"20","13","D       Other transportation equipment manufacturing","KS3OT0",46934,57619,55731,46786,47421,44776,43955,42693
+"21","14","A     Furniture and related product manufacturing","KS3370",7227,7384,7729,7963,7557,7384,6872,7392
+"22","15","A     Miscellaneous durable goods manufacturing","KS3390",14519,14995,15773,16626,16672,17575,17856,17711
+"23","16","A   Nondurable goods manufacturing industries","KS30N0",169003,169352,177841,178466,175332,177327,173463,175602
+"24","17","A     Food manufacturing","KS3110",31937,32049,33679,34159,33848,34325,32744,32243
+"25","18","A     Beverage and tobacco product manufacturing","KS3120",12154,12074,11908,11798,12364,12083,11916,11862
+"26","19","A     Textile mills","KS3130",6684,6813,7001,6578,5961,5323,5372,5049
+"27","20","A     Textile product mills","KS3140",3801,3581,3924,4341,4509,4707,5098,5121
+"28","21","A     Apparel manufacturing","KS3150",8506,8446,9086,8804,7183,6753,6958,7042
+"29","22","A     Leather and allied product manufacturing","KS3160",1662,1686,1696,1594,1427,1524,1562,1481
+"30","23","A     Paper manufacturing","KS3220",16130,15764,16811,16267,16079,16638,16028,15825
+"31","24","A     Printing and related support activities","KS3230",6708,6210,6911,6552,6286,6600,6209,6523
+"32","25","A     Petroleum and coal product manufacturing","KS3240",16606,15812,15515,15208,16411,17468,15706,16577
+"33","26","A     Chemical manufacturing","KS3250",48642,49797,52948,54802,53646,53504,53212,53905
+"34","27","A     Plastics and rubber product manufacturing","KS3260",16698,17422,18357,18358,17766,18707,19124,20492
+"35","28","A Merchant wholesale industries","KS42W0",254081,274423,291968,307035,298639,297884,299705,318424
+"36","29","A   Durable goods merchant wholesale industries","KS42WD0",156023,170846,182814,192822,178533,176939,178073,194110
+"37","30","D     Motor vehicles, parts, and supplies wholesalers","KS42110",22507,22951,25271,25995,24311,26296,27457,28666
+"38","31","D     Furniture and home furnishings wholesalers","KS42120",5124,5271,5549,5972,5477,5464,5853,5971
+"39","32","D     Lumber and other construction materials wholesalers","KS42130",5597,5545,5932,6380,6424,6717,7270,9304
+"40","33","D     Professional and commercial equipment wholesalers","KS42140",19029,20970,24404,25293,23375,24180,25594,28904
+"41","34","D       Computers and software wholesalers","KS42430",9147,10907,13100,12680,11574,12223,13795,16808
+"42","35","D       Other professional and commercial equipment wholesalers","KS424X0",10314,10123,11303,12612,11776,12009,12192,13119
+"43","36","D     Metal and mineral (except petroleum) wholesalers","KS42150",13319,14737,15029,15375,14484,14462,14321,17243
+"44","37","D     Electrical goods wholesalers","KS42160",20520,22441,25707,29184,24492,23596,22993,25530
+"45","38","D     Hardware and plumbing and heating equipment wholesalers","KS42170",9664,10484,10701,11614,11022,10868,10839,11734
+"46","39","D     Machinery, equipment, and supplies wholesalers","KS42180",44402,50068,51167,51914,48993,46317,44103,47167
+"47","40","D     Miscellaneous durable goods wholesalers","KS42190",16125,18623,19057,21098,19950,19225,20115,19982
+"48","41","A   Nondurable goods merchant wholesale industries","KS42WN0",98242,103620,109154,114213,119882,120674,121364,124411
+"49","42","D     Paper and paper products wholesalers","KS42210",8266,8417,8463,8942,8520,8474,8823,9258
+"50","43","D     Drugs and druggists' sundries wholesalers","KS42220",15568,16528,19706,23951,30373,31385,31772,31475
+"51","44","D     Apparel, piece goods, and notions wholesalers","KS42230",12860,12873,12084,12049,11938,11959,11282,11976
+"52","45","D     Grocery and related products wholesalers","KS42240",17816,17795,19800,20249,19048,20331,19989,20255
+"53","46","D     Farm product raw material wholesalers","KS42250",10736,12645,13588,14209,14558,13117,14074,13624
+"54","47","D     Chemical and allied products wholesalers","KS42260",4915,5331,5487,5088,5283,5251,5116,4733
+"55","48","D     Petroleum and petroleum products wholesalers","KS42270",6630,7363,5931,5452,6797,6436,6429,6625
+"56","49","D     Beer, wine, and distilled alcoholic beverages wholesalers","KS42280",5456,5660,6012,6249,6044,6579,6766,7119
+"57","50","D     Miscellaneous nondurable goods wholesalers","KS42290",16599,17561,18066,18007,17455,17255,17070,19388
+"58","51","A Retail trade industries","KS440",340561,357859,385517,407133,396311,422575,435627,448311
+"59","52","A   Motor vehicle and parts dealers","KS4410",106600,108868,121928,134232,125404,144330,150556,151930
+"60","53","A   Furniture, furnishings, electronics, and appliance stores","KS44230",20291,22218,24336,26437,25844,27540,30181,32025
+"61","54","A   Building material and garden equipment and supplies dealers","KS4440",34030,36369,38660,40040,40016,42367,45819,50432
+"62","55","A   Food and beverage stores","KS4450",28819,30065,31910,31757,32485,33153,32739,33373
+"63","56","A   Clothing and clothing accessories stores","KS4480",27573,28723,29996,32527,31460,32984,33183,33478
+"64","57","A   General merchandise stores","KS4520",59047,59921,62618,63682,63551,65107,65803,69104
+"65","58","D     Department stores","KS45210",42469,41766,42422,41797,39701,38166,36279,36131
+"66","59","D     Other general merchandise stores","KS45290",16550,18145,20196,21885,23830,26879,29408,32782
+"67","60","A   Other retail stores","KS44X0",64235,71703,76055,78444,77518,77289,77825,78266
+"68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","Note.  Estimates in this table are based on the North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Chained (2000) dollar inventory series are calculated to ensure that the chained (2000) dollar change",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","in inventories for 2000 equals the current-dollar change in inventories for 2000 and that the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","average of the 1999 and 2000 end-of-year chain-weighted and fixed-weighted inventories are equal.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","Chained (2000) dollar final sales series are calculated as the product of the chain-type quantity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","index and the 2000 current-dollar value of the corresponding series, divided by 100.  Because",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","the formual for the chain-type quantity indexes uses weights of more than one period, the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","corresponding chained-dollar estimates are usually not additive.  The residual line is the difference",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","between the first line and the sum of the most detailed lines for inventories.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

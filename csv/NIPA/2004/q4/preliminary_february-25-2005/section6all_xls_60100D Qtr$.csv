@@ -1,0 +1,35 @@
+"","Table 6#1D# National Income Without Capital Consumption Adjustme","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of dollars]; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 2001 To 2004",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published February 25, 2005 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/24/2005 10:38:31 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2001,2001,2001,2001,2002,2002,2002,2002,2003,2003,2003,2003,2004,2004,2004,2004
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4
+"9","1","      National income without capital consumption adjustment","A422RC1",8893.9,8904.8,8787.2,8833.6,8916.1,9006.7,9030.3,9094.1,9189.3,9287.5,9462.1,9647.7,9744.7,9883.2,9938.5,NA
+"10","2","Domestic industries","A423RC1",8855.1,8860.3,8770.5,8759,8892.6,8990.8,9005.2,9050.4,9152.6,9242.4,9410.5,9560.6,9671.2,9847,9900.4,NA
+"11","3","  Private industries","A736RC1",7823.9,7816.9,7710.4,7682.3,7792.1,7876.5,7874.3,7903.4,7984.1,8064.5,8222.2,8363.9,8455.9,8626.4,8670.8,NA
+"12","4","    Agriculture, forestry, fishing, and hunting","N5004C1",67.6,67.5,68.7,73.6,67.2,68.4,66.7,65.2,67.6,76.9,78.1,80.5,76.5,79.4,74.1,NA
+"13","5","    Mining","N5005C1",112.8,109.4,99.8,82.2,77,76.9,78.9,83.5,91.3,92.7,95.7,99.7,100.3,105.6,108.1,NA
+"14","6","    Utilities","N5006C1",145.6,147.5,155.3,148.3,142.2,146,146.9,148.9,153.3,151.1,156.8,162.9,164.4,165.1,164.8,NA
+"15","7","    Construction","N5007C1",459.8,464.9,466.5,462.1,460.5,458.6,460,464.4,467.9,470.4,479,488.5,492,504.5,518.7,NA
+"16","8","    Manufacturing","N5008C1",1169.4,1133.3,1074.8,998.8,1052,1077.9,1085,1084.3,1092,1090.9,1111.2,1158.2,1145.9,1177.3,1202.9,NA
+"17","9","      Durable goods","N5009C1",690.7,647.2,592.1,541.3,592.4,619.2,626,622.3,628.2,627.8,634.8,666,656.8,679.5,710.4,NA
+"18","10","      Nondurable goods","N5010C1",478.7,486,482.7,457.5,459.6,458.7,459,462,463.7,463.1,476.4,492.2,489.2,497.7,492.4,NA
+"19","11","    Wholesale trade","N5011C1",565.4,556.5,553.6,555.4,550.2,559.9,551.5,555.1,557.4,563.4,576.9,580.9,583,597.4,614.5,NA
+"20","12","    Retail trade","N5012C1",686.7,687,685,697.2,700.5,709.9,712.1,710.4,712.3,725.9,730.2,735,740.2,743.4,731.5,NA
+"21","13","    Transportation and warehousing","N5013C1",260,261.9,238.6,247.1,246,246.2,248.8,253,255.4,253.2,263.6,267.3,269.2,277.4,273.9,NA
+"22","14","    Information","N5014C1",311.3,319.6,301.4,290.2,303.3,305,304.6,313.7,302.3,307,320.7,313,311.9,340.1,346.4,NA
+"23","15","    Finance, insurance, real estate, rental, and leasing","N5015C1",1665.2,1638.9,1607.9,1662.6,1688.7,1688.2,1658.1,1654,1691,1716.5,1765.5,1790.2,1846.8,1874.2,1837.1,NA
+"24","16","    Professional and business services \1\","N5016C1",1137,1171.4,1189.1,1187.7,1198.3,1207.9,1210.3,1204.6,1210.7,1218.1,1227.7,1248.9,1271.2,1281.7,1311.6,NA
+"25","17","    Educational services, health care, and social assistance","N5017C1",703.3,714,724.5,735,752.4,769.6,783.4,794.1,806.4,819.1,830.5,843.4,853.2,869.2,873.1,NA
+"26","18","    Arts, entertainment, recreation, accommodation, and food services","N5018C1",314.1,318.5,318.3,316.6,322.8,328.5,330.8,332.7,335.1,335.9,340.7,346.2,350.3,356.2,356.4,NA
+"27","19","    Other services, except government","N5019C1",225.8,226.4,226.9,225.6,231.1,233.7,237.2,239.5,241.4,243.5,245.6,249.2,251,254.7,257.6,NA
+"28","20","  Government","B436RC1",1031.2,1043.4,1060.1,1076.6,1100.5,1114.3,1130.9,1147,1168.4,1177.9,1188.3,1196.7,1215.2,1220.6,1229.6,NA
+"29","21","Rest of the world","A192RC1",38.7,44.5,16.7,74.6,23.5,15.9,25.1,43.7,36.8,45,51.6,87.2,73.5,36.1,38.2,NA
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","1. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Note. Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

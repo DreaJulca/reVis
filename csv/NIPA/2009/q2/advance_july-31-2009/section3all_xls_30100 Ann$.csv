@@ -1,0 +1,59 @@
+"","Table 3#1# Government Current Receipts and Expenditures         ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2009     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/10/2009 9:49:57 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
+"8","1","    Current receipts","W021RC1",2215.5,2380.4,2557.2,2729.8,2902.5,3132.4,3118.2,2967.9,3043.4,3265.7,3659.3,3995.2,4209.2,4057.6
+"9","2","Current tax receipts","W054RC1",1516.7,1641.5,1780,1910.8,2035.8,2202.8,2163.7,2002.1,2047.9,2213.2,2546.8,2807.4,2960.6,2758
+"10","3","  Personal current taxes","W055RC1",743.9,832,926.2,1026.4,1107.5,1232.3,1234.8,1050.4,1000.3,1047.8,1208.6,1352.4,1490.9,1432.4
+"11","4","  Taxes on production and imports","W056RC1",557.9,580.8,611.6,639.5,673.6,708.6,727.7,762.8,806.8,863.4,930.2,986.8,1028.7,1047.3
+"12","5","  Taxes on corporate income","W025RC1",211,223.6,237.1,239.2,248.8,254.7,193.5,181.3,231.8,292,395.9,454.2,426.7,263.3
+"13","6","  Taxes from the rest of the world","W008RC1",3.9,5.2,5.1,5.7,5.9,7.3,7.7,7.6,9,10,12.1,14,14.2,15
+"14","7","Contributions for government social insurance","W782RC1",535.5,557.9,590.3,627.8,664.6,709.4,736.9,755.2,782.8,831.7,877.4,926.4,964.2,995.6
+"15","8","Income receipts on assets","W058RC1",91.8,99.9,103.6,102.7,106.4,118.8,114.6,99.9,96.8,100.3,111.9,129.6,143.3,144.2
+"16","9","  Interest and miscellaneous receipts \1\","W059RC1",90.8,98.6,102.1,101.1,104.9,117.4,113.2,98.3,95,98.3,109.6,127,140.6,140.7
+"17","10","  Dividends","W065RC1",1,1.4,1.5,1.6,1.5,1.4,1.4,1.6,1.7,2.1,2.3,2.6,2.7,3.5
+"18","11","Current transfer receipts","W060RC1",58.4,66.8,69.3,75.3,81.7,92.3,98.9,104.3,108.9,119.3,126.7,136,147.7,166.7
+"19","12","  From business (net)","W061RC1",25.7,31.8,31.1,35.4,37.6,43.6,46,47.9,48.8,52.5,55.2,59.6,65.4,78.8
+"20","13","  From persons","W062RC1",32.6,34.9,38.2,39.9,44.1,48.8,52.9,56.4,60.2,66.7,71.4,76.4,82.3,87.9
+"21","14","Current surplus of government enterprises \2\","A108RC1",13.1,14.4,14.1,13.3,14.1,9.1,4,6.3,7,1.2,-3.5,-4.2,-6.6,-6.9
+"22","15","    Current expenditures","W022RC1",2412.5,2505.7,2581.1,2649.3,2761.9,2906,3093.6,3274.7,3458.6,3653.5,3916.4,4147.9,4424,4740.3
+"23","16","Consumption expenditures","A955RC1",1141.4,1176.7,1222.1,1263.2,1343.9,1426.6,1524.4,1639.9,1756.8,1860.4,1977.9,2093.3,2214.9,2386.9
+"24","17","Current transfer payments","A084RC1",882.4,929.2,954.6,978.1,1014.9,1071.5,1169,1280.9,1354.8,1440.1,1534.9,1631,1743.3,1904
+"25","18","  Government social benefits","W063RC1",867,908.8,937.6,960.1,996.1,1049.2,1150.8,1257.6,1326.1,1409.2,1494,1596.1,1701.1,1859.2
+"26","19","    To persons","A063RC1",860.2,901.2,929.8,951.9,987.6,1040.6,1141.3,1247.9,1316,1398.6,1482.7,1583.6,1687.8,1843.2
+"27","20","    To the rest of the world \3\","W016RC1",6.8,7.6,7.9,8.2,8.5,8.7,9.4,9.7,10.1,10.6,11.2,12.4,13.3,16
+"28","21","  Other current transfer payments to the rest of the world (net) \3\","W017RC1",15.4,20.4,17,18,18.7,22.3,18.2,23.3,28.6,30.9,40.9,34.9,42.2,44.8
+"29","22","Interest payments \1\","A180RC1",353.9,364.6,370.6,371.6,357.9,362,341.5,312.6,298,306.6,342.7,372.2,411,395.9
+"30","23","  To persons and business \1\","A204RC1",298.2,298,288.9,287.5,277.4,277.5,263.2,237.6,224.2,224,238.8,237.2,246.6,230.6
+"31","24","  To the rest of the world","B093RC1",55.6,66.6,81.7,84.2,80.5,84.5,78.4,74.9,73.8,82.5,103.9,135,164.3,165.3
+"32","25","Subsidies \2\","A107RC1",34.8,35.2,33.8,36.4,45.2,45.8,58.7,41.4,49.1,46.4,60.9,51.4,54.8,53.5
+"33","26","Less: Wage accruals less disbursements","A184RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"34","27","    Net government saving","A922RC1",-197,-125.3,-23.8,80.5,140.6,226.5,24.6,-306.9,-415.2,-387.8,-257.1,-152.7,-214.8,-682.7
+"35","28","Social insurance funds","A221RC1",19.7,15.7,30.1,60,94.2,116.3,90.7,51.2,40.9,57.2,56.4,17,-2.7,-53.2
+"36","29","Other","A391RC1",-216.7,-141,-54,20.5,46.4,110.2,-66.2,-358.1,-456.2,-445,-313.5,-169.8,-212.1,-629.5
+"37",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","30","  Total receipts","W066RC1",2235.5,2403.5,2584.2,2762.2,2939.2,3168.1,3155.6,3000.5,3071.4,3291.5,3685.2,4028.3,4241,4091.4
+"39","31","    Current receipts","W021RC1",2215.5,2380.4,2557.2,2729.8,2902.5,3132.4,3118.2,2967.9,3043.4,3265.7,3659.3,3995.2,4209.2,4057.6
+"40","32","    Capital transfer receipts","W067RC1",20,23.1,27,32.4,36.7,35.6,37.4,32.6,28,25.8,25.9,33.1,31.8,33.9
+"41","33","  Total expenditures","W068RC1",2480.1,2583.2,2658,2735.2,2874.8,3021.5,3220.8,3422.9,3624.6,3822.6,4103.5,4319.8,4636,5025
+"42","34","    Current expenditures","W022RC1",2412.5,2505.7,2581.1,2649.3,2761.9,2906,3093.6,3274.7,3458.6,3653.5,3916.4,4147.9,4424,4740.3
+"43","35","    Gross government investment","A782RC1",232.6,244.2,252.4,262.9,287.4,304.3,322,343.5,355.8,372.4,392,425.1,461.6,496.3
+"44","36","    Capital transfer payments","W069RC1",0.6,0.2,0.4,0.2,4.5,0.4,0.3,4.2,17.1,17.2,35.9,18.4,29.1,105.5
+"45","37","    Net purchases of nonproduced assets","AD07RC1",-0.8,2.2,-1.8,1.8,8.3,8.4,9.5,11.5,11.2,11.4,9.8,-2.2,11.8,-6.2
+"46","38","    Less: Consumption of fixed capital","A264RC1",164.8,169.2,174.1,179,187.2,197.5,204.6,210.9,218.1,231.9,250.6,269.3,290.4,310.9
+"47","39","  Net lending or net borrowing (-)","AD01RC1",-244.5,-179.7,-73.8,27,64.4,146.6,-65.1,-422.4,-553.3,-531.1,-418.3,-291.6,-395,-933.6
+"48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","1. Prior to 1960, interest payments to persons (line 23) and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","interest receipts on line 9 are not shown separately, but are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","included in interest payments (line 22), which is shown net",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","of interest receipts. Miscellaneous receipts on line 9 includes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","rents and royalties received by governments.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","2. Prior to 1959, subsidies (line 25) and the current surplus of government enterprises",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","(line 14) are not shown separately; subsidies are presented net of the current surplus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","of government enterprises.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","3. Prior to 1960, government social benefits to the rest of the world are included in line 21,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","""other current transfer payments to the rest of the world (net).""",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

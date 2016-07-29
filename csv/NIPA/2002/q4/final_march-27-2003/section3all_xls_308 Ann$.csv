@@ -1,0 +1,60 @@
+"","Table 3#8# Real Government Consumption Expenditures and Gross In","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (1996) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1987 To 2002",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published March 27, 2003    ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/26/2003 11:55:35 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,"Line",NA,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002
+"8","    Government consumption expenditures and gross investment \1\","1","A822RX",1292.5,1307.5,1343.5,1387.3,1403.4,1410,1398.8,1400.1,1406.4,1421.9,1455.4,1483.3,1540.6,1582.5,1640.4,1712.8
+"9","Federal","2","A823RX",597.8,586.9,594.7,606.8,604.9,595.1,572,551.3,536.5,531.6,529.6,525.4,537.7,544.4,570.6,613.3
+"10","  National defense","3","A824RX",450.2,446.8,443.3,443.2,438.4,417.1,394.7,375.9,361.9,357,347.7,341.6,348.8,348.7,366,400
+"11","    Consumption expenditures","4","A997RX",373.2,376.1,372.4,369.7,369.5,350.6,336.1,320.5,308.7,302.4,298.5,290.6,295.3,294.1,308.9,337
+"12","      Durable goods \2\","5","A998RX",37.8,37.8,35.7,33.4,32.9,29.8,27.5,23.4,21.1,21,21.2,21.3,22.7,22.7,24.3,25.3
+"13","      Nondurable goods","6","A725RX",13,12.5,12.1,10.7,10.9,10.1,9.3,8.5,6.9,7.7,7.7,8,8.9,9.4,9.9,11.4
+"14","      Services","7","A489RX",320.9,324.5,323.6,325,325.2,310.3,299.1,288.5,280.7,273.7,269.6,261.4,264,262.4,275.1,300.6
+"15","        Compensation of general government employees, except own-account investment \3\","8","A395RX",176.2,174.1,174,172.9,172.3,162.2,155,147,139,133.1,128.3,124.3,120.9,120.5,121.2,123.4
+"16","        Consumption of general government fixed capital \4\","9","B432RX",53.8,56.7,59.1,61.2,62.9,63.8,64.1,63.9,63.4,63,62.7,62.4,62.4,62.5,62.4,62.6
+"17","        Other services","10","A726RX",92.3,94.5,91.5,91.6,90.6,84.8,80.4,77.9,78.5,77.7,78.7,74.8,80.8,79.6,91.7,114.9
+"18","    Gross investment","11","A788RX",76.3,70.6,70.8,73.2,68.9,66.4,58.6,55.4,53.2,54.6,49.1,51,53.7,54.8,57.3,63.3
+"19","      Structures","12","A808RX",11.2,10.4,8.3,7.7,5.7,6.3,5.7,6.2,6.5,6.7,5.5,5.1,4.8,4.6,4.6,4.4
+"20","      Equipment and software","13","A873RX",65.7,60.7,62.6,65.4,62.9,60,52.8,49.2,46.8,47.9,43.6,45.9,49,50.4,53,59.5
+"21","  Nondefense","14","A825RX",146.5,138.9,150.5,163,166,177.9,177.3,175.5,174.6,174.6,181.8,183.8,188.8,195.6,204.4,213.3
+"22","    Consumption expenditures","15","A542RX",125.4,119.2,129.6,140.1,140.9,150,147.8,148,145.7,142.9,148.6,146.5,147.6,153.7,161.1,167.8
+"23","      Durable goods \2\","16","A543RX",-0.9,-1.1,-1,-0.7,-0.5,-0.1,0.5,1,0.8,1.1,1.3,-0.2,1.2,1.4,1.5,1.7
+"24","      Nondurable goods","17","A729RX",2.9,-4.6,4.5,4.6,5.1,6.1,6.4,6.2,6.4,6.1,7.9,8.3,6.4,6.8,8.9,8.5
+"25","        Commodity Credit Corporation inventory change","18","B826RX",-4.7,-12.1,-2.1,-2.5,-0.4,-1.3,-1,-1.2,-0.4,-0.4,-0.1,0.3,0.3,1.6,1.7,-0.1
+"26","        Other nondurables","19","B828RX",7.6,7.5,6.5,7.1,5.5,7.4,7.4,7.4,6.8,6.5,8,8.1,6,5.2,7.2,8.6
+"27","      Services","20","A544RX",121.5,123.5,125.1,135.6,136.1,143.6,140.5,140.4,138.5,135.7,139.4,138.5,140.2,146.3,151.6,157.7
+"28","        Compensation of general government employees, except own-account investment \3\","21","B545RX",77,79,79.3,83.2,83,84.5,84.1,81.8,78.5,76.4,75.9,76.7,77,79.4,79,80.7
+"29","        Consumption of general government fixed capital \4\","22","B546RX",11.2,11.8,12.5,13.3,14,14.6,15.2,15.9,16.7,18,19.6,21.4,23.8,26.1,28,30.1
+"30","        Other services","23","B730RX",34.6,34.1,34.6,39.9,39.7,44.7,41.5,42.9,43.3,41.3,44,40.4,39.7,41.2,45.4,48
+"31","    Gross investment","24","A798RX",21.5,20.1,21.5,23.5,25.4,28,29.5,27.6,29,31.7,33.3,37.5,41.6,42.3,43.6,45.9
+"32","      Structures","25","A830RX",11.6,8.6,8.3,9.3,10.4,11.6,12.4,11.2,11.1,11.1,9.4,10.6,10.7,9.5,8.9,10.4
+"33","      Equipment and software","26","B880RX",10.6,11.7,13.2,14.2,15,16.5,17.2,16.5,17.9,20.5,23.9,27,31.2,33.3,35.4,36
+"34","State and local","27","A829RX",695.6,721.4,749.5,781.1,798.9,815.3,827,848.9,869.9,890.4,925.8,957.7,1002.4,1037.4,1069.4,1099.7
+"35","  Consumption expenditures","28","A991RX",577.3,596.8,617.9,638.9,653.4,667.8,680.4,697.5,711.3,726.5,745.7,771.9,801.2,831.1,856.8,881.1
+"36","    Durable goods \2\","29","B989RX",9.7,10,10.5,10.9,11.5,12.1,12.3,12.4,12.7,13.1,13.9,15,16.1,17.2,18.3,19.3
+"37","    Nondurable goods","30","B337RX",51.6,53.2,55.5,57.8,61.4,65,68.6,72.8,75.6,79.9,82.3,88.4,96.2,103,108.7,113
+"38","    Services","31","A988RX",516.2,533.8,552,570.3,580.4,590.6,599.4,612.3,623.1,633.6,649.5,668.8,689.8,712,731.1,750.5
+"39","      Compensation of general government employees, except own-account investment \3\","32","B987RX",465,480.5,493.9,507.1,510.7,516.5,521.6,527.9,536.5,542.3,550.9,559.9,566.4,577.6,589.6,601.7
+"40","      Consumption of general government fixed capital \4\","33","B986RX",45.8,47.7,50,52.7,55.2,57.6,60,62.5,65.3,68.2,71.7,75.7,80.2,84.6,88.7,92.6
+"41","      Other services","34","B575RX",10.7,11.1,12.3,13.6,15.8,17.1,18.2,21.8,21.3,23,26.8,33,43.1,49.9,53.2,56.8
+"42","  Gross investment","35","A799RX",118.8,125,131.8,142.2,145.5,147.4,146.6,151.4,158.6,163.8,180.2,185.8,201.4,206.5,212.8,218.6
+"43","    Structures","36","A842RX",99.9,104.3,106.5,114.5,118.3,118.7,116.1,117,120.9,122.5,134.7,134,143.8,145.2,148.6,154.9
+"44","    Equipment and software","37","B881RX",20.3,21.9,26,28.4,28.1,29.4,31,34.6,37.8,41.3,45.4,52.3,58.4,62.7,65.9,64.6
+"45","Residual","38","A979RX",-7.5,-7.4,-5.8,-4.4,-2.5,-1.3,-1.1,-0.5,-0.6,0,0,-1.1,-3,-5.1,-6.8,-7
+"46","Addenda:",NA," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","  Compensation of general government employees \3\","39","A194RX",723.1,738.6,753,769.2,772.2,769.3,767.1,763.5,761.3,759.4,763.4,769.4,773.2,786.2,800.5,817
+"48","    Federal","40","B568RX",255.9,255.5,255.8,258.4,257.6,248.6,240.8,230.4,219,211,205.7,202.6,199.4,201.4,201.6,205.7
+"49","    State and local \5\","41","B251RX",469.5,485.2,499,512.4,516.2,521.9,527.1,533.6,542.4,548.4,557.7,566.8,573.8,584.9,598.9,611.3
+"50",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","  Note.  Chained (1996) dollar series are calculated as the product of the chain-type quantity index and the 1996 current-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","value of the corresponding series, divided by 100.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","estimates are usually not additive.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","The residual line is the difference between the first line and the sum of the most detailed lines, excluding the lines in the ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","addenda.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","  See footnotes to table 3.7.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","  Chain-type quantity indexes for the series in this table are shown in table 7.11.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","  Contributions to percent change in real government consumption expenditures and gross investment are shown in table 8.6.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
