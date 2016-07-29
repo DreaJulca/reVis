@@ -1,0 +1,54 @@
+"","Table 5#7#6B# Change in Real Private Inventories by Industry, Ch","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20"
+"1","[Millions of chained (2009) dollars]                                            ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1997 To 2013",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published February 28, 2014 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/27/2014 1:40:55 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013"
+"19","1","    Change in private inventories","A014RX1","84,806.0","78,988.0","75,450.0","66,225.0","-46,246.0","22,538.0","22,567.0","71,398.0","64,326.0","71,607.0","35,545.0","-33,671.0","-147,569.0","58,225.0","33,617.0","57,632.0","82,963.0"
+"20","2","Farm","B018RX1","4,097.0","1,860.0","-4,198.0","-2,013.0","131.0","-3,469.0","136.0","8,956.0","257.0","-4,154.0","-936.0","1,133.0","-1,602.0","-7,036.0","-4,480.0","-7,217.0","19,593.0"
+"21","3","Mining, utilities, and construction","N541RX1","2,590.0","9,184.0","-2,046.0","-2,969.0","11,387.0","-4,076.0","7,658.0","1,319.0","3,233.0","16,052.0","-3,097.0","-6,656.0","-2,584.0","1,416.0","-3,632.0","6,996.0","-2,586.0"
+"22","4","Manufacturing","N150RX1","26,429.0","19,808.0","17,981.0","8,825.0","-29,326.0","-1,086.0","-8,924.0","6,468.0","22,838.0","19,024.0","17,538.0","-17,881.0","-26,262.0","22,095.0","20,959.0","9,757.0","12,264.0"
+"23","5","  Durable goods industries","N624RX1","16,237.0","18,891.0","7,561.0","7,411.0","-22,933.0","-3,898.0","-5,702.0","4,261.0","17,808.0","12,689.0","12,644.0","-5,179.0","-24,059.0","16,830.0","19,979.0","13,025.0","11,775.0"
+"24","6","  Nondurable goods industries","N625RX1","9,890.0","-850.0","10,979.0","993.0","-5,332.0","3,352.0","-3,149.0","2,157.0","4,825.0","6,282.0","4,925.0","-12,465.0","-2,203.0","5,506.0","1,846.0","-2,315.0","1,105.0"
+"25","7","Wholesale trade","N658RX1","29,989.0","26,502.0","23,587.0","23,129.0","-15,243.0","364.0","1,892.0","24,238.0","30,897.0","23,828.0","15,873.0","18,256.0","-61,892.0","24,789.0","19,952.0","19,097.0","21,583.0"
+"26","8","  Durable goods industries","N661RX1","18,111.0","18,647.0","15,816.0","15,215.0","-19,162.0","-1,739.0","2,877.0","21,304.0","22,329.0","18,831.0","3,278.0","8,543.0","-49,577.0","10,367.0","28,216.0","20,896.0","15,334.0"
+"27","9","  Nondurable goods industries","N664RX1","11,501.0","6,622.0","7,050.0","7,431.0","6,114.0","2,477.0","-1,229.0","2,082.0","8,188.0","4,751.0","12,525.0","9,691.0","-12,315.0","14,184.0","-5,964.0","-112.0","6,853.0"
+"28","10","Retail trade","N153RX1","15,761.0","16,222.0","27,462.0","21,775.0","-11,294.0","27,715.0","19,142.0","25,172.0","5,160.0","9,766.0","6,561.0","-30,149.0","-49,714.0","18,422.0","-1,534.0","26,680.0","27,838.0"
+"29","11","  Motor vehicle and parts dealers","N631RX1","5,076.0","1,826.0","12,349.0","11,699.0","-9,170.0","17,180.0","12,915.0","7,552.0","-2,911.0","-683.0","2,911.0","-12,243.0","-32,931.0","11,689.0","-1,774.0","20,668.0","15,916.0"
+"30","12","  Food and beverage stores","N542RX1","462.0","1,261.0","2,016.0","-730.0","519.0","1,074.0","-1,451.0","358.0","-253.0","994.0","1,208.0","-445.0","-332.0","333.0","45.0","328.0","793.0"
+"31","13","  General merchandise stores","N543RX1","165.0","415.0","3,070.0","1,177.0","176.0","2,308.0","1,431.0","4,924.0","3,088.0","1,081.0","-247.0","-4,070.0","-2,870.0","2,188.0","1,043.0","920.0","3,322.0"
+"32","14","  Other retail stores","N558RX1","9,749.0","13,090.0","9,401.0","8,528.0","-1,787.0","5,808.0","5,246.0","12,269.0","5,562.0","8,574.0","2,664.0","-13,368.0","-13,581.0","4,186.0","-841.0","4,924.0","8,016.0"
+"33","15","Other industries","N154RX1","6,217.0","6,598.0","8,368.0","14,299.0","-419.0","-760.0","1,668.0","4,607.0","2,510.0","4,283.0","-168.0","1,756.0","-5,515.0","-1,094.0","2,912.0","6,864.0","874.0"
+"34","16","Residual","N969RX1","700.0","1,500.0","5,000.0","5,200.0","-5,700.0","4,200.0","2,200.0","1,400.0","-300.0","2,800.0","-200.0","-300.0","0.0","-400.0","-3,600.0","-7,400.0","2,000.0"
+"35",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","17","  Change in private inventories","A014RX1","84,806.0","78,988.0","75,450.0","66,225.0","-46,246.0","22,538.0","22,567.0","71,398.0","64,326.0","71,607.0","35,545.0","-33,671.0","-147,569.0","58,225.0","33,617.0","57,632.0","82,963.0"
+"37","18","    Durable goods industries","N355RX1","42,775.0","43,431.0","41,969.0","39,718.0","-49,881.0","19,970.0","16,377.0","42,166.0","44,675.0","35,557.0","16,055.0","-24,265.0","-116,999.0","37,732.0","42,906.0","59,797.0","44,976.0"
+"38","19","    Nondurable goods industries","N357RX1","40,675.0","33,533.0","31,583.0","24,746.0","7,995.0","1,236.0","5,648.0","28,567.0","19,055.0","35,959.0","19,470.0","-9,655.0","-30,570.0","21,051.0","-6,523.0","2,292.0","39,192.0"
+"39","20","  Nonfarm industries","B015RX1","80,451.0","76,372.0","77,679.0","67,129.0","-45,837.0","25,489.0","22,426.0","62,446.0","63,862.0","75,379.0","36,514.0","-34,967.0","-145,967.0","65,860.0","39,659.0","68,693.0","59,706.0"
+"40","21","  Wholesale trade","N658RX1","29,989.0","26,502.0","23,587.0","23,129.0","-15,243.0","364.0","1,892.0","24,238.0","30,897.0","23,828.0","15,873.0","18,256.0","-61,892.0","24,789.0","19,952.0","19,097.0","21,583.0"
+"41","22","    Merchant wholesale trade","N151RX1","26,885.0","23,969.0","20,254.0","18,122.0","-9,865.0","1,118.0","2,348.0","22,017.0","21,820.0","17,874.0","9,943.0","5,882.0","-46,099.0","20,646.0","11,403.0","17,298.0","22,082.0"
+"42","23","      Durable goods industries","N626RX1","16,301.0","16,745.0","14,101.0","11,835.0","-15,403.0","-2,450.0","2,994.0","20,314.0","17,317.0","15,041.0","2,679.0","6,507.0","-44,499.0","12,875.0","17,937.0","18,209.0","15,395.0"
+"43","24","      Nondurable goods industries","N627RX1","10,360.0","6,398.0","5,544.0","6,008.0","7,295.0","4,063.0","-831.0","927.0","4,098.0","2,563.0","7,265.0","-565.0","-1,600.0","7,845.0","-5,198.0","317.0","7,172.0"
+"44","25","    Nonmerchant wholesale trade","N152RX1","3,127.0","2,519.0","3,365.0","5,060.0","-5,500.0","-789.0","-480.0","2,234.0","8,993.0","5,893.0","5,802.0","12,219.0","-15,793.0","4,138.0","8,204.0","1,887.0","-240.0"
+"45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Note.  Estimates in this table are based on the North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","Chained (2009) dollar series for real change in private inventories are calculated",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","as the period-to-period change in chained-dollar end-of-period inventories. Quarterly",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","changes in end-of-period inventories are stated at annual rates. Because the formula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","for the chain-type quantity indexes uses weights of more than one period, the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","chained-dollar estimates are usually not additive. The residual line is the difference between",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","the first line and the sum of the most detailed lines.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

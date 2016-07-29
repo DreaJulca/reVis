@@ -1,0 +1,34 @@
+"","Table 6#7D# Self-Employed Persons by Industry","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20"
+"1","[Thousands]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 06, 2015   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 9/24/2015 2:56:40 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+"8","1","      Self-employed persons \1\","A4501C0",10341,10121,10233,10133,9963,10297,10429,10453,10589,10419,10063,9829,9681,9449,9529,9408,9358
+"9","2","Agriculture, forestry, fishing, and hunting","N4502C0",1007,985,996,975,990,951,964,955,901,856,861,836,821,846,776,789,757
+"10","3","  Farms \2\","N4503C0",888,869,879,881,907,852,847,856,806,760,767,749,736,762,698,706,680
+"11","4","  Forestry, fishing and related activities","N4504C0",118,116,117,94,83,99,117,99,95,96,94,87,85,84,78,83,77
+"12","5","Mining","N4505C0",9,9,9,20,12,9,13,10,10,20,15,18,20,20,20,16,20
+"13","6","Utilities","N4506C0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"14","7","Construction","N4507C0",1756,1719,1738,1685,1608,1717,1848,1830,1910,1890,1817,1701,1699,1585,1518,1519,1595
+"15","8","Manufacturing","N4508C0",327,320,324,355,315,325,316,321,331,343,307,321,300,276,308,273,279
+"16","9","  Durable goods","N4509C0",210,206,208,227,192,198,207,207,210,210,193,196,186,177,183,166,176
+"17","10","  Nondurable goods","N4510C0",117,115,116,128,123,127,109,114,121,133,114,125,114,99,125,107,103
+"18","11","Wholesale trade","N4511C0",233,228,231,222,221,239,189,213,201,193,191,169,172,170,138,147,140
+"19","12","Retail trade","N4512C0",1016,994,1005,985,955,1008,963,1038,939,935,867,796,794,785,733,681,709
+"20","13","Transportation and warehousing","N4513C0",352,344,348,375,368,357,410,442,428,405,399,403,359,352,355,341,368
+"21","14","Information","N4514C0",136,134,135,126,142,152,146,126,119,135,122,145,140,131,141,124,128
+"22","15","Finance and insurance, real estate, rental, and leasing","N4515C0",742,727,735,688,676,736,792,786,841,827,748,667,640,614,650,667,627
+"23","16","Professional and business services \3\","N4516C0",1954,1912,1933,2009,1869,1908,1993,1954,1991,2009,1977,1996,1999,2001,2114,2052,1988
+"24","17","Educational services, health care, and social assistance","N4517C0",1124,1100,1112,1095,1125,1138,1105,1069,1159,1102,1069,1102,1100,1076,1100,1072,1074
+"25","18","Arts, entertainment, recreation, accommodation, and food services","N4518C0",672,658,665,637,634,686,660,674,684,678,693,636,609,637,660,672,658
+"26","19","Other services, except government","N4519C0",1013,991,1002,961,1048,1071,1030,1035,1075,1026,997,1039,1028,956,1016,1055,1015
+"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","1. Consists of active proprietors or partners who devote a majority of their working hours to their",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","unincorporated businesses.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","2. NAICS crop and animal production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","3. Consists of professional, scientific, and technical services; management of companies and enterprises;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Note. Estimates in this table are based on the 2002 North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,41 @@
+"","Table 6#14D# Inventory Valuation Adjustment to Nonfarm Incomes b","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20"
+"1","[Millions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 06, 2015   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 12/21/2015 3:01:49 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+"8","1","      Inventory valuation adjustment to nonfarm incomes","A1830C0",17024,-4839,-18539,9028,6569,-10887,-44004,-36139,-39262,-45975,-41548,8028,-47264,-78241,-16003,3294,-1825
+"9","2","Corporate business","B058RC0",15743,-3954,-16809,8044,6136,-9558,-39453,-32132,-35675,-39523,-36958,6660,-41007,-68289,-14191,3233,-2935
+"10","3","  Mining","N1831C0",131,-173,-159,-156,-151,-156,-539,-872,-436,-470,-779,-306,-675,-1309,66,348,240
+"11","4","  Utilities","N530RC0",104,-170,-424,473,-241,-71,-390,-784,832,-194,-224,149,-62,-171,208,-420,-62
+"12","5","  Construction","N1832C0",55,-173,68,43,-191,-458,-1495,-796,-714,-465,-1765,794,-411,-602,-270,-233,-393
+"13","6","  Manufacturing","N672RC0",7707,-163,-9979,2787,572,-5783,-21278,-15600,-19495,-14090,-17084,7808,-16801,-30032,-2900,-1027,-3388
+"14","7","    Durable goods","N674RC0",5170,326,-4024,2089,2062,-426,-13118,-7232,-7851,-3597,-13538,6882,-8406,-11225,-998,1303,-3271
+"15","8","    Nondurable goods","N673RC0",2537,-489,-5955,698,-1490,-5357,-8160,-8368,-11644,-10493,-3546,926,-8395,-18807,-1902,-2330,-117
+"16","9","  Wholesale trade","N526RC0",6417,-738,-3376,2884,1762,-3747,-9287,-7247,-10579,-14664,-8301,236,-14935,-21863,-4608,6021,3087
+"17","10","  Retail trade","N527RC0",759,-2159,-2231,1751,3921,770,-5857,-5243,-3639,-7127,-7063,-1812,-6690,-11903,-5681,-711,-2408
+"18","11","  Transportation and warehousing","N676RC0",160,-418,-251,318,-269,-113,-293,-463,-4,-674,1177,-558,-429,-498,110,57,960
+"19","12","  Information","N529RC0",141,343,183,286,823,539,397,-35,-349,-362,-701,-42,-63,14,-104,-116,-51
+"20","13","  Other \1\","N1833C0",269,-303,-640,-342,-90,-539,-711,-1092,-1291,-1477,-2218,391,-941,-1925,-1012,-686,-920
+"21","14","Noncorporate business","B179RC0",1281,-885,-1730,984,433,-1329,-4551,-4007,-3587,-6452,-4590,1368,-6257,-9952,-1812,61,1110
+"22","15","  Mining","N1834C0",20,-80,-86,32,-101,-62,-217,-191,-89,-98,-96,-131,-125,-277,17,63,51
+"23","16","  Construction","N1835C0",32,-82,31,20,-88,-211,-686,-379,-339,-285,-1087,570,-308,-424,-171,-136,-227
+"24","17","  Manufacturing","N1836C0",421,-173,-805,159,-29,-686,-1587,-1201,-1332,-1995,-1179,1401,-2168,-3064,-2,-545,332
+"25","18","    Durable goods","N1837C0",171,-37,-232,99,83,-152,-851,-383,-778,-389,-1010,529,-762,-878,-126,50,-253
+"26","19","    Nondurable goods","N1838C0",250,-136,-573,60,-112,-534,-736,-818,-554,-1606,-169,872,-1406,-2186,124,-595,585
+"27","20","  Wholesale trade","N1839C0",424,-79,-238,197,113,-382,-824,-729,-1011,-1897,-906,8,-1970,-3047,-646,970,577
+"28","21","  Retail trade","N1840C0",215,-331,-361,418,505,126,-926,-814,-563,-1091,-1012,-296,-893,-2014,-803,-67,-227
+"29","22","  Other \2\","N1841C0",169,-140,-271,158,33,-114,-311,-693,-253,-1086,-310,-184,-793,-1126,-207,-224,604
+"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","1. Consists of forestry, fishing, and related activities; finance and insurance; real estate and rental",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","and leasing; professional, scientific, and technical services; management of companies and enterprises;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","administrative and waste management services; educational services; health care and social assistance;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","arts, entertainment, and recreation; accommodation and food services; and other services, except government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","2. Consists of forestry, fishing, and related activities; utilities; transportation and warehousing;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","information; finance and insurance; real estate and rental and leasing; professional, scientific, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","technical services; management of companies and enterprises; administrative and waste management services;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","educational services; health care and social assistance; arts, entertainment, and recreation; accommodation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","and food services; and other services, except government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","Note. Estimates in this table are based on the 2002 North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

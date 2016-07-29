@@ -1,0 +1,34 @@
+"","Table 2#2B# Wages and Salaries by Industry","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21"
+"1","[Millions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2015",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published February 26, 2016 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/26/2016 10:23:08 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Cautionary note on the use of data in millions of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","dollars -- The tables provided include estimates in ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","millions of dollars for NIPA series that appear regularly in the national income ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","and product account (NIPA) tables published in the Survey of Current Business. ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","The Bureau of Economic Analysis (BEA) generally does not include estimates at ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","this level of precision in the published tables because the associated sampling ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","and nonsampling errors are larger than this implied level of precision. Compared ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","with the published aggregates, the million-dollar estimates ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","are generally not any more accurate.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Line",NA,NA,"1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015"
+"19","1","    Wages and salaries","A034RC1","4,181,616.0","4,458,006.0","4,825,865.0","4,954,436.0","4,996,411.0","5,137,847.0","5,421,933.0","5,691,959.0","6,057,402.0","6,395,167.0","6,531,869.0","6,251,396.0","6,377,525.0","6,633,159.0","6,930,265.0","7,114,400.0","7,477,771.0","7,824,368.0"
+"20","2","Private industries","A132RC1","3,480,303.0","3,724,240.0","4,046,078.0","4,132,438.0","4,123,256.0","4,224,538.0","4,469,269.0","4,700,448.0","5,022,433.0","5,306,321.0","5,387,763.0","5,076,250.0","5,186,434.0","5,438,403.0","5,732,025.0","5,906,761.0","6,240,525.0","6,555,604.0"
+"21","3","  Goods-producing industries","N231RC1","946,163.0","992,551.0","1,057,266.0","1,044,382.0","1,011,270.0","1,010,460.0","1,053,037.0","1,100,901.0","1,171,111.0","1,208,811.0","1,201,814.0","1,057,961.0","1,053,325.0","1,100,817.0","1,155,488.0","1,190,084.0","1,260,875.0","1,306,473.0"
+"22","4","    Manufacturing","N552RC1","681,032.0","705,792.0","744,988.0","713,371.0","680,071.0","674,238.0","693,594.0","710,368.0","737,672.0","751,700.0","740,581.0","661,253.0","674,055.0","706,710.0","734,286.0","746,821.0","780,860.0","801,772.0"
+"23","5","  Services-producing industries","N233RC1","2,534,140.0","2,731,688.0","2,988,813.0","3,088,056.0","3,111,987.0","3,214,079.0","3,416,231.0","3,599,546.0","3,851,323.0","4,097,512.0","4,185,949.0","4,018,286.0","4,133,110.0","4,337,587.0","4,576,537.0","4,716,676.0","4,979,650.0","5,249,131.0"
+"24","6","    Trade, transportation, and utilities","N234RC1","724,666.0","772,524.0","830,995.0","846,666.0","846,762.0","863,139.0","905,052.0","943,184.0","994,025.0","1,042,188.0","1,045,303.0","984,606.0","998,923.0","1,044,525.0","1,092,618.0","1,118,487.0","1,175,480.0","1,235,248.0"
+"25","7","    Other services-producing industries \1\","N235RC1","1,809,474.0","1,959,164.0","2,157,818.0","2,241,390.0","2,265,225.0","2,350,940.0","2,511,179.0","2,656,362.0","2,857,298.0","3,055,324.0","3,140,646.0","3,033,680.0","3,134,187.0","3,293,062.0","3,483,919.0","3,598,189.0","3,804,170.0","4,013,883.0"
+"26","8","Government","B202RC1","701,313.0","733,766.0","779,787.0","821,998.0","873,155.0","913,309.0","952,664.0","991,511.0","1,034,969.0","1,088,846.0","1,144,106.0","1,175,146.0","1,191,091.0","1,194,756.0","1,198,240.0","1,207,639.0","1,237,246.0","1,268,763.0"
+"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","1. Other services-producing industries consists of information; finance and insurance; real estate and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","rental and leasing; professional, scientific, and technical services; management of companies and enterprises,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","administrative and support and waste management and remediation services; educational services; health",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","care and social assistance; arts, entertainment, and recreation; accommodation and food services; and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","other services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Note. Estimates in this table are based on the 2002 North American Industry Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

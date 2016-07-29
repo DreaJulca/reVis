@@ -1,0 +1,63 @@
+"","Table 4#2#2# Contributions to Percent Change in Real Exports and","F2","F3","F4","F5"
+"1","",NA,NA,NA,NA
+"2","Annual data from 1968 To 1969",NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA
+"4","Data published August 26, 2011   ",NA,NA,NA,NA
+"5","File created 8/25/2011 10:22:09 AM",NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA
+"7","Line",NA,NA,1968,1969
+"8",NA,"Percent change at annual rate:"," ",NA,NA
+"9","1","    Exports of goods and services","A020RL1",7.9,4.8
+"10",NA,"Percentage points at annual rates:"," ",NA,NA
+"11","2","Exports of goods \1\","A253RZ2",5.85,3.85
+"12","3","  Foods, feeds, and beverages","B638RZ2",-0.18,-0.21
+"13","4","  Industrial supplies and materials","A639RZ2",3.09,1.04
+"14","5","    Durable goods","B686RZ2",1.46,0.91
+"15","6","    Nondurable goods","B687RZ2",1.62,0.13
+"16","7","  Capital goods, except automotive","A640RZ2",0.72,1.37
+"17","8","    Civilian aircraft, engines, and parts","B688RZ2",1.32,-0.39
+"18","9","    Computers, peripherals, and parts","B850RZ2",0.09,0.43
+"19","10","    Other","B689RZ2",-0.69,1.33
+"20","11","  Automotive vehicles, engines, and parts","B641RZ2",1.48,0.59
+"21","12","  Consumer goods, except automotive","A642RZ2",0.42,0.35
+"22","13","    Durable goods","B690RZ2",0.22,0.35
+"23","14","    Nondurable goods","B691RZ2",0.2,0
+"24","15","  Other","A643RZ2",0.32,0.7
+"25","16","Exports of services \1\","A646RZ2",2.01,0.98
+"26","17","  Transfers under U.S. military agency sales contracts","B267RZ2",1.37,-0.15
+"27","18","  Travel","B493RZ2",0.13,0.34
+"28","19","  Passenger fares","B533RZ2",0.09,0.07
+"29","20","  Other transportation","B683RZ2",0.14,0.4
+"30","21","  Royalties and license fees","B684RZ2",0.08,0.12
+"31","22","  Other private services","B720RZ2",0.06,0.16
+"32","23","  Other","B980RZ2",0.15,0.04
+"33",NA,"Percent change at annual rate:"," ",NA,NA
+"34","24","    Imports of goods and services","A021RL1",14.9,5.7
+"35",NA,"Percentage points at annual rates:"," ",NA,NA
+"36","25","Imports of goods \1\","A255RZ2",14.35,3.99
+"37","26","  Foods, feeds, and beverages","B647RZ2",1.55,-0.6
+"38","27","  Industrial supplies and materials, except petroleum and products","A649RZ2",4.74,-1.39
+"39","28","    Durable goods","A820RZ2",3.81,-1.45
+"40","29","    Nondurable goods","B696RZ2",0.94,0.06
+"41","30","  Petroleum and products","B648RZ2",0.78,0.58
+"42","31","  Capital goods, except automotive","A650RZ2",0.89,1.04
+"43","32","    Civilian aircraft, engines, and parts","B932RZ2",0.13,-0.04
+"44","33","    Computers, peripherals, and parts","B852RZ2",0.05,0.08
+"45","34","    Other","B853RZ2",0.7,1
+"46","35","  Automotive vehicles, engines, and parts","B651RZ2",3.44,1.9
+"47","36","  Consumer goods, except automotive","A652RZ2",2.76,2.08
+"48","37","    Durable goods","B697RZ2",1.74,1.11
+"49","38","    Nondurable goods","B698RZ2",1.02,0.97
+"50","39","  Other","A653RZ2",0.19,0.38
+"51","40","Imports of services \1\","B656RZ2",0.55,1.7
+"52","41","  Direct defense expenditures","B752RZ2",0.34,0.56
+"53","42","  Travel","B768RZ2",-0.76,0.55
+"54","43","  Passenger fares","B769RZ2",0.08,0.39
+"55","44","  Other transportation","B770RZ2",0.55,0.1
+"56","45","  Royalties and license fees","B908RZ2",0.03,0.06
+"57","46","  Other private services","B909RZ2",0.14,0.12
+"58","47","  Other","B910RZ2",0.17,-0.08
+"59",NA,NA,NA,NA,NA
+"60","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal government, are included ",NA,NA,NA,NA
+"61","in services.",NA,NA,NA,NA
+"62","Beginning with 1986, repairs and alterations of equipment are reclassified from goods to services.",NA,NA,NA,NA

@@ -1,0 +1,76 @@
+"","Table 4#2#4# Price Indexes for Exports and Imports of Goods and ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15"
+"1","[Index numbers, 2009=100]; Seasonally adjusted                                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 1967 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 29, 2015  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 11/4/2015 6:36:44 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1967,1967,1967,1967,1968,1968,1968,1968,1969,1969,1969,1969
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4
+"9","1","    Exports of goods and services","B020RG3",29.747,29.701,29.666,29.83,30.045,30.666,30.289,30.502,30.959,31.011,31.434,32.161
+"10","2","Exports of goods \1\","B253RG3",34.338,34.175,34.029,34.16,34.323,35.187,34.542,34.757,35.354,35.26,35.751,36.745
+"11","3","  Foods, feeds, and beverages","B638RG3",24.457,24.459,24.157,23.65,23.913,24.116,23.341,23.125,23.816,23.759,23.662,23.117
+"12","4","  Industrial supplies and materials","B639RG3",19.094,18.971,18.787,18.68,18.765,18.426,18.073,18.085,18.283,18.294,18.596,18.984
+"13","5","    Durable goods","B686RG3",18.508,18.382,18.192,18.119,18.164,17.854,17.496,17.511,17.716,17.73,18.036,18.393
+"14","6","    Nondurable goods","B687RG3",19.19,19.071,18.892,18.768,18.876,18.524,18.178,18.188,18.378,18.388,18.682,19.086
+"15","7","      Petroleum and products","IA0000063",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","8","      Nondurable goods, excluding petroleum and products","IA0000053",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","9","  Capital goods, except automotive","B640RG3",70.576,69.963,70.207,71.943,72.185,79.06,77.081,78.48,80.202,79.382,80.058,84.425
+"18","10","    Civilian aircraft, engines, and parts","B688RG3",12.938,13.022,13.103,13.187,13.315,13.439,13.522,13.648,13.773,13.901,14.067,14.315
+"19","11","    Computers, peripherals, and parts","B850RG3",10982.793,11091.411,11068.042,10986.862,10884.411,11016.94,11011.171,11178.392,11109.826,10926.014,10816.043,10554.457
+"20","12","    Other","B689RG3",45.705,45.207,45.368,46.68,46.836,52.107,50.459,51.456,52.788,52.14,52.641,56.109
+"21","13","  Automotive vehicles, engines, and parts","B641RG3",18.376,18.529,18.529,18.682,18.682,18.759,18.377,18.765,19.078,19.312,19.928,20.235
+"22","14","  Consumer goods, except food and automotive","B642RG3",28.082,28.08,28.08,28.077,28.213,27.926,29.281,28.897,29.352,28.645,29.853,31.231
+"23","15","    Durable goods","B690RG3",24.034,24.027,24.013,23.994,24.677,23.18,23.419,25.332,25.296,24.51,24.949,24.648
+"24","16","    Nondurable goods","B691RG3",32.719,32.72,32.733,32.741,32.336,33.263,35.808,33.013,33.976,33.321,35.37,38.717
+"25","17","  Other \2\","B643RG3",25.128,24.94,24.836,25.014,25.098,25.497,25.03,25.139,25.291,25.621,25.844,26.669
+"26","18","Exports of services \1\","B646RG3",20.326,20.493,20.663,20.879,21.179,21.337,21.46,21.66,21.848,22.158,22.449,22.66
+"27","19","  Transport","Y800RG3",22.194,22.338,22.485,22.617,23.128,23,22.844,22.684,21.941,22.184,22.405,22.601
+"28","20","  Travel (for all purposes including education)","Y801RG3",13.535,13.595,13.717,13.839,13.962,14.206,14.388,14.509,14.69,14.932,15.176,15.359
+"29","21","  Charges for the use of intellectual property n.e.c.","B684RG3",16.621,16.738,16.889,17.079,17.337,17.507,17.733,17.959,18.146,18.363,18.615,18.831
+"30","22","  Other business services \3\","Y802RG3",32.311,32.487,32.774,33.132,33.649,33.979,34.397,34.873,35.254,35.721,36.229,36.653
+"31","23","  Government goods and services n.e.c.","Y803RG3",14.554,14.748,14.884,15.105,15.257,15.397,15.462,15.713,16.199,16.454,16.674,16.799
+"32","24","  Other","B980RG3",44.147,44.408,44.741,45.179,45.684,46.432,47.367,48.525,50.023,51.097,52.008,52.6
+"33","25","    Imports of goods and services","B021RG3",20.158,20.106,20.111,20.123,20.258,20.411,20.453,20.599,20.685,20.775,20.926,21.465
+"34","26","Imports of goods \1\","B255RG3",20.506,20.424,20.423,20.429,20.569,20.725,20.707,20.878,21.004,21.085,21.206,21.921
+"35","27","  Foods, feeds, and beverages","B647RG3",20.587,20.455,20.587,20.652,20.585,20.718,20.919,21.123,21.461,21.596,21.662,22.644
+"36","28","  Industrial supplies and materials","IA0000043",9.165,9.189,9.235,9.211,9.275,9.314,9.288,9.338,9.441,9.443,9.413,9.635
+"37","29","    Durable goods","B820RG3",16.927,16.927,16.925,16.921,17.156,17.216,17.204,17.207,17.517,17.518,17.501,18.009
+"38","30","    Nondurable goods","IA0000073",6.817,6.853,6.923,6.889,6.885,6.921,6.885,6.96,6.987,6.988,6.95,7.076
+"39","31","      Petroleum and products","B648RG3",4.113,4.174,4.298,4.236,4.113,4.174,4.113,4.236,4.174,4.174,4.113,4.112
+"40","32","      Nondurable goods, excluding petroleum and products","B696RG3",20.166,20.165,20.164,20.166,20.467,20.467,20.467,20.467,20.77,20.77,20.772,21.375
+"41","33","  Capital goods, except automotive","B650RG3",103.427,103.536,103.723,103.718,104.58,104.747,104.697,104.859,108.211,107.985,107.745,107.698
+"42","34","    Civilian aircraft, engines, and parts","B932RG3",13.12,13.205,13.288,13.381,13.511,13.641,13.733,13.847,13.971,14.116,14.287,14.537
+"43","35","    Computers, peripherals, and parts","B852RG3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","36","    Other","B853RG3",61.448,61.606,61.598,61.571,62.369,62.333,62.316,62.292,64.194,64.141,64.038,63.874
+"45","37","  Automotive vehicles, engines, and parts","B651RG3",13.622,13.767,13.405,13.622,14.348,14.132,13.771,14.426,14.428,14.503,14.431,15.953
+"46","38","  Consumer goods, except food and automotive","B652RG3",24.817,24.283,24.346,24.264,23.894,24.829,25.112,24.924,24.426,24.752,25.822,25.977
+"47","39","    Durable goods","B697RG3",31.769,30.689,30.419,31.33,29.71,31.532,31.54,31.73,30.56,32.196,33.099,32.725
+"48","40","    Nondurable goods","B698RG3",17.319,17.324,17.709,16.735,17.504,17.586,18.117,17.578,17.717,16.876,18.01,18.621
+"49","41","  Other","B653RG3",20.784,20.629,20.416,20.419,20.517,20.536,20.473,20.425,20.461,20.548,20.582,21.515
+"50","42","Imports of services \1\","B656RG3",18.349,18.362,18.382,18.406,18.518,18.656,18.842,18.916,18.905,19.011,19.231,19.312
+"51","43","  Transport","Y804RG3",16.503,16.522,16.541,16.558,16.493,16.559,16.633,16.714,16.443,16.735,16.979,17.231
+"52","44","  Travel (for all purposes including education)","Y805RG3",19.898,19.898,19.897,19.896,20.267,20.54,21.087,21.087,21.269,21.271,21.327,21.276
+"53","45","  Charges for the use of intellectual property n.e.c.","B908RG3",16.624,16.74,16.891,17.082,17.34,17.51,17.735,17.962,18.149,18.366,18.618,18.834
+"54","46","  Other business services \3\","Y806RG3",36.851,36.933,37.248,37.668,38.342,38.747,39.19,39.761,40.156,40.719,41.314,41.82
+"55","47","  Government goods and services n.e.c.","Y807RG3",8.754,8.754,8.755,8.756,8.776,8.823,8.849,8.881,8.89,8.889,9.02,9.015
+"56","48","  Other","B910RG3",15.494,15.602,15.742,15.92,16.16,16.318,16.528,16.739,16.913,17.115,17.349,17.551
+"57",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","49","  Exports of durable goods","B332RG3",41.704,41.463,41.433,42.026,42.198,44.074,43.142,43.876,44.606,44.431,45.078,46.711
+"59","50","  Exports of nondurable goods","B339RG3",23.023,22.946,22.738,22.513,22.64,22.6,22.277,22.058,22.451,22.433,22.721,23.052
+"60","51","  Exports of agricultural goods \4\","B181RG3",24.89,24.89,24.557,24.001,24.339,24.45,23.776,23.712,24.428,24.369,24.428,24.105
+"61","52","  Exports of nonagricultural goods","B182RG3",27.027,26.844,26.782,27.075,27.032,27.711,27.069,27.469,28.348,27.955,28.537,29.5
+"62","53","  Imports of durable goods","B333RG3",34.314,34.067,33.801,34.067,34.364,34.693,34.5,34.906,35.055,35.44,35.552,36.813
+"63","54","  Imports of nondurable goods","B340RG3",10.396,10.391,10.481,10.395,10.444,10.499,10.55,10.592,10.679,10.623,10.72,11.059
+"64","55","  Imports of nonpetroleum goods","B187RG3",29.399,29.235,29.164,29.207,29.491,29.699,29.704,29.9,30.129,30.255,30.474,31.582
+"65",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","n.e.c. Not elsewhere classified",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","government, are included in services. Beginning with 1986, repairs and alterations of equipment are",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","reclassified from goods to services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","2. Includes net exports of goods under merchanting, beginning in 1999, reclassified from services to",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","goods.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","3. Includes maintenance and repair services, insurance services, financial services, telecommunication,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","computer and information services and other other business services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","4. Includes parts of foods, feeds, and beverages, of nondurable industrial supplies and materials, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","of nondurable nonautomotive consumer goods.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,67 @@
+"","Table 7#2#6B# Real Motor Vehicle Output, Chained Dollars        ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2005) dollars]                                                                                                                                                                                                                      ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1995 To 2010",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published October 27, 2011  ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/26/2011 8:27:02 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010
+"8","1","      Motor vehicle output","A953RX1",279.1,284,307.8,333.1,365.1,359.7,343.8,383.3,387.3,403,418.9,414,413.9,336.9,254.5,324.2
+"9","2","        Auto output","A133RX1",138.9,135.7,137,143.5,148.8,150.5,142.3,148.6,133.2,135,150.3,153.9,151.6,141,92.7,108
+"10","3","        Truck output","A716RX1",139.5,147.8,170.4,189.3,216,209,201.2,234.6,254.2,268,268.7,260.1,262.3,195.5,161.9,216.6
+"11","4","Final sales of domestic product","AB60RX1",271.7,285.7,303,332,353.2,349.1,356.7,369.8,379.3,398.5,422.6,417.8,421.9,346.9,281.4,314.6
+"12","5","  Personal consumption expenditures","AB61RX1",218.9,228.9,245.2,274.1,301.1,311.4,330.9,350.7,360.7,365.1,361.6,348,354.9,303.2,282.8,288.6
+"13","6","    New motor vehicles","AB67RX1",144.7,147.2,155.1,172.3,192.3,202.8,222.6,239.6,251.2,253.7,248.9,234.6,237.3,191.3,169.6,178.7
+"14","7","      Autos","A136RX1",79.6,78.1,78.5,83.5,92.5,97.1,96.2,94.6,91.7,92.8,97.4,99.1,95.6,85.6,71.6,68.3
+"15","8","      Light trucks (including utility vehicles)","B704RX1",65,69.2,76.7,89,100,105.8,126.5,145,159.5,160.9,151.4,135.4,141.8,105.3,98,110.7
+"16","9","    Net purchases of used autos and used light trucks","W240RX1",74.1,81.7,90.2,101.9,108.8,108.5,108.2,111.1,109.5,111.4,112.7,113.4,117.6,112,113.7,110.3
+"17","10","      Used autos","A137RX1",51.8,53.7,56.3,60.1,60.5,59.4,57.5,57,55.2,54.9,55.7,54.2,53.4,51.5,48.3,47.5
+"18","11","      Used light trucks (including utility vehicles)","W241RX1",22.5,28.1,34.1,41.9,48.4,49.2,50.7,54.1,54.3,56.4,57,59.2,64.2,60.6,65.3,62.8
+"19","12","  Private fixed investment","AB62RX1",102.8,108.2,115.5,121.9,137.9,132.7,117.4,113.1,108.4,126.8,148,163.7,145.1,100,37.4,88.7
+"20","13","    New motor vehicles","AB68RX1",139.2,152.6,163.7,179.5,201.4,197.2,179.6,178.1,171.6,192.7,213,229.8,219.7,174.3,117.2,158.2
+"21","14","      Autos","B139RX1",67.9,70.6,71.3,72.8,79.7,81,77.5,77.7,71.7,73.2,77.8,81.2,82.9,71.1,51.8,67.3
+"22","15","      Trucks","B705RX1",70.9,81.6,92.2,106.7,121.7,116.1,101.9,100.3,99.9,119.5,135.2,148.5,136.8,103.1,65.3,90.7
+"23","16","        Light trucks (including utility vehicles)","B196RX1",40.4,53.9,65.8,74.1,85.3,84.5,79,77.3,77.4,89,98.8,109.1,108.7,82.1,49.8,72.5
+"24","17","        Other","B197RX1",32.8,28.9,26.9,33.5,37.4,32,22.8,22.9,22.3,30.4,36.4,39.5,28.8,21.5,15.5,18.7
+"25","18","    Net purchases of used autos and used light trucks","W242RX1",-39.1,-46.3,-50.3,-59.2,-65.4,-66,-62.9,-65.1,-63.3,-66.1,-65,-66.1,-74.9,-75,-83.5,-72.8
+"26","19","      Used autos","B140RX1",-28.4,-31.1,-32.7,-35.5,-35.8,-35.3,-32,-32.2,-31.4,-32.7,-32.7,-32.2,-34.9,-36,-37.5,-33.6
+"27","20","      Used light trucks (including utility vehicles)","W243RX1",-10.8,-15.4,-17.7,-23.8,-29.6,-30.7,-30.9,-33,-32,-33.3,-32.3,-33.9,-40,-39,-45.9,-39.2
+"28","21","  Gross government investment","AB64RX1",10.7,10.6,11.1,12,12.6,13.2,13.5,13.8,14.5,14.3,15.1,16.6,17,17.3,15.2,13.5
+"29","22","    Autos","B144RX1",3.8,3.6,3.3,3.4,3.5,3.4,3.5,3.3,3.2,3.2,3.5,3.7,3.8,3.6,2.9,2.6
+"30","23","    Trucks","B708RX1",6.7,6.9,7.8,8.6,9.1,9.7,9.9,10.5,11.3,11.1,11.6,12.8,13.2,13.7,12.3,10.9
+"31","24","  Net exports","AB63RX1",-56.4,-57.5,-64.4,-71.7,-95,-105.9,-104,-107.6,-104.2,-107.5,-102.1,-110.5,-95.2,-73.5,-51.1,-73
+"32","25","    Exports","AB69RX1",27.4,28.6,30.1,28.7,27.6,28,27.1,30.4,33.5,37.1,44,48.8,59.9,63.7,38.7,52.8
+"33","26","      Autos","B142RX1",13.3,13.7,13.4,12.9,12.6,12.8,13.8,15.4,16.1,16.6,20.4,23.8,31.3,36.6,20.4,27.2
+"34","27","      Trucks","B706RX1",14,14.9,16.8,15.8,15.1,15.2,13.3,15,17.3,20.5,23.6,25,28.5,27.1,18.3,25.5
+"35","28","    Imports","AB70RX1",83.8,86,94.5,100.4,122.6,133.9,131.1,138,137.7,144.6,146.1,159.2,155,137.2,89.9,125.8
+"36","29","      Autos","B143RX1",51.9,48.2,53.5,55.7,66,72,70.2,74.6,72,72.1,69.6,77,75.8,75.3,53.4,71.7
+"37","30","      Trucks","B707RX1",31.5,37.7,40.8,44.6,56.6,61.9,60.9,63.4,65.7,72.4,76.5,82.2,79.3,61.9,36.6,54.1
+"38","31","Change in private inventories","AB65RX1",7.2,-2.4,4.6,0.5,12,10.8,-13.7,13,8,4.5,-3.6,-3.7,-7.9,-9.7,-26.2,9.7
+"39","32","  Autos","A145RX1",3.4,-3.1,1.6,3.1,2.3,3.9,-3.8,7.2,-1.3,-0.9,-2.2,1,-4.8,4,-11,1
+"40","33","    New","B146RX1",2.5,-5.3,0.5,2.5,1.1,1.2,-6.5,7.7,-1.3,-1.4,-1.2,2.6,-3.7,6.2,-12.3,2.7
+"41","34","      Domestic","AB71RX1",3.1,-3.6,0.3,1.5,-0.1,0.7,-7,6.5,-1.1,-0.4,-0.7,1.4,-2.9,4.1,-9.1,1.9
+"42","35","      Foreign","AB72RX1",-0.7,-1.7,0.2,1,1.3,0.5,0.7,1.2,-0.2,-1,-0.5,1.2,-0.8,2.1,-3.2,0.9
+"43","36","    Used","B147RX1",0.9,1.8,1.1,0.7,1.1,2.6,2.2,-0.2,0.1,0.5,-1,-1.6,-1.1,-2.4,1.8,-1.8
+"44","37","  Trucks","B709RX1",3.9,1.3,3.1,-3.2,10.2,7.1,-10.1,5.8,9.2,5.4,-1.4,-4.7,-3.1,-13.9,-15.2,8.7
+"45","38","    New","W244RX1",4.2,-0.8,4.2,-3,10,5.3,-12.6,6.2,9,4.8,0,-2.7,-2.8,-13.3,-16.3,10.1
+"46","39","      Domestic","AB73RX1",4.8,-1,3.5,-2.9,9.6,4.3,-12.2,4.7,9,4.9,-0.6,-3.5,-2.1,-14.4,-12.7,8.9
+"47","40","      Foreign","AB74RX1",-0.3,0.1,0.6,-0.1,0.5,0.9,-0.5,1.5,0.1,-0.1,0.6,0.8,-0.7,1,-3.6,1.3
+"48","41","    Used \1\","W245RX1",0.1,1.5,-0.6,-0.3,0.7,1.7,1.5,-0.2,0.2,0.5,-1.5,-2,-0.3,-0.5,1.3,-1.4
+"49","42","Residual","A974RX1",-4,-2.3,-3.5,-2.8,-4.1,-1.2,2.4,0.2,0.3,0.1,0.1,0,-0.4,0.5,-0.8,-1
+"50",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","43","  Final sales of motor vehicles to domestic purchasers","AB75RX1",329.8,345,369,405.3,448.5,454.5,460.5,477.2,483.5,506,524.7,528.3,516.9,420.1,331.8,387.4
+"52","44","  Private fixed investment in new autos and new light trucks","AB76RX1",108.2,124.5,137.1,146.9,165,165.6,156.5,154.9,149.1,162.3,176.6,190.3,191.6,153.4,102,140.2
+"53","45","  Domestic output of new autos \2\","B148RX1",110.5,107.5,106.8,107.2,111.5,113.6,105.6,109.7,97.1,97.1,107.8,108.3,104.8,100.1,59.1,75.9
+"54","46","  Sales of imported new autos \3\","B149RX1",54.3,52.8,57.4,64.6,75,80,78.3,84.4,82.7,85.2,86.4,95.3,99.3,88.8,74.1,83
+"55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","1. Consists of used light trucks only.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","2. Consists of final sales and change in private inventories of new autos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","assembled in the United States.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","3. Consists of sales of imported new autos in personal consumption expenditures,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","in private fixed investment, and in gross government investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Note. Chained (2005) dollar series are calculated as the product of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","chain-type quantity index and the 2005 current-dollar value of the corresponding",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","series, divided by 100. Because the formula for the chain-type quantity indexes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","uses weights of more than one period, the corresponding chained-dollar estimates",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","are usually not additive. The residual line is the difference between the first",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","line and the sum of the most detailed lines, excluding the lines in the addenda.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

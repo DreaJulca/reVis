@@ -1,0 +1,75 @@
+"","Table 4#2#1# Percent Change From Preceding Period in Real Export","F2","F3","F4","F5"
+"1","[Percent]",NA,NA,NA,NA
+"2","Annual data from 1968 To 1969",NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA
+"4","Data published July 30, 2015     ",NA,NA,NA,NA
+"5","File created 8/13/2015 8:35:19 AM",NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA
+"7","Line",NA,NA,1968,1969
+"8","1","    Exports of goods and services","A020RL1",7.9,4.9
+"9","2","Exports of goods \1\","A253RL1",8.1,5.2
+"10","3","  Foods, feeds, and beverages","B638RL1",-1.6,-2.1
+"11","4","  Industrial supplies and materials","A639RL1",13.8,4.6
+"12","5","    Durable goods","B686RL1",17.9,10.6
+"13","6","    Nondurable goods","B687RL1",11.4,0.9
+"14","7","      Petroleum and products","PB0000061",NA,NA
+"15","8","      Nondurable goods, excluding petroleum and products","PB0000051",NA,NA
+"16","9","  Capital goods, except automotive","A640RL1",3.1,5.9
+"17","10","    Civilian aircraft, engines, and parts","B688RL1",72.3,-13.3
+"18","11","    Computers, peripherals, and parts","B850RL1",7.7,35.7
+"19","12","    Other","B689RL1",-3.4,6.9
+"20","13","  Automotive vehicles, engines, and parts","B641RL1",23.3,8.1
+"21","14","  Consumer goods, except food and automotive","A642RL1",8.6,7.1
+"22","15","    Durable goods","B690RL1",10.6,16.8
+"23","16","    Nondurable goods","B691RL1",7.2,0
+"24","17","  Other \2\","A643RL1",8.3,11.8
+"25","18","Exports of services \1\","A646RL1",7.3,3.9
+"26","19","  Transport","Y800RL1",3.5,7.8
+"27","20","  Travel (for all purposes including education)","Y801RL1",3.3,9.2
+"28","21","  Charges for the use of intellectual property n.e.c.","B684RL1",2,3.2
+"29","22","  Other business services \3\","Y802RL1",3.7,9.7
+"30","23","  Government goods and services n.e.c.","Y803RL1",16.6,-2.5
+"31","24","  Other","B980RL1",7.4,5.3
+"32","25","    Imports of goods and services","A021RL1",14.9,5.7
+"33","26","Imports of goods \1\","A255RL1",20.7,5.5
+"34","27","  Foods, feeds, and beverages","B647RL1",13.5,-5.2
+"35","28","  Industrial supplies and materials","PB0000041",18.4,-2.6
+"36","29","    Durable goods","A820RL1",25.3,-8.8
+"37","30","    Nondurable goods","PB0000071",11.4,4.5
+"38","31","      Petroleum and products","B648RL1",15.2,11.6
+"39","32","      Nondurable goods, excluding petroleum and products","B696RL1",9.5,0.7
+"40","33","  Capital goods, except automotive","A650RL1",14.5,17
+"41","34","    Civilian aircraft, engines, and parts","B932RL1",40,-9.5
+"42","35","    Computers, peripherals, and parts","B852RL1",NA,NA
+"43","36","    Other","B853RL1",12.6,18.1
+"44","37","  Automotive vehicles, engines, and parts","B651RL1",55.5,22.1
+"45","38","  Consumer goods, except food and automotive","A652RL1",26.2,18
+"46","39","    Durable goods","B697RL1",26.5,15.4
+"47","40","    Nondurable goods","B698RL1",25.8,22.4
+"48","41","  Other","A653RL1",3.7,8.5
+"49","42","Imports of services \1\","A656RL1",1.8,6.3
+"50","43","  Transport","Y804RL1",8.4,7.1
+"51","44","  Travel (for all purposes including education)","Y805RL1",-9.4,8.5
+"52","45","  Charges for the use of intellectual property n.e.c.","B908RL1",6.4,14.3
+"53","46","  Other business services \3\","Y806RL1",13.2,11.2
+"54","47","  Government goods and services n.e.c.","Y807RL1",3.7,3.9
+"55","48","  Other","B910RL1",6.1,4.1
+"56",NA,"Addenda:"," ",NA,NA
+"57","49","  Exports of durable goods","A332RL1",9.6,8
+"58","50","  Exports of nondurable goods","A339RL1",6.1,1
+"59","51","  Exports of agricultural goods \4\","B181RL1",-0.3,-4.3
+"60","52","  Exports of nonagricultural goods","A182RL1",11.2,6.1
+"61","53","  Imports of durable goods","A333RL1",27.4,6.9
+"62","54","  Imports of nondurable goods","A340RL1",13.3,3.7
+"63","55","  Imports of nonpetroleum goods","A187RL1",21.1,5
+"64",NA,NA,NA,NA,NA
+"65","n.e.c. Not elsewhere classified",NA,NA,NA,NA
+"66","1. Exports and imports of certain goods, primarily military equipment purchased and sold by the federal",NA,NA,NA,NA
+"67","government, are included in services. Beginning with 1986, repairs and alterations of equipment are",NA,NA,NA,NA
+"68","reclassified from goods to services.",NA,NA,NA,NA
+"69","2. Includes net exports of goods under merchanting, beginning in 1999, reclassified from services to",NA,NA,NA,NA
+"70","goods.",NA,NA,NA,NA
+"71","3. Includes maintenance and repair services, insurance services, financial services, telecommunication,",NA,NA,NA,NA
+"72","computer and information services and other other business services.",NA,NA,NA,NA
+"73","4. Includes parts of foods, feeds, and beverages, of nondurable industrial supplies and materials, and",NA,NA,NA,NA
+"74","of nondurable nonautomotive consumer goods.",NA,NA,NA,NA

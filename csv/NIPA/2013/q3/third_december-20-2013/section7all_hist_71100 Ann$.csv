@@ -1,0 +1,148 @@
+"","Table 7#11# Interest Paid and Received by Sector and Legal Form ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1946 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 07, 2013   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 11/26/2013 9:12:19 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8",NA,"          Monetary interest"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","1","Monetary interest paid","A2061C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46.1,48.6,54.4,60.4,67.2,74.4,84.1,92.2,104.6,123.4
+"10","2","  Domestic business \1\","A2062C1",3.9,4.4,5,5.5,6,6.9,7.9,8.7,9.5,10.7,12.3,14.5,15.9,17.9,20.4,22,25.3,28.5,31.9,36,42.1,47.3,54.4,67.3
+"11","3","    Corporate business","A2063C1",2.7,3,3.3,3.7,4,4.6,5.3,5.9,6.5,7.3,8.6,10.3,11.4,13,15.1,16.2,19,21.6,24.1,27.4,32.7,37,43.1,54.4
+"12","4","      Financial","A1100C1",0.9,1,1.1,1.3,1.4,1.6,2,2.4,2.7,3.2,3.9,4.9,5.4,6.3,7.6,8.2,10,11.7,13.3,15.5,18.5,20.8,24,29.4
+"13","5","        On deposits \2\","B1305C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,5.5,6.2,7.8,9,10.4,12.1,14.1,16.2,18.2,20.1
+"14","6","        On other liabilities","B1306C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,2.1,2,2.2,2.6,2.9,3.4,4.4,4.6,5.8,9.2
+"15","7","      Nonfinancial","B1101C1",1.8,2,2.2,2.4,2.6,3,3.3,3.5,3.8,4.1,4.7,5.5,6,6.7,7.6,8.1,9,9.9,10.8,11.9,14.1,16.2,19.2,25
+"16","8","    Sole proprietorships and partnerships","A2064C1",0.6,0.8,0.9,0.9,1.1,1.2,1.4,1.4,1.5,1.7,1.8,2,2.2,2.4,2.6,2.8,3.1,3.4,4,4.4,4.9,5.5,6.1,7.4
+"17","9","      Farm","B1103C1",0.3,0.4,0.4,0.5,0.5,0.6,0.7,0.7,0.7,0.7,0.8,0.8,0.9,1,1.1,1.1,1.3,1.3,1.5,1.7,1.9,2.1,2.3,2.5
+"18","10","      Nonfarm","B1102C1",0.3,0.4,0.5,0.5,0.6,0.7,0.7,0.7,0.8,1,1.1,1.2,1.3,1.4,1.5,1.7,1.9,2.1,2.4,2.7,3,3.4,3.9,4.9
+"19","11","    Other private business","A2065C1",0.6,0.6,0.7,0.9,1,1.1,1.3,1.4,1.6,1.7,1.9,2.1,2.3,2.5,2.7,3,3.2,3.5,3.8,4.2,4.5,4.8,5.2,5.5
+"20","12","      Rental income of persons","B1130C1",0.6,0.6,0.7,0.8,1,1.1,1.2,1.4,1.5,1.7,1.8,2,2.3,2.4,2.6,2.9,3.1,3.4,3.7,4.1,4.4,4.6,5,5.4
+"21","13","      Proprietors' income","B2631C1",0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2
+"22","14","  Households and nonprofit institutions","W291RC1",1.8,2.3,2.9,3.4,4.2,4.7,5.4,6.4,7.1,8.2,9.5,10.5,11.3,12.6,14.2,15.2,16.6,18.4,20.5,22.7,24.5,25.8,28.3,31.7
+"23","15","    Households","W292RC1",1.7,2.2,2.8,3.3,4.1,4.7,5.3,6.3,7,8.1,9.4,10.4,11.2,12.5,14.1,15.1,16.5,18.2,20.3,22.4,24.2,25.4,27.8,31.1
+"24","16","      Owner-occupied housing","W498RC1",1,1.2,1.4,1.6,1.8,2.1,2.5,2.8,3.2,3.6,4.3,5,5.7,6.3,7.1,7.7,8.6,9.4,10.3,11.3,12.2,12.9,13.9,15.4
+"25","17","      Persons \3\","W293RC1",0.7,1.1,1.4,1.8,2.3,2.5,2.9,3.6,3.8,4.4,5.1,5.5,5.6,6.1,7,7.3,7.8,8.9,10,11.1,12,12.5,13.8,15.7
+"26","18","    Nonprofit institutions","W319RC1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.3,0.4,0.4,0.5,0.6
+"27","19","  Government","W500RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10.4,10.2,11.1,12,12.9,13.7,15.1,16.4,18.8,20.7
+"28","20","    Federal","Y669RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.4,7.9,8.6,9.3,10,10.6,11.6,12.7,14.6,15.8
+"29","21","    State and local","W497RC1",0.6,0.6,0.5,0.6,0.6,0.7,0.7,0.8,0.9,1.1,1.2,1.4,1.6,1.8,2.1,2.2,2.5,2.7,2.9,3.1,3.4,3.8,4.2,4.8
+"30","22","  Rest of the world","W290RC1",0.2,0.2,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.7,0.8,1,1.2,1.4,1.6,1.8,2.1,2.4,2.7,3.1,3.7
+"31","23","    To business and persons","B1132C1",0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.4,0.5,0.7,0.8,0.9,1.1,1.3,1.6,1.8,2,2.3,2.7
+"32","24","    To federal government","B1133C1",0,0.1,0.1,0.1,0.1,0.2,0.2,0.3,0.3,0.3,0.2,0.2,0.3,0.3,0.3,0.4,0.5,0.5,0.5,0.5,0.6,0.6,0.8,0.9
+"33","25","Monetary interest received","A2068C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46.1,48.6,54.4,60.4,67.2,74.4,84.1,92.2,104.6,123.4
+"34","26","  Domestic business \1\","A2069C1",6.2,6.6,7.4,8.2,9,10.1,11.4,12.7,13.6,15.4,17.6,20,21.3,24.7,28.1,29.7,33.1,36.8,40.7,44.8,50.7,55.6,64,76.2
+"35","27","    Corporate business","A2070C1",6.2,6.6,7.4,8.1,8.9,10,11.3,12.6,13.5,15.2,17.4,19.8,21,24.4,27.8,29.3,32.7,36.3,40.2,44.3,50.4,55.2,63.5,75.5
+"36","28","      Financial \4\","B1134C1",5.6,6.1,6.8,7.5,8.2,9.2,10.4,11.6,12.5,14.1,16.1,18.3,19.6,22.6,25.6,27.1,30.3,33.5,37.1,41.1,46.5,50.9,58.1,68.2
+"37","29","      Nonfinancial","B1135C1",0.6,0.5,0.6,0.6,0.7,0.8,0.9,0.9,0.9,1.1,1.3,1.5,1.4,1.9,2.2,2.2,2.4,2.8,3.1,3.3,3.8,4.2,5.4,7.3
+"38","30","    Financial sole proprietorships and partnerships \5\","B1136C1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.4,0.4,0.4,0.5,0.4,0.3,0.4,0.5,0.7
+"39","31","    Other private business","B1137C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"40","32","  Persons \5\","B1138C1",4.4,4.9,5.3,5.9,6.5,7,7.5,8.2,9,9.6,10.7,12.1,13.1,14.1,15.6,16.5,18.6,20.6,23.2,25.9,28.7,31.2,34,39
+"41","33","  Government","A2071C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.7,1.8,2,2.2,2.3,2.7,3.2,3.7,4.4,4.6
+"42","34","    Federal","B1139C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1.1,1.3,1.3,1.2,1.4,1.6,1.9,2.2,1.9
+"43","35","    State and local","B1140C1",0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.5,0.5,0.6,0.7,0.7,0.8,0.9,1.1,1.3,1.6,1.9,2.2,2.8
+"44","36","  Rest of the world","A2072C1",0,0.1,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.3,0.3,0.4,0.6,0.6,0.6,0.8,1,1.1,1.5,1.6,2.2,3.6
+"45","37","    From business","B1141C1",0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.3,0.3,0.3,0.4,0.5,0.6,0.9,1,1.5,2.8
+"46","38","    From federal government","B093RC1",0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.2,0.2,0.1,0.3,0.3,0.3,0.3,0.4,0.5,0.5,0.5,0.6,0.7,0.8
+"47",NA,"          Imputed interest"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","39","Total imputed interest paid (41+76)","W294RC1",5.8,6.2,6.5,7,7.6,8.2,9.2,10.6,11.7,13.2,14.7,16.6,17.9,19.9,21.8,23.7,25.3,26.9,29.5,31.2,33.4,36.9,40.2,49.3
+"49","40","Total imputed interest received (54+95)","W295RC1",5.8,6.2,6.5,7,7.6,8.2,9.2,10.6,11.7,13.2,14.7,16.6,17.9,19.9,21.8,23.7,25.3,26.9,29.5,31.2,33.4,36.9,40.2,49.3
+"50",NA,"Depositor, insurance, and pension services:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","41","  Imputed interest paid","A2073C1",6.3,7,7.5,8.1,8.9,9.8,10.9,12.5,13.7,15.3,17.2,19.3,20.7,22.9,25.1,27.2,29,30.8,33.7,36,39.1,42.8,47.2,57.1
+"52","42","    Domestic corporate business","Y665RC1",5,5.5,5.8,6.2,6.8,7.4,8.3,9.5,10.3,11.6,12.9,14.3,15.2,16.9,18.7,20.1,21.5,22.7,25,26.6,29,32,35.4,43.3
+"53","43","      Financial","W353RC1",5,5.5,5.8,6.2,6.8,7.4,8.3,9.5,10.3,11.6,12.9,14.3,15.2,16.9,18.7,20.1,21.5,22.7,25,26.6,29,32,35.1,42.6
+"54","44","        Banks, credit agencies, and investment companies","B1310C1",2.4,2.4,2.5,2.5,2.7,2.9,3.2,3.8,4.1,4.7,5.2,5.5,5.5,6.3,7,7.3,7.6,7.6,8.7,9,9.8,11.2,10.2,13.8
+"55","45","        Life insurance carriers","B1311C1",1.1,1.3,1.3,1.4,1.6,1.7,1.8,2,2.2,2.4,2.7,3,3.3,3.5,3.9,4.3,4.7,5.1,5.5,5.9,6.3,6.8,7.2,8.1
+"56","46","        Property and casualty insurance companies","W354RC1",0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.9
+"57","47","        Employee pension plans \6\","Y698RC1",1.5,1.7,1.9,2.1,2.4,2.7,3,3.4,3.8,4.2,4.8,5.5,6.1,6.8,7.4,8.1,8.8,9.5,10.3,11.1,12.2,13.3,16.9,19.8
+"58","48","        Other \7\","Y666RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"59","49","      Nonfinancial \8\","Y667RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.7
+"60","50","    Government \8\","Y668RC1",1.3,1.5,1.7,1.9,2.1,2.4,2.6,3,3.4,3.7,4.2,5,5.5,6,6.5,7,7.5,8.1,8.7,9.4,10.1,10.8,11.8,13.8
+"61","51","      Federal","Y282RC1",1.1,1.2,1.4,1.5,1.7,1.9,2.2,2.5,2.8,3.2,3.6,4.2,4.7,5.1,5.5,6,6.5,7,7.5,8,8.6,9.3,10,11.6
+"62","52","      State and local","Y315RC1",0.2,0.2,0.3,0.3,0.4,0.4,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.9,0.9,1,1.1,1.1,1.2,1.3,1.5,1.5,1.9,2.2
+"63","53","    Rest of the world","W355RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","54","  Imputed interest received","A2074C1",6.4,7,7.5,8.1,8.9,9.8,10.9,12.5,13.7,15.3,17.2,19.3,20.7,22.9,25.1,27.2,29,30.8,33.7,36,39.1,42.8,47.2,57.1
+"65","55","    Domestic business \1\","A2075C1",2.2,2.4,2.7,2.9,3.1,3.5,3.9,4.4,4.8,5.3,6,6.8,7.3,8.2,8.9,9.5,10.1,10.7,11.5,12.2,13.2,14.4,16.1,19.8
+"66","56","      Corporate business","A2076C1",1.9,2.2,2.4,2.6,2.8,3.2,3.6,4,4.4,4.9,5.6,6.4,6.8,7.6,8.2,8.8,9.4,10,10.8,11.5,12.4,13.5,15.2,18.6
+"67","57","        Financial","B1143C1",1.4,1.6,1.8,2.1,2.3,2.5,2.9,3.2,3.6,4,4.6,5.3,5.8,6.5,7,7.6,8.1,8.7,9.3,10,10.8,11.7,13.1,15.8
+"68","58","        Nonfinancial","B1144C1",0.5,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.8,0.9,1,1.1,1.1,1.1,1.2,1.2,1.3,1.4,1.5,1.5,1.6,1.9,2.1,2.8
+"69","59","      Sole proprietorships and partnerships","A2077C1",0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.4,0.5,0.5,0.6,0.7,0.7,0.7,0.7,0.7,0.7,0.8,0.8,0.9,1.1
+"70","60","        Farm","B1146C1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.3
+"71","61","        Nonfarm","B1145C1",0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.5,0.5,0.6,0.6,0.6,0.7,0.7,0.9
+"72","62","      Other private business","B2078C1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"73","63","    Households and nonprofit institutions","W314RC1",3.7,4.2,4.4,4.8,5.4,5.8,6.5,7.6,8.3,9.4,10.5,11.7,12.7,14,15.4,16.8,18,19.2,21.1,22.7,24.8,27.2,29.8,35.5
+"74","64","      Households","W315RC1",3.7,4.2,4.4,4.8,5.4,5.8,6.5,7.6,8.3,9.4,10.5,11.7,12.7,14,15.4,16.8,18,19.1,21.1,22.7,24.8,27.1,29.8,35.5
+"75","65","        Owner-occupied housing","W316RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1
+"76","66","        Persons","A1147C1",3.7,4.2,4.4,4.8,5.4,5.8,6.5,7.5,8.3,9.4,10.5,11.7,12.6,13.9,15.4,16.8,18,19.1,21.1,22.7,24.7,27.1,29.7,35.5
+"77","67","          From banks, credit agencies, and investment companies","B1611C1",1,1.1,1.1,1.1,1.2,1.2,1.3,1.8,1.9,2.3,2.6,2.6,2.5,2.8,3.1,3.2,3.4,3.2,3.8,4,4.4,4.9,5.2,7.2
+"78","68","          From life insurance carriers","B1612C1",1.1,1.3,1.3,1.4,1.6,1.7,1.8,2,2.2,2.4,2.7,3,3.3,3.5,3.9,4.3,4.7,5.1,5.5,5.9,6.3,6.8,7.2,8.1
+"79","69","          From property and casualty insurance companies","W356RC1",0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.4,0.4,0.4
+"80","70","          From employee pension plans \6\","Y394RC1",1.6,1.8,2,2.3,2.5,2.8,3.2,3.7,4.1,4.5,5.2,6,6.7,7.5,8.2,9,9.8,10.6,11.5,12.5,13.8,15.1,16.9,19.8
+"81","71","      Nonprofit institutions","W317RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"82","72","    Government","A2079C1",0.4,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.6,0.7,0.7,0.8,0.9,0.9,0.8,1,1.1,1.4
+"83","73","      Federal","B1148C1",0.3,0.1,0.2,0.2,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.5,0.4,0.4,0.5,0.5,0.6
+"84","74","      State and local","B1149C1",0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.5,0.5,0.6,0.8
+"85","75","    Rest of the world","W357RC1",0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.4
+"86",NA,"Borrower services:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","76","  Imputed interest paid","W358RC1",-0.6,-0.8,-1,-1.1,-1.3,-1.6,-1.7,-1.9,-2,-2.1,-2.5,-2.7,-2.8,-3.1,-3.4,-3.4,-3.7,-3.9,-4.2,-4.8,-5.6,-5.9,-7,-7.8
+"88","77","    Domestic business \1\","W296RC1",-0.4,-0.5,-0.7,-0.7,-0.8,-1,-1.1,-1.2,-1.2,-1.3,-1.5,-1.6,-1.7,-1.9,-2,-2.1,-2.2,-2.3,-2.5,-2.8,-3.4,-3.6,-4.3,-4.6
+"89","78","      Corporate business","W297RC1",-0.3,-0.4,-0.6,-0.6,-0.7,-0.9,-0.9,-1,-1,-1.1,-1.3,-1.4,-1.4,-1.5,-1.7,-1.7,-1.8,-1.9,-2,-2.4,-2.8,-3,-3.6,-3.8
+"90","79","        Financial","W298RC1",-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.3,-0.4,-0.4,-0.4,-0.5,-0.5,-0.5,-0.6,-0.6
+"91","80","        Nonfinancial","W300RC1",-0.3,-0.4,-0.5,-0.5,-0.6,-0.7,-0.7,-0.8,-0.8,-0.8,-1,-1.1,-1.1,-1.2,-1.3,-1.4,-1.5,-1.5,-1.6,-1.9,-2.3,-2.5,-3,-3.2
+"92","81","      Sole proprietorships and partnerships","W301RC1",0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.4,-0.5,-0.6
+"93","82","        Farm","W302RC1",0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.3,-0.3
+"94","83","        Nonfarm","W303RC1",0,0,0,0,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.3,-0.3
+"95","84","      Other private business","W304RC1",0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2
+"96","85","        Rental income of persons and proprietors' income","W359RC1",0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2
+"97","86","    Households and nonprofit institutions","W305RC1",-0.1,-0.2,-0.3,-0.3,-0.4,-0.5,-0.6,-0.7,-0.7,-0.8,-0.9,-1,-1,-1.1,-1.2,-1.3,-1.4,-1.5,-1.6,-1.8,-2,-2.1,-2.5,-2.6
+"98","87","      Households","W306RC1",-0.1,-0.2,-0.3,-0.3,-0.4,-0.5,-0.5,-0.6,-0.7,-0.8,-0.9,-1,-1,-1.1,-1.2,-1.3,-1.3,-1.4,-1.5,-1.7,-2,-2.1,-2.4,-2.5
+"99","88","        Owner-occupied housing","W307RC1",-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.3,-0.3,-0.3,-0.3,-0.4,-0.4,-0.4,-0.4,-0.4,-0.5,-0.5,-0.5,-0.6,-0.6,-0.7,-0.8,-0.8
+"100","89","        Persons","W308RC1",-0.1,-0.1,-0.2,-0.2,-0.2,-0.3,-0.3,-0.4,-0.4,-0.5,-0.5,-0.6,-0.6,-0.7,-0.8,-0.8,-0.9,-0.9,-1,-1.2,-1.4,-1.4,-1.7,-1.7
+"101","90","      Nonprofit institutions","W309RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1
+"102","91","    Government","W310RC1",-0.1,-0.1,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.5
+"103","92","      Federal","W311RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"104","93","      State and local","W312RC1",-0.1,-0.1,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.5
+"105","94","    Rest of the world","W313RC1",0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.2,-0.2,-0.2,-0.2
+"106","95","  Imputed interest received","W360RC1",-0.6,-0.8,-1,-1.1,-1.3,-1.6,-1.7,-1.9,-2,-2.1,-2.5,-2.7,-2.8,-3.1,-3.4,-3.4,-3.7,-3.9,-4.2,-4.8,-5.6,-5.9,-7,-7.8
+"107","96","    Domestic corporate business, financial","W361RC1",-0.6,-0.8,-1,-1.1,-1.3,-1.6,-1.7,-1.9,-2,-2.1,-2.5,-2.7,-2.8,-3.1,-3.4,-3.4,-3.7,-3.9,-4.2,-4.8,-5.6,-5.9,-7,-7.8
+"108","97","      Banks, credit agencies, and investment companies","W362RC1",-0.6,-0.8,-1,-1.1,-1.3,-1.6,-1.7,-1.9,-2,-2.1,-2.5,-2.7,-2.8,-3.1,-3.4,-3.4,-3.7,-3.9,-4.2,-4.8,-5.6,-5.9,-7,-7.8
+"109",NA,"Addenda:"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","98","  Net interest (99+103+104+105)","B060RC1",1.8,2.3,2.4,2.7,3,3.4,3.8,4.5,5.3,5.9,6.5,7.7,9.2,9.3,10.2,12,13.7,14.7,16.9,19.1,21.7,24.7,26.5,32.5
+"111","99","    Domestic business (2+42+77-26-55-96)","A1626C1",0.8,1.1,1,1.1,1.2,1.3,1.5,1.8,2.2,2.4,2.5,3,3.7,3.2,3.4,4.3,5,5.3,6.4,7.6,9.5,11.6,12.5,17.9
+"112","100","      Corporate (3+42+78-27-56-96)","W499RC1",0,0.2,-0.1,-0.2,-0.3,-0.4,-0.5,-0.3,-0.1,-0.1,-0.3,-0.2,0.2,-0.5,-0.5,0,0.2,-0.1,0.3,0.7,1.7,3.2,3.3,7.5
+"113","101","      Sole proprietorships and partnerships (8+81-30-59)","B1649C1",0.3,0.4,0.5,0.5,0.6,0.7,0.8,0.8,0.8,0.9,1,1.1,1.3,1.3,1.4,1.5,1.7,2,2.5,2.9,3.5,3.8,4.2,5.1
+"114","102","      Other private business (11+84-31-62)","B1657C1",0.6,0.6,0.7,0.8,0.9,1.1,1.2,1.3,1.5,1.6,1.8,2,2.2,2.4,2.6,2.8,3.1,3.4,3.7,4,4.3,4.6,4.9,5.3
+"115","103","    Owner-occupied housing (16+88-65)","W318RC1",0.9,1.1,1.3,1.4,1.6,1.9,2.2,2.5,2.9,3.3,3.9,4.6,5.2,5.9,6.6,7.2,8.1,8.8,9.8,10.7,11.5,12.2,13.1,14.5
+"116","104","    Nonprofit institutions (18+90)","B1131C1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.3,0.4,0.5,0.6
+"117","105","    Rest of the world (22+53+94-36-75)","A1627C1",0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.1,0,0.2,0.1,0.1,0.3,0.4,0.5,0.5,0.6,0.5,0.6,0.4,-0.5
+"118","106","  Net interest paid by government (19+50+91-33-72)","A085RC1",5.5,5.8,6,6.4,6.8,7.2,7.6,8.1,8.6,9,10.1,11.3,11.6,13.2,14.5,14.7,15.9,17.1,18.4,19.5,21.1,22.5,25.1,28
+"119","107","  Personal interest payments (17+89)","B069RC1",0.7,0.9,1.3,1.6,2,2.2,2.6,3.2,3.4,4,4.6,4.9,5,5.5,6.2,6.5,7,7.9,8.9,9.9,10.7,11.1,12.2,14
+"120","108","  Personal interest income (98+106+107) or (32+66+71)","A064RC1",8,9.1,9.8,10.7,11.8,12.9,13.9,15.7,17.3,18.9,21.2,23.8,25.8,28,31,33.2,36.6,39.8,44.3,48.5,53.5,58.3,63.8,74.4
+"121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","1. Excludes interest paid or received by government enterprises, which is included in the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","government sector.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","2. Consists of interest paid on the deposit liabilities of commercial and mutual savings",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","banks, savings and loan associations, and credit unions.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","3. Consists of nonmortgage interest paid by households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","4. Includes monetary interest received by employee pension plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","5. Interest received by nonfinancial sole proprietorships and partnerships is considered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","interest received by persons and is included in line 32.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","6. Includes interest imputed to persons from employee pension plans and imputed interest",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","income attributable to under- or over-funded defined benefit employee pension plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","7. Consists of the imputed interest attributable to the under- or over-funded defined benefit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","employee pension plans of other financial entities, including those establishments providing",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","nondepository credit intermediation services; securities, commodity contracts, and other financial",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","investment services; insurance, brokerage, and related services; and real estate investment trust",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","8. Consists of the imputed interest attributable to the under- or over-funded defined benefit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","employee pension plans.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Note. In this table, imputed interest paid (line 39) is the sum of (1) premium supplements paid",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","to property and casualty insurance carriers by households and institutions, governments,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","domestic business, and the rest of the world as a measure of imputed services provided to these",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","sectors by the property and casualty insurance providers, (2) the difference between the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","property income received by financial intermediaries from the investment of depositors' or",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","beneficiaries' funds and the interest paid by them to business, households and institutions,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","governments, and the rest of the world, and (3) the imputed services provided to these sectors",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","in the role of borrowers of financial services; these services are included as negative amounts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","paid by the borrowers and received by the financial intermediaries.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,30 @@
+"","Table 6#13A# Noncorporate Capital Consumption Allowances by Indu","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22"
+"1","[Millions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1947",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 06, 2015   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/13/2015 8:40:01 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947
+"8","1","    Noncorporate capital consumption allowances","A1700C0",1888,1896,1880,1794,1661,1643,1664,1743,1835,1905,1930,2023,2210,2420,2518,2593,2704,3042,3884
+"9","2","Agriculture, forestry, and fisheries","Q1701C0",659,671,651,614,564,530,521,531,563,581,590,602,637,662,655,669,705,770,916
+"10","3","  Farms","Q1702C0",649,660,643,598,555,519,512,523,555,574,582,595,629,653,646,657,692,753,893
+"11","4","  Agricultural services, forestry, and fisheries","Q1703C0",10,11,8,16,9,11,9,8,8,7,8,7,8,9,9,12,13,17,23
+"12","5","Mining","Q1704C0",39,44,38,37,30,35,36,37,37,42,45,45,46,59,77,65,83,95,119
+"13","6","Contract construction","Q1705C0",75,76,75,71,52,47,45,47,49,44,45,44,47,45,37,50,71,106,169
+"14","7","Manufacturing","Q1706C0",76,82,85,84,76,66,63,64,64,73,71,69,71,110,140,177,197,203,246
+"15","8","  Durable goods","Q1707C0",51,56,60,61,56,46,41,39,37,44,40,38,38,61,76,93,99,97,124
+"16","9","  Nondurable goods","Q1708C0",25,26,25,23,20,20,22,25,27,29,31,31,33,49,64,84,98,106,122
+"17","10","Transportation and public utilities","Q1709C0",62,65,65,60,48,48,50,56,68,79,81,92,115,118,126,134,149,176,266
+"18","11","  Transportation","Q1710C0",60,62,64,58,46,46,46,47,54,60,59,67,87,89,97,103,115,136,214
+"19","12","  Communication","Q1711C0",0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,2,3,4
+"20","13","  Electric, gas, and sanitary services","Q1712C0",2,3,1,2,2,2,4,9,14,18,21,24,27,28,28,30,32,37,48
+"21","14","Wholesale trade","Q1713C0",46,49,46,37,33,41,46,58,65,66,68,75,95,111,116,128,107,118,210
+"22","15","Retail trade and automobile services","Q1714C0",200,187,199,169,146,146,148,156,182,183,192,203,235,290,316,333,349,443,631
+"23","16","Finance, insurance, and real estate","Q1715C0",623,595,590,577,575,582,595,622,616,614,607,631,660,675,698,665,652,661,657
+"24","17","  Finance and insurance","H1716C0",13,14,16,17,24,21,21,22,21,18,18,22,23,19,23,26,22,191,18
+"25","18","  Real estate \1\","A1717C0",610,581,574,560,551,561,574,600,595,596,589,609,637,656,675,639,630,470,639
+"26","19","Services","Q1720C0",109,127,131,145,137,148,160,172,191,225,231,263,304,348,353,372,390,469,669
+"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","1. Excludes owner-occupied housing and nonprofit institutions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","Note. Estimates in this table are based on the 1942 Standard Industrial Classification (SIC).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

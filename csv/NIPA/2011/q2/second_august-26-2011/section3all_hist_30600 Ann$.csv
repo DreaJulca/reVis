@@ -1,0 +1,47 @@
+"","Table 3#6# Contributions for Government Social Insurance","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32","F33","F34","F35","F36","F37","F38","F39","F40","F41","F42","F43","F44"
+"1","[Billions of dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 08, 2011   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/25/2011 10:20:00 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","    Contributions for government social insurance","W782RC1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.3,1.5,1.6,1.8,1.9,2.3,2.9,3.8,4.3,5.3,6.6,5.6,4.6,4.9,5.5,6.7,6.9,7.1,8.1,9.1,10,11.4,11.4,13.9,16.5,17.1,19.2,21.7,22.5,23.5,31.4,35,38.8,44.3
+"9","2","Employer contributions","B039RC1",0,0,0,0,0,0,0,0.2,1,1.2,1.3,1.4,1.7,2,2.3,2.5,3.5,5.1,3.9,3,3.3,3.4,4.1,4.1,4.2,4.6,5.2,5.7,6.4,6.3,7.9,9.3,9.6,11.2,12.4,12.6,13.1,16.8,18,20,22.8
+"10","3","  Federal social insurance funds","A1580C1",0,0,0,0,0,0,0,0.2,1,1.2,1.3,1.4,1.7,2,2.3,2.5,3.5,5,3.8,2.9,3.2,3.2,3.9,3.9,4,4.3,4.9,5.4,6,6,7.5,8.9,9.2,10.8,12,12.2,12.6,16.3,17.4,19.3,22.1
+"11","4","    Old-age, survivors, disability, and hospital insurance","CON1101",NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.3,0.3,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.8,1.3,1.7,1.8,1.9,2.5,2.8,3,3.7,3.7,4.6,5.6,5.7,6.2,7.5,7.8,8.3,12.1,13.4,15.2,17.9
+"12","5","      Old-age, survivors, and disability insurance","L306051",NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.3,0.3,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.8,1.3,1.7,1.8,1.9,2.5,2.8,3,3.7,3.7,4.6,5.6,5.7,6.2,7.5,7.8,8.3,11,11.9,13.1,15.6
+"13","6","      Hospital insurance","L306061",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1.5,2.1,2.3
+"14","7","    Unemployment insurance","A1581C1",NA,NA,NA,NA,NA,0,0,0.2,0.7,0.9,1,1,1.2,1.3,1.5,1.5,1.4,2.7,2.1,1.6,1.6,1.5,1.8,1.6,1.6,1.5,1.6,1.9,2,2,2.6,2.9,3.2,4.2,4.1,3.9,3.8,3.8,3.4,3.4,3.4
+"15","8","      State unemployment insurance","CON1201",NA,NA,NA,NA,NA,0,0,0.2,0.6,0.8,0.8,0.8,1,1.1,1.2,1.2,1,0.9,1,1,1,1.2,1.5,1.4,1.3,1.1,1.2,1.4,1.5,1.4,2,2.2,2.4,2.9,3,3,3,3,2.6,2.5,2.5
+"16","9","      Federal unemployment tax","CON1501",NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.5,0.9,0.8,0.6,0.6,0.6,0.6,0.6,0.7
+"17","10","      Railroad employees unemployment insurance","CON1601",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1
+"18","11","      Federal employees unemployment insurance","CONBFE1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0.1,1.5,0.8,0.4,0.4,0,0,0,0,0.1,0.1,0.1,0.1,0.2,0.2,0.1,0.2,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1
+"19","12","    Railroad retirement","CON1701",NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5
+"20","13","    Pension benefit guaranty","B1043C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","14","    Veterans life insurance","CON2101",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,1.3,1.4,0.6,0.1,0.5,0.1,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"22","15","    Workers' compensation","CON2201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"23","16","    Military medical insurance \1\","B1606C1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.2
+"24","17","  State and local social insurance funds","A744RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.5,0.5,0.5,0.6,0.6,0.7
+"25","18","    Temporary disability insurance","S252101",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"26","19","    Workers' compensation","S253001",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.6,0.7
+"27","20","Employee and self-employed contributions","B228RC1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.4,0.4,0.4,0.5,0.6,0.9,1.5,1.8,1.9,1.6,1.6,1.6,1.5,2.1,2.5,2.8,2.9,3.5,3.9,4.3,5,5,6,7.2,7.4,7.9,9.3,9.8,10.3,14.5,16.8,18.7,21.4
+"28","21","  Federal social insurance funds","A1585C1",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.4,0.4,0.4,0.5,0.6,0.9,1.4,1.8,1.9,1.5,1.6,1.5,1.5,2.1,2.5,2.7,2.8,3.4,3.9,4.3,5,5,5.9,7.1,7.3,7.8,9.1,9.6,10.1,14.2,16.6,18.4,21
+"29","22","    Old-age, survivors, disability, and hospital insurance","A1586C1",NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.3,0.3,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.8,1.3,1.6,2,2.1,2.6,3.1,3.4,4.1,4.2,5.1,6.2,6.4,6.9,8.2,8.7,9.2,12.9,14.9,16.6,19.1
+"30","23","      Employees","A1587C1",NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.3,0.3,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.8,1.3,1.6,1.8,1.8,2.4,2.8,3,3.6,3.6,4.5,5.5,5.6,6.1,7.3,7.7,8.1,11.8,13.1,15,17.3
+"31","24","        Old-age, survivors, and disability insurance","L306221",NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.3,0.3,0.3,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.8,1.3,1.6,1.8,1.8,2.4,2.8,3,3.6,3.6,4.5,5.5,5.6,6.1,7.3,7.7,8.1,10.8,11.6,12.9,15.1
+"32","25","        Hospital insurance","L306231",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1.5,2.1,2.2
+"33","26","      Self-employed","CON5201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.2,0.2,0.3,0.5,0.5,0.6,0.6,0.7,0.8,0.8,0.9,1,1,1.1,1.8,1.6,1.8
+"34","27","    Supplementary medical insurance","CON5301",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.6,0.8,0.9
+"35","28","    State unemployment insurance","CON5441",NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"36","29","    Railroad retirement","CON5501",NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4
+"37","30","    Veterans life insurance","CON5741",0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.6,0.9,1,0.6,0.5,0.4,0.4,0.5,0.5,0.4,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6
+"38","31","  State and local social insurance funds \2\","B738RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.3,0.3,0.3,0.3,0.3
+"39","32","Rest-of-the-world contributions \3\","W781RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2
+"40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","1. Consists of payments for medical services for dependents of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","active duty military personnel at nonmilitary facilities.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","2. Consists of contributions for temporary disability insurance.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","3. Consists primarily of contributions by residents of the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","U.S. territories and the Commonwealths of Puerto Rico and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Northern Mariana Islands.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

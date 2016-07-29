@@ -1,0 +1,85 @@
+"","Table 5#11# Capital Transfers Paid and Received, by Sector and b","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32","F33","F34","F35","F36","F37","F38","F39","F40","F41","F42","F43","F44"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1929 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 07, 2013   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/31/2013 10:37:17 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1929,1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","Capital transfers paid, by sector","W940RC1",0.2,0.2,0.2,0.2,0.2,0.2,0.4,0.5,0.6,0.6,0.6,0.6,0.7,0.7,0.7,0.8,0.9,1,1.1,1.3,1.3,1.3,1.4,1.5,1.7,1.7,2,2.4,3.1,4,4.9,4.9,5.4,5.7,6.5,7.4,7.6,8.3,8.2,10.1,10.5
+"9","2","  By private business","W941RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","3","    Financial corporations","W942RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","4","      Disaster-related insurance benefits","W943RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","5","      Other","W944RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","6","    Nonfinancial corporations \1,2\","W945RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","7","    Noncorporate business","W946RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","8","  By government","W947RC1",NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.4,0.4,0.4,0.5,0.6,0.6,0.7,0.8,1.3,2.3,3.1,2.6,2.9,3.1,3.6,4.1,4,4.4,4.3,6,5.9
+"16","9","    Federal","W948RC1",NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.4,0.4,0.4,0.5,0.6,0.6,0.7,0.8,1.3,2.3,3.1,2.6,2.9,3.1,3.6,4.1,4,4.4,4.3,6,5.9
+"17","10","      Capital grants to state and local governments \3\","AD11RC1",NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.4,0.4,0.4,0.5,0.6,0.6,0.7,0.8,1.3,2.3,3.1,2.5,2.7,2.9,3.5,4,4,4.3,4.2,5.9,5.8
+"18","11","      Disaster-related insurance benefits","W949RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","12","      Financial stabilization payments \4\","W950RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","13","      Other capital transfers paid to business \5\","W951RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"21","14","      Other capital transfers paid to persons \6\","W027RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","15","      Capital transfers paid to the rest of the world (net) \7\","AD10RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"23","16","    State and local","W952RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","17","      Disaster-related insurance benefits","W952RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","18","  By persons","W953RC1",0.2,0.2,0.2,0.2,0.2,0.2,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.9,1,1.1,0.9,0.8,0.9,1.1,1.1,1.2,1.3,1.6,1.8,1.7,1.8,2.2,2.5,2.6,2.9,3.3,3.6,3.9,4,4.1,4.6
+"26","19","    Estate and gift taxes, federal","B232RC1",0.1,0.1,0.1,0,0.1,0.1,0.2,0.4,0.4,0.4,0.4,0.3,0.4,0.5,0.5,0.6,0.7,0.7,0.8,0.9,0.7,0.6,0.7,0.8,0.9,0.9,1,1.3,1.4,1.3,1.4,1.8,2,2.1,2.2,2.6,2.8,3,3.1,3.1,3.6
+"27","20","    Estate and gift taxes, state and local","S210201",0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.9,1,1.1
+"28","21","  By the rest of the world","W954RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","22","    Disaster-related insurance benefits","W955RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","23","    Other","W956RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","24","Capital transfers received, by sector","W957RC1",0.2,0.2,0.2,0.2,0.2,0.2,0.4,0.5,0.6,0.6,0.6,0.6,0.7,0.7,0.7,0.8,0.9,1,1.1,1.3,1.3,1.3,1.4,1.5,1.7,1.7,2,2.4,3.1,4,4.9,4.9,5.4,5.7,6.5,7.4,7.6,8.3,8.2,10.1,10.5
+"32","25","  By private business","W958RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"33","26","    Financial corporations","W959RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","27","      Disaster-related insurance benefits","W960RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","28","      Other \4\","W961RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","29","    Nonfinancial corporations","W962RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"37","30","      Disaster-related insurance benefits","W963RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","31","      Other \5\","W964RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"39","32","    Noncorporate business","W965RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","33","      Disaster-related insurance benefits","W966RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","34","      Other","W967RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","35","  By government","W968RC1",0.2,0.2,0.2,0.2,0.2,0.2,0.4,0.5,0.6,0.6,0.6,0.6,0.7,0.7,0.7,0.8,0.9,1,1.1,1.3,1.3,1.3,1.4,1.5,1.7,1.7,2,2.4,3.1,4,4.9,4.8,5.2,5.6,6.4,7.3,7.6,8.2,8.2,10,10.4
+"43","36","    Federal","B232RC1",0.1,0.1,0.1,0,0.1,0.1,0.2,0.4,0.4,0.4,0.4,0.3,0.4,0.5,0.5,0.6,0.7,0.7,0.8,0.9,0.7,0.6,0.7,0.8,0.9,0.9,1,1.3,1.4,1.3,1.4,1.8,2,2.1,2.2,2.6,2.8,3,3.1,3.1,3.6
+"44","37","      Estate and gift taxes paid by persons","B232RC1",0.1,0.1,0.1,0,0.1,0.1,0.2,0.4,0.4,0.4,0.4,0.3,0.4,0.5,0.5,0.6,0.7,0.7,0.8,0.9,0.7,0.6,0.7,0.8,0.9,0.9,1,1.3,1.4,1.3,1.4,1.8,2,2.1,2.2,2.6,2.8,3,3.1,3.1,3.6
+"45","38","    State and local","W969RC1",0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.2,0.3,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.2,0.3,0.4,0.5,0.6,0.7,0.7,0.8,0.8,1,1.1,1.6,2.7,3.5,3,3.3,3.5,4.1,4.7,4.7,5.1,5.1,6.8,6.8
+"46","39","      Disaster-related insurance benefits","W970RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","40","      Estate and gift taxes paid by persons","S210201",0.2,0.2,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.6,0.6,0.6,0.7,0.8,0.8,0.9,1,1.1
+"48","41","      Capital grants paid by federal government \3\","AD11RC1",NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.1,0.1,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.4,0.4,0.4,0.5,0.6,0.6,0.7,0.8,1.3,2.3,3.1,2.5,2.7,2.9,3.5,4,4,4.3,4.2,5.9,5.8
+"49","42","      Other \2\","W937RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","43","  By persons","W971RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","44","    Disaster-related insurance benefits","W972RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","45","    Other \1,6\","W688RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","46","  By the rest of the world","W973RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"54","47","    Capital transfers paid by U.S. government \7\","AD10RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"55","48","    Other","W974RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56",NA,"Addenda: Net capital transfers paid by sector"," ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","49","  By private business (2-25)","W975RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1
+"58","50","    Corporate business (3+6-26-29)","W976RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1
+"59","51","    Noncorporate business (7-32)","W977RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","52","  By government (8-35)","W978RC1",-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.6,-0.6,-0.7,-0.8,-0.9,-1,-1.1,-0.9,-0.8,-0.9,-1.1,-1.1,-1.2,-1.2,-1.6,-1.8,-1.7,-1.8,-2.1,-2.4,-2.5,-2.8,-3.2,-3.5,-3.8,-3.9,-4,-4.5
+"61","53","    Federal (9-36)","W979RC1",-0.1,-0.1,-0.1,0,-0.1,-0.1,-0.2,-0.4,-0.3,-0.3,-0.3,-0.2,-0.2,-0.3,-0.4,-0.5,-0.6,-0.6,-0.7,-0.6,-0.4,-0.2,-0.3,-0.3,-0.4,-0.3,-0.2,-0.5,-0.1,1,1.7,0.9,0.9,1,1.3,1.5,1.2,1.3,1.2,2.9,2.3
+"62","54","    State and local (16-38)","W980RC1",-0.2,-0.2,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.3,-0.2,-0.2,-0.3,-0.2,-0.2,-0.2,-0.2,-0.2,-0.3,-0.4,-0.5,-0.6,-0.7,-0.7,-0.8,-0.8,-1,-1.1,-1.6,-2.7,-3.5,-3,-3.3,-3.5,-4.1,-4.7,-4.7,-5.1,-5.1,-6.8,-6.8
+"63","55","  By persons (18-43)","W981RC1",0.2,0.2,0.2,0.2,0.2,0.2,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.9,1,1.1,0.9,0.8,0.9,1.1,1.1,1.2,1.3,1.6,1.8,1.7,1.8,2.2,2.5,2.6,2.9,3.3,3.6,3.9,4,4.1,4.6
+"64","56","  By the rest of the world (21-46)","W982RC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+"65",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","1. Beginning with 2009, includes payments to the voluntary employee beneficiary association (VEBA) of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","the United Automobile, Aerospace and Agricultural Implement Workers of America union (UAW).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","2. Beginning with the second quarter of 2010, includes payments from British Petroleum (BP) to state",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","and local governments for the construction of offshore structures to alleviate the impact of the BP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Deepwater Horizon oil spill in the Gulf of Mexico.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","3. Consists of federal government investment grants and other capital transfers for transportation,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","housing and community services, and general public service.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","4. Consists of the implied subsidy cost of government acquisition of assets such as shares of preferred",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","stock or warrants from private business.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","5. Consists of maritime construction subsidies and, beginning with 2009, the homebuyer tax credit",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","provision of the American Recovery and Reinvestment Act of 2009.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","6. Includes transfer payments to amortize the unfunded liability of certain government employee health",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","funds and other transfers.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","7. Consists of forgiveness of debts owed by foreign governments to the U.S. government, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","the December 1999 transfer to the Republic of Panama of the U.S. government's assets in the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","Panama Canal Commission. Includes capital grants paid to the U.S. territories and the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","Commonwealths of Puerto Rico and Northern Mariana Islands, and the implied subsidy cost of",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","government acquisition of preferred stock and warrants from banks in Puerto Rico through the",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","Troubled Assset Relief Program.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

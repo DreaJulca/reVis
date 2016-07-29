@@ -1,0 +1,34 @@
+"","Table 1#16# Sources and Uses of Private Enterprise Income       ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25"
+"1","[Billions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1948 To 1969",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 07, 2013   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 10/31/2013 10:34:16 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1948,1949,1950,1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969
+"8","1","    Sources of private enterprise income","W259RC1",90.8,85.4,97.6,110.8,112.8,115.9,118.1,134.4,139.4,145.6,146.4,163.2,168.3,177,193.6,207.4,224.7,248.2,268.7,277.7,301.5,324.3
+"9","2","Net operating surplus","W260RC1",80.1,73.9,85,96.5,96.9,98.4,99.2,112.9,114.9,117.8,117.5,129.9,130.9,137.2,149.6,158.9,171.2,190.2,204.8,207.6,221.4,228.1
+"10","3","Income receipts on assets","W261RC1",10.7,11.5,12.6,14.3,16,17.5,18.9,21.5,24.6,27.8,28.9,33.2,37.5,39.9,44,48.5,53.4,58,63.9,70.1,80.2,96.3
+"11","4","  Interest","W262RC1",9.1,9.9,10.8,12,13.6,15.2,16.5,18.6,21.2,24.2,25.8,29.9,33.7,35.8,39.5,43.6,48,52.2,58.3,64.1,73.2,88.2
+"12","5","  Dividend receipts from the rest of the world","B3375C1",1.1,1.1,1.3,1.5,1.4,1.5,1.7,1.9,2.2,2.3,2.1,2.3,2.4,2.9,3.2,3.2,3.8,4,3.6,3.9,4.2,4.8
+"13","6","  Reinvested earnings on U.S. direct investment abroad","B3475C1",0.6,0.4,0.5,0.8,0.9,0.8,0.7,1,1.2,1.4,0.9,1.1,1.4,1.2,1.3,1.6,1.6,1.7,2,2,2.8,3.2
+"14","7","    Uses of private enterprise income","W263RC1",90.8,85.4,97.6,110.8,112.8,115.9,118.1,134.4,139.4,145.6,146.4,163.2,168.3,177,193.6,207.4,224.7,248.2,268.7,277.7,301.5,324.3
+"15","8","Income payments on assets","W264RC1",12,13.1,14.5,16.1,18.1,20.4,22.5,25.3,28.6,32.8,35.8,40.1,44.9,48.8,54.2,59.2,66,72.5,81.4,90.4,101.6,123.7
+"16","9","  Interest and miscellaneous payments \1\","W265RC1",11.6,12.7,14,15.6,17.6,19.9,22,24.7,28.1,32.3,35.3,39.4,44.2,48,53.5,58.4,65.1,71.4,80.3,89.2,100.3,122.3
+"17","10","  Dividend payments to the rest of the world","B3376C1",0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.4,0.5,0.5,0.5,0.6,0.6,0.7,0.8,0.8,0.9,1
+"18","11","  Reinvested earnings on foreign direct investment in the United States","B3476C1",0.2,0.1,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.3,0.4,0.3,0.4,0.5,0.4
+"19","12","Business current transfer payments (net)","B029RC1",0.7,0.7,0.8,1.2,1.2,1.2,0.9,1.3,1.7,1.8,1.7,1.7,1.7,1.9,2.1,2.5,3,3.5,3.4,3.6,4.2,4.8
+"20","13","  To persons (net)","B931RC1",0.4,0.4,0.6,0.9,0.9,0.8,0.6,0.9,1.2,1.4,1.2,1.3,1.3,1.4,1.5,1.9,2.2,2.3,2.1,2.3,2.8,3.3
+"21","14","  To government (net)","W061RC1",0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.4,0.5,0.3,0.4,0.5,0.6,0.7,0.8,1.2,1.3,1.4,1.4,1.5
+"22","15","  To the rest of the world (net)","W237RC1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"23","16","Proprietors' income with inventory valuation and capital consumption adjustments","A041RC1",39.3,34.7,37.5,42.6,43,42,42.3,44.3,45.8,47.8,50.2,50.3,50.6,53.2,55.2,56.4,59.1,63.7,67.9,69.5,73.8,77
+"24","17","Rental income of persons with capital consumption adjustment","A048RC1",7.5,7.8,8.8,9.7,10.8,12,13.1,13.4,13.7,14.1,14.8,15.6,16.5,17.2,18,18.7,18.8,19.3,19.9,20.3,20.1,20.4
+"25","18","Corporate profits with inventory valuation and capital consumption adjustments","A051RC1",31.4,29.1,36.1,41.2,39.7,40.3,39.5,50.2,49.6,49.1,43.9,55.5,54.7,55.9,64,70.5,77.7,89.3,96.1,93.9,101.7,98.4
+"26","19","  Taxes on corporate income","A054RC1",12.4,10.2,17.9,22.6,19.4,20.3,17.6,22,22,21.4,19,23.7,22.8,22.9,24.1,26.4,28.2,31.1,33.9,32.9,39.6,40
+"27","20","    To government","W025RC1",12.4,10.2,17.9,22.6,19.4,20.3,17.6,22,22,21.4,19,23.6,22.7,22.8,24,26.2,28,30.9,33.7,32.7,39.4,39.7
+"28","21","    To the rest of the world","B930RC1",0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.1,0.2,0.2,0.2,0.2,0.3,0.3
+"29","22","  Profits after tax with inventory valuation and capital consumption adjustments","A551RC1",19,18.9,18.1,18.6,20.3,20,21.8,28.1,27.7,27.7,24.9,31.8,31.9,33.1,39.9,44.1,49.6,58.2,62.2,61,62.1,58.4
+"30","23","    Net dividends","B056RC1",7,7.2,8.8,8.6,8.6,8.9,9.3,10.5,11.3,11.7,11.6,12.6,13.4,13.9,15,16.2,18.2,20.2,20.7,21.5,23.5,24.2
+"31","24","    Undistributed corporate profits with inventory valuation and capital consumption adjustments","A127RC1",11.9,11.6,9.3,10.1,11.7,11.1,12.6,17.6,16.4,16,13.3,19.2,18.5,19.2,24.9,27.9,31.4,38,41.6,39.5,38.6,34.2
+"32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","1. Includes rent paid by private enterprises to government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

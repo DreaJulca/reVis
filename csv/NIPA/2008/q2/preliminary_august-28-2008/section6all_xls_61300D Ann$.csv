@@ -1,0 +1,40 @@
+"","Table 6#13D# Noncorporate Capital Consumption Allowances by Indu","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13"
+"1","[Millions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2007",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 06, 2008   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 8/27/2008 8:49:12 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007
+"8","1","      Noncorporate capital consumption allowances","A1700C0",157543,177128,195292,228044,247106,265169,281473,263795,278961,302852
+"9","2","Agriculture, forestry, fishing, and hunting","N1701C0",14870,15402,15525,19526,19591,20454,21440,22353,23426,24442
+"10","3","  Farms \1\","N1702C0",13095,13364,13507,17551,17625,17993,18955,19902,20989,21732
+"11","4","  Forestry, fishing, and related activities","N1703C0",1775,2038,2018,1975,1966,2461,2485,2451,2437,NA
+"12","5","Mining","N1704C0",6979,7652,8967,10370,11397,11693,13059,12809,15872,18531
+"13","6","Utilities","N1705C0",2882,3128,3226,4529,5366,6076,6599,6453,7015,8131
+"14","7","Construction","N1706C0",7217,8312,9455,9585,10457,12658,13841,13757,14197,16181
+"15","8","Manufacturing","N1707C0",11357,13418,15319,17351,18720,19561,20428,18184,19308,21024
+"16","9","  Durable goods","N1708C0",4373,5368,5462,5441,6356,6872,6692,5412,6068,6276
+"17","10","  Nondurable goods","N1709C0",6984,8050,9857,11910,12364,12689,13736,12772,13240,14748
+"18","11","Wholesale trade","N1710C0",2355,2678,2993,3317,3486,4070,4519,4387,4763,5367
+"19","12","Retail trade","N1711C0",5799,6684,6453,7728,8587,8852,8797,8223,7885,8403
+"20","13","Transportation and warehousing","N1712C0",7840,8501,9610,9911,10614,11447,12622,12549,13251,15794
+"21","14","Information","N1713C0",16538,20299,22706,31694,36766,34990,36105,29457,31308,32955
+"22","15","Finance, insurance, real estate, rental, and leasing","N1714C0",54209,61621,67972,77832,81574,88480,95911,91131,95054,99535
+"23","16","  Finance and insurance","N1715C0",4053,3620,4127,5700,6162,7849,7667,6426,7045,7200
+"24","17","  Real estate and rental and leasing \2\","N1716C0",50156,58001,63845,72132,75412,80630,88244,84705,88009,92335
+"25","18","Professional and business services","N1717C0",10871,11846,12620,14701,16124,18786,19169,18053,19046,20873
+"26","19","  Professional, scientific, and technical services","N1718C0",7445,8077,8421,9662,10283,11897,12183,10718,11506,NA
+"27","20","  Management of companies and enterprises; administrative and waste management services","N1719C0",3426,3769,4199,5039,5841,6889,6986,7335,7540,NA
+"28","21","Educational services, health care, and social assistance","N1720C0",5439,6028,6449,7304,8695,10709,11000,10075,9982,10730
+"29","22","  Educational services","N1721C0",391,515,542,569,673,762,884,817,1068,NA
+"30","23","  Health care and social assistance","N1722C0",5048,5513,5907,6735,8022,9946,10116,9258,8914,NA
+"31","24","Arts, entertainment, recreation, accommodation, and food services","N1723C0",9446,9633,12156,12403,14242,15304,15743,14085,15458,17621
+"32","25","  Arts, entertainment, and recreation","N1724C0",2590,2622,3473,3959,4592,4958,4735,4022,4369,NA
+"33","26","  Accommodation and food services","N1725C0",6856,7011,8683,8444,9650,10346,11008,10063,11089,NA
+"34","27","Other services, except government","N1726C0",1741,1926,1841,1792,1489,2091,2240,2280,2395,3266
+"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","1. Consists of NAICS crop and animal production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","2. Excludes owner-occupied housing and nonprofit institutions serving households.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","Note.  Estimates in this table are based on the 1997 North American Industry",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

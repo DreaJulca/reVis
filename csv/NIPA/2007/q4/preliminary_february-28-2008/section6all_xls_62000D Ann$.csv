@@ -1,0 +1,107 @@
+"","Table 6#20D# Net Corporate Dividend Payments by Industry        ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+"1","[Millions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 01, 2007   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 2/28/2008 11:57:09 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006
+"8","1","      Net corporate dividends","B056RC0",351623,337368,377941,370918,399186,424741,539471,601350,698890
+"9","2","Domestic industries","A3302C0",309162,295671,348444,330056,351334,392766,491694,345515,623094
+"10","3","  Agriculture, forestry, fishing, and hunting","N3303C0",2241,2818,2703,2959,2848,3194,3843,4442,5173
+"11","4","    Farms \1\","N3304C0",1446,1941,1821,1946,1997,2116,2761,NA,NA
+"12","5","    Forestry, fishing, and related activities","N3305C0",795,877,882,1013,851,1078,1082,NA,NA
+"13","6","  Mining","N3306C0",4242,2402,4381,4308,3017,4754,6397,2022,19077
+"14","7","    Oil and gas extraction","N3307C0",1866,1195,2618,3250,2497,3051,4696,NA,NA
+"15","8","    Mining, except oil and gas","N3308C0",1092,972,1599,831,652,1362,1445,NA,NA
+"16","9","    Support activities for mining","N3309C0",1284,235,164,227,-132,341,256,NA,NA
+"17","10","  Utilities","N3310C0",13886,13107,12476,10569,10843,9603,10618,11635,13890
+"18","11","  Construction","N3311C0",14584,17555,20190,21167,23423,22431,27016,34755,46251
+"19","12","  Manufacturing","N3312C0",82805,65860,74833,71010,78751,94094,113675,-52453,98613
+"20","13","    Durable goods","N3313C0",30767,25679,29438,27320,26077,31312,36383,-17376,28879
+"21","14","      Wood products","N3314C0",1467,2980,3098,1331,1278,1261,1785,NA,NA
+"22","15","      Nonmetallic mineral products","N3315C0",1042,1028,888,926,967,1495,1345,NA,NA
+"23","16","      Primary metals","N3316C0",740,1328,827,801,772,574,2167,NA,NA
+"24","17","      Fabricated metal products","N3317C0",5956,6138,5828,4919,4815,7112,5596,NA,NA
+"25","18","      Machinery","N3318C0",10,3386,2484,2716,2452,2435,3237,NA,NA
+"26","19","      Computer and electronic products","N3319C0",-766,-5098,-4939,-771,-4075,1466,501,NA,NA
+"27","20","      Electrical equipment, appliances, and components","N3320C0",5704,6621,8953,8085,9148,9464,10612,NA,NA
+"28","21","      Motor vehicles, bodies and trailers, and parts","N3321C0",10497,3770,6205,3621,3699,-469,832,NA,NA
+"29","22","      Other transportation equipment","N3322C0",1562,1223,1258,1176,2365,2653,3709,NA,NA
+"30","23","      Furniture and related products","N3323C0",668,838,800,757,1077,884,1033,NA,NA
+"31","24","      Miscellaneous manufacturing","N3324C0",3887,3465,4036,3759,3579,4437,5563,NA,NA
+"32","25","    Nondurable goods","N3325C0",52038,40181,45395,43690,52674,62782,77293,-35077,69734
+"33","26","      Food and beverage and tobacco products","N3326C0",16172,6842,10587,11421,15116,14483,21283,NA,NA
+"34","27","      Textile mills and textile product mills","N3327C0",1017,547,556,417,519,-291,422,NA,NA
+"35","28","      Apparel and leather and allied products","N3328C0",1162,1184,1097,1279,2216,1368,1642,NA,NA
+"36","29","      Paper products","N3329C0",3360,2898,3429,3425,2826,2591,3297,NA,NA
+"37","30","      Printing and related support activities","N3330C0",1825,1994,1696,1476,1490,1651,1945,NA,NA
+"38","31","      Petroleum and coal products","N3331C0",6628,7230,6813,5554,12312,28220,22879,NA,NA
+"39","32","      Chemical products","N3332C0",19888,16722,18887,18481,16659,13227,23857,NA,NA
+"40","33","      Plastics and rubber products","N3333C0",1986,2764,2330,1637,1536,1533,1968,NA,NA
+"41","34","  Wholesale trade","N3334C0",22047,19183,23693,24555,22376,22593,31934,37321,47922
+"42","35","    Durable goods","N3335C0",13321,11700,15339,14738,11771,11653,16142,NA,NA
+"43","36","    Nondurable goods","N3336C0",8726,7483,8354,9817,10605,10940,15792,NA,NA
+"44","37","  Retail trade","N3337C0",18120,21882,18927,20496,21899,25648,27666,25111,28163
+"45","38","  Transportation and warehousing","N3338C0",4655,5085,4733,5783,4357,6014,7114,7646,8335
+"46","39","    Air transportation","N3339C0",364,385,356,802,231,319,574,NA,NA
+"47","40","    Rail transportation","N3340C0",507,953,358,694,194,810,850,NA,NA
+"48","41","    Water transportation","N3341C0",276,220,240,376,328,290,355,NA,NA
+"49","42","    Truck transportation","N3342C0",1310,1230,1257,1343,1106,1548,1546,NA,NA
+"50","43","    Transit and ground passenger transportation","N3343C0",201,214,198,515,345,275,205,NA,NA
+"51","44","    Pipeline transportation","N3344C0",542,525,616,347,355,428,593,NA,NA
+"52","45","    Other transportation and support activities \2\","N3345C0",1127,1126,1302,1330,1386,1874,2499,NA,NA
+"53","46","    Warehousing and storage","N3346C0",328,432,406,376,412,470,492,NA,NA
+"54","47","  Information","N3347C0",20343,22588,26795,17862,16870,26083,49345,8977,19727
+"55","48","    Publishing industries (includes software)","N3348C0",2289,1351,3882,2938,3458,5454,37527,NA,NA
+"56","49","    Motion picture and sound recording industries","N3349C0",674,634,835,724,741,928,2095,NA,NA
+"57","50","    Broadcasting and telecommunications","N3350C0",16347,19446,20580,14232,12189,19191,9549,NA,NA
+"58","51","    Information and data processing services","N3351C0",1033,1157,1498,-32,482,510,174,NA,NA
+"59","52","  Finance and insurance","N3391C0",46025,41979,68727,58230,64153,64356,59862,98899,118579
+"60","53","    Federal Reserve banks","N3353C0",343,374,410,428,484,518,582,NA,NA
+"61","54","    Credit intermediation and related activities","N3392C0",7322,8749,11998,8122,9554,11996,15855,NA,NA
+"62","55","    Securities, commodity contracts, and investments","N3393C0",11062,6489,10070,10699,7826,9960,9770,NA,NA
+"63","56","    Insurance carriers and related activities","N3356C0",11031,4523,11342,9099,12378,13348,8299,NA,NA
+"64","57","    Funds, trusts, and other financial vehicles","N3357C0",16267,21844,34907,29882,33911,28534,25355,NA,NA
+"65","58","  Real estate and rental and leasing","N3358C0",14313,13044,15581,15715,16960,18593,22987,37324,57564
+"66","59","    Real estate","N3359C0",12037,11401,13653,14167,15273,16587,20984,NA,NA
+"67","60","    Rental and leasing services and lessors of intangible assets \3\","N3360C0",2276,1643,1928,1548,1687,2006,2004,NA,NA
+"68","61","  Professional, scientific, and technical services","N3361C0",19050,17848,21406,22656,22163,24179,25652,28638,32977
+"69","62","    Legal services","N3362C0",1804,2367,2950,4563,4310,5392,5021,NA,NA
+"70","63","    Computer systems design and related services","N3363C0",3029,2667,2648,2309,2991,2290,3230,NA,NA
+"71","64","    Miscellaneous professional, scientific, and technical services \4\","N3364C0",14217,12814,15808,15784,14862,16497,17401,NA,NA
+"72","65","  Management of companies and enterprises \5\","N3365C0",21854,28840,28261,26407,32377,35725,64848,47419,55874
+"73","66","  Administrative and waste management services","N3368C0",7872,4415,5167,5184,6475,7541,8472,12715,14959
+"74","67","    Administrative and support services","N3369C0",4434,3208,4450,4576,5870,6647,6987,NA,NA
+"75","68","    Waste management and remediation services","N3370C0",3438,1207,717,608,605,894,1485,NA,NA
+"76","69","  Educational services","N3371C0",320,524,536,681,510,1076,1164,1072,1150
+"77","70","  Health care and social assistance","N3372C0",5861,6988,7737,9929,11648,13367,14612,17543,24287
+"78","71","    Ambulatory health care services","N3373C0",3745,4876,6042,8029,9248,11245,12097,NA,NA
+"79","72","    Hospitals and nursing and residential care facilities","N3377C0",1341,1336,773,658,665,655,1017,NA,NA
+"80","73","    Social assistance","N3378C0",775,776,922,1242,1735,1467,1498,NA,NA
+"81","74","  Arts, entertainment, and recreation","N3379C0",2309,2900,3261,2986,3364,3767,4802,5299,5889
+"82","75","    Performing arts, spectator sports, museums, and related activities","N3380C0",1254,1468,1445,1568,2074,1842,2363,NA,NA
+"83","76","    Amusements, gambling, and recreation industries","N3381C0",1055,1432,1816,1418,1290,1925,2439,NA,NA
+"84","77","  Accommodation and food services","N3382C0",5192,5589,5521,5720,5722,6198,7865,12509,19797
+"85","78","    Accommodation","N3383C0",1767,1908,1365,1293,1282,1087,2212,NA,NA
+"86","79","    Food services and drinking places","N3384C0",3425,3681,4156,4427,4440,5111,5653,NA,NA
+"87","80","  Other services, except government","N3385C0",3443,3064,3516,3839,3578,3550,3819,4641,4866
+"88","81","Rest of the world","A3374C0",42461,41697,29497,40862,47852,31975,47777,255835,75796
+"89","82","  Receipts from the rest of the world \6\","B3375C0",83438,92659,86334,87401,92848,100892,121102,348301,167234
+"90","83","  Less: Payments to the rest of the world \7\","B3376C0",40977,50962,56837,46539,44996,68917,73325,92466,91438
+"91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","1. NAICS crop and animal production.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","2. Consists of scenic and sightseeing transportation; transportation support activities;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","and couriers and messengers.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","3. Intangible assets include patents, trademarks, and franchise agreements, but not copyrights.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","4. Consists of accounting, tax preparation, bookkeeping, and payroll services; architectural,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","engineering, and related services; specialized design services; management, scientific, and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","technical consulting services; scientific research and development services; advertising and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","related services; and other professional, scientific, and technical services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","5. Consists of bank and other holding companies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","6. Consists of (1) receipts by U.S. residents of dividends from foreign corporations, plus (2)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","earnings distributed by unincorporated foreign affiliates to their U.S. parents.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","7. Consists of (1) payments by U.S. corporations of dividends to foreign residents, plus (2)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","earnings distributed by unincorporated U.S. affiliates to their foreign parents.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Note. Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

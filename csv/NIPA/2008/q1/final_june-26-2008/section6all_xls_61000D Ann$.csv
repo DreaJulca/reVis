@@ -1,0 +1,34 @@
+"","Table 6#10D# Employer Contributions for Government Social Insura","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12"
+"1","[Millions of dollars]                                                                                                                                                                                                                                     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1998 To 2006",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 01, 2007   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 6/25/2008 10:35:51 AM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1998,1999,2000,2001,2002,2003,2004,2005,2006
+"8","1","      Employer contributions for government social insurance","B039RC0",306969,323341,343517,356619,365241,382100,408342,429109,451843
+"9","2","Domestic industries","B4802C0",306969,323341,343517,356619,365241,382100,408342,429109,451843
+"10","3","  Private industries","B4803C0",262336,276572,294240,303848,309263,323007,346512,364895,384602
+"11","4","    Agriculture, forestry, fishing, and hunting","N4804C0",1912,1969,2090,2139,2237,2336,2479,2474,2565
+"12","5","    Mining","N4805C0",2478,2350,2459,2662,2419,2527,2818,3238,3759
+"13","6","    Utilities","N4806C0",2448,2545,2672,2863,2907,2891,3034,3100,3185
+"14","7","    Construction","N4807C0",16923,18833,20228,21515,23231,24412,26622,28851,31324
+"15","8","    Manufacturing","N4808C0",55221,56198,58547,57292,52999,54048,56767,58314,59802
+"16","9","      Durable goods","N4809C0",36507,37377,39208,37902,34593,35152,37244,38488,39843
+"17","10","      Nondurable goods","N4810C0",18714,18821,19339,19390,18405,18897,19524,19826,19959
+"18","11","    Wholesale trade","N4811C0",19017,19983,21085,20984,20944,21955,23525,24796,26289
+"19","12","    Retail trade","N4812C0",23710,24840,26103,27306,27748,29069,30836,31992,32791
+"20","13","    Transportation and warehousing","N4813C0",13201,13779,14250,14596,14679,15183,16120,16775,17603
+"21","14","    Information","N4814C0",12492,13878,15155,14980,14078,13980,14637,14894,15399
+"22","15","    Finance and insurance, real estate, rental, and leasing","N4815C0",24571,26123,28343,30558,31474,33420,36363,38682,41556
+"23","16","    Professional, and business services \1\","N4816C0",42105,45837,50624,51664,53663,55886,61365,66425,70997
+"24","17","    Educational services, health care, and social assistance","N4828C0",29767,30830,32218,35496,39506,42567,45415,47647,50242
+"25","18","    Arts, entertainment, recreation, accommodation, and food services","N4829C0",12209,12848,13553,14457,15694,16722,18068,18959,20000
+"26","19","    Other services, except government","N4830C0",6282,6559,6913,7337,7685,8009,8461,8749,9091
+"27","20","  Government","B4818C0",44633,46769,49277,52771,55978,59093,61830,64214,67241
+"28","21","Rest of the world","ZZZZZZ0",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","1. Consists of professional, scientific, and technical services; management of companies and",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","enterprises; and administrative and waste management services.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","Note.  Estimates in this table are based on the 1997 North American Industry Classification",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

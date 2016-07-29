@@ -1,0 +1,58 @@
+"","Table 6#16D# Corporate Profits by Industry                      ","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19","F20","F21","F22","F23","F24","F25","F26","F27","F28","F29","F30","F31","F32","F33"
+"1","[Billions of dollars]; Seasonally adjusted at annual rates                                                                 ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Quarterly data from 2001 To 2008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published July 31, 2008     ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 7/30/2008 1:42:53 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,2001,2001,2001,2001,2002,2002,2002,2002,2003,2003,2003,2003,2004,2004,2004,2004,2005,2005,2005,2005,2006,2006,2006,2006,2007,2007,2007,2007,2008,2008
+"8",NA,NA,NA,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2,3,4,1,2
+"9","1","    Corporate profits with inventory valuation and capital consumption adjustments","A051RC1",778.7,783.1,714.5,793,829.4,864.3,895.4,956.1,923.6,956.2,1016.2,1076.5,1184,1227.4,1218.7,1294.8,1438.2,1472.4,1342.6,1538.6,1634.2,1681.6,1713.8,1644.5,1617.8,1672.5,1668.3,1611.1,1593.5,NA
+"10","2","Domestic industries","A445RC1",618.6,612.1,567.9,591.8,674.4,717.1,740.8,789.6,774.4,797.3,853.1,885.9,982.1,1039.6,1013.8,1115.8,1204,1239.1,1089.7,1301.3,1383.7,1412,1453.3,1355.1,1319.7,1369.7,1311.9,1189.7,1195.1,NA
+"11","3","  Financial \1\","N587RC1",234.4,232.4,226.8,268.1,303.8,303.6,299.3,297.8,321,327.5,344.6,349.2,358.8,358.7,297.5,409.8,453.8,419.4,342.7,412.6,453.8,477,456.6,460.9,436.1,473.1,439.3,370.3,407.6,NA
+"12","4","  Nonfinancial","N463RC1",384.2,379.7,341.1,323.7,370.6,413.5,441.5,491.8,453.4,469.8,508.6,536.6,623.3,681,716.3,706,750.2,819.7,747,888.7,930,935,996.7,894.2,883.6,896.6,872.6,819.5,787.4,NA
+"13","5","Rest of the world","B394RC1",160.1,171,146.6,201.2,155,147.1,154.6,166.5,149.2,158.9,163.1,190.6,201.9,187.7,205,179,234.2,233.3,252.9,237.4,250.5,269.7,260.5,289.4,298.1,302.9,356.4,421.3,398.5,NA
+"14","6","  Receipts from the rest of the world","B933RC1",191.2,186.3,176.1,176.8,191.6,202.5,217.3,206.2,229.5,236.3,250.3,280.2,303.3,313.4,322.3,326.6,373.3,374.6,384.3,404.1,413.3,439.6,445.7,457,460.5,494.7,528.4,553.1,556.8,NA
+"15","7","  Less: Payments to the rest of the world","B934RC1",31.1,15.3,29.5,-24.4,36.6,55.4,62.8,39.7,80.3,77.4,87.2,89.5,101.3,125.7,117.3,147.6,139.1,141.3,131.3,166.8,162.9,169.9,185.2,167.6,162.5,191.8,172,131.8,158.3,NA
+"16","8","    Corporate profits with inventory valuation adjustment","A052RC1",750.5,756,689.1,681.3,707,740.5,774.5,842.7,833.6,847.8,912.9,983.6,1094.6,1147.7,1159.7,1244.3,1555.3,1594,1497.1,1684.6,1778.7,1841.6,1887.2,1829.3,1794.7,1859.5,1866.1,1820.2,1641.5,NA
+"17","9","Domestic industries","A390RC1",590.4,585,542.5,480.2,552,593.3,620,676.2,684.4,688.9,749.8,793,892.7,959.9,954.7,1065.4,1321.2,1360.8,1244.2,1447.2,1528.3,1571.9,1626.7,1540,1496.6,1556.7,1509.7,1398.9,1243.1,NA
+"18","10","  Financial","N392RC1",230.8,224,211.8,243.7,277.9,277.7,274.6,275.3,301.6,307.3,326.4,333.8,347.3,350.2,292.4,405.7,470,437.3,362.3,431.4,470,493.1,473.3,478.8,454.1,492.7,460.3,392.4,412.8,NA
+"19","11","    Federal Reserve banks","B397RC1",31.1,29.1,27.6,25.5,24.2,24.5,23.6,22.4,21.8,20.8,19.5,18.2,19,19.1,20.1,21.9,22.9,25.5,26.8,31,31,33.6,35.8,34.9,38.2,38.5,37.5,36.5,35.8,NA
+"20","12","    Other financial \2\","N398RC1",199.7,194.9,184.2,218.2,253.6,253.3,251,252.9,279.8,286.5,306.9,315.5,328.3,331.1,272.3,383.8,447.1,411.8,335.5,400.4,439,459.5,437.5,443.8,415.9,454.2,422.8,355.9,377.1,NA
+"21","13","  Nonfinancial","N399RC1",359.6,361,330.8,236.5,274.2,315.6,345.4,400.9,382.8,381.6,423.5,459.2,545.4,609.7,662.4,659.6,851.1,923.4,881.9,1015.8,1058.3,1078.8,1153.4,1061.2,1042.5,1064,1049.3,1006.5,830.2,NA
+"22","14","    Utilities","N419RC1",27.2,29.3,26.1,16.2,7.1,10.1,12.6,12.8,11.5,10.5,11,13.2,15.2,17.8,18.6,22.8,27.1,28.4,21.7,38.2,44.9,53.5,62.5,61.4,57.2,54.7,58.7,63.2,46.2,NA
+"23","15","    Manufacturing","N400RC1",87.8,79.8,49.1,-6.3,27.8,40,55,70,63.6,55.2,77,108.2,134.2,148.3,158.4,170,242.7,239.3,241.6,251.6,279.2,305.8,333.5,298.9,317,350.8,306.6,292.1,240.5,NA
+"24","16","      Durable goods","N406RC1",17.1,-5.1,-38.3,-75.5,-30.6,-13.9,-0.2,5.3,-6.8,-13.3,-11.6,8.1,27.5,37.2,42.8,45.6,87,96.6,94.4,95.3,110.8,99.8,127,126.1,127.2,123.1,130.9,128.3,85.5,NA
+"25","17","        Fabricated metal products","N408RC1",12.1,10.7,9.6,7.1,8.4,8.9,8.6,9.8,7.1,8.8,6.9,9.1,9.5,11.6,12.2,14.4,16.9,18.1,19.5,16.8,20.8,17.8,17.6,20.7,21.5,20,22.5,22.8,18.9,NA
+"26","18","        Machinery","N409RC1",12.1,4.2,-6.7,1.1,2,1.3,1.9,1.5,-0.3,1.6,1.4,3.4,5,6.5,9.5,7.9,11.5,13.9,15.8,18.5,19.6,19.8,19.7,20.8,22.7,22.4,22.2,22,19.2,NA
+"27","19","        Computer and electronic products","N501RC1",-18.7,-37.2,-59.3,-78.6,-49.2,-39.7,-28.4,-23.9,-20.5,-19,-16.4,-6.5,-6.3,-5.7,-4.6,-2.9,4.8,8,8.2,10.5,10.5,15.1,17.6,13.3,16.4,9,13.2,15.4,14.4,NA
+"28","20","        Electrical equipment, appliances, and components","N410RC1",4.3,2.1,1.1,0,0.3,-1.3,0,0.5,1.6,1.9,2.3,2.6,2,1.9,-0.3,-2.3,-3.3,-3.2,-0.5,0.7,4.1,7.6,10.2,11.8,11.6,9.6,10.7,11.5,6.9,NA
+"29","21","        Motor vehicles, bodies and trailers, and parts","N411RC1",-7.7,-9.9,-6.1,-13.2,-10.5,-1.1,-2.9,-5.5,-6,-13.5,-15.5,-14.1,-1,-9,-10.6,-9.9,3.7,4,-1,-6.1,-5.9,-9.1,-9.8,-9,-8.7,-2.7,-4.4,-7.7,-19.9,NA
+"30","22","        Other durable goods \3\","N412RC1",15,25,23.1,8.3,18.4,17.9,20.7,22.9,11.5,6.9,9.7,13.7,18.3,31.8,36.6,38.4,53.5,55.8,52.5,54.9,61.7,48.5,71.7,68.5,63.7,64.8,66.8,64.3,46.1,NA
+"31","23","      Nondurable goods","N401RC1",70.7,84.9,87.4,69.2,58.4,54,55.2,64.8,70.3,68.6,88.6,100.1,106.7,111.1,115.6,124.4,155.7,142.7,147.1,156.3,168.4,206,206.4,172.9,189.8,227.8,175.7,163.8,155,NA
+"32","24","        Food and beverage and tobacco products","N402RC1",22.3,30.4,28.8,30.3,27.9,25.7,25.5,20.6,20.6,23.6,23.1,27,26.6,22.9,24.4,22.6,26.7,24.7,26.1,27.3,28.1,31.5,36.9,38.7,33.5,42.7,39.2,38.7,34.8,NA
+"33","25","        Petroleum and coal products","N404RC1",34.4,33.3,32.3,18.6,4.8,0.8,-0.2,0.9,18.2,15,26.9,33.3,41.4,46.6,40.7,66.9,71.9,75.1,80.6,88,75.4,91.5,88.1,54.8,71.7,106.7,55.6,33.6,48.8,NA
+"34","26","        Chemical products","N403RC1",5.6,14,16.2,14.6,16.4,16.4,18.2,22.8,17.2,17.5,22.1,21,20.6,26.5,32.6,21.8,38.5,21.9,20.1,22.7,46.3,59,61.4,48.4,62.1,64.6,65.1,73.8,60.2,NA
+"35","27","        Other nondurable goods \4\","N405RC1",8.3,7.2,10.1,5.7,9.4,11,11.7,20.5,14.3,12.4,16.5,18.8,18.1,15.1,17.8,13.1,18.7,21,20.3,18.3,18.6,24.1,20,30.9,22.5,13.8,15.9,17.8,11.1,NA
+"36","28","    Wholesale trade","N414RC1",46.7,47.8,53.8,60.2,48.5,52.6,45.3,50.7,47.3,47.2,61,65.4,69,79.6,91.4,76.8,90.4,109.5,85.5,103.8,102.3,94.5,128.3,104.9,108.2,112.7,109.1,80.2,49.2,NA
+"37","29","    Retail trade","N415RC1",66.7,66.3,72.3,78.6,75.7,79.7,80.2,82.1,80.9,89.7,89.5,87.3,96.2,91.1,87.7,89.2,102.3,126.7,114.8,137.8,133.5,126,132.1,137.5,132.8,145.9,126,124.5,112,NA
+"38","30","    Transportation and warehousing","N417RC1",2.9,4.1,3.3,-5.2,-1.3,-3.8,-2,3.4,3.5,8.6,8,9,13.9,20,13,9.6,26.2,29.1,28,33.1,39.3,44.2,42.2,44.4,40.7,45.4,47,37.7,24.4,NA
+"39","31","    Information","N502RC1",-21.5,-21.1,-25.4,-34.4,-17.5,-11.4,-7.8,2.7,-5.1,1.8,11.3,4.8,13.1,45.7,64.3,52.3,74.9,84.4,76.9,82.5,87.2,91.3,95.8,89.9,100.8,85,108.4,117.9,106,NA
+"40","32","    Other nonfinancial \5\","N420RC1",149.8,154.9,151.5,127.4,133.8,148.4,162.1,179.2,181,168.7,165.7,171.2,203.8,207.1,229,239,287.4,306,313.5,368.8,371.8,363.7,359.1,324.2,285.8,269.4,293.5,290.9,252,NA
+"41","33","Rest of the world","B394RC1",160.1,171,146.6,201.2,155,147.1,154.6,166.5,149.2,158.9,163.1,190.6,201.9,187.7,205,179,234.2,233.3,252.9,237.4,250.5,269.7,260.5,289.4,298.1,302.9,356.4,421.3,398.5,NA
+"42",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","1. Consists of finance and insurance and bank and other holding companies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","2. Consists of credit intermediation and related activities; securities, commodity contracts,",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","and other financial investments and related activities; insurance carriers and related",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","activities; funds, trusts, and other financial vehicles; and bank and other holding companies.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","3. Consists of wood products; nonmetallic mineral products; primary metals; other",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","transportation equipment; furniture and related products; and miscellaneous manufacturing.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","4. Consists of textile mills and textile product mills; apparel; leather and allied products;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","paper products; printing and related support activities; and plastics and rubber products.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","5. Consists of agriculture, forestry, fishing, and hunting; mining; construction; real",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","estate and rental and leasing; professional, scientific, and  technical services;",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","administrative and waste management services; educational services; health care and social",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","assistance; arts, entertainment, and recreation; accommodation and food services; and other",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","services, except government.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Note. Estimates in this table are based on the 1997 North American Industry",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","Classification System (NAICS).",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

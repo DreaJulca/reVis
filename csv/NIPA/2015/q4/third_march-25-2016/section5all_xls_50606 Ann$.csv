@@ -1,0 +1,43 @@
+"","Table 5#6#6# Real Private Fixed Investment in Intellectual Prope","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","F13","F14","F15","F16","F17","F18","F19"
+"1","[Billions of chained (2009) dollars]",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Annual data from 1999 To 2014",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Bureau of Economic Analysis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Data published August 06, 2015   ",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","File created 3/24/2016 12:21:45 PM",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Line",NA,NA,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014
+"8","1","      Private fixed investment in intellectual property products","Y001RX1",391.1,426.1,428,425.9,442.2,464.9,495,517.5,542.4,558.8,550.9,561.3,581.3,603.8,626.9,659.5
+"9","2","Software","B985RX1",154.5,175.9,177.1,176.9,189,207.9,221.2,230.3,244.2,256.2,256.8,254.2,271.8,286.6,295.8,315
+"10","3","  Prepackaged \1\","Y003RX1",35.1,38.6,40.4,45.5,51.8,59.1,63.6,64.2,66.9,70.6,71.3,64.1,72.4,80.3,85.7,96.8
+"11","4","  Custom","Y004RX1",61.1,69.9,68.2,61.1,60.4,63,69.5,75.6,83.3,88.5,86.5,93.7,100,105,105.8,108.5
+"12","5","  Own account","Y005RX1",61.6,72,72.3,71.7,77.1,85.7,87.7,90.5,94,97.2,99,96.3,99.5,101.8,105.1,111.3
+"13","6","Research and development \2,3\","Y006RX1",183.9,193,195.6,190.5,189.1,191,202.3,215,227.9,235.5,229,234.4,236.7,242.9,255.3,266.8
+"14","7","  Business","Y007RX1",172.7,181.9,184.2,178.2,176.7,178.6,189.8,202.3,215,222.4,214,218.1,219,224.8,237.7,248.7
+"15","8","    Manufacturing","Y027RX1",134.9,143.7,150.4,142.8,143.8,148.2,155.6,167.8,178.9,182.2,177.5,180.5,181.2,187.5,198.8,205.5
+"16","9","      Pharmaceutical and medicine manufacturing","Y009RX1",28.6,31.9,33.6,37.2,37.9,41.3,43.6,47.9,57.9,60.7,56.9,62,56.9,58.8,62.9,66.9
+"17","10","      Chemical manufacturing, excluding pharmaceutical and medicine","Y010RX1",9.4,9.4,9.2,7.8,8.4,8.3,8.6,8.9,9.1,11.2,10.4,11.2,10.2,10.4,10.6,9.9
+"18","11","      Semiconductor and other electronic component manufacturing","Y012RX1",13.5,14.4,16.9,16.6,17,18.8,19.7,19,19.3,22.2,20.9,22.4,24.1,26.5,29.8,29.9
+"19","12","      Other computer and electronic product manufacturing","Y013RX1",24.7,30.7,36,26.6,24,22.9,23.4,28.4,28.4,30.3,27.9,27.5,28.2,27.4,26.8,28.3
+"20","13","      Motor vehicles, bodies and trailers, and parts manufacturing","Y014RX1",19.3,18.6,17.9,17.9,18.4,18.3,18.3,18.3,17.3,13.8,12.2,12,13.6,15.5,16.2,16.8
+"21","14","      Aerospace products and parts manufacturing","Y015RX1",8.2,7.6,8.2,7.7,7.3,8.4,9.1,10.3,11,11,11.7,9,7.4,7.3,8.5,8.5
+"22","15","      Other manufacturing","Y016RX1",31.2,31,28.5,29,30.8,30.1,33,35,36,33,37.4,36.4,40.9,41.7,44,45.2
+"23","16","    Nonmanufacturing","Y028RX1",37.8,38.2,33.8,35.4,32.8,30.4,34.2,34.6,36.1,40.2,36.5,37.6,37.8,37.3,38.9,43.3
+"24","17","      Scientific research and development services","Y029RX1",4.8,5.8,6,5.4,4.9,5.8,6.1,6.6,7.4,9.1,9.1,7.5,7.5,8.4,6.9,6.7
+"25","18","      All other nonmanufacturing","Y008RX1",33.1,32.3,27.8,30,27.9,24.6,28,28,28.7,31.1,27.4,30.1,30.3,28.8,32,36.5
+"26","19","  Nonprofit institutions serving households","Y017RX1",11.2,11.2,11.4,12.3,12.4,12.5,12.5,12.7,12.9,13.1,15.1,16.3,17.7,18.1,17.6,18.1
+"27","20","    Universities and colleges \4\","Y018RX1",1.1,1.2,1.3,1.4,1.6,1.6,1.8,2,2.2,2.3,2.5,2.8,3,3.1,3,3
+"28","21","    Other nonprofit institutions","Y019RX1",10.1,10,10.1,10.8,10.9,10.8,10.7,10.7,10.7,10.9,12.5,13.5,14.7,15,14.6,15
+"29","22","Entertainment, literary, and artistic originals","Y020RX1",55.9,59.3,57.5,60.3,64.8,65.8,71.3,72.1,70.3,67.1,65.1,72.7,73.1,74.8,76,78.2
+"30","23","  Theatrical movies","Y021RX1",13.6,16.6,15.8,16.2,18,18.2,19.2,20.2,19.8,18.2,17,21.2,21.5,20.8,21,21.2
+"31","24","  Long-lived television programs","Y022RX1",20.5,20.7,20.6,23.1,25.5,25.7,30.2,30.7,29.8,28.3,28.4,31.2,32.6,35.6,36.4,38.5
+"32","25","  Books","Y023RX1",9.8,9.8,9.7,9.8,9.8,9.9,10.1,9.7,9.8,9.6,8.9,10,9.6,9.2,9.5,9.5
+"33","26","  Music","Y024RX1",9.2,9.1,8.3,8.1,8.4,8.7,8.3,8.1,7.7,7.8,7.9,7.7,7,6.9,6.6,6.6
+"34","27","  Other","Y025RX1",3.5,3.6,3.6,3.4,3.4,3.5,3.5,3.4,3.3,3.3,3,2.5,2.5,2.6,2.6,2.5
+"35","28","Residual","Y026RX1",-7.3,-7.1,-6.4,-3.4,-1.3,0.2,0.6,0,-0.2,-0.3,0,0.2,-0.6,-1.1,-1.1,-2.2
+"36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","1. Excludes software embedded, or bundled, in computers and other equipment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","2. Research and development (R&D) asset types are defined by the type of funder.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","3. R&D investment excludes expenditures for software development. Software development expenditures",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","are included in software investment on line 2.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","4. Includes R&D investment by private universities and colleges. R&D investment by public universities",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","and colleges is included in state and local government investment.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
