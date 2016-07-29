@@ -1,0 +1,268 @@
+************************************************************************************************
+ADVANCE MONTHLY SALES FOR RETAIL AND FOOD SERVICES SUMMARY - SEPTEMBER 2005
+************************************************************************************************
+
+The U.S. Census Bureau announced today that advance estimates of U.S. retail and food services sales for September, adjusted for seasonal variation and holiday and trading-day differences, but not for price changes, were $351.5 billion, an increase of 0.2 percent (±0.7%)* from the previous month and up 6.5 percent (±0.8%) from September 2004.  Total sales for the July through September 2005 period were up 8.3 percent (±0.5%) from the same period a year ago.  The July to August 2005 percent change was revised from –2.1 percent (±0.7%) to –1.9 percent (±0.3%).
+
+Retail trade sales were up 0.2 percent (±0.7%)* from August and were up 6.7 percent (±1.0%) above last year.  Gasoline station sales were up 34.8 percent (±3.3%) from September 2004 and sales of nonstore retailers were up 11.1 percent (±3.6%) from last year.  
+
+The advance estimates are based on a subsample of the Census Bureau’s full retail and food services sample.  A stratified random sampling method is used to select approximately 5,000 retail and food services firms whose sales are then weighted and benchmarked to represent the complete universe of over three million retail and food services firms.  Responding firms account for approximately 65% of the MARTS dollar volume estimate.  For an explanation of the measures of sampling variability included in this report, please see the Reliability of Estimates section on the last page of this publication.
+
+* The 90 percent confidence interval includes zero.  The Census Bureau does not have sufficient statistical evidence to conclude that the actual change is different from zero.
+
+The Advance Monthly Sales for Retail and Food Services for October is scheduled to be released November 15, 2005 at 8:30 a.m. EST.
+
+
+
+TABLE 1A.  ESTIMATED MONTHLY SALES FOR RETAIL AND FOOD SERVICES, BY KIND OF BUSINESS--September 2005
+
+(Total sales estimates are shown in millions of dollars and are based on data from the Advance Monthly Retail Trade Survey,
+ Monthly Retail Trade Survey, and administrative records.)(2)
+
+                 (In Millions of dollars)
+
+
+                                                                     2005     2005     2005     2004     2004
+   NAICS(1)                    Kind of Business                      Sep(3)   Aug      Jul      Sep      Aug
+   Code                                                              (a)      (p)      (r)      (r)      (r)
+
+                Retail & food services, total....................   351,461  350,634  357,285  329,872  324,257
+
+                 Total (excl. motor vehicle &  parts)............   278,093  275,177  272,354  253,689  251,574
+
+                   Retail .......................................   317,598  316,829  323,510  297,693  292,729
+
+                GAFO(4)..........................................       (*)   88,978   88,622   84,417   83,881
+
+   441          Motor vehicle & parts dealers....................    73,368   75,457   84,931   76,183   72,683
+   4411,4412     Auto & other motor veh. dealers.................    67,341   69,384   78,894   70,579   67,129
+
+   442          Furniture & home furnishings stores..............     9,330    9,217    9,111    8,611    8,673
+
+   443          Electronics & appliance stores....................    8,436    8,367    8,338    7,965    7,876
+   44311,13      Appl., T.V. &  camera...........................       (*)    6,804    6,763    6,389    6,346
+   44312         Computer & software stores......................       (*)    1,563    1,575    1,576    1,530
+
+   444          Building material & garden eq. & supplies dealers    27,969   27,681   27,480   25,766   25,487
+   4441          Building mat. & supplies dealers................       (*)   24,533   24,391   22,688   22,611
+
+   445          Food & beverage stores...........................    44,125   43,847   43,602   41,787   41,547
+   4451          Grocery stores..................................    39,517   39,242   39,001   37,552   37,344
+   4453          Beer, wine & liquor stores......................       (*)    2,851    2,846    2,674    2,656
+
+   446          Health & personal care stores....................    18,474   18,268   18,235   17,226   17,208
+   44611         Pharmacies & drug stores........................       (*)   15,672   15,602   14,743   14,730
+
+   447          Gasoline stations................................    35,712   34,340   32,836   26,500   26,539
+
+   448          Clothing & clothing accessories stores...........    16,673   16,712   16,627   15,771   15,646
+   44811         Men's clothing stores...........................       (*)      839      831      788      793
+   44812         Women's clothing stores.........................       (*)    3,096    3,100    2,933    2,884
+   4482          Shoe stores.....................................       (*)    1,997    2,009    1,957    1,917
+
+   451          Sporting goods, hobby, book & music stores.......     6,744    6,808    6,790    6,716    6,749
+
+   452          General merchandise stores.......................    44,955   44,567   44,439   42,109   41,735
+   4521          Department stores (ex. L.D.)....................    17,619   17,707   17,768   17,982   17,841
+   4521          Department stores (incl. L.D.)(5)...............       (*)     (NA)     (NA)     (NA)     (NA)
+   4529          Other general merchandise stores................       (*)   26,860   26,671   24,127   23,894
+   45291          Warehouse clubs & supercenters.................       (*)   23,424   23,261   20,860   20,663
+   45299          All other gen. merchandise stores..............       (*)    3,436    3,410    3,267    3,231
+
+   453          Miscellaneous store retailers....................     9,569    9,364    9,549    9,032    8,917
+
+   454          Nonstore retailers...............................    22,243   22,201   21,572   20,027   19,669
+   4541          Electronic shopping & mail-order houses.........       (*)   13,840   13,586   12,449   12,403
+
+   722          Food services & drinking places..................    33,863   33,805   33,775   32,179   31,528
+
+
+
+
+TABLE 1B.  ESTIMATED MONTHLY SALES FOR RETAIL AND FOOD SERVICES, BY KIND OF BUSINESS--September 2005
+
+Data not adjusted for seasonal variations, holiday, trading-day differences, and price changes.
+                 (In Millions of dollars and Annual Percent Change)
+
+                                                                       9 month total
+                                                                                 % Chg.   2005     2005     2005     2004     2004
+   NAICS(1)                    Kind of Business                        2005       from    Sep(2)   Aug      Jul      Sep      Aug
+   Code                                                                           2004    (a)      (p)      (r)      (r)      (r)
+
+                Retail & food services, total....................   3,069,448      7.6   341,813  364,594  360,366  319,134  331,754
+
+                 Total (excl. motor vehicle &  parts)............   2,359,249      8.1   269,687  280,952  270,029  243,939  253,816
+
+                   Retail .......................................   2,767,134      7.7   308,593  329,403  324,497  287,953  298,902
+
+                GAFO(3)..........................................         (*)       (*)      (*)   89,115   83,957   77,389   83,569
+
+   441          Motor vehicle & parts dealers....................     710,199      5.9    72,126   83,642   90,337   75,195   77,938
+   4411,4412     Auto & other motor veh. dealers.................     655,588      5.7    66,129   77,016   84,101   69,591   72,029
+   44111          New car dealers................................         (*)       (*)      (*)   63,538   70,442   59,517   60,826
+   4413          Auto parts, acc. & tire stores..................         (*)       (*)      (*)    6,626    6,236    5,604    5,909
+
+   442          Furniture & home furnishings stores..............      78,257      4.8     9,199    9,632    8,956    8,413    8,855
+   4421          Furniture stores................................         (*)       (*)      (*)    5,204    4,899    4,587    4,851
+   4422          Home furnishings stores.........................         (*)       (*)      (*)    4,428    4,057    3,826    4,004
+
+   443          Electronics & appliance stores....................     69,130      5.7     7,756    8,361    7,778    7,293    7,805
+   44311,13      Appl., T.V. &  camera...........................         (*)       (*)      (*)    6,736    6,290    5,712    6,244
+   44312         Computer & software stores......................         (*)       (*)      (*)    1,625    1,488    1,581    1,561
+
+   444          Building material & garden eq. & supplies dealers     249,207      9.0    28,438   29,638   28,290   26,028   26,545
+   4441          Building mat. & supplies dealers................         (*)       (*)      (*)   26,839   25,269   23,664   24,126
+
+   445          Food & beverage stores...........................     385,389      4.8    43,506   44,111   44,930   41,016   41,350
+   4451          Grocery stores..................................     346,436      4.4    39,082   39,517   40,132   36,989   37,232
+   4453          Beer, wine & liquor stores......................         (*)       (*)      (*)    2,854    2,980    2,599    2,600
+
+   446          Health & personal care stores....................     160,819      6.1    17,790   18,359   17,688   16,537   16,933
+   44611         Pharmacies & drug stores........................         (*)       (*)      (*)   15,641   15,056   14,227   14,376
+
+   447          Gasoline stations................................     285,815     21.0    36,890   37,225   34,839   27,083   28,370
+
+   448          Clothing & clothing accessories stores...........     136,033      5.6    15,027   16,657   15,236   14,209   15,556
+   44811         Men's clothing stores...........................         (*)       (*)      (*)      843      735      707      799
+   44812         Women's clothing stores.........................         (*)       (*)      (*)    2,870    2,753    2,795    2,665
+   44814         Family clothing stores..........................         (*)       (*)      (*)    6,426    6,006    5,360    5,972
+   4482          Shoe stores.....................................         (*)       (*)      (*)    2,389    1,989    1,793    2,281
+
+   451          Sporting goods, hobby, book & music stores.......      55,662      1.6     6,339    7,380    6,233    6,246    7,181
+
+   452          General merchandise stores.......................     370,729      6.3    40,764   43,462   42,711   38,074   40,727
+   4521          Department stores (ex. L.D.)....................     145,269     -0.4    15,547   17,152   16,271   16,006   17,203
+   4521          Department stores (incl. L.D.)(4)...............         (*)       (*)      (*)   17,313   16,429   16,199   17,404
+   4529          Other general merchandise stores................         (*)       (*)      (*)   26,310   26,440   22,068   23,524
+   45291          Warehouse clubs & supercenters.................         (*)       (*)      (*)   23,073   23,214   19,108   20,477
+   45299          All other gen. merchandise stores..............         (*)       (*)      (*)    3,237    3,226    2,960    3,047
+
+   453          Miscellaneous store retailers....................      82,549      6.0     9,397    9,742    9,193    8,777    9,126
+
+   454          Nonstore retailers...............................     183,345     12.0    21,361   21,194   18,306   19,082   18,516
+   4541          Electronic shopping & mail-order houses.........         (*)       (*)      (*)   13,771   12,146   11,926   12,093
+
+   722          Food services & drinking places..................     302,314      6.8    33,220   35,191   35,869   31,181   32,852
+ 
+ 
+  
+                (*) Advance estimates are not available for this kind of business.
+ 
+                (NA) Not available  (a) Advance estimate  (p) Preliminary estimate  (r) Revised estiamte
+
+
+
+TABLE 2. ESTIMATED CHANGE IN SALES FOR RETAIL AND FOOD SERVICES, BY KIND OF BUSINESS--September 2005
+
+(Estimates are shown as percents and are based on data from the Advance Monthly Retail Trade Survey,
+ Monthly Retail Trade Survey, and administrative records.)
+
+                                                                        Sep             Aug
+                                                                        2005            2005
+                                                                        adv.            prel.
+                                                                        from--          from--
+
+
+
+   NAICS                       Kind of Business                      Aug     Sep     Jul     Aug
+   Code                                                              2005    2004    2005    2004
+                                                                     (p)     (r)     (r)     (r)
+
+                Retail & food Services, total....................     +0.2    +6.5    -1.9    +8.1
+
+                  Total (excl. motor vehicle &  parts )..........     +1.1    +9.6    +1.0    +9.4
+
+                        Retail ..................................     +0.2    +6.7    -2.1    +8.2
+
+   441          Motor vehicle & parts dealers....................     -2.8    -3.7   -11.2    +3.8
+   4411,4412       Auto & other motor veh. dealers...............     -2.9    -4.6   -12.1    +3.4
+
+   442          Furniture & home furnishings stores..............     +1.2    +8.3    +1.2    +6.3
+
+   443          Electronics & appliance stores...................     +0.8    +5.9    +0.3    +6.2
+
+   444          Building material & garden eq. & supplies dealers     +1.0    +8.6    +0.7    +8.6
+
+   445          Food & beverage stores...........................     +0.6    +5.6    +0.6    +5.5
+   4451          Grocery stores..................................     +0.7    +5.2    +0.6    +5.1
+
+   446          Health & personal care stores....................     +1.1    +7.2    +0.2    +6.2
+
+   447          Gasoline stations................................     +4.0   +34.8    +4.6   +29.4
+
+   448          Clothing & clothing accessories stores...........     -0.2    +5.7    +0.5    +6.8
+
+   451          Sporting goods, hobby, book & music stores........    -0.9    +0.4    +0.3    +0.9
+
+   452          General merchandise stores.......................     +0.9    +6.8    +0.3    +6.8
+   4521          Department stores (ex. L.D.)....................     -0.5    -2.0    -0.3    -0.8
+
+   453          Miscellaneous stores retailers...................     +2.2    +5.9    -1.9    +5.0
+
+   454          Nonstore retailers...............................     +0.2   +11.1    +2.9   +12.9
+
+   722          Food services & drinking places..................     +0.2    +5.2    +0.1    +7.2
+
+  
+
+Data not adjusted for seasonal variations, holiday, trading-day differences, and price changes.
+
+
+
+                                                                        Sep             Aug
+                                                                        2005            2005
+                                                                        adv.            prel.
+                                                                        from--          from--
+
+
+
+   NAICS                       Kind of Business                      Aug     Sep     Jul     Aug
+   Code                                                              2005    2004    2005    2004
+                                                                     (p)     (r)     (r)     (r)
+
+                Retail & food Services, total....................     -6.2    +7.1    +1.2    +9.9
+
+                  Total (excl. motor vehicle &  parts )..........     -4.0   +10.6    +4.0   +10.7
+
+                        Retail ..................................     -6.3    +7.2    +1.5   +10.2
+
+   441          Motor vehicle & parts dealers....................    -13.8    -4.1    -7.4    +7.3
+   4411,4412       Auto & other motor veh. dealers................   -14.1    -5.0    -8.4    +6.9
+
+   442          Furniture & home furnishings stores..............     -4.5    +9.3    +7.5    +8.8
+
+   443          Electronics & appliance stores...................     -7.2    +6.3    +7.5    +7.1
+
+   444          Building material & garden eq. & supplies dealers     -4.0    +9.3    +4.8   +11.7
+
+   445          Food & beverage stores...........................     -1.4    +6.1    -1.8    +6.7
+   4451          Grocery stores..................................     -1.1    +5.7    -1.5    +6.1
+
+   446          Health & personal care stores....................     -3.1    +7.6    +3.8    +8.4
+
+   447          Gasoline stations................................     -0.9   +36.2    +6.8   +31.2
+
+   448          Clothing & clothing accessories stores...........     -9.8    +5.8    +9.3    +7.1
+
+   451          Sporting goods, hobby, book & music stores........   -14.1    +1.5   +18.4    +2.8
+
+   452          General merchandise stores.......................     -6.2    +7.1    +1.8    +6.7
+   4521          Department stores (ex. L.D.)....................     -9.4    -2.9    +5.4    -0.3
+
+   453          Miscellaneous stores retailers...................     -3.5    +7.1    +6.0    +6.7
+
+   454          Nonstore retailers...............................     +0.8   +11.9   +15.8   +14.5
+
+   722          Food services & drinking places..................     -5.6    +6.5    -1.9    +7.1
+ 
+ 
+ 
+  (p) Preliminary estimate  (r) Revised estimate
+ 
+  (*) Estimates shown in this table are derived from adjusted estimates provided in Table 1 of this report.
+
+
+
+
+Source: U. S. Census Bureau 
+        Service Sector Statistics Division

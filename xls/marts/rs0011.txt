@@ -1,0 +1,516 @@
+ADVANCE MONTHLY RETAIL SALES SUMMARY - November 2000
+
+The Census Bureau of the Department of Commerce announced today that advance estimates of 
+U.S. retail sales for November, adjusted for seasonal, holiday, and trading-day differences,
+but not for price changes, were $271.7 billion, a decrease of 0.4 percent (±0.7%) from the 
+previous month, but up 5.2 percent (±0.9%) from November 1999.  Total sales for the September 
+through November period were up 6.5 percent (±0.7%) from the same period a year ago.  
+The September to October 2000 percent change was revised from +0.1 percent (±0.3%) to 
+unchanged (±0.3%).
+
+Durable goods decreased 1.1 percent (±1.4%) from October, but were 0.9 (±1.8%)  percent 
+above last year.  Furniture sales were up 6.3 percent from November a year ago.
+
+Nondurable goods increased 0.1 percent (±0.6%) from October and were up 8.4 percent from 
+November 1999.  Gasoline sales were up 15.1 percent from November a year ago, while drug
+store sales were up 10.3 percent from last year.
+
+The scheduled release dates for 2001 are as follows: January 12, February 13, March 13, 
+April 12, May 11, June 13, July 13, August 14, September 14, October 12, November 14 and
+December 13.
+
+The advance estimates are based on a small subsample of the Bureau's full retail sales sample.
+Estimates from the advance and the subsequent full survey can differ because of the earlier 
+reporting in the advance and because of sampling variability present in both surveys.
+
+The Advance Monthly Retail Sales Report for December is scheduled to be released
+January 12, 2001 at 8:30 a.m.
+
+TABLE 1A.  ESTIMATED ADVANCE MONTHLY RETAIL SALES--November 2000
+
+Adjusted for Seasonal, Holiday and Trading-day Differences
+                 (Millions of dollars)
+
+                                                                                   
+                                                          2000     2000     2000   
+   SIC                        Kind of business            Nov      Oct      Sep    
+   code                                                   adv.     prel.    final  
+                                                                                   
+                    Retail trade, total...........       271,693  272,797  272,714 
+                                                                                   
+                                                                                   
+                       Total (excl. auto dealers).       206,233  205,843  205,071 
+                                                                                   
+                                                                                   
+                      Durable goods, total........       110,276  111,532  112,186 
+                                                                                   
+                                                                                   
+   52           Building mat., hardware, garden                                    
+                 supply, and mobile home dealers..        15,312   15,296   15,085 
+   521,3          Building mat. and supply stores.           (*)   12,134   11,939 
+   525            Hardware stores.................           (*)    1,297    1,281 
+                                                                                   
+   55 ex. 554   Automotive dealers................        65,460   66,954   67,643 
+   551,2,5,       Motor vehicle and miscellaneous                                  
+    6,7,9          automotive dealers.............        62,111   63,569   64,058 
+   551              Motor vehicle (franchised)....           (*)     (NA)     (NA) 
+   553            Auto and home supply stores.....           (*)    3,385    3,585 
+                                                                                   
+   57           Furniture, home furnishings, and                                   
+                 equipment stores.................        14,752   14,534   14,526 
+   571            Furniture and home furnishings..           (*)    7,010    6,996 
+   5722,31,4      Household appliance, radio, TV,                                  
+                   and computer stores............           (*)    6,446    6,461 
+   5722             Household appliance stores....           (*)     (NA)     (NA) 
+                                                                                   
+                                                                                   
+                      Nondurable goods, total.....       161,417  161,265  160,528 
+                                                                                   
+                                                                                   
+   53           General merchandise group stores..        34,420   34,484   34,314 
+   531            Dept. stores (ex. leased depts.)        26,794   26,744   26,631 
+   531            Dept. stores (in. leased depts.)           (*)   27,275   27,136 
+   533            Variety stores..................           (*)    1,400    1,400 
+   539            Misc. general mdse. stores......           (*)    6,340    6,283 
+                                                                                   
+   54           Food stores.......................        41,023   40,812   40,588 
+   541            Grocery stores..................        38,895   38,689   38,436 
+                                                                                   
+   554          Gasoline service stations.........        18,689   18,642   18,549 
+                                                                                   
+   56           Apparel and accessory stores......        12,211   12,116   12,066 
+   561            Men's and boys' clothing                                         
+                   and furnishings stores.........           (*)      957      967 
+   562,3          Women's clothing, accessory                                      
+                    stores........................           (*)    3,421    3,406 
+   565            Family clothing stores..........           (*)     (NA)     (NA) 
+   566            Shoe stores.....................           (*)    1,830    1,827 
+                                                                                   
+   58           Eating and drinking places........        25,806   25,762   25,825 
+                                                                                   
+   591          Drug and proprietary stores.......        11,419   11,465   11,286 
+                                                                                   
+   592          Liquor stores.....................           (*)    2,572    2,556 
+                                                                                   
+   5961        Total mail order...................           (*)    9,286    9,210 
+                                                                                   
+   53,56,57,   GAF................................           (*)   70,700   70,559 
+    594                                                                            
+ 
+ 
+ 
+ 
+                                                                        
+                                                        1999     1999   
+   SIC                        Kind of business                          
+   code                                                 Nov(r)   Oct(r) 
+                                                                        
+                    Retail trade, total...........     258,242  254,867 
+                                                                        
+                                                                        
+                       Total (excl. auto dealers).     192,726  191,213 
+                                                                        
+                                                                        
+                      Durable goods, total........     109,331  106,801 
+                                                                        
+                                                                        
+   52           Building mat., hardware, garden                         
+                 supply, and mobile home dealers..      15,525   15,024 
+   521,3          Building mat. and supply stores.      12,043   11,733 
+   525            Hardware stores.................       1,318    1,293 
+                                                                        
+   55 ex. 554   Automotive dealers................      65,516   63,654 
+   551,2,5,       Motor vehicle and miscellaneous                       
+    6,7,9          automotive dealers.............      62,080   60,388 
+   551              Motor vehicle (franchised)....        (NA)     (NA) 
+   553            Auto and home supply stores.....       3,436    3,266 
+                                                                        
+   57           Furniture, home furnishings, and                        
+                 equipment stores.................      13,881   13,866 
+   571            Furniture and home furnishings..       6,642    6,662 
+   5722,31,4      Household appliance, radio, TV,                       
+                   and computer stores............       6,130    6,156 
+   5722             Household appliance stores....        (NA)     (NA) 
+                                                                        
+                                                                        
+                      Nondurable goods, total.....     148,911  148,066 
+                                                                        
+                                                                        
+   53           General merchandise group stores..      32,249   32,045 
+   531            Dept. stores (ex. leased depts.)      25,184   24,994 
+   531            Dept. stores (in. leased depts.)      25,577   25,474 
+   533            Variety stores..................       1,260    1,272 
+   539            Misc. general mdse. stores......       5,805    5,779 
+                                                                        
+   54           Food stores.......................      38,791   38,548 
+   541            Grocery stores..................      36,763   36,605 
+                                                                        
+   554          Gasoline service stations.........      16,242   16,019 
+                                                                        
+   56           Apparel and accessory stores......      11,240   11,285 
+   561            Men's and boys' clothing                              
+                   and furnishings stores.........         923      915 
+   562,3          Women's clothing, accessory                           
+                    stores........................       3,027    3,015 
+   565            Family clothing stores..........        (NA)     (NA) 
+   566            Shoe stores.....................       1,773    1,778 
+                                                                        
+   58           Eating and drinking places........      24,576   24,408 
+                                                                        
+   591          Drug and proprietary stores.......      10,356   10,255 
+                                                                        
+   592          Liquor stores.....................       2,402    2,388 
+                                                                        
+   5961        Total mail order...................       7,792    7,816 
+                                                                        
+   53,56,57,   GAF................................      66,410   66,211 
+    594                                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) Advance estimates are not available from the
+subsample panel for these kinds of business.
+ 
+(NA) Not available.  (r) Revised.
+
+
+TABLE 1B.  ESTIMATED ADVANCE MONTHLY RETAIL SALES--November 2000
+
+Not adjusted for Seasonal, Holiday and Trading-day Differences
+                 (Millions of dollars)
+
+                                                                                   
+                                                          2000     2000     2000   
+   SIC                        Kind of business            Nov      Oct      Sep    
+   code                                                   adv.     prel.    final  
+                                                                                   
+                    Retail trade, total...........       272,611  266,011  264,793 
+                                                                                   
+                                                                                   
+                       Total (excl. auto dealers).       214,020  201,267  198,082 
+                                                                                   
+                                                                                   
+                      Durable goods, total........       104,499  107,495  109,555 
+                                                                                   
+                                                                                   
+   52           Building mat., hardware, garden                                    
+                 supply, and mobile home dealers..        14,516   15,830   15,285 
+   521,3          Building mat. and supply stores.           (*)   12,813   12,261 
+   525            Hardware stores.................           (*)    1,275    1,273 
+                                                                                   
+   55 ex. 554   Automotive dealers................        58,591   64,744   66,711 
+   551,2,5,       Motor vehicle and miscellaneous                                  
+    6,7,9          automotive dealers.............        55,279   61,217   63,097 
+   551             Motor vehicle (franchised)....            (*)   52,515   53,896 
+   553            Auto and home supply stores.....           (*)    3,527    3,614 
+                                                                                   
+   57           Furniture, home furnishings, and                                   
+                 equipment stores.................        15,873   13,707   13,956 
+   571            Furniture and home furnishings..           (*)    6,947    6,849 
+   5722,31,4      Household appliance, radio, TV,                                  
+                   and computer stores............           (*)    5,776    6,067 
+   5722             Household appliance stores....           (*)    1,019    1,004 
+                                                                                   
+                                                                                   
+                      Nondurable goods, total.....       168,112  158,516  155,238 
+                                                                                   
+                                                                                   
+   53           General merchandise group stores..        40,029   32,630   31,200 
+   531            Dept. stores (ex. leased depts.)        31,617   25,113   24,101 
+   531            Dept. stores (in. leased depts.)           (*)   25,570   24,538 
+   533            Variety stores..................           (*)    1,380    1,275 
+   539            Misc. general mdse. stores......           (*)    6,137    5,824 
+                                                                                   
+   54           Food stores.......................        41,044   39,897   40,116 
+   541            Grocery stores..................        38,973   37,838   38,052 
+                                                                                   
+   554          Gasoline service stations.........        17,923   18,866   18,901 
+                                                                                   
+   56           Apparel and accessory stores......        13,811   11,655   11,702 
+   561            Men's and boys' clothing                                         
+                   and furnishings stores.........           (*)      940      904 
+   562,3          Women's clothing, accessary                                      
+                    stores........................           (*)    3,247    3,253 
+   565            Family clothing stores..........           (*)    4,623    4,492 
+   566            Shoe stores.....................           (*)    1,649    1,767 
+                                                                                   
+   58           Eating and drinking places........        24,619   25,942   25,748 
+                                                                                   
+   591          Drug and proprietary stores.......        11,213   11,213   10,699 
+                                                                                   
+   592          Liquor stores.....................           (*)    2,461    2,502 
+                                                                                   
+   5961        Total mail order...................           (*)    9,685    8,832 
+                                                                                   
+   53,56,57,   GAF................................           (*)   66,276   65,478 
+    594                                                                            
+                                                                        
+                                                        1999     1999   
+   SIC                        Kind of business                          
+   code                                                 Nov      Oct    
+                                                                        
+                    Retail trade, total...........     257,707  250,793 
+                                                                        
+                                                                        
+                       Total (excl. auto dealers).     198,764  189,497 
+                                                                        
+                                                                        
+                      Durable goods, total........     104,063  102,741 
+                                                                        
+                                                                        
+   52           Building mat., hardware, garden                         
+                 supply, and mobile home dealers..      14,942   15,288 
+   521,3          Building mat. and supply stores.      11,790   12,144 
+   525            Hardware stores.................       1,289    1,298 
+                                                                        
+   55 ex. 554   Automotive dealers................      58,943   61,296 
+   551,2,5,       Motor vehicle and miscellaneous                       
+    6,7,9          automotive dealers.............      55,562   57,912 
+   551             Motor vehicle (franchised)....       48,004   49,570 
+   553            Auto and home supply stores.....       3,381    3,384 
+                                                                        
+   57           Furniture, home furnishings, and                        
+                 equipment stores.................      14,919   13,240 
+   571            Furniture and home furnishings..       7,319    6,682 
+   5722,31,4      Household appliance, radio, TV,                       
+                   and computer stores............       6,461    5,571 
+   5722             Household appliance stores....         996      944 
+                                                                        
+                                                                        
+                      Nondurable goods, total.....     153,644  148,052 
+                                                                        
+                                                                        
+   53           General merchandise group stores..      36,590   31,148 
+   531            Dept. stores (ex. leased depts.)      28,810   24,169 
+   531            Dept. stores (in. leased depts.)      29,368   24,632 
+   533            Variety stores..................       1,418    1,281 
+   539            Misc. general mdse. stores......       6,362    5,698 
+                                                                        
+   54           Food stores.......................      38,256   38,525 
+   541            Grocery stores..................      36,285   36,605 
+                                                                        
+   554          Gasoline service stations.........      15,657   16,339 
+                                                                        
+   56           Apparel and accessory stores......      12,397   11,233 
+   561            Men's and boys' clothing                              
+                   and furnishings stores.........       1,046      932 
+   562,3          Women's clothing, accessary                           
+                    stores........................       3,209    2,958 
+   565            Family clothing stores..........       5,364    4,587 
+   566            Shoe stores.....................       1,693    1,654 
+                                                                        
+   58           Eating and drinking places........      23,421   25,067 
+                                                                        
+   591          Drug and proprietary stores.......      10,128   10,050 
+                                                                        
+   592          Liquor stores.....................       2,428    2,369 
+                                                                        
+   5961        Total mail order...................       9,195    8,066 
+                                                                        
+   53,56,57,   GAF................................      73,940   63,572 
+    594                                                                 
+ 
+(*) Advance estimates are not available from the
+subsample panel for these kinds of business.
+ 
+(NA) Not available.  (r) Revised.
+
+TABLE 1C.  ESTIMATED ADVANCE MONTHLY RETAIL SALES--November 2000
+
+Not adjusted for Seasonal, Holiday and Trading-day Differences
+                 (Millions of dollars)
+
+                                                         1 month total   
+                                                                  Change 
+   SIC                        Kind of business          2000       from  
+   code                                                            1999  
+                                                                         
+                    Retail trade, total...........     2914391       8.7 
+                                                                         
+                                                                         
+                       Total (excl. auto dealers).     2170839       8.9 
+                                                                         
+                                                                         
+                      Durable goods, total........     1217747       7.3 
+                                                                         
+                                                                         
+   52           Building mat., hardware, garden                          
+                 supply, and mobile home dealers..     170,671       3.1 
+   521,3          Building mat. and supply stores.         (*)       (*) 
+   525            Hardware stores.................         (*)       (*) 
+                                                                         
+   55 ex. 554   Automotive dealers................     743,552       7.8 
+   551,2,5,       Motor vehicle and miscellaneous                        
+    6,7,9          automotive dealers.............     704,939       8.0 
+   551             Motor vehicle (franchised)....          (*)       (*) 
+   553            Auto and home supply stores.....         (*)       (*) 
+                                                                         
+   57           Furniture, home furnishings, and                         
+                 equipment stores.................     153,550       8.4 
+   571            Furniture and home furnishings..         (*)       (*) 
+   5722,31,4      Household appliance, radio, TV,                        
+                   and computer stores............         (*)       (*) 
+   5722             Household appliance stores....         (*)       (*) 
+                                                                         
+                                                                         
+                      Nondurable goods, total.....     1696644       9.7 
+                                                                         
+                                                                         
+   53           General merchandise group stores..     350,087       7.9 
+   531            Dept. stores (ex. leased depts.)     271,287       7.1 
+   531            Dept. stores (in. leased depts.)         (*)       (*) 
+   533            Variety stores..................         (*)       (*) 
+   539            Misc. general mdse. stores......         (*)       (*) 
+                                                                         
+   54           Food stores.......................     439,040       6.0 
+   541            Grocery stores..................     416,410       5.9 
+                                                                         
+   554          Gasoline service stations.........     199,721      21.6 
+                                                                         
+   56           Apparel and accessory stores......     123,735       5.8 
+   561            Men's and boys' clothing                               
+                   and furnishings stores.........         (*)       (*) 
+   562,3          Women's clothing, accessary                            
+                    stores........................         (*)       (*) 
+   565            Family clothing stores..........         (*)       (*) 
+   566            Shoe stores.....................         (*)       (*) 
+                                                                         
+   58           Eating and drinking places........     280,705       7.7 
+                                                                         
+   591          Drug and proprietary stores.......     118,290       9.7 
+                                                                         
+   592          Liquor stores.....................         (*)       (*) 
+                                                                         
+   5961        Total mail order...................         (*)       (*) 
+                                                                         
+   53,56,57,   GAF................................         (*)       (*) 
+    594                                                                  
+ 
+(*) Advance estimates are not available from the
+subsample panel for these kinds of business.
+ 
+(NA) Not available.  (r) Revised.
+
+
+SOURCE: Advance Monthly Retail Sales--November 2000 (Press Release 
+available without charge from Public Information Office, Bureau of the Census
+Washington, D.C. 20233). Survey methodology and measures of sampling
+variability are documented in the Advance Press Release. Questions
+concerning this report should be directed to Mr. Scott Scheleur
+(301) 457-2713/2666.
+
+
+TABLE 2.  PERCENT CHANGE IN ADVANCE MONTHLY RETAIL SALES--November 2000
+
+Adjusted for Seasonal, Holiday and Trading-day Differences
+                    (Percent Change)
+
+                                                        Nov             Oct                        
+                                                        2000            2000                       
+                                                        adv.            prel.                      
+                                                        from--          from--                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+   SIC                        Kind of business       Oct     Nov     Sep     Oct                   
+   CODE                                              2000    1999    2000    1999                  
+                                                     Prel.   Final   Final   Final                 
+                                                                                                   
+                    Retail trade, total...........    -0.4    +5.2     0.0    +7.0                 
+                                                                                                   
+                                                                                                   
+                       Total (excl. auto dealers).    +0.2    +7.0    +0.4    +7.7                 
+                                                                                                   
+                                                                                                   
+                      Durable goods, total........    -1.1    +0.9    -0.6    +4.4                 
+                                                                                                   
+                                                                                                   
+   52           Building mat., hardware, garden                                                    
+                 supply, and mobile home dealers..    +0.1    -1.4    +1.4    +1.8                 
+   55 ex. 554   Automotive dealers................    -2.2    -0.1    -1.0    +5.2                 
+   551,2,5,       Motor vehicle and miscellaneous                                                  
+    6,7,9          automotive dealers.............    -2.3     0.0    -0.8    +5.3                 
+   57           Furniture, home furnishings, and                                                   
+                 equipment stores.................    +1.5    +6.3    +0.1    +4.8                 
+                                                                                                   
+                                                                                                   
+                      Nondurable goods, total.....    +0.1    +8.4    +0.5    +8.9                 
+                                                                                                   
+                                                                                                   
+   53           General merchandise group stores..    -0.2    +6.7    +0.5    +7.6                 
+   531            Dept. stores (ex. leased dept.).    +0.2    +6.4    +0.4    +7.0                 
+   531            Dept. stores (in. leased dept.).    (NA)    (NA)    +0.5    +7.1                 
+   54           Food stores.......................    +0.5    +5.8    +0.6    +5.9                 
+   541            Grocery stores..................    +0.5    +5.8    +0.7    +5.7                 
+                                                                                                   
+                                                                                                   
+   554          Gasoline service stations.........    +0.3   +15.1    +0.5   +16.4                 
+   56           Apparel and accessory stores......    +0.8    +8.6    +0.4    +7.4                 
+   58           Eating and drinking places........    +0.2    +5.0    -0.2    +5.5                 
+   591          Drug and proprietary stores.......    -0.4   +10.3    +1.6   +11.8                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Not Adjusted for Seasonal, Holiday and Trading-day Differences
+                    (Percent Change)
+
+                                                        Nov             Oct                        
+                                                        2000            2000                       
+                                                        adv.            prel.                      
+                                                        from--          from--                     
+                                                                                                   
+                                                                                                   
+                                                                                                   
+   SIC                        Kind of business       Oct     Nov     Sep     Oct                   
+   CODE                                              2000    1999    2000    1999                  
+                                                     Prel.   Final   Final   Final                 
+                                                                                                   
+                    Retail trade, total...........    +2.5    +5.8    +0.5    +6.1                 
+                                                                                                   
+                                                                                                   
+                        Total (excl. auto group)..    +6.3    +7.7    +1.6    +6.2                 
+                                                                                                   
+                                                                                                   
+                      Durable goods, total........    -2.8    +0.4    -1.9    +4.6                 
+                                                                                                   
+                                                                                                   
+   52           Building mat., hardware, garden                                                    
+                 supply, and mobile home dealers..    -8.3    -2.9    +3.6    +3.5                 
+   55 ex. 554   Automotive dealers................    -9.5    -0.6    -2.9    +5.6                 
+   551,2,5,       Motor vehicle and miscellaneous                                                  
+    6,7,9          automotive dealers.............    -9.7    -0.5    -3.0    +5.7                 
+   57           Furniture, home furnishings, and                                                   
+                 equipment stores.................   +15.8    +6.4    -1.8    +3.5                 
+                                                                                                   
+                                                                                                   
+                      Nondurable goods, total.....    +6.1    +9.4    +2.1    +7.1                 
+                                                                                                   
+                                                                                                   
+   53           General merchandise group stores..   +22.7    +9.4    +4.6    +4.8                 
+   531            Dept. stores (ex. leased dept.).   +25.9    +9.7    +4.2    +3.9                 
+   531            Dept. stores (in. leased dept.).    (NA)    (NA)    +4.2    +3.8                 
+   54           Food stores.......................    +2.9    +7.3    -0.5    +3.6                 
+   541            Grocery stores..................    +3.0    +7.4    -0.6    +3.4                 
+                                                                                                   
+                                                                                                   
+   554          Gasoline service stations.........    -5.0   +14.5    -0.2   +15.5                 
+   56           Apparel and accessory stores......   +18.5   +11.4    -0.4    +3.8                 
+   58           Eating and drinking places........    -5.1    +5.1    +0.8    +3.5                 
+   591          Drug and proprietary stores.......     0.0   +10.7    +4.8   +11.6                 
+ 
+(NA)  Not Available.
+
+
+SOURCE: Advance Monthly Retail Sales--November 2000 (Press Release 
+available without charge from Public Information Office, Bureau of the Census
+Washington, D.C. 20233). Survey methodology and measures of sampling
+variability are documented in the Advance Press Release. Questions
+concerning this report should be directed to Mr. Scott Scheleur
+(301) 457-2713/2666.
