@@ -1,0 +1,18 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2012 NAICS code
+NAICS.display-label,Meaning of 2012 NAICS code
+NAICS.annotation.id,Id
+PRODSVC2012.id,Products and services code
+PRODSVC2012.display-label,Meaning of Products and services code
+PRODSVC2012.annotation.id,Id
+YEAR.id,Year
+ESTAB,Number of establishments
+TVALLN,"Total sales of estabs reporting product line ($1,000)"
+RCPTOT,"Sales ($1,000)"
+LINE_PCT,Product line sales as % of total sales of estabs reporting line (%)
+LINEALL_PCT,Product line sales as % of total sales of all estabs (%)
+LINE_COV,Response coverage of product lines inquiry (%)
+KB_PCT,Percent of sales accounted for by industry (%)

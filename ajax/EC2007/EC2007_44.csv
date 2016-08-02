@@ -1,0 +1,49 @@
+GEO.id,GEO.id2,GEO.display-label,GEO.annotation.id,NAICS.id,NAICS.display-label,NAICS.annotation.id,PSCODE.id,PSCODE.display-label,PSCODE.annotation.id,YEAR.id,ESTAB,TVALLN,RCPTOT,LINE_PCT,LINEALL_PCT,LINE_COV,KB_PCT
+Geographic identifier code,Id2,Geographic area name,Id,2007 NAICS code,Meaning of 2007 NAICS code,Id,Products and services code,Meaning of Products and services code,Id,Year,Number of establishments,"Total sales, receipts, or revenue of establishments with the product line ($1,000)","Sales ($1,000)","Sales, receipts, or revenue of product line as % of total sales, receipts, or revenue of estabs with the product line (%)","Sales, receipts, or revenue of product line as percent of total sales, receipts, or revenue of industry (%)","Sales, receipts, or revenue of establishments reporting product lines as percent of total sales, receipts, or revenue (%)",Broad line sls for industry as % of sector tot broad line sls (%)
+0100000US,,United States,,44-45,Retail trade,,20000,Industry total,,2007,1128112,,3917663456,,100.0,81.3,
+0100000US,,United States,,44-45,Retail trade,,20100,"Groceries and other food items for human consumption off the premises, including bottled, canned, or packaged soft drinks; candy; gum; packaged snacks; etc.",,2007,361463,1817720624,567531458,31.2,14.5,,100.0
+0100000US,,United States,,44-45,Retail trade,,20130,Alcoholic beverages prepared and served or dispensed for immediate consumption,,2007,2079,2432356,206482,8.5,,,100.0
+0100000US,,United States,,44-45,Retail trade,,20140,"Packaged liquor, wine, and beer",,2007,182955,1114066843,70211513,6.3,1.8,,100.0
+0100000US,,United States,,44-45,Retail trade,,20150,"Cigars, cigarettes, tobacco, and smokers' accessories, excluding sales from vending machines operated by others",,2007,235707,1358935592,59542002,4.4,1.5,,100.0
+0100000US,,United States,,44-45,Retail trade,,20160,"Drugs, health aids, beauty aids, including cosmetics",,2007,282952,1606096575,385511338,24.0,9.8,,100.0
+0100000US,,United States,,44-45,Retail trade,,20180,"Soaps, detergents, and household cleaners",,2007,195305,1360398865,30272094,2.2,0.8,,100.0
+0100000US,,United States,,44-45,Retail trade,,20190,"Paper and related products, including paper towels, toilet tissue, wraps, bags, foils, etc.",,2007,187332,1217883097,29201765,2.4,0.7,,100.0
+0100000US,,United States,,44-45,Retail trade,,20200,"Men's wear, including accessories",,2007,136090,851788165,68801180,8.1,1.8,,100.0
+0100000US,,United States,,44-45,Retail trade,,20220,"Women's, juniors', and misses' wear, including accessories",,2007,176237,790239869,147852508,18.7,3.8,,100.0
+0100000US,,United States,,44-45,Retail trade,,20240,"Children's wear, including boys' (sizes 2 to 7 and 8 to 20), girls' (sizes 4 to 6x and 7 to 14), and infants' and toddlers' clothing and accessories",,2007,97150,678450354,39365259,5.8,1.0,,100.0
+0100000US,,United States,,44-45,Retail trade,,20260,"Footwear, including accessories",,2007,139676,708675536,51815466,7.3,1.3,,100.0
+0100000US,,United States,,44-45,Retail trade,,20270,"Sewing, knitting materials and supplies, needlework goods, including fabrics, patterns, sewing supplies, notions, yarns, laces, trimmings, needlework kits, etc.",,2007,26620,384225672,4523871,1.2,0.1,,100.0
+0100000US,,United States,,44-45,Retail trade,,20280,"Curtains, draperies, blinds, slipcovers, bed and table coverings",,2007,80154,805781611,27169155,3.4,0.7,,100.0
+0100000US,,United States,,44-45,Retail trade,,20300,"Major household appl, incl vacuum cleaners, sewing machines, refrigerators, freezers, dehumidifiers, room air-conditioners, dishwashers, ranges, microwaves, washers & dryers, outdoor gas grills, etc.",,2007,48589,743923434,33810540,4.5,0.9,,100.0
+0100000US,,United States,,44-45,Retail trade,,20310,"Small electric appliances, including mixers; blenders; can openers; toasters; coffee makers; fry pans; and personal care appliances, such as hair dryers, curling irons, shavers, etc.",,2007,80358,876480164,11117233,1.3,0.3,,100.0
+0100000US,,United States,,44-45,Retail trade,,20320,"Televisions, video players and recorders, video cameras, video tapes, DVDs, etc., including electronic game/DVD combination devices, parts, and accessories",,2007,82923,845258622,59005414,7.0,1.5,,100.0
+0100000US,,United States,,44-45,Retail trade,,20330,"Audio equipment, musical instruments, radios, stereos, compact discs, records, tapes, audio books, sheet music, accessories",,2007,97878,778041512,33813788,4.3,0.9,,100.0
+0100000US,,United States,,44-45,Retail trade,,20340,"Furniture, sleep equipment and outdoor/patio furniture",,2007,108568,897399987,73474483,8.2,1.9,,100.0
+0100000US,,United States,,44-45,Retail trade,,20360,Flooring and floor coverings,,2007,59769,665364901,38067236,5.7,1.0,,100.0
+0100000US,,United States,,44-45,Retail trade,,20370,"Computer hardware, software, and supplies, including computer game software",,2007,55429,596057714,79377929,13.3,2.0,,100.0
+0100000US,,United States,,44-45,Retail trade,,20380,"Kitchenware and home furnishings, incl cookware, cooking accessories, dinnerware, glassware, giftware, decorative accessories, clocks, mirrors, closet and bathroom access, outdoor charcoal grills, etc",,2007,170774,1102943038,52443616,4.8,1.3,,100.0
+0100000US,,United States,,44-45,Retail trade,,20400,"Jewelry, including watches, watch attachments, novelty jewelry, etc.",,2007,143632,766523287,49812840,6.5,1.3,,100.0
+0100000US,,United States,,44-45,Retail trade,,20420,Books,,2007,85191,720112408,23836514,3.3,0.6,,100.0
+0100000US,,United States,,44-45,Retail trade,,20440,Photographic equipment and supplies,,2007,48020,638602861,11070952,1.7,0.3,,100.0
+0100000US,,United States,,44-45,Retail trade,,20460,"Toys, hobby goods, and games, including stuffed animals, video and electronic games,  electronic game devices, and wheel goods, except bicycles",,2007,134245,926752905,38600038,4.2,1.0,,100.0
+0100000US,,United States,,44-45,Retail trade,,20490,"Optical goods, including eyeglasses, contact lenses, sunglasses, etc.",,2007,65334,575787548,11805148,2.1,0.3,,100.0
+0100000US,,United States,,44-45,Retail trade,,20500,"Sporting goods, including saddlery, boats, personal watercraft, snowmobiles, all-terrain vehicles (ATVs), golf cars, and other motorized sport vehicles, bicycles, parts and accessories, etc.",,2007,92604,668871036,61305279,9.2,1.6,,100.0
+0100000US,,United States,,44-45,Retail trade,,20580,"Recreational vehicles, including camping trailers, travel trailers, truck campers, motor homes, parts and accessories",,2007,6451,56213323,18451717,32.8,0.5,,100.0
+0100000US,,United States,,44-45,Retail trade,,20600,"Hardware, tools, and plumbing and electrical supplies, including ceiling fans and light fixtures",,2007,138178,993017291,84497588,8.5,2.2,,100.0
+0100000US,,United States,,44-45,Retail trade,,20620,"Lawn, garden, and farm equipment and supplies; cut flowers; plants and shrubs; fertilizers; animal feed, other than for pets; etc.",,2007,142767,1028761704,68112952,6.6,1.7,,100.0
+0100000US,,United States,,44-45,Retail trade,,20640,"Dimensional lumber & other building/structural materials & supplies, including heating stoves & prefabricated fireplaces; spas, hot tubs, & saunas; stock kitchen & bathroom cabinets to be installed",,2007,54239,272897754,127207945,46.6,3.2,,100.0
+0100000US,,United States,,44-45,Retail trade,,20670,Paint and sundries,,2007,56924,496849430,22703282,4.6,0.6,,100.0
+0100000US,,United States,,44-45,Retail trade,,20680,"Manufactured (mobile) homes, excluding modular homes",,2007,4040,8977470,7861582,87.6,0.2,,100.0
+0100000US,,United States,,44-45,Retail trade,,20690,Wallpaper and other flexible wallcoverings,,2007,12443,139278474,703723,0.5,,,100.0
+0100000US,,United States,,44-45,Retail trade,,20700,"Cars, trucks, motorcycles, & oth powered transp vehicles, incl all outright sls plus the fair sls value of all motor vehicles marketed under leases negotiated in 2007, transp & dealer prep chgs, etc",,2007,63380,795397348,665601812,83.7,17.0,,100.0
+0100000US,,United States,,44-45,Retail trade,,20720,Automotive fuels,,2007,130011,655153490,378340048,57.7,9.7,,100.0
+0100000US,,United States,,44-45,Retail trade,,20730,"Automotive lubricants, including oil, greases, etc.",,2007,124920,1063716349,8288840,0.8,0.2,,100.0
+0100000US,,United States,,44-45,Retail trade,,20740,"Automotive tires, tubes, batteries, parts, accessories",,2007,160531,1351000491,101397449,7.5,2.6,,100.0
+0100000US,,United States,,44-45,Retail trade,,20780,"Household fuels, including oil, LP gas, wood, coal",,2007,47664,323417022,34317949,10.6,0.9,,100.0
+0100000US,,United States,,44-45,Retail trade,,20790,Crude oil,,2007,251,592552,21221,3.6,,,100.0
+0100000US,,United States,,44-45,Retail trade,,20800,"Pets, pet foods, and pet supplies",,2007,130929,916774835,26900225,2.9,0.7,,100.0
+0100000US,,United States,,44-45,Retail trade,,20850,All other merchandise,,2007,356490,1585152130,138506370,8.7,3.5,,100.0
+0100000US,,United States,,44-45,Retail trade,,21100,"Meals, snacks, other food items, and non-alcoholic beverages prepared and served or dispensed for immediate consumption",,2007,117782,744563560,23886638,3.2,0.6,,100.0
+0100000US,,United States,,44-45,Retail trade,,21220,"Meals, snacks, other food items, and non-alcoholic beverages prepared for catered events, including party platters for customer pick-up",,2007,8308,43143883,535352,1.2,,,100.0
+0100000US,,United States,,44-45,Retail trade,,29810,All other merchandise,,2007,173128,971811139,23911928,2.5,0.6,,100.0
+0100000US,,United States,,44-45,Retail trade,,29900,"All nonmerch rcpts, incl all rcpts from customers for parts installed in repair & charges for dely, repair, maint, storage, installation, on-site const, rental/lease of tools/equip & oth svc provided",,2007,304349,2158563736,126871734,5.9,3.2,,100.0

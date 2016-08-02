@@ -1,0 +1,23 @@
+GEO.id,GEO.id2,GEO.display-label,GEO.annotation.id,NAICS.id,NAICS.display-label,NAICS.annotation.id,PSCODE.id,PSCODE.display-label,PSCODE.annotation.id,YEAR.id,ESTAB,TVALLN,RCPTOT,LINE_PCT,LINEALL_PCT,LINE_COV,KB_PCT
+Geographic identifier code,Id2,Geographic area name,Id,2007 NAICS code,Meaning of 2007 NAICS code,Id,Products and services code,Meaning of Products and services code,Id,Year,Number of establishments,"Total sales, receipts, or revenue of establishments with the product line ($1,000)","Sales ($1,000)","Sales, receipts, or revenue of product line as % of total sales, receipts, or revenue of estabs with the product line (%)","Sales, receipts, or revenue of product line as percent of total sales, receipts, or revenue of industry (%)","Sales, receipts, or revenue of establishments reporting product lines as percent of total sales, receipts, or revenue (%)",Broad line sls for industry as % of sector tot broad line sls (%)
+0100000US,,United States,,72,Accommodation and food services,,20000,Industry total,,2007,,E$X,,E$X,,,E$X
+0100000US,,United States,,72,Accommodation and food services,,20020,Overnight recreational camps,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20030,Telephone services,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20040,Gambling services,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20060,Membership dues and fees,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20070,Room or unit accommodation for travelers and others,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20080,Recreational vehicle (RV) and tent sites for travelers and others,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20090,Rental of residential space for principal residence,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20100,"Groceries and other food items for human consumption off the premises, including bottled, canned, or packaged soft drinks; candy; gum; packaged snacks; etc.",,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20130,Alcoholic beverages prepared and served or dispensed for immediate consumption,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20140,"Packaged liquor, wine, and beer",,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20150,"Cigars, cigarettes, tobacco, and smokers' accessories, excluding sales from vending machines operated by others",,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20580,"Recreational vehicles, including camping trailers, travel trailers, truck campers, motor homes, parts and accessories",,2007,,,,,E$Z,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20720,Automotive fuels,,2007,,,,,E$Z,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20780,"Household fuels, including oil, LP gas, wood, coal",,2007,,,,,E$Z,E$X,
+0100000US,,United States,,72,Accommodation and food services,,20850,All other merchandise,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,21100,"Meals, snacks, other food items, and non-alcoholic beverages prepared and served or dispensed for immediate consumption",,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,21210,"Meals, snacks, other food items, and non-alcoholic beverages prepared for immediate consumption under long-term contract (30 days or more)",,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,21220,"Meals, snacks, other food items, and non-alcoholic beverages prepared for catered events, including party platters for customer pick-up",,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,29600,Other services,,2007,,,,,,E$X,
+0100000US,,United States,,72,Accommodation and food services,,29810,All other merchandise,,2007,,,,,,E$X,

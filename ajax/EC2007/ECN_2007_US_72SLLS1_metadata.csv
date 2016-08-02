@@ -1,0 +1,18 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2007 NAICS code
+NAICS.display-label,Meaning of 2007 NAICS code
+NAICS.annotation.id,Id
+PSCODE.id,Products and services code
+PSCODE.display-label,Meaning of Products and services code
+PSCODE.annotation.id,Id
+YEAR.id,Year
+ESTAB,Number of establishments
+TVALLN,"Total sales, receipts, or revenue of establishments with the product line ($1,000)"
+RCPTOT,"Sales ($1,000)"
+LINE_PCT,"Sales, receipts, or revenue of product line as % of total sales, receipts, or revenue of estabs with the product line (%)"
+LINEALL_PCT,"Sales, receipts, or revenue of product line as percent of total sales, receipts, or revenue of industry (%)"
+LINE_COV,"Sales, receipts, or revenue of establishments reporting product lines as percent of total sales, receipts, or revenue (%)"
+KB_PCT,Broad line sls for industry as % of sector tot broad line sls (%)
