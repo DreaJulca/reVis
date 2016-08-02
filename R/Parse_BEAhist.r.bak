@@ -67,7 +67,7 @@ options(width = 10000)
 beaHistData
 sink()
 #We can test to see if monthly or quarterly - 
-lapply(beaHistData, write, "c:/users/niacj1/documents/esa_bea proj/bhdCleaner.txt", append=TRUE, ncolumns=10000)
+lapply(beaHistData, write, paste0('c:/users/', userID, '/Documents/reVis/bhdCleaner.txt'), append=TRUE, ncolumns=10000)
 
 #Doesn't work - memory restriction
 #bhDT <- rbindlist(beaHistData, fill = T)

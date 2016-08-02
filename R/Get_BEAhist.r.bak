@@ -15,11 +15,12 @@ library(RODBC)
 userID <- Sys.info()[[7]]
 myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
 
-dir.create(myPath)
-dir.create(paste0(myPath, 'xls/'))
-dir.create(paste0(myPath, 'xls/NIPA/'))
-dir.create(paste0(myPath, 'csv/'))
-dir.create(paste0(myPath, 'csv/NIPA'))
+#Actually, these aren't really needed
+#dir.create(myPath)
+#dir.create(paste0(myPath, 'xls/'))
+#dir.create(paste0(myPath, 'xls/NIPA/'))
+#dir.create(paste0(myPath, 'csv/'))
+#dir.create(paste0(myPath, 'csv/NIPA'))
 
 
 archive <- 'http://www.bea.gov/histdata/histChildLevels.cfm?HMI=7'
@@ -58,7 +59,7 @@ stopCluster(cl)
 DTLs <- rbindlist(dlLinks)
 
 
-#Create clusters for quicker processing
+
 cl <- makePSOCKcluster(detectCores())
 clusterExport(cl, c('DTLs', 'userID'))
 clusterEvalQ(cl, library(data.table))
@@ -130,13 +131,13 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 				)
 			);
 
-
-		#Match Alice's names
-		release <- toupper(vint);
-		vintage <- rCyc;
 		
-		#Create empty frame for each
-		conn <- odbcConnectExcel(fileLoc)
+		#Create connection (using odbcConnectExcel2007 if extension is not .xlsx)
+		if(tolower(substr(fileLoc, nchar(fileLoc)-1, nchar(fileLoc))) == 'x'){
+			conn <- odbcConnectExcel(fileLoc)
+		} else {
+			conn <- odbcConnectExcel2007(fileLoc)
+		}
 		myTabs <- sqlTables(conn)$TABLE_NAME
 		dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
 		
@@ -173,7 +174,8 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 			 finally = {
 				return('')
 			})
-		}})
+		}
+		})
 #		stopCluster(cl)	
 #		try(stopCluster(cl))
 	})
@@ -182,3 +184,4 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 
 stopCluster(cl)
 
+rm(reVis)

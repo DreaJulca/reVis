@@ -7,6 +7,7 @@ library(rvest)
 library(httr)
 #As it turns out, SQL-type queries are so much faster!
 library(RODBC)
+library(ggplot2)
 #library(xlsx)
 #library(rattle)
 
@@ -205,9 +206,9 @@ stopCluster(cl)
 	
 	csvDpce <- allCSVs[grep('/und/section2all', tolower(V1), fixed = T)]
 	
+#QUARTERLY DATA first
 	qtrDpce <- csvDpce[grep('20405u qtr', tolower(V1), fixed=T)]
-	
-	
+
 	
 	cl <- makePSOCKcluster(2*detectCores())
 	clusterEvalQ(cl, library(data.table))
@@ -344,9 +345,459 @@ outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
 	
 	return(thisDT)
 
-}))
+}), use.names=TRUE)
 
 write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/tab245u_vin.csv'), row.names = FALSE)
+
+#MONTHLY DATA now
+	cl <- makePSOCKcluster(2*detectCores())
+	clusterEvalQ(cl, library(data.table))
+	clusterExport(cl, 'csvDpce')
+	
+	monDpce <- csvDpce[grep('20405u mon', tolower(V1), fixed=T)]
+
+	pceMonHist <- parLapply(cl, monDpce[,V1], function(thisFile){
+ #In this case, lines 1-6 are meta
+# 	 thisFile <-	monDpce[,V1][1]
+
+	readDT <- fread(thisFile, header = FALSE)
+	if (dim(readDT) == c(1, 1)){
+		warning(paste0('Empty file: ', thisFile))
+		return(readDT)
+	} else {
+		tabStarters <- unique(readDT[tolower(V2) == "line",V1])
+		myMonTab <- lapply(tabStarters, function(tabStr){
+		# tabStr <- tabStarters[3]
+			cleanDT <- readDT[!is.na(V3) & V1 >= tabStr]
+			yrs <- t(readDT[as.numeric(V1) == as.numeric(tabStr)])
+			mon <- t(readDT[as.numeric(V1) == as.numeric(tabStr)+1])
+			colDates <- paste0(yrs[5:length(yrs)], 'm', mon[5:length(mon)])
+			tabName <- gsub('#', '.', readDT[1,V2], fixed=T)
+			data.table::setnames(cleanDT, c(
+				'XLS_Line', 
+				'LineNumber', 
+				'LineDescription', 
+				'SeriesCode', 
+				colDates
+			))
+			 #Just return filename.  We'll use it later to do vintaging
+			cleanDT[, FileName := thisFile]
+			cleanDT[, TableName := tabName]
+			cleanDT[, LineNumber := as.numeric(LineNumber)]
+			thisDT <- cleanDT[!is.na(LineNumber)]
+			data.table::setkey(thisDT, key=LineNumber, 
+				SeriesCode, 
+				FileName, 
+				TableName, 
+				LineDescription
+			)
+			eval(parse(text=paste0('thisDTback <- unique(thisDT[,
+			.(
+				XLS_Line, 
+				LineNumber, 
+				LineDescription, 
+				SeriesCode, 
+				FileName, 
+				TableName, 
+				', 
+				paste(
+					sort(paste0(
+						'`',
+						colDates[colDates != 'NAmNA'],
+						'`'
+					)), 
+					collapse = ',' 
+				), 
+				')])'
+			)))
+				
+			data.table::setkey(thisDTback, key=LineNumber, 
+				SeriesCode, 
+				FileName, 
+				TableName, 
+				LineDescription
+			)
+			return(thisDTback)
+		})
+		fnlDT <- Reduce(merge, myMonTab)
+
+		
+		return(fnlDT)
+	}
+})
+
+stopCluster(cl)
+
+#memory.limit(size = 4095)
+
+pceDTm <- rbindlist(pceMonHist, fill=T, use.names=T)
+mNames <- attributes(pceDTm)$names
+
+pceDTm[, Vin := tolower(gsub('/', '', substr(FileName, 41,52), fixed=T))]
+pceDTm[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
+pceDTm[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
+pceDTm[
+	!is.na(SeriesCode) & gsub(' ', '', SeriesCode) != '',  
+	Code := ifelse(
+		substr(SeriesCode, 1, 1) == 'E',
+		substr(SeriesCode, 3, 5),
+		substr(SeriesCode, 2, 4)
+	)] 
+
+pceDTm[!is.na(Code)]
+#Gives us 2004Q3 advance estimate; need to use generalizable method for this
+pceDTm[Vin == '2004q3adv', .(LineNumber, LineDescription, SeriesCode, `2004m9`)]
+
+#Let's create some columns that will allow us to get the vintages we want
+#Month of release
+pceDTm[,ReleaseMonth := gsub('q1adv', 'm04', Vin)]
+pceDTm[,ReleaseMonth := gsub('q1sec', 'm05', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q1thi', 'm06', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q2adv', 'm07', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q2sec', 'm08', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q2thi', 'm09', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q3adv', 'm10', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q3sec', 'm11', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q3thi', 'm12', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q4adv', 'm01', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q4sec', 'm02', ReleaseMonth)]
+pceDTm[,ReleaseMonth := gsub('q4thi', 'm03', ReleaseMonth)]
+
+#First-release-of month
+pceDTm[,AdvMonth := gsub('q1adv', 'm03', Vin)]
+pceDTm[,AdvMonth := gsub('q1sec', 'm04', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q1thi', 'm05', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q2adv', 'm06', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q2sec', 'm07', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q2thi', 'm08', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q3adv', 'm09', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q3sec', 'm10', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q3thi', 'm11', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q4adv', 'm12', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q4sec', 'm01', AdvMonth)]
+pceDTm[,AdvMonth := gsub('q4thi', 'm02', AdvMonth)]
+
+#Second-release-of month
+pceDTm[,SecMonth := gsub('q1adv', 'm02', Vin)]
+pceDTm[,SecMonth := gsub('q1sec', 'm03', SecMonth)]
+pceDTm[,SecMonth := gsub('q1thi', 'm04', SecMonth)]
+pceDTm[,SecMonth := gsub('q2adv', 'm05', SecMonth)]
+pceDTm[,SecMonth := gsub('q2sec', 'm06', SecMonth)]
+pceDTm[,SecMonth := gsub('q2thi', 'm07', SecMonth)]
+pceDTm[,SecMonth := gsub('q3adv', 'm08', SecMonth)]
+pceDTm[,SecMonth := gsub('q3sec', 'm09', SecMonth)]
+pceDTm[,SecMonth := gsub('q3thi', 'm10', SecMonth)]
+pceDTm[,SecMonth := gsub('q4adv', 'm11', SecMonth)]
+pceDTm[,SecMonth := gsub('q4sec', 'm12', SecMonth)]
+pceDTm[,SecMonth := gsub('q4thi', 'm01', SecMonth)]
+
+
+#Third-release-of month
+pceDTm[,ThiMonth := gsub('q1adv', 'm01', Vin)]
+pceDTm[,ThiMonth := gsub('q1sec', 'm02', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q1thi', 'm03', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q2adv', 'm04', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q2sec', 'm05', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q2thi', 'm06', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q3adv', 'm07', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q3sec', 'm08', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q3thi', 'm09', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q4adv', 'm10', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q4sec', 'm11', ThiMonth)]
+pceDTm[,ThiMonth := gsub('q4thi', 'm12', ThiMonth)]
+
+#Find available periods where there is both an advance and a third estimate
+#This was my original approach, but there are more second estimates than I thought
+mVinAv <- sort(unique(pceDTm[, Vin]))
+nonMon <- c(
+	"LineNumber", 
+	"SeriesCode",
+	"FileName",
+	"TableName",
+	"LineDescription",
+	"Vin", 
+	"Code", 
+	"ReleaseMonth", 
+	"AdvMonth", 
+	"SecMonth", 
+	"ThiMonth", 
+	"XLS_Line",
+	"XLS_Line.x", 
+	"XLS_Line.y" 
+)
+
+mAdvAv <- paste0('`', sort(unique(pceDTm[, AdvMonth])), '`')
+mSecAv <- paste0('`', sort(unique(pceDTm[, SecMonth])), '`')
+mThiAv <- paste0('`', sort(unique(pceDTm[, ThiMonth])), '`')
+
+monsAv <- sort(unique(c(mAdvAv, mSecAv, mThiAv)))
+
+mAvail <- mAdvAv[mAdvAv %in% mThiAv]
+
+
+outDTm <- rbindlist(lapply(2:length(monsAv), function(indx){
+	#test
+	# indx <- 1
+	thisMon <- monsAv[indx]
+	prevMon <- monsAv[(indx-1)]
+	
+	thisAdv <- unique(pceDTm[
+		AdvMonth == gsub('`', '', thisMon, fixed=T), 
+		.(
+			Code, 
+			AdvLvl = eval(
+				parse(
+					text=paste0('as.numeric(', gsub('m0', 'm', thisMon, fixed=T), ')')
+				)
+			), 
+			AdvPct = eval(
+				parse(
+					text=paste0('(as.numeric(', gsub('m0', 'm', thisMon, fixed=T), ')/as.numeric(', gsub('m0', 'm', prevMon, fixed=T), '))-1')
+				)
+			)
+		)
+	])
+	
+	thisSec <- unique(pceDTm[
+		SecMonth == gsub('`', '', thisMon, fixed=T), 
+		.(
+			Code, 
+			SecLvl = eval(
+				parse(
+					text=paste0('as.numeric(', gsub('m0', 'm', thisMon, fixed=T), ')')
+				)
+			), 
+			SecPct = eval(
+				parse(
+					text=paste0('(as.numeric(', gsub('m0', 'm', thisMon, fixed=T), ')/as.numeric(', gsub('m0', 'm', prevMon, fixed=T), '))-1')
+				)
+			)
+		)
+	])
+
+	thisThi <- unique(pceDTm[
+		ThiMonth == gsub('`', '', thisMon, fixed=T), 
+		.(
+			Code, 
+			ThiLvl = eval(
+				parse(
+					text=paste0('as.numeric(', gsub('m0', 'm', thisMon, fixed=T), ')')
+				)
+			), 
+			ThiPct = eval(
+				parse(
+					text=paste0('(as.numeric(', gsub('m0', 'm', thisMon, fixed=T), ')/as.numeric(', gsub('m0', 'm', prevMon, fixed=T), '))-1')
+				)
+			)
+		)
+	])
+
+	data.table::setkey(thisAdv, key = Code)
+	data.table::setkey(thisSec, key = Code)
+	data.table::setkey(thisThi, key = Code)
+
+	thisDT <- thisAdv[thisSec[thisThi]]
+	thisDT[,TimePeriod := gsub('`', '', thisMon, fixed=T)]
+	
+	return(thisDT)
+
+}))
+
+write.csv(outDTm, file=paste0('c:/Users/', userID, '/Documents/tab245u_vin_mon.csv'), row.names = FALSE)
+
+monData <- outDTm
+qtrData <- outDT[!(is.na(AdvLvl)|is.na(SecLvl)|is.na(ThiLvl))]
+
+data1intx <- monData[toupper(Code) == 'DUR']
+data.table::setkey(data1int, key=TimePeriod)
+
+data1x <- unique(data1intx)
+data.table::setkey(data1x, key=TimePeriod)
+
+p1x <- ggplot() + 
+  geom_point(data = data1x, aes(x = TimePeriod, y = as.numeric(gsub(',', '', AdvLvl, fixed=T))/1000000, color = "Advance")) +
+  geom_point(data = data1x, aes(x = TimePeriod, y = as.numeric(gsub(',', '', SecLvl, fixed=T))/1000000, color = "Second")) +
+  geom_point(data = data1x, aes(x = TimePeriod, y = as.numeric(gsub(',', '', ThiLvl, fixed=T))/1000000, color = "Third")) +
+  xlab('Month') +
+  ylab('Trillions of [current] dollars') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Durable Goods')
+
+plot(p1x)
+
+#Monthly stuff is messed up right now - stick w/ Qtrs
+
+data2 <-  monData[toupper(Code) == 'NDG']
+data.table::setkey(data2, key=TimePeriod)
+
+p2x <- ggplot() + 
+  geom_point(data = data2, aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
+  geom_point(data = data2, aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
+  geom_point(data = data2, aes(x = TimePeriod, y = ThiLvl/1000000, color = "Third")) +
+  xlab('Month') +
+  ylab('Trillions of [current] dollars') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Nondurable Goods')
+
+plot(p2x)
+
+
+data3 <-  qtrData[toupper(Code) == 'SER']
+data.table::setkey(data3, key=TimePeriod)
+
+p3x <- ggplot() + 
+  geom_point(data = data3, aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
+  geom_point(data = data3, aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
+  geom_point(data = data3, aes(x = TimePeriod, y = ThiLvl/1000000, color = "Third")) +
+  xlab('Month') +
+  ylab('Trillions of [current] dollars') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Services')
+
+plot(p3x)
+
+
+
+p4x <- ggplot(data3) + 
+  geom_bar(stat = 'identity', aes(x = TimePeriod, y = SecLvl - AdvLvl, color = "Second vs Adv.")) +
+  geom_bar(stat = 'identity', aes(x = TimePeriod, y = ThiLvl - AdvLvl, color = "Third vs Adv.")) +
+  xlab('Month') +
+  ylab('Revision in Percent Change') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Services')
+
+plot(p4x)
+
+
+
+
+
+
+data1 <-  qtrData[toupper(Code) == 'PCE']
+data.table::setkey(data1, key=TimePeriod)
+
+ p1all <- ggplot() + 
+  geom_point(data = data1, aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
+  geom_point(data = data1, aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
+  geom_point(data = data1, aes(x = TimePeriod, y = ThiLvl/1000000, color = "Third")) +
+  xlab('Month') +
+  ylab('Trillions of [current] dollars') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Personal Consumption Expenditures')
+
+plot(p1all)
+
+
+#p1 <- ggplot() + 
+#  geom_point(data = data1[TimePeriod < '2009m11'], aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
+#  geom_point(data = data1[TimePeriod < '2009m11'], aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
+#  geom_point(data = data1[TimePeriod < '2009m11'], aes(x = TimePeriod, y = ThiLvl/1000000, color = "Third")) +
+#  xlab('Month') +
+#  ylab('Trillions of [current] dollars') + 
+#	theme(legend.title=element_blank()) + 
+#	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+#	ggtitle('Personal Consumption Expenditures')
+#
+#plot(p1)
+#
+#
+#p2 <- ggplot() + 
+#  geom_point(data = data1[TimePeriod >= '2009m11' & TimePeriod < '2013m01'], aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
+#  geom_point(data = data1[TimePeriod >= '2009m11' & TimePeriod < '2013m01'], aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
+#  geom_point(data = data1[TimePeriod >= '2009m11' & TimePeriod < '2013m01'], aes(x = TimePeriod, y = ThiLvl/1000000, color = "Third")) +
+#  xlab('Month') +
+#  ylab('Trillions of [current] dollars') + 
+#	theme(legend.title=element_blank()) + 
+#	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+#	ggtitle('Personal Consumption Expenditures')
+#
+#plot(p2)
+#
+#
+#p3 <- ggplot() + 
+#  geom_point(data = data1[TimePeriod >= '2013m01'], aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
+#  geom_point(data = data1[TimePeriod >= '2013m01'], aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
+#  geom_point(data = data1[TimePeriod >= '2013m01'], aes(x = TimePeriod, y = ThiLvl/1000000, color = "Third")) +
+#  xlab('Month') +
+#  ylab('Trillions of [current] dollars') + 
+#	theme(legend.title=element_blank()) + 
+#	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+#	ggtitle('Personal Consumption Expenditures')
+#
+#plot(p3)
+
+
+
+
+p4 <- ggplot() + 
+  geom_point(data = data1, aes(x = TimePeriod, y = AdvPct, color = "Advance")) +
+  geom_point(data = data1, aes(x = TimePeriod, y = SecPct, color = "Second")) +
+  geom_point(data = data1, aes(x = TimePeriod, y = ThiPct, color = "Third")) +
+  xlab('Month') +
+  ylab('Percent Change') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Personal Consumption Expenditures')
+
+plot(p4)
+
+dataMelt <- melt(data1[,.(Sec_Vs_Adv = SecLvl - AdvLvl, Thi_Vs_Adv = ThiLvl - AdvLvl, TimePeriod)], id.vars='TimePeriod')
+ggplot(dataMelt, aes(TimePeriod, value)) +   
+  geom_bar(aes(fill = variable), position = "dodge", stat="identity") +
+  xlab('Quarter') +
+  ylab('Trillions of [current] dollars') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Personal Consumption Expenditures')
+
+dataMeltPct <- melt(data1[,.(Sec_Vs_Adv = SecPct - AdvPct, Thi_Vs_Adv = ThiPct - AdvPct, TimePeriod)], id.vars='TimePeriod')
+ggplot(dataMeltPct, aes(TimePeriod, value)) +   
+  geom_bar(aes(fill = variable), position = "dodge", stat="identity") +
+  xlab('Quarter') +
+  ylab('Percent Change') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Personal Consumption Expenditures')
+
+rawMeltPct <- melt(data1[,.(Advance = AdvPct, Second = SecPct, Third = ThiPct, TimePeriod)], id.vars='TimePeriod')
+ggplot(rawMeltPct, aes(TimePeriod, value)) +   
+  geom_bar(aes(fill = variable), position = "dodge", stat="identity") +
+  xlab('Quarter') +
+  ylab('Percent Change') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Personal Consumption Expenditures')
+
+  
+p5 <- ggplot() + 
+  geom_point(data = data1[!(TimePeriod %in% c('2009m11', '2009m12'))], aes(x = TimePeriod, y = SecLvl - AdvLvl, color = "Second vs Adv.")) +
+  geom_point(data = data1[!(TimePeriod %in% c('2009m11', '2009m12'))], aes(x = TimePeriod, y = ThiLvl - AdvLvl, color = "Third vs Adv.")) +
+  xlab('Month') +
+  ylab('Percent Change') + 
+	theme(legend.title=element_blank()) + 
+	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+	ggtitle('Personal Consumption Expenditures')
+
+plot(p5)
+
+library(forecast)
+pceRev <- as.ts(data1[, .(Thi_Vs_Adv = ThiPct - AdvPct)])
+myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
+
+plot(forecast(pceRev~))
+
+
+
+
+
+#Let's do some mapping w/ API data
+library(beaR)
+
 
 #####################################################
 #Junk drawer - Other stuff I was playing around with 
