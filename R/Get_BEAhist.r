@@ -100,8 +100,10 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 #				)[1]
 			)
 
-		yrFold <- substr(foldLoc, 1, 46)
-		qtFold <- substr(foldLoc, 1, 49)
+		loc <- regexpr('NIPA', fileLoc)[1]
+
+		yrFold <- substr(foldLoc, 1, loc+8)
+		qtFold <- substr(foldLoc, 1, loc+12)
 		
 		
 		yrFoldC <- gsub('reVis/xls', 'reVis/csv', yrFold, fixed=T)
@@ -122,7 +124,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 		#Store a local copy if it hasn't already been stored
 		if(!file.exists(fileLoc)) {download.file(thisUrl, fileLoc, mode = 'wb');}
 
-		vint <- gsub('/', '', substr(qtFold, 41, 58), fixed=T);
+		vint <- gsub('/', '', substr(qtFold, loc+4, loc+12), fixed=T);
 		rCyc <- ifelse(
 			nchar(gsub('advance', '', tolower(foldLoc), fixed=T)) < nchar(foldLoc),
 			'1', ifelse(

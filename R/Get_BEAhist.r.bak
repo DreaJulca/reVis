@@ -1,6 +1,6 @@
 #Clear workspace
 rm(list=ls())
-
+#install.packages(c('data.table','rvest','httr','RODBC','devtools'))
 library(data.table)
 library(parallel)
 library(rvest)
@@ -13,7 +13,7 @@ library(RODBC)
 
 
 userID <- Sys.info()[[7]]
-myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
+myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
 
 #Actually, these aren't really needed
 #dir.create(myPath)
@@ -79,7 +79,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 	#test
 	#thisUrl <- DTLs[, V1][1]
 	foldLoc <- paste0(
-		'C:/Users/',userID,'/Documents/reVis/xls/NIPA',
+		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
 			strsplit(
 				strsplit(
 					tolower(thisUrl), 
@@ -90,7 +90,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 			)
 	
 	fileLoc <- paste0(
-		'C:/Users/',userID,'/Documents/reVis/xls/NIPA',
+		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
 #			strsplit(
 #				'section',
 				strsplit(
@@ -100,8 +100,10 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 #				)[1]
 			)
 
-		yrFold <- substr(foldLoc, 1, 46)
-		qtFold <- substr(foldLoc, 1, 49)
+		loc <- regexpr('NIPA', fileLoc)[1]
+
+		yrFold <- substr(foldLoc, 1, loc+8)
+		qtFold <- substr(foldLoc, 1, loc+12)
 		
 		
 		yrFoldC <- gsub('reVis/xls', 'reVis/csv', yrFold, fixed=T)
@@ -112,7 +114,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 		fileLocC <- gsub('reVis/xls', 'reVis/csv', fileLoc, fixed=T)
 #We want to do this for CSV area, too
 	try(
-	if(foldLoc != paste0('C:/Users/',userID,'/Documents/reVis/xls/NIPANA')){
+	if(foldLoc != paste0('C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPANA')){
 			
 		#Creates folders if needed
 		dir.create(foldLoc, showWarnings = FALSE, recursive = TRUE)

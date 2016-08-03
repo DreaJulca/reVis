@@ -14,7 +14,7 @@ library(ggplot2)
 
 
 userID <- Sys.info()[[7]]
-myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
+myPath <- paste0('C:/Users/', userID, '/GitHub/Documents/reVis/')
 
 #Actually, these aren't really needed
 #dir.create(myPath)
@@ -82,7 +82,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 	#test
 	#thisUrl <- DTLs[, V1][1]
 	foldLoc <- paste0(
-		'C:/Users/',userID,'/Documents/reVis/xls/NIPA',
+		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
 			strsplit(
 				strsplit(
 					tolower(thisUrl), 
@@ -93,7 +93,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 			)
 	
 	fileLoc <- paste0(
-		'C:/Users/',userID,'/Documents/reVis/xls/NIPA',
+		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
 #			strsplit(
 #				'section',
 				strsplit(
@@ -103,8 +103,10 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 #				)[1]
 			)
 
-		yrFold <- substr(foldLoc, 1, 46)
-		qtFold <- substr(foldLoc, 1, 49)
+		loc <- regexpr('NIPA', fileLoc)[1]
+
+		yrFold <- substr(foldLoc, 1, loc+8)
+		qtFold <- substr(foldLoc, 1, loc+12)
 		
 		
 		yrFoldC <- gsub('reVis/xls', 'reVis/csv', yrFold, fixed=T)
@@ -115,7 +117,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 		fileLocC <- gsub('reVis/xls', 'reVis/csv', fileLoc, fixed=T)
 #We want to do this for CSV area, too
 	try(
-	if(foldLoc != paste0('C:/Users/',userID,'/Documents/reVis/xls/NIPANA')){
+	if(foldLoc != paste0('C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPANA')){
 			
 		#Creates folders if needed
 		dir.create(foldLoc, showWarnings = FALSE, recursive = TRUE)
@@ -125,7 +127,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 		#Store a local copy if it hasn't already been stored
 		if(!file.exists(fileLoc)) {download.file(thisUrl, fileLoc, mode = 'wb');}
 
-		vint <- gsub('/', '', substr(qtFold, 41, 58), fixed=T);
+		vint <- gsub('/', '', substr(qtFold, loc+4, loc+12), fixed=T);
 		rCyc <- ifelse(
 			nchar(gsub('advance', '', tolower(foldLoc), fixed=T)) < nchar(foldLoc),
 			'1', ifelse(
@@ -193,7 +195,7 @@ stopCluster(cl)
 
 
 	#If program bombs, just use the XLS area from "Get_BEAhist.r" instead of CSV
-	myPath <- paste0('C:/Users/', userID, '/Documents/reVis/csv/NIPA')
+	myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/csv/NIPA')
 	
 	allFolds <- list.dirs(path = myPath)
 	
@@ -252,7 +254,7 @@ stopCluster(cl)
 pceDTq <- rbindlist(pceQtrHist, fill=T, use.names=T)
 qNames <- attributes(pceDTq)$names
 
-pceDTq[, Vin := tolower(gsub('/', '', substr(FileName, 41,52), fixed=T))]
+pceDTq[, Vin := tolower(gsub('/', '', substr(FileName,  regexpr('NIPA', FileName)[1]+4,regexpr('NIPA', FileName)[1]+15), fixed=T))]
 pceDTq[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTq[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
 pceDTq[
@@ -347,7 +349,7 @@ outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
 
 }), use.names=TRUE)
 
-write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/tab245u_vin.csv'), row.names = FALSE)
+write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/tab245u_vin.csv'), row.names = FALSE)
 
 #MONTHLY DATA now
 	cl <- makePSOCKcluster(2*detectCores())
@@ -433,7 +435,7 @@ stopCluster(cl)
 pceDTm <- rbindlist(pceMonHist, fill=T, use.names=T)
 mNames <- attributes(pceDTm)$names
 
-pceDTm[, Vin := tolower(gsub('/', '', substr(FileName, 41,52), fixed=T))]
+pceDTm[, Vin := tolower(gsub('/', '', substr(FileName,  regexpr('NIPA', FileName)[1]+4,regexpr('NIPA', FileName)[1]+15), fixed=T))]
 pceDTm[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTm[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
 pceDTm[
@@ -603,7 +605,7 @@ outDTm <- rbindlist(lapply(2:length(monsAv), function(indx){
 
 }))
 
-write.csv(outDTm, file=paste0('c:/Users/', userID, '/Documents/tab245u_vin_mon.csv'), row.names = FALSE)
+write.csv(outDTm, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/tab245u_vin_mon.csv'), row.names = FALSE)
 
 monData <- outDTm
 qtrData <- outDT[!(is.na(AdvLvl)|is.na(SecLvl)|is.na(ThiLvl))]
@@ -787,7 +789,7 @@ plot(p5)
 
 library(forecast)
 pceRev <- as.ts(data1[, .(Thi_Vs_Adv = ThiPct - AdvPct)])
-myPath <- paste0('C:/Users/', userID, '/Documents/reVis/')
+myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
 
 plot(forecast(pceRev~))
 
@@ -901,6 +903,6 @@ eval(parse(text=qClearNAs))
 
 getSums <- paste0('revDT <- rilQ[, .(',paste(paste0('sum',dateCol,'=sum(',dateCol,')'), collapse = ','),'), by=Code]')
 eval(parse(text=getSums))
-write.csv(revDT, file=paste0('c:/Users/', userID, '/Documents/revDT.csv'))
+write.csv(revDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/revDT.csv'))
 
 

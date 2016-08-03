@@ -98,7 +98,7 @@ histData <- parLapply(cl, 0:16, function(yr){
 			strLnA <- ifelse(exists('strLnA'), strLnA, 1)
 			strLnB <- ifelse(exists('strLnB'), strLnB, 1)
 			
-			writeLines(AllTxt[strLnA:(endLn[1]-1)], csvFileA)
+			try(writeLines(AllTxt[strLnA:(endLn[1]-1)], csvFileA), silent=TRUE)
 			try(writeLines(AllTxt[strLnB:(endLn[2]-1)], csvFileB), silent=TRUE)
 			
 			

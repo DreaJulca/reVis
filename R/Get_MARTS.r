@@ -185,7 +185,7 @@ histData <- parLapply(cl, 0:16, function(yr){
 	})
 })
 
-	myPath <- paste0('C:/Users/', userID, '/Documents/reVis/csv/marts')
+	myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/csv/marts')
 	
 	allFolds <- list.dirs(path = myPath)
 	
