@@ -791,7 +791,8 @@ library(forecast)
 pceRev <- as.ts(data1[, .(Thi_Vs_Adv = ThiPct - AdvPct)])
 myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
 
-plot(forecast(pceRev~))
+#Should be completely unpredictable to forecast revisions
+plot(forecast(pceRev))
 
 
 
@@ -807,4 +808,29 @@ plot(forecast(pceRev~))
 
 	martsFiles <- data.table(list.files(path = paste0(myPath, 'csv/marts'), full.names = TRUE));
 	
-	martsCSVs <- allFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
+	martsCSVs <- martsFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
+	
+	t1FromXLS <- martsCSVs[grep('table 1#$.csv', tolower(V1), fixed=T)]
+	t1FromTXT <- martsCSVs[grep('table1a.csv', tolower(V1), fixed=T)]
+	
+	lapply(t1FromXLS[, V1], function(csvTab){
+		#test
+		# csvTab <- t1FromXLS[,V1][1]
+		thisRaw <- fread(csvTab)[, .(tabKey = as.numeric(V1), F1, F2, F10, F11, F12)]
+		yrAdv <- thisRaw[grep('kind of business', tolower(F2), fixed=T), F10]
+		moAdv <- thisRaw[grep('kind of business', tolower(F2), fixed=T)+1, substr(F10, 1, 3)]
+		yrSec <- thisRaw[grep('kind of business', tolower(F2), fixed=T), ifelse(is.na(F11), F10, F11)]
+		moSec <- thisRaw[grep('kind of business', tolower(F2), fixed=T)+1, substr(F11, 1, 3)]
+		yrThi <- thisRaw[grep('kind of business', tolower(F2), fixed=T), ifelse(is.na(F12), ifelse(is.na(F11), F10, F11), F12)]
+		moThi <- thisRaw[grep('kind of business', tolower(F2), fixed=T)+1, substr(F12, 1, 3)]
+		nameParts <- thisRaw[is.na(F10)][!is.na(F1)]
+		nameParts[, tabKey := tabKey+1]
+		cleaner1 <- thisRaw[!is.na(F10)]
+		
+		data.table::setkey(nameParts, key=tabKey)
+		data.table::setkey(cleaner1, key=tabKey)
+		
+		cleaner2 <- nameParts[cleaner1][tabKey>6]
+		cleaner2[, LineDescription := ifelse(is.na(F2), i.F2, paste0(F2, i.F2))]
+		cleaner2[, NAICS := ifelse(is.na(i.F1), F1, i.F1)]
+	})

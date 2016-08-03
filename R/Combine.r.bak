@@ -1,23 +1,203 @@
+# Get just section 2 data - short-term solution
 rm(list=ls())
-#Combine MARTS and NIPA data
+
 library(data.table)
 library(parallel)
 library(rvest)
 library(httr)
+#As it turns out, SQL-type queries are so much faster!
 library(RODBC)
 library(ggplot2)
-library(forecast)
+#library(xlsx)
+#library(rattle)
+
+
 
 userID <- Sys.info()[[7]]
-myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
+myPath <- paste0('C:/Users/', userID, '/GitHub/Documents/reVis/')
+
+#Actually, these aren't really needed
+#dir.create(myPath)
+#dir.create(paste0(myPath, 'xls/'))
+#dir.create(paste0(myPath, 'xls/NIPA/'))
+#dir.create(paste0(myPath, 'csv/'))
+#dir.create(paste0(myPath, 'csv/NIPA'))
 
 
-###############################################
-# NIPA reader
-###############################################
+archive <- 'http://www.bea.gov/histdata/histChildLevels.cfm?HMI=7'
+
+links <- read_html(archive) %>% html_nodes('a') 
+
+dataLinks <- paste0(
+	'http://www.bea.gov/histdata/', 
+	links[
+		grepl(
+			'fileStructDisplay.cfm?HMI=7&amp;DY=', 
+			links, 
+			fixed=T
+		)
+	] %>% 
+		html_attr('href')
+)
+
+cl <- makePSOCKcluster(3*detectCores())
+clusterEvalQ(cl, library(rvest))
+clusterEvalQ(cl, library(data.table))
+clusterExport(cl, 'dataLinks')
+
+dlLinks <- parLapply(cl, dataLinks, function(thisLink){
+	#test
+	#thisLink <- dataLinks[1]
+	thisPage <- read_html(thisLink) 
+	theseLinks <- data.table(paste0('http://www.bea.gov',  thisPage %>% html_nodes('td') %>% html_nodes('a') %>% html_attr('href')))
+	return(theseLinks)
+})
+
+stopCluster(cl)
+#Links take form:
+#http://www.bea.gov/histdata/Releases/GDP_and_PI/2016/Q1/Second_May-27-2016/UND/Section0ALL_xls.xls
+
+DTLs_all <- rbindlist(dlLinks)
+####CHANGE LINE BELOW IF YOU WANT DIFFERENT DATASETS!
+DTLs <- DTLs_all[grep('und/section2', tolower(V1), fixed = TRUE)]
 
 
-	allFolds <- list.dirs(path = paste0(myPath, 'csv/NIPA'))
+
+cl <- makePSOCKcluster(detectCores())
+clusterExport(cl, c('DTLs', 'userID'))
+clusterEvalQ(cl, library(data.table))
+#As it turns out, SQL-type queries are so much faster!
+clusterEvalQ(cl, library(RODBC))
+#clusterEvalQ(cl, library(xlsx))
+#clusterEvalQ(cl, library(parallel))
+#clusterEvalQ(cl, library(rattle))
+
+
+#reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
+reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
+	#Allow more Java heap space
+#	options(java.parameters = "-Xmx1000m")
+
+#reVis <- rbindlist(lapply(DTLs[, V1], function(thisUrl){
+	#test
+	#thisUrl <- DTLs[, V1][1]
+	foldLoc <- paste0(
+		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
+			strsplit(
+				strsplit(
+					tolower(thisUrl), 
+					'gdp_and_pi', 
+					fixed=T)[[1]][2], 
+				'section'
+				)[[1]][1]
+			)
+	
+	fileLoc <- paste0(
+		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
+#			strsplit(
+#				'section',
+				strsplit(
+					tolower(thisUrl), 
+					'gdp_and_pi', 
+					fixed=T)[[1]][2] 
+#				)[1]
+			)
+
+		loc <- regexpr('NIPA', fileLoc)[1]
+
+		yrFold <- substr(foldLoc, 1, loc+8)
+		qtFold <- substr(foldLoc, 1, loc+12)
+		
+		
+		yrFoldC <- gsub('reVis/xls', 'reVis/csv', yrFold, fixed=T)
+		qtFoldC <- gsub('reVis/xls', 'reVis/csv', qtFold, fixed=T)
+		foldLocC <- gsub('reVis/xls', 'reVis/csv', foldLoc, fixed=T)
+		#A sort of intermediate location - 
+		# won't actuall exist, but we'll use it later for each sheet
+		fileLocC <- gsub('reVis/xls', 'reVis/csv', fileLoc, fixed=T)
+#We want to do this for CSV area, too
+	try(
+	if(foldLoc != paste0('C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPANA')){
+			
+		#Creates folders if needed
+		dir.create(foldLoc, showWarnings = FALSE, recursive = TRUE)
+		dir.create(foldLocC, showWarnings = FALSE, recursive = TRUE)
+
+		
+		#Store a local copy if it hasn't already been stored
+		if(!file.exists(fileLoc)) {download.file(thisUrl, fileLoc, mode = 'wb');}
+
+		vint <- gsub('/', '', substr(qtFold, loc+4, loc+12), fixed=T);
+		rCyc <- ifelse(
+			nchar(gsub('advance', '', tolower(foldLoc), fixed=T)) < nchar(foldLoc),
+			'1', ifelse(
+				nchar(gsub('second', '', tolower(foldLoc), fixed=T)) < nchar(foldLoc),
+					'2', '3'
+				)
+			);
+
+	
+		#Create connection (using odbcConnectExcel2007 if extension is not .xlsx)
+		if(tolower(substr(fileLoc, nchar(fileLoc)-1, nchar(fileLoc))) == 'x'){
+			conn <- odbcConnectExcel(fileLoc)
+		} else {
+			conn <- odbcConnectExcel2007(fileLoc)
+		}
+		myTabs <- sqlTables(conn)$TABLE_NAME
+		dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
+		
+#Parallelizing on all cores causes failure... this may be where we WANT to use it, though, since reading from xlsx takes 4eva.
+#Problem: This doesn't seem to respect the sequential nature of lapply...
+#		cl <- makePSOCKcluster(detectCores()/2)
+#		clusterExport(cl, c('fileLoc', 'sht'))
+#		clusterEvalQ(cl, library(xlsx))
+#		fillerList <- parLapply(cl, sht, function(thisSht){
+		fillerList <- lapply(dataTabs, function(thisTab){
+				#rename this so that it's not the same as tbl		
+			csvLoc <- gsub(
+				'.xls', 
+				paste0('_',thisTab,'.csv'), 
+				tolower(fileLocC), 
+				fixed=T
+			)
+
+			if(file.exists(csvLoc)){
+				return('')
+			} else {
+			tryCatch({
+				write.csv(
+					sqlQuery(conn, paste0("select * from ['", thisTab, "']")), 
+					file = gsub('.xlsx', '.csv',	csvLoc, fixed=T)
+				)
+			 }, 
+				error = function(e) {try(
+					write.csv(
+						sqlQuery(conn, paste0("select * from ['", thisTab, "']")), 
+						file = gsub('.xlsx', '.csv',	csvLoc, fixed=T)
+					)
+				)},
+			 finally = {
+				return('')
+			})
+		}
+		})
+#		stopCluster(cl)	
+#		try(stopCluster(cl))
+	})
+	return( as.data.table(list()))
+})
+
+stopCluster(cl)
+
+
+
+#SEPARATE PARSER
+
+
+	#If program bombs, just use the XLS area from "Get_BEAhist.r" instead of CSV
+	myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/csv/NIPA')
+	
+	allFolds <- list.dirs(path = myPath)
 	
 	allFiles <- rbindlist(lapply(allFolds, function(thisPath){
 		theseFiles <- data.table(list.files(path = thisPath, full.names = TRUE));
@@ -74,7 +254,7 @@ stopCluster(cl)
 pceDTq <- rbindlist(pceQtrHist, fill=T, use.names=T)
 qNames <- attributes(pceDTq)$names
 
-pceDTq[, Vin := tolower(gsub('/', '', substr(FileName, 41,52), fixed=T))]
+pceDTq[, Vin := tolower(gsub('/', '', substr(FileName,  regexpr('NIPA', FileName)[1]+4,regexpr('NIPA', FileName)[1]+15), fixed=T))]
 pceDTq[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTq[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
 pceDTq[
@@ -255,7 +435,7 @@ stopCluster(cl)
 pceDTm <- rbindlist(pceMonHist, fill=T, use.names=T)
 mNames <- attributes(pceDTm)$names
 
-pceDTm[, Vin := tolower(gsub('/', '', substr(FileName, 41,52), fixed=T))]
+pceDTm[, Vin := tolower(gsub('/', '', substr(FileName,  regexpr('NIPA', FileName)[1]+4,regexpr('NIPA', FileName)[1]+15), fixed=T))]
 pceDTm[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTm[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
 pceDTm[
@@ -607,10 +787,12 @@ p5 <- ggplot() +
 
 plot(p5)
 
+library(forecast)
 pceRev <- as.ts(data1[, .(Thi_Vs_Adv = ThiPct - AdvPct)])
-#myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
+myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
 
-plot(forecast(pceRev~))
+#Should be completely unpredictable to forecast revisions
+plot(forecast(pceRev))
 
 
 
@@ -626,4 +808,28 @@ plot(forecast(pceRev~))
 
 	martsFiles <- data.table(list.files(path = paste0(myPath, 'csv/marts'), full.names = TRUE));
 	
-	martsCSVs <- allFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
+	martsCSVs <- martsFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
+	
+	t1FromXLS <- martsCSVs[grep('table 1#$.csv', tolower(V1), fixed=T)]
+	t1FromTXT <- martsCSVs[grep('table1a.csv', tolower(V1), fixed=T)]
+	
+	lapply(t1FromXLS[, V1], function(csvTab){
+		#test
+		# csvTab <- t1FromXLS[,V1][1]
+		thisRaw <- fread(csvTab)[, .(tabKey = as.numeric(V1), F1, F2, F10, F11, F12)]
+		yrAdv <- thisRaw[grep('kind of business', tolower(F2), fixed=T), F10]
+		moAdv <- thisRaw[grep('kind of business', tolower(F2), fixed=T)+1, substr(F10, 1, 3)]
+		yrSec <- thisRaw[grep('kind of business', tolower(F2), fixed=T), ifelse(is.na(F11), F10, F11)]
+		moSec <- thisRaw[grep('kind of business', tolower(F2), fixed=T)+1, substr(F11, 1, 3)]
+		yrThi <- thisRaw[grep('kind of business', tolower(F2), fixed=T), ifelse(is.na(F12), ifelse(is.na(F11), F10, F11), F12)]
+		moThi <- thisRaw[grep('kind of business', tolower(F2), fixed=T)+1, substr(F12, 1, 3)]
+		nameParts <- thisRaw[is.na(F10)][!is.na(F1)]
+		nameParts[, tabKey := tabKey+1]
+		cleaner1 <- thisRaw[!is.na(F10)]
+		
+		data.table::setkey(nameParts, key=tabKey)
+		data.table::setkey(cleaner1, key=tabKey)
+		
+		cleaner2 <- nameParts[cleaner1][tabKey>6]
+		cleaner2[, LineDescription := ifelse(is.na(F2), i.F2, paste0(F2, i.F2))]
+	})
