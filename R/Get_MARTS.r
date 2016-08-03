@@ -34,7 +34,7 @@ clusterExport(cl, c('histUrl', 'userID', 'xlsPath', 'csvPath'))
 histData <- parLapply(cl, 0:16, function(yr){
 	lapply(1:12, function(mo){
 	#test
-	#yr <- 1; mo <-3;
+	#yr <- 0; mo <-4;
 		txtUrl <- paste0(histUrl, sprintf('%02d', yr), sprintf('%02d', mo), '.txt')
 		thisResp <- GET(txtUrl)
 		if(thisResp$status_code == 200){
@@ -88,14 +88,18 @@ histData <- parLapply(cl, 0:16, function(yr){
 			)
 			
 			AllTxt <- readLines(myPath)
-			strLnA <- grep('TABLE 1A', AllTxt, fixed=T)
-			strLnB <- grep('TABLE 1B', AllTxt, fixed=T)
+			strLnA <- grep('TABLE 1A', toupper(AllTxt), fixed=T)
+			strLnB <- grep('TABLE 1B', toupper(AllTxt), fixed=T)
 			#strLn2 <- grep('TABLE 2', AllTxt, fixed=T)
-			#endLn <- grep('(*) Advance', AllTxt, fixed=T)
-			endLn2 <- grep('(*) Advance', AllTxt, fixed=T)
+			endLn <- grep('(*) Advance', AllTxt, fixed=T)
+			#endLn2 <- grep('(*) Advance', AllTxt, fixed=T)
 			
-			writeLines(AllTxt[strLnA:(endLn[1]-1)], csvFileA)
-			writeLines(AllTxt[strLnB:(endLn[2]-1)], csvFileB)
+			endLn <- ifelse(exists('endLn'), endLn, length(AllTxt))
+			strLnA <- ifelse(exists('strLnA'), strLnA, 1)
+			strLnB <- ifelse(exists('strLnB'), strLnB, 1)
+			
+			try(writeLines(AllTxt[strLnA:(endLn[1]-1)], csvFileA), silent=TRUE)
+			try(writeLines(AllTxt[strLnB:(endLn[2]-1)], csvFileB), silent=TRUE)
 			
 			
 		} else {
@@ -180,4 +184,23 @@ histData <- parLapply(cl, 0:16, function(yr){
 		}
 	})
 })
+
+	myPath <- paste0('C:/Users/', userID, '/Documents/reVis/csv/marts')
+	
+	allFolds <- list.dirs(path = myPath)
+	
+	allFiles <- rbindlist(lapply(allFolds, function(thisPath){
+		theseFiles <- data.table(list.files(path = thisPath, full.names = TRUE));
+		return(theseFiles);
+	}));
+	
+	allCSVs <- allFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
+	
+	csvDpce <- allCSVs[grep('/und/section2all', tolower(V1), fixed = T)]
+	
+#QUARTERLY DATA first
+	qtrDpce <- csvDpce[grep('20405u qtr', tolower(V1), fixed=T)]
+
+
 stopCluster(cl)
+
