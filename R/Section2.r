@@ -138,7 +138,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 
 	
 		#Create connection (using odbcConnectExcel2007 if extension is not .xlsx)
-		if(tolower(substr(fileLoc, nchar(fileLoc)-1, nchar(fileLoc))) == 'x'){
+		if(tolower(substr(fileLoc, nchar(fileLoc), nchar(fileLoc))) == 'x'){
 			conn <- odbcConnectExcel(fileLoc)
 		} else {
 			conn <- odbcConnectExcel2007(fileLoc)
@@ -161,9 +161,9 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 				fixed=T
 			)
 
-			if(file.exists(csvLoc)){
-				return('')
-			} else {
+#			if(file.exists(csvLoc)){
+#				return('')
+#			} else {
 			tryCatch({
 				write.csv(
 					sqlQuery(conn, paste0("select * from ['", thisTab, "']")), 
@@ -179,7 +179,7 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 			 finally = {
 				return('')
 			})
-		}
+#		}
 		})
 #		stopCluster(cl)	
 #		try(stopCluster(cl))
@@ -611,7 +611,7 @@ monData <- outDTm
 qtrData <- outDT[!(is.na(AdvLvl)|is.na(SecLvl)|is.na(ThiLvl))]
 
 data1intx <- monData[toupper(Code) == 'DUR']
-data.table::setkey(data1int, key=TimePeriod)
+data.table::setkey(data1intx, key=TimePeriod)
 
 data1x <- unique(data1intx)
 data.table::setkey(data1x, key=TimePeriod)

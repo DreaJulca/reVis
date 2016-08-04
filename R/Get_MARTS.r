@@ -52,7 +52,7 @@ histData <- parLapply(cl, 0:16, function(yr){
 				sprintf('%02d', mo), 
 				'.pdf'
 			)
-			if(!file.exists(myPath)){
+	#		if(!file.exists(myPath)){
 				tryCatch(
 					{download.file(txtUrl, myPath, mode='wb')},
 					error = function(e) {
@@ -69,7 +69,7 @@ histData <- parLapply(cl, 0:16, function(yr){
 					finally = {return('')}
 
 				)
-			}
+	#		}
 			
 			csvFileA <- paste0(
 				csvPath, 
@@ -110,7 +110,7 @@ histData <- parLapply(cl, 0:16, function(yr){
 				sprintf('%02d', mo), 
 				'.xls'
 			)
-			if(!file.exists(myPath)){
+	#		if(!file.exists(myPath)){
 				tryCatch(
 					{
 						download.file(xlsUrl, myPath, mode='wb')
@@ -128,7 +128,7 @@ histData <- parLapply(cl, 0:16, function(yr){
 					finally = {return('')}
 					
 				)
-			}
+	#		}
 			csvFilePath <- paste0(
 				csvPath, 
 				'rs',	

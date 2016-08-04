@@ -74,13 +74,14 @@ clusterEvalQ(cl, library(RODBC))
 
 
 #reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
-reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
+reVis <- parLapply(cl, DTLs[, tolower(V1)], function(thisUrl){
 	#Allow more Java heap space
-#	options(java.parameters = "-Xmx1000m")
 
 #reVis <- rbindlist(lapply(DTLs[, V1], function(thisUrl){
 	#test
 	#thisUrl <- DTLs[, V1][1]
+	#thisUrl <- DTLs[grep('2015/q4', tolower(V1), fixed=T), V1][1]
+
 	foldLoc <- paste0(
 		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
 			strsplit(
@@ -125,7 +126,9 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 
 		
 		#Store a local copy if it hasn't already been stored
-		if(!file.exists(fileLoc)) {download.file(thisUrl, fileLoc, mode = 'wb');}
+		if(!file.exists(fileLoc)) {
+			download.file(thisUrl, fileLoc, mode = 'wb');
+		}
 
 		vint <- gsub('/', '', substr(qtFold, loc+4, loc+12), fixed=T);
 		rCyc <- ifelse(
@@ -138,14 +141,43 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 
 	
 		#Create connection (using odbcConnectExcel2007 if extension is not .xlsx)
-		if(tolower(substr(fileLoc, nchar(fileLoc)-1, nchar(fileLoc))) == 'x'){
+		if(tolower(substr(fileLoc, nchar(fileLoc), nchar(fileLoc))) == 'x'){
 			conn <- odbcConnectExcel(fileLoc)
 		} else {
-			conn <- odbcConnectExcel2007(fileLoc)
+			tryCatch(
+				{conn <- odbcConnectExcel2007(fileLoc)},
+				error = function(e){
+					try(odbcClose(conn));
+					download.file(thisUrl, fileLoc, mode = 'wb');
+					conn <- odbcConnectExcel2007(fileLoc);
+				},
+				warning = function(w){
+					try(odbcClose(conn));
+					download.file(thisUrl, fileLoc, mode = 'wb');
+					conn <- odbcConnectExcel2007(fileLoc);
+				},
+				finally = {''}
+			)
 		}
+		#conn <- odbcDriverConnect(paste0(
+		#	'DRIVER=Microsoft Excel Driver (*.xls, *.xlsx, *.xlsm, *.xlsb);DBQ=',
+		#	fileLoc, 
+		#	'; ReadOnly=True'
+		#)
 		myTabs <- sqlTables(conn)$TABLE_NAME
 		dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
-		
+		if(length(dataTabs)<2){
+			try(odbcClose(conn))
+			download.file(thisUrl, fileLoc, mode = 'wb');
+			if(tolower(substr(fileLoc, nchar(fileLoc), nchar(fileLoc))) == 'x'){
+				conn <- odbcConnectExcel(fileLoc)
+			} else {
+				conn <- odbcConnectExcel2007(fileLoc)
+			}
+			myTabs <- sqlTables(conn)$TABLE_NAME
+			dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
+		}
+    
 #Parallelizing on all cores causes failure... this may be where we WANT to use it, though, since reading from xlsx takes 4eva.
 #Problem: This doesn't seem to respect the sequential nature of lapply...
 #		cl <- makePSOCKcluster(detectCores()/2)
@@ -154,13 +186,14 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 #		fillerList <- parLapply(cl, sht, function(thisSht){
 		fillerList <- lapply(dataTabs, function(thisTab){
 				#rename this so that it's not the same as tbl		
+				#thisTab <- dataTabs[1]
 			csvLoc <- gsub(
 				'.xls', 
 				paste0('_',thisTab,'.csv'), 
 				tolower(fileLocC), 
 				fixed=T
 			)
-
+    
 			if(file.exists(csvLoc)){
 				return('')
 			} else {
@@ -170,56 +203,60 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 					file = gsub('.xlsx', '.csv',	csvLoc, fixed=T)
 				)
 			 }, 
-				error = function(e) {try(
+				error = function(e) {
+					download.file(thisUrl, fileLoc, mode = 'wb');
+					try(
 					write.csv(
 						sqlQuery(conn, paste0("select * from ['", thisTab, "']")), 
 						file = gsub('.xlsx', '.csv',	csvLoc, fixed=T)
 					)
 				)},
 			 finally = {
-				return('')
+				''
 			})
 		}
 		})
+		try(odbcClose(conn))			 
+	  
 #		stopCluster(cl)	
 #		try(stopCluster(cl))
 	})
 	return( as.data.table(list()))
-})
-
+})  
+    
 stopCluster(cl)
-
-
-
+    
+    
+    
 #SEPARATE PARSER
-
-
+    
+    
 	#If program bombs, just use the XLS area from "Get_BEAhist.r" instead of CSV
-	myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/csv/NIPA')
-	
-	allFolds <- list.dirs(path = myPath)
-	
+	myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
+	  
+	allFolds <- list.dirs(path = paste0(myPath, 'csv/NIPA'))
+	  
 	allFiles <- rbindlist(lapply(allFolds, function(thisPath){
 		theseFiles <- data.table(list.files(path = thisPath, full.names = TRUE));
 		return(theseFiles);
 	}));
-	
+	  
 	allCSVs <- allFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
-	
+	  
 	csvDpce <- allCSVs[grep('/und/section2all', tolower(V1), fixed = T)]
-	
+	  
 #QUARTERLY DATA first
 	qtrDpce <- csvDpce[grep('20405u qtr', tolower(V1), fixed=T)]
-
-	
+    
+	  
 	cl <- makePSOCKcluster(2*detectCores())
 	clusterEvalQ(cl, library(data.table))
 	clusterExport(cl, 'csvDpce')
-	
+	  
 	pceQtrHist <- parLapply(cl, qtrDpce[,V1], function(thisFile){
  #In this case, lines 1-6 are meta
 # 	 thisFile <-	qtrDpce[,V1][1]
-
+    
 	readDT <- fread(thisFile, header = FALSE)
 	if (dim(readDT) == c(1, 1)){
 		warning(paste0('Empty file: ', thisFile))
@@ -244,16 +281,16 @@ stopCluster(cl)
 		fnlDT <- cleanDT[!is.na(LineNumber)]
 		
 		return(fnlDT)
-	}
-})
-
+	} 
+})  
+    
 stopCluster(cl)
-
+    
 #memory.limit(size = 4095)
-
+    
 pceDTq <- rbindlist(pceQtrHist, fill=T, use.names=T)
 qNames <- attributes(pceDTq)$names
-
+    
 pceDTq[, Vin := tolower(gsub('/', '', substr(FileName,  regexpr('NIPA', FileName)[1]+4,regexpr('NIPA', FileName)[1]+15), fixed=T))]
 pceDTq[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTq[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
@@ -264,12 +301,12 @@ pceDTq[
 		substr(SeriesCode, 3, 5),
 		substr(SeriesCode, 2, 4)
 	)] 
-
+    
 pceDTq[!is.na(Code)]
 #Gives us 2004Q3 advance estimate; need to use generalizable method for this
 pceDTq[Vin == '2004q3adv', .(LineNumber, LineDescription, SeriesCode, `2004q3`)]
-
-
+    
+    
 #Find available periods where there is both an advance and a third estimate
 #This was my original approach, but there are more second estimates than I thought
 qVinAv <- sort(unique(pceDTq[, Vin]))
@@ -277,16 +314,16 @@ qtrsAv <- sort(unique(pceDTq[, substr(Vin, 1, 6)]))
 qAdvAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'adv', Vin])), 1, 6), '`')
 qSecAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'sec', Vin])), 1, 6), '`')
 qThiAv <- paste0('`', substr(sort(unique(pceDTq[substr(Vin, 7, 9) == 'thi', Vin])), 1, 6), '`')
-
+    
 qAvail <- qAdvAv[qAdvAv %in% qThiAv]
-
-
+    
+    
 outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
 	#test
 	# indx <- 2
 	thisQtr <- qtrsAv[indx]
 	prevQtr <- qtrsAv[(indx-1)]
-	
+	  
 	thisAdv <- unique(pceDTq[
 		Vin == paste0(thisQtr, 'adv'), 
 		.(
@@ -303,7 +340,7 @@ outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
 			)
 		)
 	])
-	
+	  
 	thisSec <- unique(pceDTq[
 		Vin == paste0(thisQtr, 'sec'), 
 		.(
@@ -320,7 +357,7 @@ outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
 			)
 		)
 	])
-
+    
 	thisThi <- unique(pceDTq[
 		Vin == paste0(thisQtr, 'thi'), 
 		.(
@@ -337,31 +374,31 @@ outDT <- rbindlist(lapply(2:length(qtrsAv), function(indx){
 			)
 		)
 	])
-
+    
 	data.table::setkey(thisAdv, key = Code)
 	data.table::setkey(thisSec, key = Code)
 	data.table::setkey(thisThi, key = Code)
-
+    
 	thisDT <- thisAdv[thisSec[thisThi]]
 	thisDT[,TimePeriod := thisQtr]
-	
+	  
 	return(thisDT)
-
+    
 }), use.names=TRUE)
-
+    
 write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/tab245u_vin.csv'), row.names = FALSE)
-
+    
 #MONTHLY DATA now
 	cl <- makePSOCKcluster(2*detectCores())
 	clusterEvalQ(cl, library(data.table))
 	clusterExport(cl, 'csvDpce')
-	
+	  
 	monDpce <- csvDpce[grep('20405u mon', tolower(V1), fixed=T)]
-
+    
 	pceMonHist <- parLapply(cl, monDpce[,V1], function(thisFile){
  #In this case, lines 1-6 are meta
 # 	 thisFile <-	monDpce[,V1][1]
-
+    
 	readDT <- fread(thisFile, header = FALSE)
 	if (dim(readDT) == c(1, 1)){
 		warning(paste0('Empty file: ', thisFile))
@@ -422,19 +459,19 @@ write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/
 			return(thisDTback)
 		})
 		fnlDT <- Reduce(merge, myMonTab)
-
+    
 		
 		return(fnlDT)
-	}
-})
-
+	} 
+})  
+    
 stopCluster(cl)
-
+    
 #memory.limit(size = 4095)
-
+    
 pceDTm <- rbindlist(pceMonHist, fill=T, use.names=T)
 mNames <- attributes(pceDTm)$names
-
+    
 pceDTm[, Vin := tolower(gsub('/', '', substr(FileName,  regexpr('NIPA', FileName)[1]+4,regexpr('NIPA', FileName)[1]+15), fixed=T))]
 pceDTm[grep('pre', Vin, fixed = T), Vin := gsub('pre', 'sec', Vin, fixed = T)] 
 pceDTm[grep('fin', Vin, fixed = T), Vin := gsub('fin', 'thi', Vin, fixed = T)] 
@@ -445,11 +482,11 @@ pceDTm[
 		substr(SeriesCode, 3, 5),
 		substr(SeriesCode, 2, 4)
 	)] 
-
+    
 pceDTm[!is.na(Code)]
 #Gives us 2004Q3 advance estimate; need to use generalizable method for this
 pceDTm[Vin == '2004q3adv', .(LineNumber, LineDescription, SeriesCode, `2004m9`)]
-
+    
 #Let's create some columns that will allow us to get the vintages we want
 #Month of release
 pceDTm[,ReleaseMonth := gsub('q1adv', 'm04', Vin)]
@@ -464,7 +501,7 @@ pceDTm[,ReleaseMonth := gsub('q3thi', 'm12', ReleaseMonth)]
 pceDTm[,ReleaseMonth := gsub('q4adv', 'm01', ReleaseMonth)]
 pceDTm[,ReleaseMonth := gsub('q4sec', 'm02', ReleaseMonth)]
 pceDTm[,ReleaseMonth := gsub('q4thi', 'm03', ReleaseMonth)]
-
+    
 #First-release-of month
 pceDTm[,AdvMonth := gsub('q1adv', 'm03', Vin)]
 pceDTm[,AdvMonth := gsub('q1sec', 'm04', AdvMonth)]
@@ -478,7 +515,7 @@ pceDTm[,AdvMonth := gsub('q3thi', 'm11', AdvMonth)]
 pceDTm[,AdvMonth := gsub('q4adv', 'm12', AdvMonth)]
 pceDTm[,AdvMonth := gsub('q4sec', 'm01', AdvMonth)]
 pceDTm[,AdvMonth := gsub('q4thi', 'm02', AdvMonth)]
-
+    
 #Second-release-of month
 pceDTm[,SecMonth := gsub('q1adv', 'm02', Vin)]
 pceDTm[,SecMonth := gsub('q1sec', 'm03', SecMonth)]
@@ -492,8 +529,8 @@ pceDTm[,SecMonth := gsub('q3thi', 'm10', SecMonth)]
 pceDTm[,SecMonth := gsub('q4adv', 'm11', SecMonth)]
 pceDTm[,SecMonth := gsub('q4sec', 'm12', SecMonth)]
 pceDTm[,SecMonth := gsub('q4thi', 'm01', SecMonth)]
-
-
+    
+    
 #Third-release-of month
 pceDTm[,ThiMonth := gsub('q1adv', 'm01', Vin)]
 pceDTm[,ThiMonth := gsub('q1sec', 'm02', ThiMonth)]
@@ -507,7 +544,7 @@ pceDTm[,ThiMonth := gsub('q3thi', 'm09', ThiMonth)]
 pceDTm[,ThiMonth := gsub('q4adv', 'm10', ThiMonth)]
 pceDTm[,ThiMonth := gsub('q4sec', 'm11', ThiMonth)]
 pceDTm[,ThiMonth := gsub('q4thi', 'm12', ThiMonth)]
-
+    
 #Find available periods where there is both an advance and a third estimate
 #This was my original approach, but there are more second estimates than I thought
 mVinAv <- sort(unique(pceDTm[, Vin]))
@@ -526,23 +563,23 @@ nonMon <- c(
 	"XLS_Line",
 	"XLS_Line.x", 
 	"XLS_Line.y" 
-)
-
+)   
+    
 mAdvAv <- paste0('`', sort(unique(pceDTm[, AdvMonth])), '`')
 mSecAv <- paste0('`', sort(unique(pceDTm[, SecMonth])), '`')
 mThiAv <- paste0('`', sort(unique(pceDTm[, ThiMonth])), '`')
-
+    
 monsAv <- sort(unique(c(mAdvAv, mSecAv, mThiAv)))
-
+    
 mAvail <- mAdvAv[mAdvAv %in% mThiAv]
-
-
+    
+    
 outDTm <- rbindlist(lapply(2:length(monsAv), function(indx){
 	#test
 	# indx <- 1
 	thisMon <- monsAv[indx]
 	prevMon <- monsAv[(indx-1)]
-	
+	  
 	thisAdv <- unique(pceDTm[
 		AdvMonth == gsub('`', '', thisMon, fixed=T), 
 		.(
@@ -559,7 +596,7 @@ outDTm <- rbindlist(lapply(2:length(monsAv), function(indx){
 			)
 		)
 	])
-	
+	  
 	thisSec <- unique(pceDTm[
 		SecMonth == gsub('`', '', thisMon, fixed=T), 
 		.(
@@ -576,7 +613,7 @@ outDTm <- rbindlist(lapply(2:length(monsAv), function(indx){
 			)
 		)
 	])
-
+    
 	thisThi <- unique(pceDTm[
 		ThiMonth == gsub('`', '', thisMon, fixed=T), 
 		.(
@@ -593,29 +630,29 @@ outDTm <- rbindlist(lapply(2:length(monsAv), function(indx){
 			)
 		)
 	])
-
+    
 	data.table::setkey(thisAdv, key = Code)
 	data.table::setkey(thisSec, key = Code)
 	data.table::setkey(thisThi, key = Code)
-
+    
 	thisDT <- thisAdv[thisSec[thisThi]]
 	thisDT[,TimePeriod := gsub('`', '', thisMon, fixed=T)]
-	
+	  
 	return(thisDT)
-
-}))
-
+    
+})) 
+    
 write.csv(outDTm, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/tab245u_vin_mon.csv'), row.names = FALSE)
-
+    
 monData <- outDTm
 qtrData <- outDT[!(is.na(AdvLvl)|is.na(SecLvl)|is.na(ThiLvl))]
-
+    
 data1intx <- monData[toupper(Code) == 'DUR']
-data.table::setkey(data1int, key=TimePeriod)
-
+data.table::setkey(data1intx, key=TimePeriod)
+    
 data1x <- unique(data1intx)
 data.table::setkey(data1x, key=TimePeriod)
-
+    
 p1x <- ggplot() + 
   geom_point(data = data1x, aes(x = TimePeriod, y = as.numeric(gsub(',', '', AdvLvl, fixed=T))/1000000, color = "Advance")) +
   geom_point(data = data1x, aes(x = TimePeriod, y = as.numeric(gsub(',', '', SecLvl, fixed=T))/1000000, color = "Second")) +
@@ -625,14 +662,14 @@ p1x <- ggplot() +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Durable Goods')
-
+    
 plot(p1x)
-
+    
 #Monthly stuff is messed up right now - stick w/ Qtrs
-
+    
 data2 <-  monData[toupper(Code) == 'NDG']
 data.table::setkey(data2, key=TimePeriod)
-
+    
 p2x <- ggplot() + 
   geom_point(data = data2, aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
   geom_point(data = data2, aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
@@ -642,13 +679,13 @@ p2x <- ggplot() +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Nondurable Goods')
-
+    
 plot(p2x)
-
-
+    
+    
 data3 <-  qtrData[toupper(Code) == 'SER']
 data.table::setkey(data3, key=TimePeriod)
-
+    
 p3x <- ggplot() + 
   geom_point(data = data3, aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
   geom_point(data = data3, aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
@@ -658,11 +695,11 @@ p3x <- ggplot() +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Services')
-
+    
 plot(p3x)
-
-
-
+    
+    
+    
 p4x <- ggplot(data3) + 
   geom_bar(stat = 'identity', aes(x = TimePeriod, y = SecLvl - AdvLvl, color = "Second vs Adv.")) +
   geom_bar(stat = 'identity', aes(x = TimePeriod, y = ThiLvl - AdvLvl, color = "Third vs Adv.")) +
@@ -671,17 +708,17 @@ p4x <- ggplot(data3) +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Services')
-
+    
 plot(p4x)
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
 data1 <-  qtrData[toupper(Code) == 'PCE']
 data.table::setkey(data1, key=TimePeriod)
-
+    
  p1all <- ggplot() + 
   geom_point(data = data1, aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
   geom_point(data = data1, aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
@@ -691,10 +728,10 @@ data.table::setkey(data1, key=TimePeriod)
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Personal Consumption Expenditures')
-
+    
 plot(p1all)
-
-
+    
+    
 #p1 <- ggplot() + 
 #  geom_point(data = data1[TimePeriod < '2009m11'], aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
 #  geom_point(data = data1[TimePeriod < '2009m11'], aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
@@ -704,10 +741,10 @@ plot(p1all)
 #	theme(legend.title=element_blank()) + 
 #	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 #	ggtitle('Personal Consumption Expenditures')
-#
+#   
 #plot(p1)
-#
-#
+#   
+#   
 #p2 <- ggplot() + 
 #  geom_point(data = data1[TimePeriod >= '2009m11' & TimePeriod < '2013m01'], aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
 #  geom_point(data = data1[TimePeriod >= '2009m11' & TimePeriod < '2013m01'], aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
@@ -717,10 +754,10 @@ plot(p1all)
 #	theme(legend.title=element_blank()) + 
 #	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 #	ggtitle('Personal Consumption Expenditures')
-#
+#   
 #plot(p2)
-#
-#
+#   
+#   
 #p3 <- ggplot() + 
 #  geom_point(data = data1[TimePeriod >= '2013m01'], aes(x = TimePeriod, y = AdvLvl/1000000, color = "Advance")) +
 #  geom_point(data = data1[TimePeriod >= '2013m01'], aes(x = TimePeriod, y = SecLvl/1000000, color = "Second")) +
@@ -730,12 +767,12 @@ plot(p1all)
 #	theme(legend.title=element_blank()) + 
 #	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 #	ggtitle('Personal Consumption Expenditures')
-#
+#   
 #plot(p3)
-
-
-
-
+    
+    
+    
+    
 p4 <- ggplot() + 
   geom_point(data = data1, aes(x = TimePeriod, y = AdvPct, color = "Advance")) +
   geom_point(data = data1, aes(x = TimePeriod, y = SecPct, color = "Second")) +
@@ -745,9 +782,9 @@ p4 <- ggplot() +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Personal Consumption Expenditures')
-
+    
 plot(p4)
-
+    
 dataMelt <- melt(data1[,.(Sec_Vs_Adv = SecLvl - AdvLvl, Thi_Vs_Adv = ThiLvl - AdvLvl, TimePeriod)], id.vars='TimePeriod')
 ggplot(dataMelt, aes(TimePeriod, value)) +   
   geom_bar(aes(fill = variable), position = "dodge", stat="identity") +
@@ -756,7 +793,7 @@ ggplot(dataMelt, aes(TimePeriod, value)) +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Personal Consumption Expenditures')
-
+    
 dataMeltPct <- melt(data1[,.(Sec_Vs_Adv = SecPct - AdvPct, Thi_Vs_Adv = ThiPct - AdvPct, TimePeriod)], id.vars='TimePeriod')
 ggplot(dataMeltPct, aes(TimePeriod, value)) +   
   geom_bar(aes(fill = variable), position = "dodge", stat="identity") +
@@ -765,7 +802,7 @@ ggplot(dataMeltPct, aes(TimePeriod, value)) +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Personal Consumption Expenditures')
-
+    
 rawMeltPct <- melt(data1[,.(Advance = AdvPct, Second = SecPct, Third = ThiPct, TimePeriod)], id.vars='TimePeriod')
 ggplot(rawMeltPct, aes(TimePeriod, value)) +   
   geom_bar(aes(fill = variable), position = "dodge", stat="identity") +
@@ -774,8 +811,8 @@ ggplot(rawMeltPct, aes(TimePeriod, value)) +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Personal Consumption Expenditures')
-
-  
+    
+    
 p5 <- ggplot() + 
   geom_point(data = data1[!(TimePeriod %in% c('2009m11', '2009m12'))], aes(x = TimePeriod, y = SecLvl - AdvLvl, color = "Second vs Adv.")) +
   geom_point(data = data1[!(TimePeriod %in% c('2009m11', '2009m12'))], aes(x = TimePeriod, y = ThiLvl - AdvLvl, color = "Third vs Adv.")) +
@@ -784,35 +821,35 @@ p5 <- ggplot() +
 	theme(legend.title=element_blank()) + 
 	theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
 	ggtitle('Personal Consumption Expenditures')
-
+    
 plot(p5)
-
+    
 library(forecast)
 pceRev <- as.ts(data1[, .(Thi_Vs_Adv = ThiPct - AdvPct)])
 myPath <- paste0('C:/Users/', userID, '/Documents/GitHub/reVis/')
-
+    
 #Should be completely unpredictable to forecast revisions
 plot(forecast(pceRev))
-
-
-
-
-
+    
+    
+    
+    
+    
 #Let's do some mapping w/ API data
 #library(beaR)
-
-
+    
+    
 ###############################################
 # MARTS reader
 ###############################################
-
+    
 	martsFiles <- data.table(list.files(path = paste0(myPath, 'csv/marts'), full.names = TRUE));
-	
+	  
 	martsCSVs <- martsFiles[tolower(substr(V1, nchar(V1)-2, nchar(V1))) == 'csv']
-	
+	  
 	t1FromXLS <- martsCSVs[grep('table 1#$.csv', tolower(V1), fixed=T)]
 	t1FromTXT <- martsCSVs[grep('table1a.csv', tolower(V1), fixed=T)]
-	
+	  
 	lapply(t1FromXLS[, V1], function(csvTab){
 		#test
 		# csvTab <- t1FromXLS[,V1][1]
@@ -834,3 +871,5 @@ plot(forecast(pceRev))
 		cleaner2[, LineDescription := ifelse(is.na(F2), i.F2, paste0(F2, i.F2))]
 		cleaner2[, NAICS := ifelse(is.na(i.F1), F1, i.F1)]
 	})
+	  
+	  

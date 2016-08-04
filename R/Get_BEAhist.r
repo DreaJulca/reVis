@@ -71,13 +71,14 @@ clusterEvalQ(cl, library(RODBC))
 
 
 #reVis <- parLapplyLB(cl, DTLs[, V1], function(thisUrl){
-reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
+reVis <- parLapply(cl, DTLs[, tolower(V1)], function(thisUrl){
 	#Allow more Java heap space
-#	options(java.parameters = "-Xmx1000m")
 
 #reVis <- rbindlist(lapply(DTLs[, V1], function(thisUrl){
 	#test
 	#thisUrl <- DTLs[, V1][1]
+	#thisUrl <- DTLs[grep('2015/q4', tolower(V1), fixed=T), V1][1]
+
 	foldLoc <- paste0(
 		'C:/Users/',userID,'/Documents/GitHub/reVis/xls/NIPA',
 			strsplit(
@@ -122,7 +123,9 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 
 		
 		#Store a local copy if it hasn't already been stored
-		if(!file.exists(fileLoc)) {download.file(thisUrl, fileLoc, mode = 'wb');}
+		if(!file.exists(fileLoc)) {
+			download.file(thisUrl, fileLoc, mode = 'wb');
+		}
 
 		vint <- gsub('/', '', substr(qtFold, loc+4, loc+12), fixed=T);
 		rCyc <- ifelse(
@@ -133,16 +136,45 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 				)
 			);
 
-		
+	
 		#Create connection (using odbcConnectExcel2007 if extension is not .xlsx)
-		if(tolower(substr(fileLoc, nchar(fileLoc)-1, nchar(fileLoc))) == 'x'){
+		if(tolower(substr(fileLoc, nchar(fileLoc), nchar(fileLoc))) == 'x'){
 			conn <- odbcConnectExcel(fileLoc)
 		} else {
-			conn <- odbcConnectExcel2007(fileLoc)
+			tryCatch(
+				{conn <- odbcConnectExcel2007(fileLoc)},
+				error = function(e){
+					try(odbcClose(conn));
+					download.file(thisUrl, fileLoc, mode = 'wb');
+					conn <- odbcConnectExcel2007(fileLoc);
+				},
+				warning = function(w){
+					try(odbcClose(conn));
+					download.file(thisUrl, fileLoc, mode = 'wb');
+					conn <- odbcConnectExcel2007(fileLoc);
+				},
+				finally = {''}
+			)
 		}
+		#conn <- odbcDriverConnect(paste0(
+		#	'DRIVER=Microsoft Excel Driver (*.xls, *.xlsx, *.xlsm, *.xlsb);DBQ=',
+		#	fileLoc, 
+		#	'; ReadOnly=True'
+		#)
 		myTabs <- sqlTables(conn)$TABLE_NAME
 		dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
-		
+		if(length(dataTabs)<2){
+			try(odbcClose(conn))
+			download.file(thisUrl, fileLoc, mode = 'wb');
+			if(tolower(substr(fileLoc, nchar(fileLoc), nchar(fileLoc))) == 'x'){
+				conn <- odbcConnectExcel(fileLoc)
+			} else {
+				conn <- odbcConnectExcel2007(fileLoc)
+			}
+			myTabs <- sqlTables(conn)$TABLE_NAME
+			dataTabs <- gsub("'", "", myTabs[substr(tolower(myTabs), 1, nchar('contents')) != 'contents'], fixed=T)
+		}
+    
 #Parallelizing on all cores causes failure... this may be where we WANT to use it, though, since reading from xlsx takes 4eva.
 #Problem: This doesn't seem to respect the sequential nature of lapply...
 #		cl <- makePSOCKcluster(detectCores()/2)
@@ -151,13 +183,14 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 #		fillerList <- parLapply(cl, sht, function(thisSht){
 		fillerList <- lapply(dataTabs, function(thisTab){
 				#rename this so that it's not the same as tbl		
+				#thisTab <- dataTabs[1]
 			csvLoc <- gsub(
 				'.xls', 
 				paste0('_',thisTab,'.csv'), 
 				tolower(fileLocC), 
 				fixed=T
 			)
-
+    
 			if(file.exists(csvLoc)){
 				return('')
 			} else {
@@ -167,23 +200,27 @@ reVis <- parLapply(cl, DTLs[, V1], function(thisUrl){
 					file = gsub('.xlsx', '.csv',	csvLoc, fixed=T)
 				)
 			 }, 
-				error = function(e) {try(
+				error = function(e) {
+					download.file(thisUrl, fileLoc, mode = 'wb');
+					try(
 					write.csv(
 						sqlQuery(conn, paste0("select * from ['", thisTab, "']")), 
 						file = gsub('.xlsx', '.csv',	csvLoc, fixed=T)
 					)
 				)},
 			 finally = {
-				return('')
+				''
 			})
 		}
 		})
+		try(odbcClose(conn))			 
+	  
 #		stopCluster(cl)	
 #		try(stopCluster(cl))
 	})
 	return( as.data.table(list()))
-})
-
+})  
+    
 stopCluster(cl)
 
 rm(reVis)
