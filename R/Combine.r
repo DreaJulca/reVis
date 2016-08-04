@@ -397,17 +397,17 @@ write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/
     
 	pceMonHist <- parLapply(cl, monDpce[,V1], function(thisFile){
  #In this case, lines 1-6 are meta
-# 	 thisFile <-	monDpce[,V1][1]
+# 	 thisFile <-	monDpce[,V1][dim(monDpce)[1]]
     
 	readDT <- fread(thisFile, header = FALSE)
-	if (dim(readDT) == c(1, 1)){
+	if (dim(readDT)[1] < 1){
 		warning(paste0('Empty file: ', thisFile))
 		return(readDT)
 	} else {
 		tabStarters <- unique(readDT[tolower(V2) == "line",V1])
 		myMonTab <- lapply(tabStarters, function(tabStr){
-		# tabStr <- tabStarters[3]
-			cleanDT <- readDT[!is.na(V3) & V1 >= tabStr]
+		# tabStr <- tabStarters[4]
+			cleanDT <- readDT[!is.na(V3) & as.numeric(V1) >= as.numeric(tabStr)]
 			yrs <- t(readDT[as.numeric(V1) == as.numeric(tabStr)])
 			mon <- t(readDT[as.numeric(V1) == as.numeric(tabStr)+1])
 			colDates <- paste0(yrs[5:length(yrs)], 'm', mon[5:length(mon)])
@@ -424,12 +424,6 @@ write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/
 			cleanDT[, TableName := tabName]
 			cleanDT[, LineNumber := as.numeric(LineNumber)]
 			thisDT <- cleanDT[!is.na(LineNumber)]
-			data.table::setkey(thisDT, key=LineNumber, 
-				SeriesCode, 
-				FileName, 
-				TableName, 
-				LineDescription
-			)
 			eval(parse(text=paste0('thisDTback <- unique(thisDT[,
 			.(
 				XLS_Line, 
@@ -450,13 +444,16 @@ write.csv(outDT, file=paste0('c:/Users/', userID, '/Documents/GitHub/reVis/ajax/
 				')])'
 			)))
 				
-			data.table::setkey(thisDTback, key=LineNumber, 
+			data.table::setkey(thisDTback, key=LineNumber)
+			
+			thisDTreturn <- unique(thisDTback)
+			data.table::setkey(thisDTreturn, key=LineNumber, 
 				SeriesCode, 
 				FileName, 
 				TableName, 
 				LineDescription
 			)
-			return(thisDTback)
+			return(thisDTreturn)
 		})
 		fnlDT <- Reduce(merge, myMonTab)
     
